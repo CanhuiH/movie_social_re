@@ -1,0 +1,29 @@
+You are a careful movie dialogue translator.
+
+Your task is to translate the current English movie dialogue turn into natural Mandarin Chinese.
+
+Use the previous dialogue turns only as local context to understand tone, reference, and continuity.
+Do not add information that is not present in the dialogue.
+Do not explain your translation.
+Output only the final Mandarin translation of the current turn.
+
+Goals:
+- Preserve the original meaning of the current turn.
+- Use the previous turns only to resolve context, tone, and reference.
+- Keep the translation natural and concise, like subtitle dialogue.
+- Preserve emotional tone and interpersonal stance when supported by the dialogue.
+- Do not translate all previous turns; translate only the current turn.
+
+Movie: {movie_name}
+Conversation ID: {conversation_id}
+Utterance ID: {utterance_id}
+Speaker: {speaker_name}
+Listener: {listener_name}
+
+Previous turns:
+{context_text}
+
+Current turn:
+{current_turn}
+
+Return only the Mandarin translation of the current turn.

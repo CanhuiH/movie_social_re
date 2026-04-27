@@ -1,0 +1,1372 @@
+movie_name,conversation_id,utterance_id,speaker_id,speaker_name,listener_id,listener_name,current_turn,current_text,context_text,relationship_type,graph_summary,translation_context_only,translation_model_context_only,translation_with_graph,translation_model_with_graph
+titanic,L614356,L614356,u8447,BODINE,,,BODINE: I'm in the sitting room. Heading for bedroom B-54.,I'm in the sitting room. Heading for bedroom B-54.,,unclear,,我在起居室。正往B-54号卧室去。,gpt-5.4-mini,我在起居室，正前往B-54号舱房。,gpt-5.4-mini
+titanic,L614356,L614357,u8460,LOVETT,u8447,BODINE,LOVETT: Stay off the floor. Don't stir it up like you did yesterday.,Stay off the floor. Don't stir it up like you did yesterday.,BODINE: I'm in the sitting room. Heading for bedroom B-54.,adversarial,"Speaker: LOVETT
+Listener: BODINE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",别碰地板。别像昨天那样把它搅起来。,gpt-5.4-mini,别碰地板。别像昨天那样把它搅起来。,gpt-5.4-mini
+titanic,L614356,L614358,u8447,BODINE,u8460,LOVETT,BODINE: I'm tryin' boss.,I'm tryin' boss.,"BODINE: I'm in the sitting room. Heading for bedroom B-54.
+LOVETT: Stay off the floor. Don't stir it up like you did yesterday.",ally,"Speaker: BODINE
+Listener: LOVETT
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我在尽量，老板。,gpt-5.4-mini,我尽量呢，老板。,gpt-5.4-mini
+titanic,L614364,L614364,u8447,BODINE,,,BODINE: Who's the best? Say it.,Who's the best? Say it.,,unclear,,谁是最棒的？说出来。,gpt-5.4-mini,谁是最棒的？说出来。,gpt-5.4-mini
+titanic,L614364,L614365,u8460,LOVETT,u8447,BODINE,"LOVETT: You are, Lewis. You rolling?","You are, Lewis. You rolling?",BODINE: Who's the best? Say it.,adversarial,"Speaker: LOVETT
+Listener: BODINE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",你最厉害，刘易斯。你开录了吗？,gpt-5.4-mini,你最棒，刘易斯。开录了吗？,gpt-5.4-mini
+titanic,L614368,L614368,u8460,LOVETT,,,LOVETT: Shit.,Shit.,,unclear,,该死。,gpt-5.4-mini,该死。,gpt-5.4-mini
+titanic,L614368,L614369,u8447,BODINE,u8460,LOVETT,"BODINE: You know, boss, this happened to Geraldo and his career never recovered.","You know, boss, this happened to Geraldo and his career never recovered.",LOVETT: Shit.,ally,"Speaker: BODINE
+Listener: LOVETT
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你知道，老板，这事也发生在杰拉尔多身上，他的事业再也没恢复过。,gpt-5.4-mini,你知道吗，老板，格拉尔多也遇到过这种事，他的事业就再也没恢复过。,gpt-5.4-mini
+titanic,L614368,L614370,u8460,LOVETT,u8447,BODINE,LOVETT: Get that outta my face.,Get that outta my face.,"LOVETT: Shit.
+BODINE: You know, boss, this happened to Geraldo and his career never recovered.",adversarial,"Speaker: LOVETT
+Listener: BODINE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",把它从我眼前拿开。,gpt-5.4-mini,把那玩意儿从我眼前拿开。,gpt-5.4-mini
+titanic,L614372,L614372,u8449,BUELL,,,BUELL: The partners want to know how it's going?,The partners want to know how it's going?,,unclear,,合伙人想知道进展怎么样？,gpt-5.4-mini,合伙人想知道进展怎么样？,gpt-5.4-mini
+titanic,L614372,L614373,u8460,LOVETT,u8449,BUELL,"LOVETT: How it's going? It's going like a first date in prison, whattaya think?!","How it's going? It's going like a first date in prison, whattaya think?!",BUELL: The partners want to know how it's going?,acquaintance,"Speaker: LOVETT
+Listener: BUELL
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",怎么样？就像监狱里的第一次约会，你说呢？！,gpt-5.4-mini,进行得怎么样？就像在监狱里第一次约会，你觉得呢？！,gpt-5.4-mini
+titanic,L614386,L614386,u8449,BUELL,,,BUELL: There's a satellite call for you.,There's a satellite call for you.,,unclear,,有你的卫星电话。,gpt-5.4-mini,有你的卫星电话。,gpt-5.4-mini
+titanic,L614386,L614387,u8460,LOVETT,u8449,BUELL,"LOVETT: Bobby, we're launching. See these submersibles here, going in the water? Take a message.","Bobby, we're launching. See these submersibles here, going in the water? Take a message.",BUELL: There's a satellite call for you.,acquaintance,"Speaker: LOVETT
+Listener: BUELL
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",鲍比，我们要下水了。看到这些潜水器要下水了吗？记下来。,gpt-5.4-mini,鲍比，我们要下水了。看到这些潜水器了吗？它们正要入水。帮我留言。,gpt-5.4-mini
+titanic,L614386,L614388,u8449,BUELL,u8460,LOVETT,"BUELL: No, trust me, you want to take this call.","No, trust me, you want to take this call.","BUELL: There's a satellite call for you.
+LOVETT: Bobby, we're launching. See these submersibles here, going in the water? Take a message.",unclear,"Speaker: BUELL
+Listener: LOVETT
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",不，信我，你最好接这个电话。,gpt-5.4-mini,不，听我的，这个电话你最好接。,gpt-5.4-mini
+titanic,L614389,L614389,u8460,LOVETT,,,"LOVETT: This is Brock Lovett. What can I do for you, Mrs...?","This is Brock Lovett. What can I do for you, Mrs...?",,unclear,,我是布洛克·洛维特。请问我能为您做什么，夫人……？,gpt-5.4-mini,我是布洛克·洛维特。请问我能帮您什么，夫人……？,gpt-5.4-mini
+titanic,L614389,L614390,u8449,BUELL,u8460,LOVETT,BUELL: Rose Calvert.,Rose Calvert.,"LOVETT: This is Brock Lovett. What can I do for you, Mrs...?",unclear,"Speaker: BUELL
+Listener: LOVETT
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",露丝·卡尔弗特。,gpt-5.4-mini,露丝·卡尔弗特。,gpt-5.4-mini
+titanic,L614389,L614391,u8460,LOVETT,u8449,BUELL,LOVETT: ...Mrs. Calvert?,...Mrs. Calvert?,"LOVETT: This is Brock Lovett. What can I do for you, Mrs...?
+BUELL: Rose Calvert.",acquaintance,"Speaker: LOVETT
+Listener: BUELL
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",……卡尔弗特夫人？,gpt-5.4-mini,……卡尔弗特夫人？,gpt-5.4-mini
+titanic,L614393,L614393,u8449,BUELL,,,BUELL: I told you you wanted to take this call.,I told you you wanted to take this call.,,unclear,,我都跟你说了，是你想接这个电话。,gpt-5.4-mini,我跟你说过，是你想接这个电话的。,gpt-5.4-mini
+titanic,L614393,L614394,u8460,LOVETT,u8449,BUELL,"LOVETT: Alright. You have my attention, Rose. Can you tell me who the woman in the picture is?","Alright. You have my attention, Rose. Can you tell me who the woman in the picture is?",BUELL: I told you you wanted to take this call.,acquaintance,"Speaker: LOVETT
+Listener: BUELL
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",好吧。你引起了我的注意，罗斯。你能告诉我照片里的那个女人是谁吗？,gpt-5.4-mini,好吧，你引起我的注意了，罗斯。你能告诉我照片里的女人是谁吗？,gpt-5.4-mini
+titanic,L614398,L614398,u8447,BODINE,,,"BODINE: She says she's Rose DeWitt Bukater, right? Rose DeWitt Bukater died on the Titanic. At the age of 17. If she'd've lived, she'd be over a hundred now.","She says she's Rose DeWitt Bukater, right? Rose DeWitt Bukater died on the Titanic. At the age of 17. If she'd've lived, she'd be over a hundred now.",,unclear,,她说她是罗斯·德威特·布凯特，对吧？罗斯·德威特·布凯特已经在泰坦尼克号上死了。死时17岁。要是她还活着，现在都一百多岁了。,gpt-5.4-mini,她说她是罗斯·德维特·布克特，对吧？罗斯·德维特·布克特在泰坦尼克号上死了。17岁。如果她还活着，现在都一百多岁了。,gpt-5.4-mini
+titanic,L614398,L614399,u8460,LOVETT,u8447,BODINE,LOVETT: A hundred and one next month.,A hundred and one next month.,"BODINE: She says she's Rose DeWitt Bukater, right? Rose DeWitt Bukater died on the Titanic. At the age of 17. If she'd've lived, she'd be over a hundred now.",adversarial,"Speaker: LOVETT
+Listener: BODINE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",下个月就一百零一了。,gpt-5.4-mini,下个月就一百零一了。,gpt-5.4-mini
+titanic,L614398,L614400,u8447,BODINE,u8460,LOVETT,"BODINE: Okay, so she's a very old goddamned liar. I traced her as far back as the 20's... she was working as an actress in L.A. An actress. Her name was Rose Dawson. Then she married a guy named Calvert, moved to Cedar Rapids, had two kids. Now Calvert's dead, and from what I've heard Cedar Rapids is dead.","Okay, so she's a very old goddamned liar. I traced her as far back as the 20's... she was working as an actress in L.A. An actress. Her name was Rose Dawson. Then she married a guy named Calvert, moved to Cedar Rapids, had two kids. Now Calvert's dead, and from what I've heard Cedar Rapids is dead.","BODINE: She says she's Rose DeWitt Bukater, right? Rose DeWitt Bukater died on the Titanic. At the age of 17. If she'd've lived, she'd be over a hundred now.
+LOVETT: A hundred and one next month.",ally,"Speaker: BODINE
+Listener: LOVETT
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",好吧，那她就是个老得该死的骗子。我把她的来历一直追溯到二十年代……她当时在洛杉矶当演员。演员。她叫罗斯·道森。后来她嫁给了一个叫卡尔弗特的家伙，搬到了锡达拉皮兹，生了两个孩子。现在卡尔弗特死了，听说锡达拉皮兹也死了。,gpt-5.4-mini,好吧，那她就是个年纪一大把的该死骗子。我把她的踪迹一直查到20年代……她当时在洛杉矶当演员。演员。她叫罗斯·道森。后来她嫁给了一个叫卡尔弗特的家伙，搬到锡达拉皮兹，生了两个孩子。现在卡尔弗特死了，听说锡达拉皮兹也完了。,gpt-5.4-mini
+titanic,L614403,L614403,u8460,LOVETT,,,LOVETT: Is your stateroom alright?,Is your stateroom alright?,,unclear,,你的舱房还好吗？,gpt-5.4-mini,你的舱房还好吗？,gpt-5.4-mini
+titanic,L614403,L614404,u8462,ROSE,u8460,LOVETT,"ROSE: Yes. Very nice. Have you met my granddaughter, Lizzy? She takes care of me.","Yes. Very nice. Have you met my granddaughter, Lizzy? She takes care of me.",LOVETT: Is your stateroom alright?,acquaintance,"Speaker: ROSE
+Listener: LOVETT
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",是，很不错。你见过我的孙女丽兹吗？她照顾我。,gpt-5.4-mini,嗯，很好。你见过我孙女丽齐吗？她照顾我。,gpt-5.4-mini
+titanic,L614407,L614407,u8462,ROSE,,,"ROSE: There, that's nice. I have to have my pictures when I travel. And Freddy of course. Isn't that right, sweetie.","There, that's nice. I have to have my pictures when I travel. And Freddy of course. Isn't that right, sweetie.",,unclear,,好了，这样不错。出门旅行，我得带着我的照片。还有弗雷迪，当然。对吧，亲爱的。,gpt-5.4-mini,好了，这样不错。我旅行时一定要带上我的照片，当然还有弗雷迪。对吧，亲爱的。,gpt-5.4-mini
+titanic,L614407,L614408,u8460,LOVETT,u8462,ROSE,LOVETT: Would you like anything?,Would you like anything?,"ROSE: There, that's nice. I have to have my pictures when I travel. And Freddy of course. Isn't that right, sweetie.",adversarial,"Speaker: LOVETT
+Listener: ROSE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",您要来点什么吗？,gpt-5.4-mini,你想要点什么吗？,gpt-5.4-mini
+titanic,L614407,L614409,u8462,ROSE,u8460,LOVETT,ROSE: I should like to see my drawing.,I should like to see my drawing.,"ROSE: There, that's nice. I have to have my pictures when I travel. And Freddy of course. Isn't that right, sweetie.
+LOVETT: Would you like anything?",acquaintance,"Speaker: ROSE
+Listener: LOVETT
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",我想看看我的画。,gpt-5.4-mini,我想看看我的画。,gpt-5.4-mini
+titanic,L614410,L614410,u8460,LOVETT,,,"LOVETT: Louis the Sixteenth wore a fabulous stone, called the Blue Diamond of the Crown, which disappeared in 1792, about the time Louis lost everything from the neck up. The theory goes that the crown diamond was chopped too... recut into a heart-like shape... and it became Le Coeur de la Mer. The Heart of the Ocean. Today it would be worth more than the Hope Diamond.","Louis the Sixteenth wore a fabulous stone, called the Blue Diamond of the Crown, which disappeared in 1792, about the time Louis lost everything from the neck up. The theory goes that the crown diamond was chopped too... recut into a heart-like shape... and it became Le Coeur de la Mer. The Heart of the Ocean. Today it would be worth more than the Hope Diamond.",,unclear,,路易十六戴过一块极其珍贵的宝石，叫作王冠蓝钻，1792年失踪了，那时差不多也是路易失去脑袋的时候。理论认为，王冠上的钻石也被切掉了……重新切磨成心形……就变成了“海洋之心”。如今它的价值会超过希望钻石。,gpt-5.4-mini,路易十六戴过一颗极其华丽的宝石，叫“王冠蓝钻”，它在1792年失踪了，大概就在路易从脖子以上的一切都没了的时候。理论认为，那颗王冠钻石也被切开了……重新切成了心形……于是就成了“海洋之心”。“海洋之心”。要是放到今天，它的价值会比希望钻石还高。,gpt-5.4-mini
+titanic,L614410,L614411,u8462,ROSE,u8460,LOVETT,"ROSE: It was a dreadful, heavy thing. I only wore it this once.","It was a dreadful, heavy thing. I only wore it this once.","LOVETT: Louis the Sixteenth wore a fabulous stone, called the Blue Diamond of the Crown, which disappeared in 1792, about the time Louis lost everything from the neck up. The theory goes that the crown diamond was chopped too... recut into a heart-like shape... and it became Le Coeur de la Mer. The Heart of the Ocean. Today it would be worth more than the Hope Diamond.",acquaintance,"Speaker: ROSE
+Listener: LOVETT
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",那东西又丑又沉。我只戴过这一次。,gpt-5.4-mini,那东西又丑又沉。我只戴过这一次。,gpt-5.4-mini
+titanic,L614414,L614414,u8460,LOVETT,,,"LOVETT: I tracked it down through insurance records... and old claim that was settled under terms of absolute secrecy. Do you know who the claiment was, Rose?","I tracked it down through insurance records... and old claim that was settled under terms of absolute secrecy. Do you know who the claiment was, Rose?",,unclear,,我通过保险记录查到了它……一份以绝对保密条款了结的旧理赔。你知道索赔人是谁吗，罗斯？,gpt-5.4-mini,我通过保险记录查到了……还有一桩旧索赔，按绝对保密条款了结的。你知道索赔人是谁吗，罗斯？,gpt-5.4-mini
+titanic,L614414,L614415,u8462,ROSE,u8460,LOVETT,"ROSE: Someone named Hockley, I should imagine.","Someone named Hockley, I should imagine.","LOVETT: I tracked it down through insurance records... and old claim that was settled under terms of absolute secrecy. Do you know who the claiment was, Rose?",acquaintance,"Speaker: ROSE
+Listener: LOVETT
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",我想，大概是个叫霍克利的人。,gpt-5.4-mini,我想应该是一个叫霍克利的人。,gpt-5.4-mini
+titanic,L614414,L614416,u8460,LOVETT,u8462,ROSE,"LOVETT: Nathan Hockley, right. Pittsburgh steel tycoon. For a diamond necklace his son Caledon Hockley bought in France for his fiancee... you... a week before he sailed on Titanic. And the claim was filed right after the sinking. So the diamond had to've gone down with the ship. See the date?","Nathan Hockley, right. Pittsburgh steel tycoon. For a diamond necklace his son Caledon Hockley bought in France for his fiancee... you... a week before he sailed on Titanic. And the claim was filed right after the sinking. So the diamond had to've gone down with the ship. See the date?","LOVETT: I tracked it down through insurance records... and old claim that was settled under terms of absolute secrecy. Do you know who the claiment was, Rose?
+ROSE: Someone named Hockley, I should imagine.",adversarial,"Speaker: LOVETT
+Listener: ROSE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",内森·霍克利，对吧。匹兹堡的钢铁大亨。他儿子卡尔顿·霍克利在法国买了一条钻石项链，送给他的未婚妻……也就是你……在他乘泰坦尼克号起航前一周。索赔是在沉船后立刻提出的。所以那颗钻石一定跟船一起沉了。看见日期了吗？,gpt-5.4-mini,内森·霍克利，没错。匹兹堡钢铁大亨。他儿子卡尔顿·霍克利在法国买了一条钻石项链，送给他的未婚妻……也就是你……就在他乘泰坦尼克号启航前一周。索赔是在沉船之后立刻提出的。所以那颗钻石一定跟船一起沉下去了。看到日期了吗？,gpt-5.4-mini
+titanic,L614417,L614417,u8458,LIZZY,,,"LIZZY: April 14, 1912.","April 14, 1912.",,unclear,,1912年4月14日。,gpt-5.4-mini,1912年4月14日。,gpt-5.4-mini
+titanic,L614417,L614418,u8460,LOVETT,u8458,LIZZY,"LOVETT: If your grandma is who she says she is, she was wearing the diamond the day Titanic sank. And that makes you my new best friend. I will happily compensate you for anything you can tell us that will lead to its recovery.","If your grandma is who she says she is, she was wearing the diamond the day Titanic sank. And that makes you my new best friend. I will happily compensate you for anything you can tell us that will lead to its recovery.","LIZZY: April 14, 1912.",unclear,"Speaker: LOVETT
+Listener: LIZZY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",如果你奶奶真是她自称的那个人，那泰坦尼克号沉没那天，她戴着那颗钻石。这样一来，你就是我新的好朋友了。只要你能告诉我们任何有助于找回它的线索，我都很乐意给你报酬。,gpt-5.4-mini,如果你奶奶真是她自称的那个人，那泰坦尼克号沉没那天，她戴着那颗钻石。那你就是我最好的朋友了。只要你能告诉我们任何有助于找回它的线索，我很乐意酬谢你。,gpt-5.4-mini
+titanic,L614429,L614429,u8447,BODINE,,,"BODINE: We've put together the world's largest database on the Titanic. Okay, here...","We've put together the world's largest database on the Titanic. Okay, here...",,unclear,,我们已经建立了世界上最大的泰坦尼克号数据库。好了，这里……,gpt-5.4-mini,我们已经整理出了世界上最大的泰坦尼克号数据库。好，给你看……,gpt-5.4-mini
+titanic,L614429,L614430,u8460,LOVETT,u8447,BODINE,"LOVETT: Rose might not want to see this, Lewis.","Rose might not want to see this, Lewis.","BODINE: We've put together the world's largest database on the Titanic. Okay, here...",adversarial,"Speaker: LOVETT
+Listener: BODINE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",露丝可能不想看这个，刘易斯。,gpt-5.4-mini,露丝也许不想看这个，路易斯。,gpt-5.4-mini
+titanic,L614441,L614441,u8462,ROSE,,,ROSE: It's been 84 years...,It's been 84 years...,,unclear,,已经84年了……,gpt-5.4-mini,已经84年了……,gpt-5.4-mini
+titanic,L614441,L614442,u8460,LOVETT,u8462,ROSE,LOVETT: Just tell us what you can --,Just tell us what you can --,ROSE: It's been 84 years...,adversarial,"Speaker: LOVETT
+Listener: ROSE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",把你知道的都告诉我们——,gpt-5.4-mini,你就告诉我们你知道的——,gpt-5.4-mini
+titanic,L614441,L614443,u8462,ROSE,u8460,LOVETT,ROSE: It's been 84 years... and I can still smell the fresh paint. The china had never been used. The sheets had never been slept in.,It's been 84 years... and I can still smell the fresh paint. The china had never been used. The sheets had never been slept in.,"ROSE: It's been 84 years...
+LOVETT: Just tell us what you can --",acquaintance,"Speaker: ROSE
+Listener: LOVETT
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",已经84年了……可我还是能闻到那股新漆的味道。瓷器从没用过，床单也从没人睡过。,gpt-5.4-mini,已经84年了……可我还能闻到那股新油漆味。瓷器从没用过，床单从没睡过。,gpt-5.4-mini
+titanic,L614447,L614447,u8450,CAL,,,"CAL: Your daughter is much too hard to impress, Ruth. Mind your step.","Your daughter is much too hard to impress, Ruth. Mind your step.",,unclear,,鲁丝，你女儿可真不容易被打动。小心脚下。,gpt-5.4-mini,你的女儿可太难讨她欢心了，露丝。小心脚下。,gpt-5.4-mini
+titanic,L614447,L614448,u8463,RUTH,u8450,CAL,RUTH: So this is the ship they say is unsinkable.,So this is the ship they say is unsinkable.,"CAL: Your daughter is much too hard to impress, Ruth. Mind your step.",acquaintance,"Speaker: RUTH
+Listener: CAL
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",所以这就是他们说永不沉没的那艘船。,gpt-5.4-mini,这就是他们说的那艘永不沉没的船。,gpt-5.4-mini
+titanic,L614447,L614449,u8450,CAL,u8463,RUTH,CAL: It is unsinkable. God himself couldn't sink this ship.,It is unsinkable. God himself couldn't sink this ship.,"CAL: Your daughter is much too hard to impress, Ruth. Mind your step.
+RUTH: So this is the ship they say is unsinkable.",unclear,"Speaker: CAL
+Listener: RUTH
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",它当然不会沉。连上帝都沉不了这艘船。,gpt-5.4-mini,它是不会沉的。连上帝也沉不了这艘船。,gpt-5.4-mini
+titanic,L614458,L614458,u8450,CAL,,,CAL: Steerage swine. Apparently missed his annual bath.,Steerage swine. Apparently missed his annual bath.,,unclear,,三等舱的猪。看来是错过了他一年一度的洗澡。,gpt-5.4-mini,舱底的猪。看来他错过了一年一度的洗澡。,gpt-5.4-mini
+titanic,L614458,L614459,u8463,RUTH,u8450,CAL,"RUTH: Honestly, Cal, if you weren't forever booking everything at the last instant, we could have gone through the terminal instead of running along the dock like some squalid immigrant family.","Honestly, Cal, if you weren't forever booking everything at the last instant, we could have gone through the terminal instead of running along the dock like some squalid immigrant family.",CAL: Steerage swine. Apparently missed his annual bath.,acquaintance,"Speaker: RUTH
+Listener: CAL
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",说真的，卡尔，要不是你老是把什么事都拖到最后一刻才定，我们本可以走候船厅，而不是像个肮脏的移民家庭一样在码头上一路狂奔。,gpt-5.4-mini,老实说，卡尔，要不是你总是临时才订好一切，我们本可以从候船厅过去，而不是像什么肮脏的移民家庭一样沿着码头跑。,gpt-5.4-mini
+titanic,L614458,L614460,u8450,CAL,u8463,RUTH,"CAL: All part of my charm, Ruth. At any rate, it was my darling fiancee's beauty rituals which made us late.","All part of my charm, Ruth. At any rate, it was my darling fiancee's beauty rituals which made us late.","CAL: Steerage swine. Apparently missed his annual bath.
+RUTH: Honestly, Cal, if you weren't forever booking everything at the last instant, we could have gone through the terminal instead of running along the dock like some squalid immigrant family.",unclear,"Speaker: CAL
+Listener: RUTH
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",这也是我的魅力之一，露丝。无论如何，害我们迟到的，是我亲爱的未婚妻的美容程序。,gpt-5.4-mini,这也是我的魅力所在，露丝。不管怎么说，让我们迟到的，是我亲爱的未婚妻的美容仪式。,gpt-5.4-mini
+titanic,L614461,L614461,u8462,ROSE,,,ROSE: You told me to change.,You told me to change.,,unclear,,你让我改变。,gpt-5.4-mini,你让我改变。,gpt-5.4-mini
+titanic,L614461,L614462,u8450,CAL,u8462,ROSE,"CAL: I couldn't let you wear black on sailing day, sweetpea. It's bad luck.","I couldn't let you wear black on sailing day, sweetpea. It's bad luck.",ROSE: You told me to change.,acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",我不能让你在启航那天穿黑色，甜心。那不吉利。,gpt-5.4-mini,我不能让你在起航那天穿黑色，亲爱的。那不吉利。,gpt-5.4-mini
+titanic,L614461,L614463,u8462,ROSE,u8450,CAL,ROSE: I felt like black.,I felt like black.,"ROSE: You told me to change.
+CAL: I couldn't let you wear black on sailing day, sweetpea. It's bad luck.",romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我就想穿黑色。,gpt-5.4-mini,我就想穿黑色。,gpt-5.4-mini
+titanic,L614471,L614471,u8455,JACK,,,"JACK: Let's see... Fabrizio's got niente. Olaf, you've got squat. Sven, uh oh... two pair... mmm. Sorry Fabrizio.","Let's see... Fabrizio's got niente. Olaf, you've got squat. Sven, uh oh... two pair... mmm. Sorry Fabrizio.",,unclear,,让我看看……法布里齐奥什么都没有。奥拉夫，你也是空手。斯文，哦哦……两对……嗯，抱歉了，法布里齐奥。,gpt-5.4-mini,让我看看……法布里齐奥什么都没有。奥拉夫，你也是一手烂牌。斯文，哦哦……两对……嗯。对不起，法布里齐奥。,gpt-5.4-mini
+titanic,L614471,L614472,u8451,FABRIZIO,u8455,JACK,FABRIZIO: What sorry? What you got? You lose my money?? Ma va fa'n culo testa di cazzo --,What sorry? What you got? You lose my money?? Ma va fa'n culo testa di cazzo --,"JACK: Let's see... Fabrizio's got niente. Olaf, you've got squat. Sven, uh oh... two pair... mmm. Sorry Fabrizio.",friend,"Speaker: FABRIZIO
+Listener: JACK
+Relationship: friend
+Translation guidance: Preserve casual, familiar, and friendly wording.",你说什么抱歉？你有什么？你把我的钱输光了？去你妈的，臭傻逼——,gpt-5.4-mini,什么抱歉？你拿了什么？你把我的钱输光了？？去你妈的，狗娘养的混蛋——,gpt-5.4-mini
+titanic,L614471,L614473,u8455,JACK,u8451,FABRIZIO,"JACK: Sorry, you're not gonna see your mama again for a long time...","Sorry, you're not gonna see your mama again for a long time...","JACK: Let's see... Fabrizio's got niente. Olaf, you've got squat. Sven, uh oh... two pair... mmm. Sorry Fabrizio.
+FABRIZIO: What sorry? What you got? You lose my money?? Ma va fa'n culo testa di cazzo --",ally,"Speaker: JACK
+Listener: FABRIZIO
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",抱歉，你很久都见不到你妈妈了……,gpt-5.4-mini,抱歉，你很长一段时间都见不到你妈妈了……,gpt-5.4-mini
+titanic,L614474,L614474,u8455,JACK,,,JACK: 'Cause you're goin' to America!! Full house boys!,'Cause you're goin' to America!! Full house boys!,,unclear,,因为你要去美国了！！全压，伙计们！,gpt-5.4-mini,因为你要去美国了！！满员了，伙计们！,gpt-5.4-mini
+titanic,L614474,L614475,u8451,FABRIZIO,u8455,JACK,FABRIZIO: Porca Madonna!! YEEAAAAA!!!,Porca Madonna!! YEEAAAAA!!!,JACK: 'Cause you're goin' to America!! Full house boys!,friend,"Speaker: FABRIZIO
+Listener: JACK
+Relationship: friend
+Translation guidance: Preserve casual, familiar, and friendly wording.",该死的圣母玛利亚！！耶——！！！,gpt-5.4-mini,该死的圣母玛利亚！！耶——！！！,gpt-5.4-mini
+titanic,L614478,L614478,u8455,JACK,,,"JACK: Goin' home... to the land o' the free and the home of the real hot- dogs! On the TITANIC!! We're ridin' in high style now! We're practically goddamned royalty, ragazzo mio!!","Goin' home... to the land o' the free and the home of the real hot- dogs! On the TITANIC!! We're ridin' in high style now! We're practically goddamned royalty, ragazzo mio!!",,unclear,,回家……回到自由之地，回到真正热狗的家园！在“泰坦尼克号”上！！咱们现在可是坐着头等舱！简直他妈的就是皇室，兄弟！,gpt-5.4-mini,回家……回到自由之地，回到真正热狗的家！在泰坦尼克号上！！我们现在可是风光得很！我们简直他妈就是王族，ragazzo mio！！,gpt-5.4-mini
+titanic,L614478,L614479,u8451,FABRIZIO,u8455,JACK,FABRIZIO: You see? Is my destinio!! Like I told you. I go to l'America!! To be a millionaire!! Capito?? I go to America!!,You see? Is my destinio!! Like I told you. I go to l'America!! To be a millionaire!! Capito?? I go to America!!,"JACK: Goin' home... to the land o' the free and the home of the real hot- dogs! On the TITANIC!! We're ridin' in high style now! We're practically goddamned royalty, ragazzo mio!!",friend,"Speaker: FABRIZIO
+Listener: JACK
+Relationship: friend
+Translation guidance: Preserve casual, familiar, and friendly wording.",你看见了吧？这就是我的命运！！就像我跟你说的。我去美国！！去当百万富翁！！明白吗？？我去美国！！,gpt-5.4-mini,看见没？这就是我的命！我早跟你说过了。我去美国！去当百万富翁！明白吗？我要去美国！,gpt-5.4-mini
+titanic,L614490,L614490,u8451,FABRIZIO,,,FABRIZIO: You know somebody?,You know somebody?,,unclear,,你认识什么人吗？,gpt-5.4-mini,你认识谁吗？,gpt-5.4-mini
+titanic,L614490,L614491,u8455,JACK,u8451,FABRIZIO,JACK: Of course not. That's not the point. Goodbye! Goodbye!! I'll miss you!,Of course not. That's not the point. Goodbye! Goodbye!! I'll miss you!,FABRIZIO: You know somebody?,ally,"Speaker: JACK
+Listener: FABRIZIO
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",当然不认识。那不是重点。再见！再见！！我会想你的！,gpt-5.4-mini,当然不是。重点不在这儿。再见！再见！！我会想你的！,gpt-5.4-mini
+titanic,L614494,L614494,u8450,CAL,,,CAL: Those mud puddles were certainly a waste of money.,Those mud puddles were certainly a waste of money.,,unclear,,那些泥坑真是白白浪费钱。,gpt-5.4-mini,那些泥水坑可真是白花钱。,gpt-5.4-mini
+titanic,L614494,L614495,u8462,ROSE,u8450,CAL,ROSE: You're wrong. They're fascinating. Like in a dream... there's truth without logic. What's his name again...? Picasso.,You're wrong. They're fascinating. Like in a dream... there's truth without logic. What's his name again...? Picasso.,CAL: Those mud puddles were certainly a waste of money.,romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你错了。它们很迷人。就像在梦里……没有逻辑，却有真实。那人叫什么来着……毕加索。,gpt-5.4-mini,你错了。它们很有意思。像在梦里……没有逻辑，却有真实。那位叫什么来着……毕加索。,gpt-5.4-mini
+titanic,L614494,L614496,u8450,CAL,u8462,ROSE,"CAL: He'll never amount to a thing, trust me. At least they were cheap.","He'll never amount to a thing, trust me. At least they were cheap.","CAL: Those mud puddles were certainly a waste of money.
+ROSE: You're wrong. They're fascinating. Like in a dream... there's truth without logic. What's his name again...? Picasso.",acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",他永远也不会有出息，相信我。至少它们便宜。,gpt-5.4-mini,他将来绝不会有出息，相信我。至少它们便宜。,gpt-5.4-mini
+titanic,L614514,L614514,u8463,RUTH,,,"RUTH: You know I don't like that, Rose.","You know I don't like that, Rose.",,unclear,,你知道我不喜欢那样，露丝。,gpt-5.4-mini,你知道我不喜欢那样，露丝。,gpt-5.4-mini
+titanic,L614514,L614515,u8450,CAL,u8463,RUTH,CAL: She knows.,She knows.,"RUTH: You know I don't like that, Rose.",unclear,"Speaker: CAL
+Listener: RUTH
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",她知道。,gpt-5.4-mini,她知道。,gpt-5.4-mini
+titanic,L614520,L614520,u8463,RUTH,,,"RUTH: My God, Rose, what's gotten into --","My God, Rose, what's gotten into --",,unclear,,我的天，露丝，你这是怎么了——,gpt-5.4-mini,我的天啊，露丝，你这是怎么了——,gpt-5.4-mini
+titanic,L614520,L614521,u8462,ROSE,u8463,RUTH,ROSE: Excuse me.,Excuse me.,"RUTH: My God, Rose, what's gotten into --",familial,"Speaker: ROSE
+Listener: RUTH
+Relationship: familial
+Translation guidance: Preserve family-related intimacy or authority in the wording.",借过。,gpt-5.4-mini,借过。,gpt-5.4-mini
+titanic,L614532,L614532,u8455,JACK,,,JACK: Take my hand. I'll pull you back in.,Take my hand. I'll pull you back in.,,unclear,,抓住我的手。我会把你拉回来。,gpt-5.4-mini,抓住我的手，我把你拉回来。,gpt-5.4-mini
+titanic,L614532,L614533,u8462,ROSE,u8455,JACK,ROSE: No! Stay where you are. I mean it. I'll let go.,No! Stay where you are. I mean it. I'll let go.,JACK: Take my hand. I'll pull you back in.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",不！你别动。我是认真的。我会松手。,gpt-5.4-mini,不！你待在那儿。我是认真的。我会松手。,gpt-5.4-mini
+titanic,L614532,L614534,u8455,JACK,u8462,ROSE,JACK: No you won't.,No you won't.,"JACK: Take my hand. I'll pull you back in.
+ROSE: No! Stay where you are. I mean it. I'll let go.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你不会的。,gpt-5.4-mini,你不会的。,gpt-5.4-mini
+titanic,L614532,L614535,u8462,ROSE,u8455,JACK,ROSE: What do you mean no I won't? Don't presume to tell me what I will and will not do. You don't know me.,What do you mean no I won't? Don't presume to tell me what I will and will not do. You don't know me.,"JACK: Take my hand. I'll pull you back in.
+ROSE: No! Stay where you are. I mean it. I'll let go.
+JACK: No you won't.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你说什么，我不会？别自以为是地告诉我什么该做，什么不该做。你根本不了解我。,gpt-5.4-mini,你说我不会？别自作主张告诉我什么我会做、什么我不会做。你不了解我。,gpt-5.4-mini
+titanic,L614532,L614536,u8455,JACK,u8462,ROSE,"JACK: You would have done it already. Now come on, take my hand.","You would have done it already. Now come on, take my hand.","ROSE: No! Stay where you are. I mean it. I'll let go.
+JACK: No you won't.
+ROSE: What do you mean no I won't? Don't presume to tell me what I will and will not do. You don't know me.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你早就这么做了。来吧，抓住我的手。,gpt-5.4-mini,你早就这么做了。快，来，抓住我的手。,gpt-5.4-mini
+titanic,L614537,L614537,u8462,ROSE,,,ROSE: You're distracting me. Go away.,You're distracting me. Go away.,,unclear,,你打扰到我了，走开。,gpt-5.4-mini,你妨碍到我了。走开。,gpt-5.4-mini
+titanic,L614537,L614538,u8455,JACK,u8462,ROSE,JACK: I can't. I'm involved now. If you let go I have to jump in after you.,I can't. I'm involved now. If you let go I have to jump in after you.,ROSE: You're distracting me. Go away.,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我不能。我已经卷进来了。你要是松手，我就得跟着跳下去。,gpt-5.4-mini,不行。我已经卷进来了。你要是松手，我就得跟着跳下去。,gpt-5.4-mini
+titanic,L614537,L614539,u8462,ROSE,u8455,JACK,ROSE: Don't be absurd. You'll be killed.,Don't be absurd. You'll be killed.,"ROSE: You're distracting me. Go away.
+JACK: I can't. I'm involved now. If you let go I have to jump in after you.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",别傻了，你会没命的。,gpt-5.4-mini,别胡说八道。你会死的。,gpt-5.4-mini
+titanic,L614541,L614541,u8462,ROSE,,,ROSE: The fall alone would kill you.,The fall alone would kill you.,,unclear,,光摔下去就足以把你摔死。,gpt-5.4-mini,光是掉下去就能摔死你。,gpt-5.4-mini
+titanic,L614541,L614542,u8455,JACK,u8462,ROSE,JACK: It would hurt. I'm not saying it wouldn't. To be honest I'm a lot more concerned about the water being so cold.,It would hurt. I'm not saying it wouldn't. To be honest I'm a lot more concerned about the water being so cold.,ROSE: The fall alone would kill you.,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",会疼，我不是说不会。老实说，我更担心的是水太冷。,gpt-5.4-mini,会疼，我不是说不会。说实话，我更担心的是水太冷。,gpt-5.4-mini
+titanic,L614543,L614543,u8462,ROSE,,,ROSE: How cold?,How cold?,,unclear,,多冷？,gpt-5.4-mini,有多冷？,gpt-5.4-mini
+titanic,L614543,L614544,u8455,JACK,u8462,ROSE,JACK: Freezing. Maybe a couple degrees over.,Freezing. Maybe a couple degrees over.,ROSE: How cold?,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",冻得要命。也许就比冰点高几度。,gpt-5.4-mini,冻得要命，大概只比冰点高几度。,gpt-5.4-mini
+titanic,L614545,L614545,u8455,JACK,,,JACK: Ever been to Wisconsin?,Ever been to Wisconsin?,,unclear,,你去过威斯康星吗？,gpt-5.4-mini,你去过威斯康星吗？,gpt-5.4-mini
+titanic,L614545,L614546,u8462,ROSE,u8455,JACK,ROSE: No.,No.,JACK: Ever been to Wisconsin?,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",没有。,gpt-5.4-mini,没有。,gpt-5.4-mini
+titanic,L614545,L614547,u8455,JACK,u8462,ROSE,"JACK: Well they have some of the coldest winters around, and I grew up there, near Chippewa Falls. Once when I was a kid me and my father were ice- fishing out on Lake Wissota... ice- fishing's where you chop a hole in the --","Well they have some of the coldest winters around, and I grew up there, near Chippewa Falls. Once when I was a kid me and my father were ice- fishing out on Lake Wissota... ice- fishing's where you chop a hole in the --","JACK: Ever been to Wisconsin?
+ROSE: No.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",威斯康星那边冬天可冷了，我就是在那里长大的，靠近奇珀瓦瀑布。小时候有一次，我和我父亲去怀索塔湖上凿冰钓鱼……凿冰钓鱼就是在冰上凿个洞——,gpt-5.4-mini,那儿的冬天很冷，我就是在那里长大的，在奇珀瓦福尔斯附近。有一次我还是孩子的时候，我和我父亲在威索塔湖上凿冰钓鱼……冰钓就是你先在冰上凿个洞——,gpt-5.4-mini
+titanic,L614545,L614548,u8462,ROSE,u8455,JACK,ROSE: I know what ice fishing is!,I know what ice fishing is!,"JACK: Ever been to Wisconsin?
+ROSE: No.
+JACK: Well they have some of the coldest winters around, and I grew up there, near Chippewa Falls. Once when I was a kid me and my father were ice- fishing out on Lake Wissota... ice- fishing's where you chop a hole in the --",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我知道什么叫冰钓！,gpt-5.4-mini,我知道什么是冰钓！,gpt-5.4-mini
+titanic,L614545,L614549,u8455,JACK,u8462,ROSE,"JACK: Sorry. Just... you look like kind of an indoor girl. Anyway, I went through some thin ice and I'm tellin' ya, water that cold... like that right down there... it hits you like a thousand knives all over your body. You can't breath, you can't think... least not about anything but the pain. Which is why I'm not looking forward to jumping in after you. But like I said, I don't see a choice. I guess I'm kinda hoping you'll come back over the rail and get me off the hook here.","Sorry. Just... you look like kind of an indoor girl. Anyway, I went through some thin ice and I'm tellin' ya, water that cold... like that right down there... it hits you like a thousand knives all over your body. You can't breath, you can't think... least not about anything but the pain. Which is why I'm not looking forward to jumping in after you. But like I said, I don't see a choice. I guess I'm kinda hoping you'll come back over the rail and get me off the hook here.","ROSE: No.
+JACK: Well they have some of the coldest winters around, and I grew up there, near Chippewa Falls. Once when I was a kid me and my father were ice- fishing out on Lake Wissota... ice- fishing's where you chop a hole in the --
+ROSE: I know what ice fishing is!",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",抱歉。只是……你看起来像是个不怎么出门的姑娘。总之，我曾掉进过薄冰里，我告诉你，那么冷的水……就像下面那种……会像一千把刀子一样扎遍你全身。你没法呼吸，没法思考……至少除了疼痛什么都想不了。这就是我不太想跳下去救你的原因。不过就像我说的，我看不出有什么别的选择。我想我有点希望你能翻过栏杆，让我不用再为难。,gpt-5.4-mini,抱歉。只是……你看起来像是那种待在室内的姑娘。总之，我掉进过薄冰里，我跟你说，那样的冷水……就像下面那样……会像一千把刀一样刺遍你全身。你没法呼吸，没法思考……至少除了疼什么都想不了。所以我不太想跳下去救你。不过我说了，我看不出有别的选择。我想我只是希望你能爬回栏杆这边，别让我这么为难。,gpt-5.4-mini
+titanic,L614545,L614550,u8462,ROSE,u8455,JACK,ROSE: You're crazy.,You're crazy.,"JACK: Well they have some of the coldest winters around, and I grew up there, near Chippewa Falls. Once when I was a kid me and my father were ice- fishing out on Lake Wissota... ice- fishing's where you chop a hole in the --
+ROSE: I know what ice fishing is!
+JACK: Sorry. Just... you look like kind of an indoor girl. Anyway, I went through some thin ice and I'm tellin' ya, water that cold... like that right down there... it hits you like a thousand knives all over your body. You can't breath, you can't think... least not about anything but the pain. Which is why I'm not looking forward to jumping in after you. But like I said, I don't see a choice. I guess I'm kinda hoping you'll come back over the rail and get me off the hook here.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你疯了。,gpt-5.4-mini,你疯了。,gpt-5.4-mini
+titanic,L614545,L614551,u8455,JACK,u8462,ROSE,"JACK: That's what everybody says. But with all due respect, I'm not the one hanging off the back of a ship.","That's what everybody says. But with all due respect, I'm not the one hanging off the back of a ship.","ROSE: I know what ice fishing is!
+JACK: Sorry. Just... you look like kind of an indoor girl. Anyway, I went through some thin ice and I'm tellin' ya, water that cold... like that right down there... it hits you like a thousand knives all over your body. You can't breath, you can't think... least not about anything but the pain. Which is why I'm not looking forward to jumping in after you. But like I said, I don't see a choice. I guess I'm kinda hoping you'll come back over the rail and get me off the hook here.
+ROSE: You're crazy.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",大家都这么说。不过恕我直言，挂在船尾的可不是我。,gpt-5.4-mini,大家都这么说。可恕我直言，挂在船尾的可不是我。,gpt-5.4-mini
+titanic,L614554,L614554,u8455,JACK,,,JACK: I'm Jack Dawson.,I'm Jack Dawson.,,unclear,,我叫杰克·道森。,gpt-5.4-mini,我叫杰克·道森。,gpt-5.4-mini
+titanic,L614554,L614555,u8462,ROSE,u8455,JACK,"ROSE: Pleased to meet you, Mr. Dawson.","Pleased to meet you, Mr. Dawson.",JACK: I'm Jack Dawson.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",很高兴认识你，道森先生。,gpt-5.4-mini,很高兴认识你，道森先生。,gpt-5.4-mini
+titanic,L614556,L614556,u8462,ROSE,,,ROSE: HELP! HELP!!,HELP! HELP!!,,unclear,,救命！救命！！,gpt-5.4-mini,救命！救命！！,gpt-5.4-mini
+titanic,L614556,L614557,u8455,JACK,u8462,ROSE,JACK: I've got you. I won't let go.,I've got you. I won't let go.,ROSE: HELP! HELP!!,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我抓住你了。我不会放手。,gpt-5.4-mini,我抓住你了，我不会松手。,gpt-5.4-mini
+titanic,L614560,L614560,u8450,CAL,,,"CAL: What made you think you could put your hands on my fiancee?! Look at me, you filth! What did you think you were doing?!","What made you think you could put your hands on my fiancee?! Look at me, you filth! What did you think you were doing?!",,unclear,,你凭什么敢对我的未婚妻动手？！看着我，你这下贱东西！你以为你在干什么？！,gpt-5.4-mini,你凭什么敢碰我的未婚妻？！看着我，你这杂种！你以为你在干什么？！,gpt-5.4-mini
+titanic,L614560,L614561,u8462,ROSE,u8450,CAL,"ROSE: Cal, stop! It was an accident.","Cal, stop! It was an accident.","CAL: What made you think you could put your hands on my fiancee?! Look at me, you filth! What did you think you were doing?!",romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",卡尔，住手！那是意外。,gpt-5.4-mini,卡尔，住手！那是个意外。,gpt-5.4-mini
+titanic,L614560,L614562,u8450,CAL,u8462,ROSE,CAL: An accident?!,An accident?!,"CAL: What made you think you could put your hands on my fiancee?! Look at me, you filth! What did you think you were doing?!
+ROSE: Cal, stop! It was an accident.",acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",意外？！,gpt-5.4-mini,意外？！,gpt-5.4-mini
+titanic,L614560,L614563,u8462,ROSE,u8450,CAL,ROSE: It was... stupid really. I was leaning over and I slipped.,It was... stupid really. I was leaning over and I slipped.,"CAL: What made you think you could put your hands on my fiancee?! Look at me, you filth! What did you think you were doing?!
+ROSE: Cal, stop! It was an accident.
+CAL: An accident?!",romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",是……真的很蠢。我当时正探身过去，然后滑了一下。,gpt-5.4-mini,那只是……其实很蠢。我当时正探身过去，然后滑了一下。,gpt-5.4-mini
+titanic,L614564,L614564,u8462,ROSE,,,"ROSE: I was leaning way over, to see the... ah... propellers. And I slipped and I would have gone overboard... and Mr. Dawson here saved me and he almost went over himself.","I was leaning way over, to see the... ah... propellers. And I slipped and I would have gone overboard... and Mr. Dawson here saved me and he almost went over himself.",,unclear,,我当时正探出身子想看……啊……螺旋桨。结果我滑了一下，差点就掉到海里去……多亏道森先生救了我，他自己也差点跟着掉下去。,gpt-5.4-mini,我当时探出身子，想看那……啊……螺旋桨。结果我滑了一下，差点就掉到海里去了……是道森先生救了我，不过他自己也差点跟着掉下去。,gpt-5.4-mini
+titanic,L614564,L614565,u8450,CAL,u8462,ROSE,CAL: You wanted to see the propellers?,You wanted to see the propellers?,"ROSE: I was leaning way over, to see the... ah... propellers. And I slipped and I would have gone overboard... and Mr. Dawson here saved me and he almost went over himself.",acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",你是想看螺旋桨？,gpt-5.4-mini,你想看螺旋桨？,gpt-5.4-mini
+titanic,L614573,L614573,u8462,ROSE,,,ROSE: Is that the going rate for saving the woman you love?,Is that the going rate for saving the woman you love?,,unclear,,救你心爱的女人，就值这么点儿吗？,gpt-5.4-mini,救你心爱的女人就这个价吗？,gpt-5.4-mini
+titanic,L614573,L614574,u8450,CAL,u8462,ROSE,CAL: Rose is displeased. Mmm... what to do?,Rose is displeased. Mmm... what to do?,ROSE: Is that the going rate for saving the woman you love?,acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",露丝不高兴了。嗯……该怎么办呢？,gpt-5.4-mini,露丝不高兴了。嗯……该怎么办呢？,gpt-5.4-mini
+titanic,L614575,L614575,u8450,CAL,,,"CAL: I know. Perhaps you could join us for dinner tomorrow, to regale our group with your heroic tale?","I know. Perhaps you could join us for dinner tomorrow, to regale our group with your heroic tale?",,unclear,,我知道。也许你明天可以来和我们一起吃晚饭，给大家讲讲你的英雄事迹？,gpt-5.4-mini,我知道。也许你明天能和我们共进晚餐，给大家讲讲你那段英雄事迹？,gpt-5.4-mini
+titanic,L614575,L614576,u8455,JACK,u8450,CAL,JACK: Sure. Count me in.,Sure. Count me in.,"CAL: I know. Perhaps you could join us for dinner tomorrow, to regale our group with your heroic tale?",adversarial,"Speaker: JACK
+Listener: CAL
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",当然，算我一个。,gpt-5.4-mini,行啊，算我一个。,gpt-5.4-mini
+titanic,L614575,L614577,u8450,CAL,u8455,JACK,CAL: Good. Settled then.,Good. Settled then.,"CAL: I know. Perhaps you could join us for dinner tomorrow, to regale our group with your heroic tale?
+JACK: Sure. Count me in.",adversarial,"Speaker: CAL
+Listener: JACK
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",好，就这么定了。,gpt-5.4-mini,好，就这么定了。,gpt-5.4-mini
+titanic,L614578,L614578,u8450,CAL,,,CAL: This should be amusing.,This should be amusing.,,unclear,,这应该会很有趣。,gpt-5.4-mini,这应该会很有趣。,gpt-5.4-mini
+titanic,L614578,L614579,u8455,JACK,u8450,CAL,JACK: Can I bum a cigarette?,Can I bum a cigarette?,CAL: This should be amusing.,adversarial,"Speaker: JACK
+Listener: CAL
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",我能借根烟吗？,gpt-5.4-mini,能借根烟吗？,gpt-5.4-mini
+titanic,L614583,L614583,u8462,ROSE,,,ROSE: My God... Cal. Is it a --,My God... Cal. Is it a --,,unclear,,天啊……卡尔。那是——,gpt-5.4-mini,我的天……卡尔。那是……？,gpt-5.4-mini
+titanic,L614583,L614584,u8450,CAL,u8462,ROSE,CAL: Diamond. Yes it is. 56 carats.,Diamond. Yes it is. 56 carats.,ROSE: My God... Cal. Is it a --,acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",钻石。没错，56克拉。,gpt-5.4-mini,钻石。没错，56克拉。,gpt-5.4-mini
+titanic,L614585,L614585,u8450,CAL,,,"CAL: It was once worn by Louis the Sixteenth. They call it Le Coeur de la Mer, the --","It was once worn by Louis the Sixteenth. They call it Le Coeur de la Mer, the --",,unclear,,这曾经是路易十六戴过的。他们叫它“海洋之心”，那——,gpt-5.4-mini,这曾经是路易十六戴过的。他们叫它“海洋之心”，那——,gpt-5.4-mini
+titanic,L614585,L614586,u8462,ROSE,u8450,CAL,"ROSE: The Heart of the Ocean. Cal, it's... it's overwhelming.","The Heart of the Ocean. Cal, it's... it's overwhelming.","CAL: It was once worn by Louis the Sixteenth. They call it Le Coeur de la Mer, the --",romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",海洋之心。卡尔，这……这太令人震撼了。,gpt-5.4-mini,海洋之心。卡尔，这太……太令人震撼了。,gpt-5.4-mini
+titanic,L614591,L614591,u8462,ROSE,,,"ROSE: I can still feel its weight. If you could have felt it, not just seen it...","I can still feel its weight. If you could have felt it, not just seen it...",,unclear,,我还能感觉到它的重量。要是你能亲手感受到它，而不只是看到它……,gpt-5.4-mini,我还能感觉到它的重量。要是你也能感受到，而不只是看见它……,gpt-5.4-mini
+titanic,L614591,L614592,u8460,LOVETT,u8462,ROSE,"LOVETT: Well, that's the general idea, my dear.","Well, that's the general idea, my dear.","ROSE: I can still feel its weight. If you could have felt it, not just seen it...",adversarial,"Speaker: LOVETT
+Listener: ROSE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",嗯，大概就是这个意思，亲爱的。,gpt-5.4-mini,嗯，这正是重点，我的亲爱的。,gpt-5.4-mini
+titanic,L614593,L614593,u8447,BODINE,,,BODINE: So let me get this right. You were gonna kill yourself by jumping off the Titanic? That's great!,So let me get this right. You were gonna kill yourself by jumping off the Titanic? That's great!,,unclear,,这么说，我没听错吧。你打算从泰坦尼克号上跳下去自杀？真棒！,gpt-5.4-mini,这么说没错吧。你打算从泰坦尼克号上跳下去自杀？真有你的！,gpt-5.4-mini
+titanic,L614593,L614594,u8460,LOVETT,u8447,BODINE,LOVETT: Lewis...,Lewis...,BODINE: So let me get this right. You were gonna kill yourself by jumping off the Titanic? That's great!,adversarial,"Speaker: LOVETT
+Listener: BODINE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",刘易斯……,gpt-5.4-mini,刘易斯……,gpt-5.4-mini
+titanic,L614596,L614596,u8460,LOVETT,,,"LOVETT: Rose, tell us more about the diamond. What did Hockley do with it after that?","Rose, tell us more about the diamond. What did Hockley do with it after that?",,unclear,,罗斯，再给我们多讲讲那颗钻石。后来霍克利把它怎么样了？,gpt-5.4-mini,露丝，跟我们多说说那颗钻石。后来霍克利把它怎么样了？,gpt-5.4-mini
+titanic,L614596,L614597,u8462,ROSE,u8460,LOVETT,"ROSE: I'm afraid I'm feeling a little tired, Mr. Lovett.","I'm afraid I'm feeling a little tired, Mr. Lovett.","LOVETT: Rose, tell us more about the diamond. What did Hockley do with it after that?",acquaintance,"Speaker: ROSE
+Listener: LOVETT
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",恐怕我有点累了，洛维特先生。,gpt-5.4-mini,洛维特先生，我恐怕有点累了。,gpt-5.4-mini
+titanic,L614598,L614598,u8460,LOVETT,,,"LOVETT: Wait! Can you give us something go on, here. Like who had access to the safe. What about this Lovejoy guy? The valet. Did he have the combination?","Wait! Can you give us something go on, here. Like who had access to the safe. What about this Lovejoy guy? The valet. Did he have the combination?",,unclear,,等等！你能不能给我们点线索？比如谁能接触保险箱。那个叫洛夫乔伊的呢？那个男仆。他知道密码吗？,gpt-5.4-mini,等等！你能给我们点线索吗？比如谁能接触保险箱。那个叫洛夫乔伊的家伙呢？那个贴身男仆。他知道密码吗？,gpt-5.4-mini
+titanic,L614598,L614599,u8458,LIZZY,u8460,LOVETT,LIZZY: That's enough.,That's enough.,"LOVETT: Wait! Can you give us something go on, here. Like who had access to the safe. What about this Lovejoy guy? The valet. Did he have the combination?",acquaintance,"Speaker: LIZZY
+Listener: LOVETT
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",够了。,gpt-5.4-mini,够了。,gpt-5.4-mini
+titanic,L614604,L614604,u8448,BROCK,,,"BROCK: Hey, Lizzy. I need to talk to you for a second.","Hey, Lizzy. I need to talk to you for a second.",,unclear,,嗨，莉兹。我得跟你谈一下。,gpt-5.4-mini,嘿，莉兹。我有话想跟你说一下。,gpt-5.4-mini
+titanic,L614604,L614605,u8458,LIZZY,u8448,BROCK,LIZZY: Don't you mean work me?,Don't you mean work me?,"BROCK: Hey, Lizzy. I need to talk to you for a second.",acquaintance,"Speaker: LIZZY
+Listener: BROCK
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",你不是想说“使唤我”吗？,gpt-5.4-mini,你不是想说把我当苦力吧？,gpt-5.4-mini
+titanic,L614604,L614606,u8448,BROCK,u8458,LIZZY,"BROCK: Look, I'm running out of time. I need your help.","Look, I'm running out of time. I need your help.","BROCK: Hey, Lizzy. I need to talk to you for a second.
+LIZZY: Don't you mean work me?",unclear,"Speaker: BROCK
+Listener: LIZZY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",听着，我没多少时间了。我需要你的帮忙。,gpt-5.4-mini,听着，我没多少时间了。我需要你的帮忙。,gpt-5.4-mini
+titanic,L614604,L614607,u8458,LIZZY,u8448,BROCK,LIZZY: I'm not going to help you browbeat my hundred and one year old grandmother. I came down here to tell you to back off.,I'm not going to help you browbeat my hundred and one year old grandmother. I came down here to tell you to back off.,"BROCK: Hey, Lizzy. I need to talk to you for a second.
+LIZZY: Don't you mean work me?
+BROCK: Look, I'm running out of time. I need your help.",acquaintance,"Speaker: LIZZY
+Listener: BROCK
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",我不会帮你去逼问我那一百零一岁的外祖母。我下来是要告诉你，别再插手了。,gpt-5.4-mini,我不会帮你逼问我那位一百零一岁的祖母。我来这儿就是要告诉你，别再插手了。,gpt-5.4-mini
+titanic,L614604,L614608,u8448,BROCK,u8458,LIZZY,BROCK: Lizzy... you gotta understand something. I've bet it all to find the Heart of the Ocean. I've got all my dough tied up in this thing. My wife even divorced me over this hunt. I need what's locked inside your grandma's memory. You see this? Right here?,Lizzy... you gotta understand something. I've bet it all to find the Heart of the Ocean. I've got all my dough tied up in this thing. My wife even divorced me over this hunt. I need what's locked inside your grandma's memory. You see this? Right here?,"LIZZY: Don't you mean work me?
+BROCK: Look, I'm running out of time. I need your help.
+LIZZY: I'm not going to help you browbeat my hundred and one year old grandmother. I came down here to tell you to back off.",unclear,"Speaker: BROCK
+Listener: LIZZY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",莉齐……你得明白一件事。我已经赌上一切去寻找海洋之心了。我所有的钱都押在这件事上了。我老婆甚至因为这场寻宝和我离了婚。我需要你奶奶记忆里锁着的东西。你看见这个了吗？就在这儿？,gpt-5.4-mini,丽兹……你得明白一件事。我把一切都押上了，就是为了找到“海洋之心”。我的钱全都压在这件事上了。我老婆甚至因为这次追寻跟我离了婚。我需要你奶奶记忆里锁着的东西。你看见这个了吗？就在这儿？,gpt-5.4-mini
+titanic,L614609,L614609,u8458,LIZZY,,,LIZZY: What?,What?,,unclear,,什么？,gpt-5.4-mini,什么？,gpt-5.4-mini
+titanic,L614609,L614610,u8448,BROCK,u8458,LIZZY,BROCK: That's the shape my hand's gonna be when I hold that thing. You understand? I'm not leaving here without it.,That's the shape my hand's gonna be when I hold that thing. You understand? I'm not leaving here without it.,LIZZY: What?,unclear,"Speaker: BROCK
+Listener: LIZZY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我拿着那东西时，手就会是那个姿势。明白吗？我不拿到它绝不离开这儿。,gpt-5.4-mini,我握着那东西时，手就是这个姿势。明白吗？我不拿到它是不会离开这儿的。,gpt-5.4-mini
+titanic,L614609,L614611,u8458,LIZZY,u8448,BROCK,"LIZZY: Look, Brock, she's going to do this her way, in her own time. Don't forget, she contacted you. She's out here for her own reasons, God knows what they are.","Look, Brock, she's going to do this her way, in her own time. Don't forget, she contacted you. She's out here for her own reasons, God knows what they are.","LIZZY: What?
+BROCK: That's the shape my hand's gonna be when I hold that thing. You understand? I'm not leaving here without it.",acquaintance,"Speaker: LIZZY
+Listener: BROCK
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",听着，布洛克，她会按自己的方式来，按自己的节奏来。别忘了，是她主动联系你的。她到这儿来有她自己的原因，天知道是什么。,gpt-5.4-mini,听着，布洛克，她会按她自己的方式来，按她自己的节奏来。别忘了，是她主动联系你的。她来这儿有她自己的原因，天知道是什么。,gpt-5.4-mini
+titanic,L614612,L614612,u8460,LOVETT,,,LOVETT: Maybe she wants to make peace with the past.,Maybe she wants to make peace with the past.,,unclear,,也许她想和过去和解。,gpt-5.4-mini,也许她想和过去和解。,gpt-5.4-mini
+titanic,L614612,L614613,u8458,LIZZY,u8460,LOVETT,"LIZZY: What past? She has never once, not once, ever said a word about being on the Titanic until two days ago.","What past? She has never once, not once, ever said a word about being on the Titanic until two days ago.",LOVETT: Maybe she wants to make peace with the past.,acquaintance,"Speaker: LIZZY
+Listener: LOVETT
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",什么过去？她从来没提过，连一次都没有，直到两天前才说起自己坐过泰坦尼克号。,gpt-5.4-mini,什么过去？她从来没有，真的一次都没有，从来没提过她曾在泰坦尼克号上，直到两天前才说。,gpt-5.4-mini
+titanic,L614612,L614614,u8460,LOVETT,u8458,LIZZY,LOVETT: Then we're all meeting your grandmother for the first time.,Then we're all meeting your grandmother for the first time.,"LOVETT: Maybe she wants to make peace with the past.
+LIZZY: What past? She has never once, not once, ever said a word about being on the Titanic until two days ago.",unclear,"Speaker: LOVETT
+Listener: LIZZY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",那我们大家都是第一次见到你祖母了。,gpt-5.4-mini,那我们大家都是第一次见到你祖母了。,gpt-5.4-mini
+titanic,L614612,L614615,u8458,LIZZY,u8460,LOVETT,LIZZY: You think she was really there?,You think she was really there?,"LOVETT: Maybe she wants to make peace with the past.
+LIZZY: What past? She has never once, not once, ever said a word about being on the Titanic until two days ago.
+LOVETT: Then we're all meeting your grandmother for the first time.",acquaintance,"Speaker: LIZZY
+Listener: LOVETT
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",你觉得她真的在那儿吗？,gpt-5.4-mini,你觉得她真的在那儿吗？,gpt-5.4-mini
+titanic,L614612,L614616,u8460,LOVETT,u8458,LIZZY,"LOVETT: Oh, yeah. Yeah, I'm a believer. She was there.","Oh, yeah. Yeah, I'm a believer. She was there.","LIZZY: What past? She has never once, not once, ever said a word about being on the Titanic until two days ago.
+LOVETT: Then we're all meeting your grandmother for the first time.
+LIZZY: You think she was really there?",unclear,"Speaker: LOVETT
+Listener: LIZZY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",哦，当然。对，对，我信。她当时就在那儿。,gpt-5.4-mini,哦，对。对，我信。她当时在那儿。,gpt-5.4-mini
+titanic,L614622,L614622,u8455,JACK,,,JACK: Hello again.,Hello again.,,unclear,,又见面了。,gpt-5.4-mini,又见面了。,gpt-5.4-mini
+titanic,L614622,L614623,u8462,ROSE,u8455,JACK,ROSE: Could I speak to you in private?,Could I speak to you in private?,JACK: Hello again.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我能私下跟你谈谈吗？,gpt-5.4-mini,我能单独跟你说几句吗？,gpt-5.4-mini
+titanic,L614622,L614624,u8455,JACK,u8462,ROSE,"JACK: Uh, yes. Of course. After you.","Uh, yes. Of course. After you.","JACK: Hello again.
+ROSE: Could I speak to you in private?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",呃，好，当然。你先请。,gpt-5.4-mini,呃，当然可以。您先请。,gpt-5.4-mini
+titanic,L614625,L614625,u8455,JACK,,,"JACK: So, you got a name by the way?","So, you got a name by the way?",,unclear,,对了，你叫什么名字？,gpt-5.4-mini,对了，你叫什么名字？,gpt-5.4-mini
+titanic,L614625,L614626,u8462,ROSE,u8455,JACK,ROSE: Rose. Rose DeWitt Bukater.,Rose. Rose DeWitt Bukater.,"JACK: So, you got a name by the way?",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",露丝。露丝·德维特·布克特。,gpt-5.4-mini,露丝。露丝·德威特·布克特。,gpt-5.4-mini
+titanic,L614625,L614627,u8455,JACK,u8462,ROSE,JACK: That's quite a moniker. I may hafta get you to write that down.,That's quite a moniker. I may hafta get you to write that down.,"JACK: So, you got a name by the way?
+ROSE: Rose. Rose DeWitt Bukater.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",这名字可真够长的。看来我得让你把它写下来。,gpt-5.4-mini,这名字可真够长的。我得让你给我写下来。,gpt-5.4-mini
+titanic,L614628,L614628,u8462,ROSE,,,"ROSE: Mr. Dawson, I --","Mr. Dawson, I --",,unclear,,道森先生，我——,gpt-5.4-mini,道森先生，我——,gpt-5.4-mini
+titanic,L614628,L614629,u8455,JACK,u8462,ROSE,JACK: Jack.,Jack.,"ROSE: Mr. Dawson, I --",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",杰克。,gpt-5.4-mini,杰克。,gpt-5.4-mini
+titanic,L614628,L614630,u8462,ROSE,u8455,JACK,ROSE: Jack... I feel like such an idiot. It took me all morning to get up the nerve to face you.,Jack... I feel like such an idiot. It took me all morning to get up the nerve to face you.,"ROSE: Mr. Dawson, I --
+JACK: Jack.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",杰克……我觉得自己真是个傻瓜。我整整一个上午才鼓起勇气来见你。,gpt-5.4-mini,杰克……我觉得自己真是个傻瓜。我鼓足了整整一个上午的勇气才敢来见你。,gpt-5.4-mini
+titanic,L614628,L614631,u8455,JACK,u8462,ROSE,"JACK: Well, here you are.","Well, here you are.","ROSE: Mr. Dawson, I --
+JACK: Jack.
+ROSE: Jack... I feel like such an idiot. It took me all morning to get up the nerve to face you.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",好吧，你来了。,gpt-5.4-mini,这不，你来了。,gpt-5.4-mini
+titanic,L614628,L614632,u8462,ROSE,u8455,JACK,ROSE: Here I am. I... I want to thank you for what you did. Not just for... for pulling me back. But for your discretion.,Here I am. I... I want to thank you for what you did. Not just for... for pulling me back. But for your discretion.,"JACK: Jack.
+ROSE: Jack... I feel like such an idiot. It took me all morning to get up the nerve to face you.
+JACK: Well, here you are.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我来了。我……我想谢谢你为我做的一切。不只是……不只是把我拉回来，还有你的守口如瓶。,gpt-5.4-mini,我来了。我……我想谢谢你为我做的一切。不只是……不只是把我拉回来，还有你的体贴。,gpt-5.4-mini
+titanic,L614628,L614633,u8455,JACK,u8462,ROSE,JACK: You're welcome. Rose.,You're welcome. Rose.,"ROSE: Jack... I feel like such an idiot. It took me all morning to get up the nerve to face you.
+JACK: Well, here you are.
+ROSE: Here I am. I... I want to thank you for what you did. Not just for... for pulling me back. But for your discretion.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",不客气，露丝。,gpt-5.4-mini,不客气，罗斯。,gpt-5.4-mini
+titanic,L614628,L614634,u8462,ROSE,u8455,JACK,"ROSE: Look, I know what you must be thinking! Poor little rich girl. What does she know about misery?","Look, I know what you must be thinking! Poor little rich girl. What does she know about misery?","JACK: Well, here you are.
+ROSE: Here I am. I... I want to thank you for what you did. Not just for... for pulling me back. But for your discretion.
+JACK: You're welcome. Rose.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",听着，我知道你一定在想什么！可怜的小富家女，她懂什么叫苦难？,gpt-5.4-mini,听着，我知道你一定在想什么！可怜的富家小姐，她懂什么叫苦难？,gpt-5.4-mini
+titanic,L614628,L614635,u8455,JACK,u8462,ROSE,JACK: That's not what I was thinking. What I was thinking was... what could have happened to hurt this girl so much she though she had no way out.,That's not what I was thinking. What I was thinking was... what could have happened to hurt this girl so much she though she had no way out.,"ROSE: Here I am. I... I want to thank you for what you did. Not just for... for pulling me back. But for your discretion.
+JACK: You're welcome. Rose.
+ROSE: Look, I know what you must be thinking! Poor little rich girl. What does she know about misery?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我想的不是这个。我想的是……到底发生了什么，能把这个女孩伤得这么深，让她觉得自己已经无路可走了。,gpt-5.4-mini,我想的不是这个。我在想的是……到底发生了什么，才会让这个女孩伤得这么深，觉得自己已经无路可走。,gpt-5.4-mini
+titanic,L614628,L614636,u8462,ROSE,u8455,JACK,"ROSE: I don't... it wasn't just one thing. It was everything. It was them, it was their whole world. And I was trapped in it, like an insect in amber. I just had to get away... just run and run and run... and then I was at the back rail and there was no more ship... even the Titanic wasn't big enough. Not enough to get away from them. And before I'd really though about it, I was over the rail. I was so furious. I'll show them. They'll be sorry!","I don't... it wasn't just one thing. It was everything. It was them, it was their whole world. And I was trapped in it, like an insect in amber. I just had to get away... just run and run and run... and then I was at the back rail and there was no more ship... even the Titanic wasn't big enough. Not enough to get away from them. And before I'd really though about it, I was over the rail. I was so furious. I'll show them. They'll be sorry!","JACK: You're welcome. Rose.
+ROSE: Look, I know what you must be thinking! Poor little rich girl. What does she know about misery?
+JACK: That's not what I was thinking. What I was thinking was... what could have happened to hurt this girl so much she though she had no way out.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我不知道……不只是某一件事。是所有的事。是他们，是他们整个世界。而我被困在里面，像琥珀里的昆虫。我只想逃开……一直跑，一直跑……然后我到了后栏杆那里，船已经没了……连泰坦尼克号都不够大。不够让我逃离他们。还没等我真想清楚，我就翻过了栏杆。我当时气疯了。我要让他们看看。他们会后悔的！,gpt-5.4-mini,我不知道……不只是某一件事。是所有事。是他们，是他们整个世界。而我被困在里面，就像琥珀里的昆虫。我只想逃走……一直跑，一直跑……然后我到了后舷栏边，已经没有船了……连泰坦尼克号都不够大。大到还不够让我逃离他们。等我还没真正想清楚，我就翻过了栏杆。我当时气疯了。我要让他们看看。他们会后悔的！,gpt-5.4-mini
+titanic,L614628,L614637,u8455,JACK,u8462,ROSE,JACK: Uh huh. They'll be sorry. 'Course you'll be dead.,Uh huh. They'll be sorry. 'Course you'll be dead.,"ROSE: Look, I know what you must be thinking! Poor little rich girl. What does she know about misery?
+JACK: That's not what I was thinking. What I was thinking was... what could have happened to hurt this girl so much she though she had no way out.
+ROSE: I don't... it wasn't just one thing. It was everything. It was them, it was their whole world. And I was trapped in it, like an insect in amber. I just had to get away... just run and run and run... and then I was at the back rail and there was no more ship... even the Titanic wasn't big enough. Not enough to get away from them. And before I'd really though about it, I was over the rail. I was so furious. I'll show them. They'll be sorry!",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",嗯哼，他们会后悔。你当然也会死。,gpt-5.4-mini,嗯哼，他们会后悔。当然，到时候你也死了。,gpt-5.4-mini
+titanic,L614628,L614638,u8462,ROSE,u8455,JACK,"ROSE: Oh God, I am such an utter fool.","Oh God, I am such an utter fool.","JACK: That's not what I was thinking. What I was thinking was... what could have happened to hurt this girl so much she though she had no way out.
+ROSE: I don't... it wasn't just one thing. It was everything. It was them, it was their whole world. And I was trapped in it, like an insect in amber. I just had to get away... just run and run and run... and then I was at the back rail and there was no more ship... even the Titanic wasn't big enough. Not enough to get away from them. And before I'd really though about it, I was over the rail. I was so furious. I'll show them. They'll be sorry!
+JACK: Uh huh. They'll be sorry. 'Course you'll be dead.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",哦，天哪，我真是个大傻瓜。,gpt-5.4-mini,哦，天啊，我真是个彻头彻尾的傻瓜。,gpt-5.4-mini
+titanic,L614628,L614639,u8455,JACK,u8462,ROSE,"JACK: That penguin last night, is he one of them?","That penguin last night, is he one of them?","ROSE: I don't... it wasn't just one thing. It was everything. It was them, it was their whole world. And I was trapped in it, like an insect in amber. I just had to get away... just run and run and run... and then I was at the back rail and there was no more ship... even the Titanic wasn't big enough. Not enough to get away from them. And before I'd really though about it, I was over the rail. I was so furious. I'll show them. They'll be sorry!
+JACK: Uh huh. They'll be sorry. 'Course you'll be dead.
+ROSE: Oh God, I am such an utter fool.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",昨晚那只企鹅，他也是他们中的一员吗？,gpt-5.4-mini,昨晚那只企鹅，是他们的人吗？,gpt-5.4-mini
+titanic,L614628,L614640,u8462,ROSE,u8455,JACK,"ROSE: Penguin? Oh, Cal! He is them.","Penguin? Oh, Cal! He is them.","JACK: Uh huh. They'll be sorry. 'Course you'll be dead.
+ROSE: Oh God, I am such an utter fool.
+JACK: That penguin last night, is he one of them?",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",企鹅？哦，卡尔！他就是他们。,gpt-5.4-mini,企鹅？哦，卡尔！他就是他们。,gpt-5.4-mini
+titanic,L614628,L614641,u8455,JACK,u8462,ROSE,JACK: Is he your boyfriend?,Is he your boyfriend?,"ROSE: Oh God, I am such an utter fool.
+JACK: That penguin last night, is he one of them?
+ROSE: Penguin? Oh, Cal! He is them.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",他是你男朋友吗？,gpt-5.4-mini,他是你男朋友吗？,gpt-5.4-mini
+titanic,L614628,L614642,u8462,ROSE,u8455,JACK,ROSE: Worse I'm afraid.,Worse I'm afraid.,"JACK: That penguin last night, is he one of them?
+ROSE: Penguin? Oh, Cal! He is them.
+JACK: Is he your boyfriend?",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",更糟，恐怕是。,gpt-5.4-mini,更糟，我恐怕是。,gpt-5.4-mini
+titanic,L614644,L614644,u8455,JACK,,,JACK: So you feel like you're stuck on a train you can't get off 'cause you're marryin' this fella.,So you feel like you're stuck on a train you can't get off 'cause you're marryin' this fella.,,unclear,,所以你觉得自己像被困在一列下不来的火车上，因为你要嫁给这家伙。,gpt-5.4-mini,所以你觉得自己像被困在一列下不去的火车上，就因为你要嫁给这家伙。,gpt-5.4-mini
+titanic,L614644,L614645,u8462,ROSE,u8455,JACK,"ROSE: Yes, exactly!","Yes, exactly!",JACK: So you feel like you're stuck on a train you can't get off 'cause you're marryin' this fella.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",对，就是这样！,gpt-5.4-mini,对，就是这样！,gpt-5.4-mini
+titanic,L614644,L614646,u8455,JACK,u8462,ROSE,JACK: So don't marry him.,So don't marry him.,"JACK: So you feel like you're stuck on a train you can't get off 'cause you're marryin' this fella.
+ROSE: Yes, exactly!",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",那就别嫁给他。,gpt-5.4-mini,那就别嫁给他。,gpt-5.4-mini
+titanic,L614644,L614647,u8462,ROSE,u8455,JACK,ROSE: If only it were that simple.,If only it were that simple.,"JACK: So you feel like you're stuck on a train you can't get off 'cause you're marryin' this fella.
+ROSE: Yes, exactly!
+JACK: So don't marry him.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",要是有那么简单就好了。,gpt-5.4-mini,要是有这么简单就好了。,gpt-5.4-mini
+titanic,L614644,L614648,u8455,JACK,u8462,ROSE,JACK: It is that simple.,It is that simple.,"ROSE: Yes, exactly!
+JACK: So don't marry him.
+ROSE: If only it were that simple.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",就这么简单。,gpt-5.4-mini,就这么简单。,gpt-5.4-mini
+titanic,L614644,L614649,u8462,ROSE,u8455,JACK,"ROSE: Oh, Jack... please don't judge me until you've seen my world.","Oh, Jack... please don't judge me until you've seen my world.","JACK: So don't marry him.
+ROSE: If only it were that simple.
+JACK: It is that simple.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",哦，杰克……请别在看过我的世界之前就评判我。,gpt-5.4-mini,哦，杰克……在你见过我的世界之前，别评判我。,gpt-5.4-mini
+titanic,L614644,L614650,u8455,JACK,u8462,ROSE,"JACK: Well, I guess I will tonight.","Well, I guess I will tonight.","ROSE: If only it were that simple.
+JACK: It is that simple.
+ROSE: Oh, Jack... please don't judge me until you've seen my world.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",那好，我今晚就去看看。,gpt-5.4-mini,嗯，那我今晚就见识见识。,gpt-5.4-mini
+titanic,L614651,L614651,u8462,ROSE,,,ROSE: What's this?,What's this?,,unclear,,这是什么？,gpt-5.4-mini,这是什么？,gpt-5.4-mini
+titanic,L614651,L614652,u8455,JACK,u8462,ROSE,JACK: Just some sketches.,Just some sketches.,ROSE: What's this?,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",只是些素描。,gpt-5.4-mini,就是些素描。,gpt-5.4-mini
+titanic,L614651,L614653,u8462,ROSE,u8455,JACK,ROSE: May I?,May I?,"ROSE: What's this?
+JACK: Just some sketches.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我可以看看吗？,gpt-5.4-mini,我可以吗？,gpt-5.4-mini
+titanic,L614654,L614654,u8462,ROSE,,,"ROSE: Jack, these are quite good! Really, they are.","Jack, these are quite good! Really, they are.",,unclear,,杰克，这些真不错！真的，真的不错。,gpt-5.4-mini,杰克，这些真不错！真的，很不错。,gpt-5.4-mini
+titanic,L614654,L614655,u8455,JACK,u8462,ROSE,"JACK: Well, they didn't think too much of 'em in Paree.","Well, they didn't think too much of 'em in Paree.","ROSE: Jack, these are quite good! Really, they are.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",嗯，在巴黎他们可不怎么待见这些。,gpt-5.4-mini,嗯，在巴黎，人家可没多看重它们。,gpt-5.4-mini
+titanic,L614656,L614656,u8462,ROSE,,,"ROSE: Oh no! Oh, I'm so sorry. Truly!","Oh no! Oh, I'm so sorry. Truly!",,unclear,,哦，不！哦，真对不起。真的！,gpt-5.4-mini,哦，不！哦，对不起，真的！,gpt-5.4-mini
+titanic,L614656,L614657,u8455,JACK,u8462,ROSE,"JACK: Well, they didn't think too much of 'em in Paree.","Well, they didn't think too much of 'em in Paree.","ROSE: Oh no! Oh, I'm so sorry. Truly!",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",嗯，巴黎人可没多瞧得起它们。,gpt-5.4-mini,嗯，在巴黎他们也不怎么待见这玩意儿。,gpt-5.4-mini
+titanic,L614661,L614661,u8462,ROSE,,,ROSE: And these were drawn from life?,And these were drawn from life?,,unclear,,这些是照着真人画的吗？,gpt-5.4-mini,这些都是照着真人画的吗？,gpt-5.4-mini
+titanic,L614661,L614662,u8455,JACK,u8462,ROSE,JACK: Yup. That's one of the great things about Paris. Lots of girls willing take their clothes off.,Yup. That's one of the great things about Paris. Lots of girls willing take their clothes off.,ROSE: And these were drawn from life?,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",嗯。巴黎最棒的地方之一，就是有很多姑娘愿意脱衣服。,gpt-5.4-mini,对。巴黎有个很棒的地方，很多姑娘都愿意脱衣服。,gpt-5.4-mini
+titanic,L614663,L614663,u8462,ROSE,,,ROSE: You liked this woman. You used her several times.,You liked this woman. You used her several times.,,unclear,,你喜欢这个女人。你还用过她好几次。,gpt-5.4-mini,你喜欢这个女人。你还用了她好几次。,gpt-5.4-mini
+titanic,L614663,L614664,u8455,JACK,u8462,ROSE,JACK: She had beautiful hands.,She had beautiful hands.,ROSE: You liked this woman. You used her several times.,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",她有一双漂亮的手。,gpt-5.4-mini,她的手很漂亮。,gpt-5.4-mini
+titanic,L614663,L614665,u8462,ROSE,u8455,JACK,ROSE: I think you must have had a love affair with her...,I think you must have had a love affair with her...,"ROSE: You liked this woman. You used her several times.
+JACK: She had beautiful hands.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我想你一定跟她有过一段情……,gpt-5.4-mini,我想你一定和她有过一段风流韵事……,gpt-5.4-mini
+titanic,L614663,L614666,u8455,JACK,u8462,ROSE,"JACK: No, no! Just with her hands.","No, no! Just with her hands.","ROSE: You liked this woman. You used her several times.
+JACK: She had beautiful hands.
+ROSE: I think you must have had a love affair with her...",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",不，不！只是跟她的手。,gpt-5.4-mini,不不！只是和她的手。,gpt-5.4-mini
+titanic,L614663,L614667,u8462,ROSE,u8455,JACK,"ROSE: You have a gift, Jack. You do. You see people.","You have a gift, Jack. You do. You see people.","JACK: She had beautiful hands.
+ROSE: I think you must have had a love affair with her...
+JACK: No, no! Just with her hands.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你有天赋，杰克，真的。你能看透人。,gpt-5.4-mini,你有天赋，杰克。真的。你会看人。,gpt-5.4-mini
+titanic,L614663,L614668,u8455,JACK,u8462,ROSE,JACK: I see you.,I see you.,"ROSE: I think you must have had a love affair with her...
+JACK: No, no! Just with her hands.
+ROSE: You have a gift, Jack. You do. You see people.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我看见你了。,gpt-5.4-mini,我看见你了。,gpt-5.4-mini
+titanic,L614669,L614669,u8462,ROSE,,,ROSE: And...?,And...?,,unclear,,然后呢？,gpt-5.4-mini,然后呢？,gpt-5.4-mini
+titanic,L614669,L614670,u8455,JACK,u8462,ROSE,JACK: You wouldn'ta jumped.,You wouldn'ta jumped.,ROSE: And...?,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你不会跳下去的。,gpt-5.4-mini,你本来不会跳的。,gpt-5.4-mini
+titanic,L614675,L614675,u8454,ISMAY,,,ISMAY: So you've not lit the last four boilers then?,So you've not lit the last four boilers then?,,unclear,,这么说，你还没把最后四个锅炉点起来？,gpt-5.4-mini,这么说，你们还没点燃最后四个锅炉？,gpt-5.4-mini
+titanic,L614675,L614676,u8464,SMITH,u8454,ISMAY,"SMITH: No, but we're making excellent time.","No, but we're making excellent time.",ISMAY: So you've not lit the last four boilers then?,unclear,"Speaker: SMITH
+Listener: ISMAY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",没有，但我们现在的航速非常好。,gpt-5.4-mini,没有，但我们现在航行得非常快。,gpt-5.4-mini
+titanic,L614675,L614677,u8454,ISMAY,u8464,SMITH,"ISMAY: Captain, the press knows the size of Titanic, let them marvel at her speed too. We must give them something new to print. And the maiden voyage of Titanic must make headlines!","Captain, the press knows the size of Titanic, let them marvel at her speed too. We must give them something new to print. And the maiden voyage of Titanic must make headlines!","ISMAY: So you've not lit the last four boilers then?
+SMITH: No, but we're making excellent time.",unclear,"Speaker: ISMAY
+Listener: SMITH
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",船长，记者们已经知道泰坦尼克号有多大了，就让他们也惊叹她的速度吧。我们得给他们些新东西好登报。而且泰坦尼克号的处女航必须成为头条！,gpt-5.4-mini,船长，媒体已经知道泰坦尼克号有多大了，就让他们也惊叹她的速度吧。我们得给他们些新东西好登出来。泰坦尼克号的处女航必须上头条！,gpt-5.4-mini
+titanic,L614675,L614678,u8464,SMITH,u8454,ISMAY,SMITH: I prefer not to push the engines until they've been properly run in.,I prefer not to push the engines until they've been properly run in.,"ISMAY: So you've not lit the last four boilers then?
+SMITH: No, but we're making excellent time.
+ISMAY: Captain, the press knows the size of Titanic, let them marvel at her speed too. We must give them something new to print. And the maiden voyage of Titanic must make headlines!",unclear,"Speaker: SMITH
+Listener: ISMAY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我不想在机器还没完全磨合好之前就把它们开到最大。,gpt-5.4-mini,我不想在发动机还没彻底磨合好之前就让它全速运转。,gpt-5.4-mini
+titanic,L614675,L614679,u8454,ISMAY,u8464,SMITH,"ISMAY: Of course I leave it to your good offices to decide what's best, but what a glorious end to your last crossing if we get into New York Tuesday night and surprise them all. Retire with a bang, eh, E.J.?","Of course I leave it to your good offices to decide what's best, but what a glorious end to your last crossing if we get into New York Tuesday night and surprise them all. Retire with a bang, eh, E.J.?","SMITH: No, but we're making excellent time.
+ISMAY: Captain, the press knows the size of Titanic, let them marvel at her speed too. We must give them something new to print. And the maiden voyage of Titanic must make headlines!
+SMITH: I prefer not to push the engines until they've been properly run in.",unclear,"Speaker: ISMAY
+Listener: SMITH
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",当然，我会把决定权交给您，您最清楚什么最好。不过，要是我们能在星期二晚上驶入纽约，给所有人一个惊喜，您的最后一次航程该是多么辉煌的收尾啊。轰轰烈烈地退场，嗯，E.J.？,gpt-5.4-mini,当然，我把决定权交给您的判断，您知道什么最好。不过，要是我们星期二晚上进纽约，给他们所有人一个惊喜，那该是您最后一次航程多么辉煌的结局啊。风风光光地谢幕，嗯，E.J.？,gpt-5.4-mini
+titanic,L614680,L614680,u8462,ROSE,,,"ROSE: You know, my dream has always been to just chuck it all and become an artist... living in a garret, poor but free!","You know, my dream has always been to just chuck it all and become an artist... living in a garret, poor but free!",,unclear,,你知道吗，我一直梦想着把一切都抛开，去当个艺术家……住在阁楼里，穷但自由！,gpt-5.4-mini,你知道吗，我一直梦想着把这一切都抛开，去当个艺术家……住在阁楼里，穷是穷，但自由！,gpt-5.4-mini
+titanic,L614680,L614681,u8455,JACK,u8462,ROSE,"JACK: You wouldn't last two days. There's no hot water, and hardly ever any caviar.","You wouldn't last two days. There's no hot water, and hardly ever any caviar.","ROSE: You know, my dream has always been to just chuck it all and become an artist... living in a garret, poor but free!",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你撑不过两天。那儿没有热水，鱼子酱也几乎见不着。,gpt-5.4-mini,你连两天都撑不过去。那儿没有热水，鱼子酱也几乎没有。,gpt-5.4-mini
+titanic,L614680,L614682,u8462,ROSE,u8455,JACK,"ROSE: Listen, buster... I hate caviar! And I'm tired of people dismissing my dreams with a chuckle and a pat on the head.","Listen, buster... I hate caviar! And I'm tired of people dismissing my dreams with a chuckle and a pat on the head.","ROSE: You know, my dream has always been to just chuck it all and become an artist... living in a garret, poor but free!
+JACK: You wouldn't last two days. There's no hot water, and hardly ever any caviar.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",听着，混蛋……我讨厌鱼子酱！我也受够了别人带着一声轻笑和拍拍我的头就把我的梦想当回事地打发掉。,gpt-5.4-mini,听着，伙计……我讨厌鱼子酱！我也受够了别人总是带着一声轻笑，拍拍我的头，就把我的梦想当笑话。,gpt-5.4-mini
+titanic,L614680,L614683,u8455,JACK,u8462,ROSE,JACK: I'm sorry. Really... I am.,I'm sorry. Really... I am.,"ROSE: You know, my dream has always been to just chuck it all and become an artist... living in a garret, poor but free!
+JACK: You wouldn't last two days. There's no hot water, and hardly ever any caviar.
+ROSE: Listen, buster... I hate caviar! And I'm tired of people dismissing my dreams with a chuckle and a pat on the head.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",对不起。我真的……对不起。,gpt-5.4-mini,对不起。我真的是……对不起。,gpt-5.4-mini
+titanic,L614680,L614684,u8462,ROSE,u8455,JACK,"ROSE: Well, alright. There's something in me, Jack. I feel it. I don't know what it is, whether I should be an artist, or, I don't know... a dancer. Like Isadora Duncan.... a wild pagan spirit...","Well, alright. There's something in me, Jack. I feel it. I don't know what it is, whether I should be an artist, or, I don't know... a dancer. Like Isadora Duncan.... a wild pagan spirit...","JACK: You wouldn't last two days. There's no hot water, and hardly ever any caviar.
+ROSE: Listen, buster... I hate caviar! And I'm tired of people dismissing my dreams with a chuckle and a pat on the head.
+JACK: I'm sorry. Really... I am.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",好吧。杰克，我心里有某种东西。我能感觉到。我不知道那是什么，不知道我是该当艺术家，还是，或者，舞蹈家。像伊莎多拉·邓肯那样……一个狂野的异教灵魂……,gpt-5.4-mini,好吧。杰克，我心里有一种东西。我能感觉到。我不知道那是什么，是该做个艺术家，还是，我不知道……当个舞蹈演员。像伊莎多拉·邓肯那样……一种狂野的异教精神……,gpt-5.4-mini
+titanic,L614687,L614687,u8462,ROSE,,,"ROSE: So then what, Mr. Wandering Jack?","So then what, Mr. Wandering Jack?",,unclear,,那接下来呢，流浪的杰克先生？,gpt-5.4-mini,那接下来呢，四处游荡的杰克先生？,gpt-5.4-mini
+titanic,L614687,L614688,u8455,JACK,u8462,ROSE,"JACK: Well, then logging got to be too much like work, so I went down to Los Angeles to the pier in Santa Monica. That's a swell place, they even have a rollercoaster. I sketched portraits there for ten cents a piece.","Well, then logging got to be too much like work, so I went down to Los Angeles to the pier in Santa Monica. That's a swell place, they even have a rollercoaster. I sketched portraits there for ten cents a piece.","ROSE: So then what, Mr. Wandering Jack?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",后来吧，伐木越来越像干活，我就去了洛杉矶，去了圣莫尼卡码头。那地方可棒了，他们甚至还有过山车。我在那儿给人画肖像，一张十美分。,gpt-5.4-mini,后来呢，伐木这活儿干着干着就太像工作了，所以我就去了洛杉矶，去圣莫尼卡的码头。那地方真不错，他们甚至还有过山车。我在那儿给人画肖像，一张十美分。,gpt-5.4-mini
+titanic,L614687,L614689,u8462,ROSE,u8455,JACK,ROSE: A whole ten cents?!,A whole ten cents?!,"ROSE: So then what, Mr. Wandering Jack?
+JACK: Well, then logging got to be too much like work, so I went down to Los Angeles to the pier in Santa Monica. That's a swell place, they even have a rollercoaster. I sketched portraits there for ten cents a piece.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",整整十美分？！,gpt-5.4-mini,整整十美分？！,gpt-5.4-mini
+titanic,L614687,L614690,u8455,JACK,u8462,ROSE,"JACK: Yeah; it was great money... I could make a dollar a day, sometimes. But only in summer. When it got cold, I decided to go to Paris and see what the real artists were doing.","Yeah; it was great money... I could make a dollar a day, sometimes. But only in summer. When it got cold, I decided to go to Paris and see what the real artists were doing.","ROSE: So then what, Mr. Wandering Jack?
+JACK: Well, then logging got to be too much like work, so I went down to Los Angeles to the pier in Santa Monica. That's a swell place, they even have a rollercoaster. I sketched portraits there for ten cents a piece.
+ROSE: A whole ten cents?!",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",对啊，钱挣得挺不错……有时候一天能赚一块钱。不过只有夏天行。天一冷，我就决定去巴黎看看真正的艺术家都在干什么。,gpt-5.4-mini,是啊，那钱可真好赚……有时候一天能赚上一美元。不过只有夏天才行。天一冷，我就决定去巴黎看看那些真正的艺术家在干什么。,gpt-5.4-mini
+titanic,L614687,L614691,u8462,ROSE,u8455,JACK,"ROSE: Why can't I be like you Jack? Just head out for the horizon whenever I feel like it. Say we'll go there, sometime... to that pier... even if we only ever just talk about it.","Why can't I be like you Jack? Just head out for the horizon whenever I feel like it. Say we'll go there, sometime... to that pier... even if we only ever just talk about it.","JACK: Well, then logging got to be too much like work, so I went down to Los Angeles to the pier in Santa Monica. That's a swell place, they even have a rollercoaster. I sketched portraits there for ten cents a piece.
+ROSE: A whole ten cents?!
+JACK: Yeah; it was great money... I could make a dollar a day, sometimes. But only in summer. When it got cold, I decided to go to Paris and see what the real artists were doing.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",为什么我不能像你一样，杰克？想走就朝地平线出发。就说我们哪天去那儿……去那个码头……哪怕我们最后也只是说说而已。,gpt-5.4-mini,杰克，我为什么不能像你一样？想走的时候就朝着地平线出发。你说我们哪天去那儿吧……去那个码头……哪怕我们只是说说而已。,gpt-5.4-mini
+titanic,L614687,L614692,u8455,JACK,u8462,ROSE,"JACK: Alright, we're going. We'll drink cheap beer and go on the rollercoaster until we throw up and we'll ride horses on the beach... right in the surf... but you have to ride like a cowboy, none of that side-saddle stuff.","Alright, we're going. We'll drink cheap beer and go on the rollercoaster until we throw up and we'll ride horses on the beach... right in the surf... but you have to ride like a cowboy, none of that side-saddle stuff.","ROSE: A whole ten cents?!
+JACK: Yeah; it was great money... I could make a dollar a day, sometimes. But only in summer. When it got cold, I decided to go to Paris and see what the real artists were doing.
+ROSE: Why can't I be like you Jack? Just head out for the horizon whenever I feel like it. Say we'll go there, sometime... to that pier... even if we only ever just talk about it.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",好，我们去。我们喝便宜啤酒，坐过山车，坐到想吐；还要在海滩上骑马……就在浪里骑……不过你得像牛仔那样骑，别搞那种侧坐式。,gpt-5.4-mini,好，我们就去。我们会喝便宜啤酒，坐过山车坐到吐，还要在海滩上骑马……就在浪里……不过你得像牛仔那样骑，不准那种侧坐法。,gpt-5.4-mini
+titanic,L614687,L614693,u8462,ROSE,u8455,JACK,ROSE: You mean one leg on each side? Scandalous! Can you show me?,You mean one leg on each side? Scandalous! Can you show me?,"JACK: Yeah; it was great money... I could make a dollar a day, sometimes. But only in summer. When it got cold, I decided to go to Paris and see what the real artists were doing.
+ROSE: Why can't I be like you Jack? Just head out for the horizon whenever I feel like it. Say we'll go there, sometime... to that pier... even if we only ever just talk about it.
+JACK: Alright, we're going. We'll drink cheap beer and go on the rollercoaster until we throw up and we'll ride horses on the beach... right in the surf... but you have to ride like a cowboy, none of that side-saddle stuff.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你是说两腿分开骑？太失礼了！你能教我吗？,gpt-5.4-mini,你是说两腿跨着骑？太放肆了！你能教我吗？,gpt-5.4-mini
+titanic,L614687,L614694,u8455,JACK,u8462,ROSE,JACK: Sure. If you like.,Sure. If you like.,"ROSE: Why can't I be like you Jack? Just head out for the horizon whenever I feel like it. Say we'll go there, sometime... to that pier... even if we only ever just talk about it.
+JACK: Alright, we're going. We'll drink cheap beer and go on the rollercoaster until we throw up and we'll ride horses on the beach... right in the surf... but you have to ride like a cowboy, none of that side-saddle stuff.
+ROSE: You mean one leg on each side? Scandalous! Can you show me?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",当然。如果你想的话。,gpt-5.4-mini,当然。只要你愿意。,gpt-5.4-mini
+titanic,L614687,L614695,u8462,ROSE,u8455,JACK,ROSE: I think I would. And teach me to spit too. Like a man. Why should only men be able to spit. It's unfair.,I think I would. And teach me to spit too. Like a man. Why should only men be able to spit. It's unfair.,"JACK: Alright, we're going. We'll drink cheap beer and go on the rollercoaster until we throw up and we'll ride horses on the beach... right in the surf... but you have to ride like a cowboy, none of that side-saddle stuff.
+ROSE: You mean one leg on each side? Scandalous! Can you show me?
+JACK: Sure. If you like.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我想学。还有教我吐痰，像男人那样。凭什么只有男人才能吐痰？这太不公平了。,gpt-5.4-mini,我想学。还有教我吐痰，像男人一样。凭什么只有男人能吐痰，这不公平。,gpt-5.4-mini
+titanic,L614687,L614696,u8455,JACK,u8462,ROSE,"JACK: They didn't teach you that in finishing school? Here, it's easy. Watch closely.","They didn't teach you that in finishing school? Here, it's easy. Watch closely.","ROSE: You mean one leg on each side? Scandalous! Can you show me?
+JACK: Sure. If you like.
+ROSE: I think I would. And teach me to spit too. Like a man. Why should only men be able to spit. It's unfair.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",他们在礼仪学校没教你这个吗？来，很简单。看仔细了。,gpt-5.4-mini,他们在淑女学校没教你这个？看，很简单。仔细看着。,gpt-5.4-mini
+titanic,L614700,L614700,u8462,ROSE,,,"ROSE: Mother, may I introduce Jack Dawson.","Mother, may I introduce Jack Dawson.",,unclear,,妈妈，我来介绍一下杰克·道森。,gpt-5.4-mini,妈妈，我能介绍一下杰克·道森吗？,gpt-5.4-mini
+titanic,L614700,L614701,u8463,RUTH,u8462,ROSE,"RUTH: Charmed, I'm sure.","Charmed, I'm sure.","ROSE: Mother, may I introduce Jack Dawson.",familial,"Speaker: RUTH
+Listener: ROSE
+Relationship: familial
+Translation guidance: Preserve family-related intimacy or authority in the wording.",很高兴认识你，我想。,gpt-5.4-mini,很高兴认识你，想必如此。,gpt-5.4-mini
+titanic,L614715,L614715,u8455,JACK,,,"JACK: I saw that in a nickelodeon once, and I always wanted to do it.","I saw that in a nickelodeon once, and I always wanted to do it.",,unclear,,我在一家小电影院里见过一次，后来一直想这么做。,gpt-5.4-mini,我在一家镍币电影院里看过一次，一直想这么做。,gpt-5.4-mini
+titanic,L614715,L614716,u8462,ROSE,u8455,JACK,"ROSE: Cal, surely you remember Mr. Dawson.","Cal, surely you remember Mr. Dawson.","JACK: I saw that in a nickelodeon once, and I always wanted to do it.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",卡尔，你当然记得道森先生吧。,gpt-5.4-mini,卡尔，你一定还记得道森先生吧。,gpt-5.4-mini
+titanic,L614737,L614737,u8450,CAL,,,CAL: Just a soupcon of lemon... ...it improves the flavor with champagne.,Just a soupcon of lemon... ...it improves the flavor with champagne.,,unclear,,只要一点点柠檬……跟香槟一起，味道会更好。,gpt-5.4-mini,只要一点点柠檬……配香槟，味道会更好。,gpt-5.4-mini
+titanic,L614737,L614738,u8455,JACK,u8450,CAL,"JACK: No caviar for me, thanks. Never did like it much.","No caviar for me, thanks. Never did like it much.",CAL: Just a soupcon of lemon... ...it improves the flavor with champagne.,adversarial,"Speaker: JACK
+Listener: CAL
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",我不要鱼子酱，谢谢。我本来就不太喜欢。,gpt-5.4-mini,鱼子酱就免了，谢谢。我一直都不怎么喜欢。,gpt-5.4-mini
+titanic,L614754,L614754,u8462,ROSE,,,"ROSE: Your ship is a wonder, Mr. Andrews. Truly.","Your ship is a wonder, Mr. Andrews. Truly.",,unclear,,安德鲁斯先生，你的船真是个奇迹，真的。,gpt-5.4-mini,安德鲁斯先生，您的船真是个奇迹。真的。,gpt-5.4-mini
+titanic,L614754,L614755,u8446,ANDREWS,u8462,ROSE,"ANDREWS: Thank you, Rose.","Thank you, Rose.","ROSE: Your ship is a wonder, Mr. Andrews. Truly.",acquaintance,"Speaker: ANDREWS
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",谢谢你，Rose。,gpt-5.4-mini,谢谢你，露丝。,gpt-5.4-mini
+titanic,L614760,L614760,u8455,JACK,,,JACK: No thanks. I'm heading back.,No thanks. I'm heading back.,,unclear,,不用了，谢谢。我得回去了。,gpt-5.4-mini,不用了，谢谢。我得回去了。,gpt-5.4-mini
+titanic,L614760,L614761,u8450,CAL,u8455,JACK,"CAL: Probably best. It'll be all business and politics, that sort of thing. Wouldn't interest you. Good of you to come.","Probably best. It'll be all business and politics, that sort of thing. Wouldn't interest you. Good of you to come.",JACK: No thanks. I'm heading back.,adversarial,"Speaker: CAL
+Listener: JACK
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",也好。到时候都是生意和政治之类的事，你不会感兴趣。谢谢你能来。,gpt-5.4-mini,也好。那儿只会是些生意和政治之类的事，你不会感兴趣。你能来，算你有心了。,gpt-5.4-mini
+titanic,L614762,L614762,u8462,ROSE,,,"ROSE: Jack, must you go?","Jack, must you go?",,unclear,,杰克，你非走不可吗？,gpt-5.4-mini,杰克，你一定要走吗？,gpt-5.4-mini
+titanic,L614762,L614763,u8455,JACK,u8462,ROSE,JACK: Time for my coach to turn back into a pumpkin.,Time for my coach to turn back into a pumpkin.,"ROSE: Jack, must you go?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我的马车该变回南瓜了。,gpt-5.4-mini,我该回去了，车马要变回南瓜了。,gpt-5.4-mini
+titanic,L614765,L614765,u8462,ROSE,,,"ROSE: May I cut in, miss?","May I cut in, miss?",,unclear,,小姐，我可以插个舞吗？,gpt-5.4-mini,小姐，我可以插个队吗？,gpt-5.4-mini
+titanic,L614765,L614766,u8455,JACK,u8462,ROSE,"JACK: You're still my best girl, Cora.","You're still my best girl, Cora.","ROSE: May I cut in, miss?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你还是我最好的姑娘，科拉。,gpt-5.4-mini,你还是我最心爱的姑娘，科拉。,gpt-5.4-mini
+titanic,L614767,L614767,u8462,ROSE,,,ROSE: I don't know the steps.,I don't know the steps.,,unclear,,我不知道舞步。,gpt-5.4-mini,我不会跳。,gpt-5.4-mini
+titanic,L614767,L614768,u8455,JACK,u8462,ROSE,JACK: Just move with me. Don't think.,Just move with me. Don't think.,ROSE: I don't know the steps.,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",跟着我动，别想太多。,gpt-5.4-mini,跟着我就行，别想。,gpt-5.4-mini
+titanic,L614770,L614770,u8455,JACK,,,JACK: How you two doin'?,How you two doin'?,,unclear,,你们俩怎么样？,gpt-5.4-mini,你们俩怎么样？,gpt-5.4-mini
+titanic,L614770,L614771,u8451,FABRIZIO,u8455,JACK,"FABRIZIO: I don't know what she's say, she don't know what I say, so we get along fine.","I don't know what she's say, she don't know what I say, so we get along fine.",JACK: How you two doin'?,friend,"Speaker: FABRIZIO
+Listener: JACK
+Relationship: friend
+Translation guidance: Preserve casual, familiar, and friendly wording.",我不知道她在说什么，她也不知道我在说什么，所以我们相处得很好。,gpt-5.4-mini,我不知道她说什么，她也不知道我说什么，所以我们相处得挺好。,gpt-5.4-mini
+titanic,L614780,L614780,u8455,JACK,,,JACK: You're not one of them. There's been a mistake.,You're not one of them. There's been a mistake.,,unclear,,你不是他们中的一员。一定是弄错了。,gpt-5.4-mini,你不是他们中的一员。一定是搞错了。,gpt-5.4-mini
+titanic,L614780,L614781,u8462,ROSE,u8455,JACK,ROSE: A mistake?,A mistake?,JACK: You're not one of them. There's been a mistake.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",搞错了？,gpt-5.4-mini,弄错了？,gpt-5.4-mini
+titanic,L614780,L614782,u8455,JACK,u8462,ROSE,JACK: Uh huh. You got mailed to the wrong address.,Uh huh. You got mailed to the wrong address.,"JACK: You're not one of them. There's been a mistake.
+ROSE: A mistake?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",嗯哼。把你送错地址了。,gpt-5.4-mini,嗯。把你送错地址了。,gpt-5.4-mini
+titanic,L614780,L614783,u8462,ROSE,u8455,JACK,"ROSE: I did, didn't I? Look! A shooting star.","I did, didn't I? Look! A shooting star.","JACK: You're not one of them. There's been a mistake.
+ROSE: A mistake?
+JACK: Uh huh. You got mailed to the wrong address.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我弄错了，是不是？看！流星。,gpt-5.4-mini,我还真是。看！流星。,gpt-5.4-mini
+titanic,L614780,L614784,u8455,JACK,u8462,ROSE,"JACK: That was a long one. My father used to say that whenever you saw one, it was a soul going to heaven.","That was a long one. My father used to say that whenever you saw one, it was a soul going to heaven.","ROSE: A mistake?
+JACK: Uh huh. You got mailed to the wrong address.
+ROSE: I did, didn't I? Look! A shooting star.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",那颗很长。我父亲以前总说，只要看到它，那就是一个灵魂升上天堂。,gpt-5.4-mini,那颗挺长的。我父亲常说，只要看到一颗流星，那就是一个灵魂在上天堂。,gpt-5.4-mini
+titanic,L614780,L614785,u8462,ROSE,u8455,JACK,ROSE: I like that. Aren't we supposed to wish on it?,I like that. Aren't we supposed to wish on it?,"JACK: Uh huh. You got mailed to the wrong address.
+ROSE: I did, didn't I? Look! A shooting star.
+JACK: That was a long one. My father used to say that whenever you saw one, it was a soul going to heaven.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我喜欢这个。我们不是应该对它许愿吗？,gpt-5.4-mini,我喜欢这个。我们不是该对它许愿吗？,gpt-5.4-mini
+titanic,L614789,L614789,u8450,CAL,,,CAL: I had hoped you would come to me last night.,I had hoped you would come to me last night.,,unclear,,我原本希望你昨晚会来找我。,gpt-5.4-mini,我本希望你昨晚能来找我。,gpt-5.4-mini
+titanic,L614789,L614790,u8462,ROSE,u8450,CAL,ROSE: I was tired.,I was tired.,CAL: I had hoped you would come to me last night.,romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我累了。,gpt-5.4-mini,我累了。,gpt-5.4-mini
+titanic,L614789,L614791,u8450,CAL,u8462,ROSE,CAL: Yes. Your exertions below decks were no doubt exausting.,Yes. Your exertions below decks were no doubt exausting.,"CAL: I had hoped you would come to me last night.
+ROSE: I was tired.",acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",是啊，你在下层甲板的活动，想必一定累坏了。,gpt-5.4-mini,是啊。你在下层甲板的忙碌想必累坏了。,gpt-5.4-mini
+titanic,L614789,L614792,u8462,ROSE,u8450,CAL,ROSE: I see you had that undertaker of a manservant follow me.,I see you had that undertaker of a manservant follow me.,"CAL: I had hoped you would come to me last night.
+ROSE: I was tired.
+CAL: Yes. Your exertions below decks were no doubt exausting.",romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我看你还让那个像殡仪员一样的男仆跟踪我。,gpt-5.4-mini,我看你让那个像殡葬师一样的男仆跟踪我了。,gpt-5.4-mini
+titanic,L614789,L614793,u8450,CAL,u8462,ROSE,CAL: You will never behave like that again! Do you understand?,You will never behave like that again! Do you understand?,"ROSE: I was tired.
+CAL: Yes. Your exertions below decks were no doubt exausting.
+ROSE: I see you had that undertaker of a manservant follow me.",acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",你再也不许那样行事了！听明白了吗？,gpt-5.4-mini,你以后再也不许那样做了！你明白吗？,gpt-5.4-mini
+titanic,L614789,L614794,u8462,ROSE,u8450,CAL,ROSE: I'm not some foreman in your mills than you can command! I am your fiancee --,I'm not some foreman in your mills than you can command! I am your fiancee --,"CAL: Yes. Your exertions below decks were no doubt exausting.
+ROSE: I see you had that undertaker of a manservant follow me.
+CAL: You will never behave like that again! Do you understand?",romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我不是你工厂里那种可以任你呼来喝去的工头！我是你的未婚妻——,gpt-5.4-mini,我不是你工厂里的什么工头，不是你可以随意指使的！我是你的未婚妻——,gpt-5.4-mini
+titanic,L614799,L614799,u8463,RUTH,,,"RUTH: Rose, this is not a game! Our situation is precarious. You know the money's gone!","Rose, this is not a game! Our situation is precarious. You know the money's gone!",,unclear,,罗斯，这不是儿戏！我们的处境很危险。你知道钱已经没了！,gpt-5.4-mini,露丝，这不是游戏！我们的处境很危险。你知道钱已经没了！,gpt-5.4-mini
+titanic,L614799,L614800,u8462,ROSE,u8463,RUTH,ROSE: Of course I know it's gone. You remind me every day!,Of course I know it's gone. You remind me every day!,"RUTH: Rose, this is not a game! Our situation is precarious. You know the money's gone!",familial,"Speaker: ROSE
+Listener: RUTH
+Relationship: familial
+Translation guidance: Preserve family-related intimacy or authority in the wording.",我当然知道没了。你每天都提醒我！,gpt-5.4-mini,我当然知道没了！你每天都提醒我！,gpt-5.4-mini
+titanic,L614799,L614801,u8463,RUTH,u8462,ROSE,RUTH: Your father left us nothing but a legacy of bad debts hidden by a good name. And that name is the only card we have to play.,Your father left us nothing but a legacy of bad debts hidden by a good name. And that name is the only card we have to play.,"RUTH: Rose, this is not a game! Our situation is precarious. You know the money's gone!
+ROSE: Of course I know it's gone. You remind me every day!",familial,"Speaker: RUTH
+Listener: ROSE
+Relationship: familial
+Translation guidance: Preserve family-related intimacy or authority in the wording.",你父亲留给我们的，只有一个好名声掩盖下的烂账。就只有这块招牌，是我们唯一能打的牌。,gpt-5.4-mini,你父亲除了用好名声掩盖的坏债务，什么都没给我们留下。而这个名声，就是我们唯一能打的牌。,gpt-5.4-mini
+titanic,L614802,L614802,u8463,RUTH,,,"RUTH: I don't understand you. It is a fine match with Hockley, and it will insure our survival.","I don't understand you. It is a fine match with Hockley, and it will insure our survival.",,unclear,,我真不懂你。跟霍克利结亲是门好亲事，而且这能保证我们的生存。,gpt-5.4-mini,我不懂你。和霍克利结婚是门好亲事，这会保证我们的生存。,gpt-5.4-mini
+titanic,L614802,L614803,u8462,ROSE,u8463,RUTH,ROSE: How can you put this on my shoulders?,How can you put this on my shoulders?,"RUTH: I don't understand you. It is a fine match with Hockley, and it will insure our survival.",familial,"Speaker: ROSE
+Listener: RUTH
+Relationship: familial
+Translation guidance: Preserve family-related intimacy or authority in the wording.",你怎么能把这件事都推到我身上？,gpt-5.4-mini,你怎么能把这件事推到我肩上？,gpt-5.4-mini
+titanic,L614804,L614804,u8463,RUTH,,,"RUTH: Do you want to se me working as a seamstress? Is that what you want? Do you want to see our fine things sold at an auction, our memories scattered to the winds? My God, Rose, how can you be so selfish?","Do you want to se me working as a seamstress? Is that what you want? Do you want to see our fine things sold at an auction, our memories scattered to the winds? My God, Rose, how can you be so selfish?",,unclear,,你想看我做女裁缝吗？你就是想看这个？你想看我们那些值钱的东西被拍卖掉，我们的回忆被风吹散吗？我的天啊，罗斯，你怎么能这么自私？,gpt-5.4-mini,你想看我做裁缝吗？你想这样吗？你想看我们那些好东西被拿去拍卖，我们的回忆被风吹散吗？我的天，露丝，你怎么能这么自私？,gpt-5.4-mini
+titanic,L614804,L614805,u8462,ROSE,u8463,RUTH,ROSE: It's so unfair.,It's so unfair.,"RUTH: Do you want to se me working as a seamstress? Is that what you want? Do you want to see our fine things sold at an auction, our memories scattered to the winds? My God, Rose, how can you be so selfish?",familial,"Speaker: ROSE
+Listener: RUTH
+Relationship: familial
+Translation guidance: Preserve family-related intimacy or authority in the wording.",这太不公平了。,gpt-5.4-mini,这太不公平了。,gpt-5.4-mini
+titanic,L614804,L614806,u8463,RUTH,u8462,ROSE,RUTH: Of course it's unfair! We're women. Our choices are never easy.,Of course it's unfair! We're women. Our choices are never easy.,"RUTH: Do you want to se me working as a seamstress? Is that what you want? Do you want to see our fine things sold at an auction, our memories scattered to the winds? My God, Rose, how can you be so selfish?
+ROSE: It's so unfair.",familial,"Speaker: RUTH
+Listener: ROSE
+Relationship: familial
+Translation guidance: Preserve family-related intimacy or authority in the wording.",当然不公平！我们是女人，我们的选择从来都不容易。,gpt-5.4-mini,当然不公平！我们是女人，我们的选择从来都不容易。,gpt-5.4-mini
+titanic,L614829,L614829,u8462,ROSE,,,"ROSE: Mr. Andrews, I did the sum in my head, and with the number of lifeboats times the capacity you mentioned... forgive me, but it seems that there are not enough for everyone aboard.","Mr. Andrews, I did the sum in my head, and with the number of lifeboats times the capacity you mentioned... forgive me, but it seems that there are not enough for everyone aboard.",,unclear,,安德鲁先生，我在脑子里算了一下，把救生艇数量乘以您提到的载客人数……请原谅我，但似乎不够船上所有人用。,gpt-5.4-mini,安德鲁斯先生，我在脑子里算过了，按救生艇的数量乘以您提到的容量……请原谅我，但看来，船上所有人都不够用。,gpt-5.4-mini
+titanic,L614829,L614830,u8446,ANDREWS,u8462,ROSE,"ANDREWS: About half, actually. Rose, you miss nothing, do you? In fact, I put in these new type davits, which can take an extra row of boats here. But it was thought... by some... that the deck would look too cluttered. So I was over-ruled.","About half, actually. Rose, you miss nothing, do you? In fact, I put in these new type davits, which can take an extra row of boats here. But it was thought... by some... that the deck would look too cluttered. So I was over-ruled.","ROSE: Mr. Andrews, I did the sum in my head, and with the number of lifeboats times the capacity you mentioned... forgive me, but it seems that there are not enough for everyone aboard.",acquaintance,"Speaker: ANDREWS
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",实际上，只有一半。露丝，你可真是什么都看得出来，不是吗？其实，我装了这种新式吊艇架，这里本来还能多加一排救生艇。可有人……认为……甲板看起来会太拥挤。所以他们否决了我的建议。,gpt-5.4-mini,实际上只有一半。罗斯，你真是什么都逃不过你的眼睛，不是吗？其实，我装了这种新式吊艇架，这里还能再加一排救生艇。不过有人觉得……甲板上会显得太拥挤。所以他们否决了我的意见。,gpt-5.4-mini
+titanic,L614834,L614834,u8455,JACK,,,"JACK: Rose, you're no picnic... you're a spoiled little brat even, but under that you're a strong, pure heart, and you're the most amazingly astounding girl I've ever known and --","Rose, you're no picnic... you're a spoiled little brat even, but under that you're a strong, pure heart, and you're the most amazingly astounding girl I've ever known and --",,unclear,,露丝，你可不是什么省油的灯……你甚至是个被宠坏的小丫头，可在这下面，你有一颗坚强、纯真的心，你是我认识的最了不起、最让人惊叹的姑娘，而且——,gpt-5.4-mini,露丝，你可不是个省油的灯……说你是个被宠坏的小丫头都不为过，可在这下面，你有一颗坚强而纯洁的心。你是我认识过的最了不起、最惊人的女孩，而且——,gpt-5.4-mini
+titanic,L614834,L614835,u8462,ROSE,u8455,JACK,"ROSE: Jack, I --","Jack, I --","JACK: Rose, you're no picnic... you're a spoiled little brat even, but under that you're a strong, pure heart, and you're the most amazingly astounding girl I've ever known and --",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",杰克，我……,gpt-5.4-mini,杰克，我——,gpt-5.4-mini
+titanic,L614834,L614836,u8455,JACK,u8462,ROSE,"JACK: No wait. Let me try to get this out. You're amazing... and I know I have nothing to offer you, Rose. I know that. But I'm involved now. You jump, I jump, remember? I can't turn away without knowin' that you're goin' to be alright.","No wait. Let me try to get this out. You're amazing... and I know I have nothing to offer you, Rose. I know that. But I'm involved now. You jump, I jump, remember? I can't turn away without knowin' that you're goin' to be alright.","JACK: Rose, you're no picnic... you're a spoiled little brat even, but under that you're a strong, pure heart, and you're the most amazingly astounding girl I've ever known and --
+ROSE: Jack, I --",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",等等，让我把话说完。你很了不起……我知道我没什么能给你的，Rose，我知道。但我已经卷进来了。你跳，我就跳，还记得吗？要是不知道你会没事，我没法就这么转身离开。,gpt-5.4-mini,别，等等。让我把话说完。你很了不起……我知道我给不了你什么，露丝，我知道。但我已经卷进来了。你跳，我就跳，还记得吗？我没法就这么转身离开，除非知道你会平安无事。,gpt-5.4-mini
+titanic,L614837,L614837,u8462,ROSE,,,ROSE: You're making this very hard. I'll be fine. Really.,You're making this very hard. I'll be fine. Really.,,unclear,,你这样让我很为难。我会没事的。真的。,gpt-5.4-mini,你这样让我很难受。我会没事的。真的。,gpt-5.4-mini
+titanic,L614837,L614838,u8455,JACK,u8462,ROSE,"JACK: I don't think so. They've got you in a glass jar like some butterfly, and you're goin' to die if you don't break out. Maybe not right away, 'cause you're strong. But sooner or later the fire in you is goin' to go out.","I don't think so. They've got you in a glass jar like some butterfly, and you're goin' to die if you don't break out. Maybe not right away, 'cause you're strong. But sooner or later the fire in you is goin' to go out.",ROSE: You're making this very hard. I'll be fine. Really.,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我不这么想。他们把你像只蝴蝶一样关在玻璃罩里，要是你不挣脱出来，你会死的。也许不是马上，因为你很坚强。但迟早，你心里的火会熄灭。,gpt-5.4-mini,我不这么认为。他们把你关在玻璃瓶里，像只蝴蝶一样；要是你不挣脱出来，你会死的。也许不是马上，因为你很坚强。可迟早你心里的火会熄灭。,gpt-5.4-mini
+titanic,L614837,L614839,u8462,ROSE,u8455,JACK,"ROSE: It's not up to you to save me, Jack.","It's not up to you to save me, Jack.","ROSE: You're making this very hard. I'll be fine. Really.
+JACK: I don't think so. They've got you in a glass jar like some butterfly, and you're goin' to die if you don't break out. Maybe not right away, 'cause you're strong. But sooner or later the fire in you is goin' to go out.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你没资格来救我，杰克。,gpt-5.4-mini,杰克，轮不到你来救我。,gpt-5.4-mini
+titanic,L614837,L614840,u8455,JACK,u8462,ROSE,JACK: You're right. Only you can do that.,You're right. Only you can do that.,"ROSE: You're making this very hard. I'll be fine. Really.
+JACK: I don't think so. They've got you in a glass jar like some butterfly, and you're goin' to die if you don't break out. Maybe not right away, 'cause you're strong. But sooner or later the fire in you is goin' to go out.
+ROSE: It's not up to you to save me, Jack.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你说得对。只有你自己能做到。,gpt-5.4-mini,你说得对。只有你自己能做到。,gpt-5.4-mini
+titanic,L614837,L614841,u8462,ROSE,u8455,JACK,"ROSE: I have to get back, they'll miss me. Please, Jack, for both our sakes, leave me alone.","I have to get back, they'll miss me. Please, Jack, for both our sakes, leave me alone.","JACK: I don't think so. They've got you in a glass jar like some butterfly, and you're goin' to die if you don't break out. Maybe not right away, 'cause you're strong. But sooner or later the fire in you is goin' to go out.
+ROSE: It's not up to you to save me, Jack.
+JACK: You're right. Only you can do that.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我得回去了，他们会发现我不见的。求你了，杰克，为了我们俩，你离我远点。,gpt-5.4-mini,我得回去了，他们会找我的。求你了，杰克，为了我们俩好，别再来找我了。,gpt-5.4-mini
+titanic,L614846,L614846,u8462,ROSE,,,ROSE: Fabrizio said you might be up --,Fabrizio said you might be up --,,unclear,,法布里齐奥说你可能已经醒了——,gpt-5.4-mini,法布里齐奥说你可能醒了——,gpt-5.4-mini
+titanic,L614846,L614847,u8455,JACK,u8462,ROSE,JACK: Sssshh. Come here.,Sssshh. Come here.,ROSE: Fabrizio said you might be up --,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",嘘。过来。,gpt-5.4-mini,嘘。过来。,gpt-5.4-mini
+titanic,L614857,L614857,u8462,ROSE,,,ROSE: Will this light do? Don't artists need good light?,Will this light do? Don't artists need good light?,,unclear,,这灯光够吗？画家不是都需要好光线吗？,gpt-5.4-mini,这光行吗？画家不是需要好的光线吗？,gpt-5.4-mini
+titanic,L614857,L614858,u8455,JACK,u8462,ROSE,"JACK: Zat is true, I am not used to working in such 'orreeble conditions. Hey... Monet!","Zat is true, I am not used to working in such 'orreeble conditions. Hey... Monet!",ROSE: Will this light do? Don't artists need good light?,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",这倒是真的，我可不习惯在这么糟糕的条件下作画。嘿……莫奈！,gpt-5.4-mini,没错，我不习惯在这么糟的环境下作画。嘿……莫奈！,gpt-5.4-mini
+titanic,L614860,L614860,u8462,ROSE,,,ROSE: Cal insist on lugging this thing everywhere.,Cal insist on lugging this thing everywhere.,,unclear,,卡尔非要把这玩意儿带到处走。,gpt-5.4-mini,卡尔非要把这东西带得到处都是。,gpt-5.4-mini
+titanic,L614860,L614861,u8455,JACK,u8462,ROSE,JACK: Should I be expecting him anytime soon?,Should I be expecting him anytime soon?,ROSE: Cal insist on lugging this thing everywhere.,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我是不是该等他快来了？,gpt-5.4-mini,我是不是很快就该等他来了？,gpt-5.4-mini
+titanic,L614860,L614862,u8462,ROSE,u8455,JACK,ROSE: Not as long as the cigars and brandy hold out.,Not as long as the cigars and brandy hold out.,"ROSE: Cal insist on lugging this thing everywhere.
+JACK: Should I be expecting him anytime soon?",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",只要雪茄和白兰地还没喝完，他就不会来。,gpt-5.4-mini,只要雪茄和白兰地还没喝完，他就不会来。,gpt-5.4-mini
+titanic,L614863,L614863,u8455,JACK,,,JACK: What is it? A sapphire?,What is it? A sapphire?,,unclear,,这是什么？蓝宝石？,gpt-5.4-mini,这是什么？蓝宝石？,gpt-5.4-mini
+titanic,L614863,L614864,u8462,ROSE,u8455,JACK,"ROSE: A diamond. A very rare diamond, called the Heart of the Ocean.","A diamond. A very rare diamond, called the Heart of the Ocean.",JACK: What is it? A sapphire?,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",一颗钻石。非常稀有的钻石，叫做“海洋之心”。,gpt-5.4-mini,一颗钻石。一颗非常稀有的钻石，叫“海洋之心”。,gpt-5.4-mini
+titanic,L614869,L614869,u8462,ROSE,,,"ROSE: I believe you are blushing, Mr. Big Artiste. I can't imagine Monsieur Monet blushing.","I believe you are blushing, Mr. Big Artiste. I can't imagine Monsieur Monet blushing.",,unclear,,我看你脸红了，大艺术家先生。我真想不出莫奈先生脸红是什么样子。,gpt-5.4-mini,我想你是在脸红吧，大艺术家先生。我真想象不出莫奈先生会脸红。,gpt-5.4-mini
+titanic,L614869,L614870,u8455,JACK,u8462,ROSE,JACK: He does landscapes.,He does landscapes.,"ROSE: I believe you are blushing, Mr. Big Artiste. I can't imagine Monsieur Monet blushing.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",他画风景画。,gpt-5.4-mini,他画风景。,gpt-5.4-mini
+titanic,L614876,L614876,u8459,LOVEJOY,,,LOVEJOY: None of the stewards have seen her.,None of the stewards have seen her.,,unclear,,没有一个侍者见过她。,gpt-5.4-mini,所有服务生都没见过她。,gpt-5.4-mini
+titanic,L614876,L614877,u8450,CAL,u8459,LOVEJOY,"CAL: This is ridiculous, Lovejoy. Find her.","This is ridiculous, Lovejoy. Find her.",LOVEJOY: None of the stewards have seen her.,acquaintance,"Speaker: CAL
+Listener: LOVEJOY
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",这太荒唐了，洛夫乔伊。把她找出来。,gpt-5.4-mini,这太荒唐了，洛夫乔伊。找到她。,gpt-5.4-mini
+titanic,L614878,L614878,u8457,LIGHTOLLER,,,"LIGHTOLLER: I don't think I've ever seen such a flat calm, in 24 years at sea.","I don't think I've ever seen such a flat calm, in 24 years at sea.",,unclear,,我想，在海上待了24年，我还从没见过这么风平浪静的海面。,gpt-5.4-mini,我在海上待了24年，还从没见过这么风平浪静。,gpt-5.4-mini
+titanic,L614878,L614879,u8464,SMITH,u8457,LIGHTOLLER,"SMITH: Yes, like a mill pond. Not a breath of wind.","Yes, like a mill pond. Not a breath of wind.","LIGHTOLLER: I don't think I've ever seen such a flat calm, in 24 years at sea.",authority,"Speaker: SMITH
+Listener: LIGHTOLLER
+Relationship: authority
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",是啊，像个平静的池塘，一丝风都没有。,gpt-5.4-mini,是啊，像个平静的池塘，一丝风都没有。,gpt-5.4-mini
+titanic,L614878,L614880,u8457,LIGHTOLLER,u8464,SMITH,"LIGHTOLLER: It's make the bergs harder to see, with no breaking water at the base.","It's make the bergs harder to see, with no breaking water at the base.","LIGHTOLLER: I don't think I've ever seen such a flat calm, in 24 years at sea.
+SMITH: Yes, like a mill pond. Not a breath of wind.",authority,"Speaker: LIGHTOLLER
+Listener: SMITH
+Relationship: authority
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",这会让冰山更难看见，底下没有破碎的水花。,gpt-5.4-mini,这会让冰山更难看清，底部没有破碎的浪花。,gpt-5.4-mini
+titanic,L614878,L614881,u8464,SMITH,u8457,LIGHTOLLER,"SMITH: Mmmmm. Well, I'm off. Maintain speed and heading, Mr. Lightoller.","Mmmmm. Well, I'm off. Maintain speed and heading, Mr. Lightoller.","LIGHTOLLER: I don't think I've ever seen such a flat calm, in 24 years at sea.
+SMITH: Yes, like a mill pond. Not a breath of wind.
+LIGHTOLLER: It's make the bergs harder to see, with no breaking water at the base.",authority,"Speaker: SMITH
+Listener: LIGHTOLLER
+Relationship: authority
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",嗯。好，我走了。保持航速和航向，莱托勒先生。,gpt-5.4-mini,嗯。好了，我走了。保持航速和航向，莱托勒先生。,gpt-5.4-mini
+titanic,L614878,L614882,u8457,LIGHTOLLER,u8464,SMITH,LIGHTOLLER: Yes sir.,Yes sir.,"SMITH: Yes, like a mill pond. Not a breath of wind.
+LIGHTOLLER: It's make the bergs harder to see, with no breaking water at the base.
+SMITH: Mmmmm. Well, I'm off. Maintain speed and heading, Mr. Lightoller.",authority,"Speaker: LIGHTOLLER
+Listener: SMITH
+Relationship: authority
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",是，先生。,gpt-5.4-mini,是，长官。,gpt-5.4-mini
+titanic,L614878,L614883,u8464,SMITH,u8457,LIGHTOLLER,"SMITH: And wake me, of course, if anything becomes in the slightest degree doubtful.","And wake me, of course, if anything becomes in the slightest degree doubtful.","LIGHTOLLER: It's make the bergs harder to see, with no breaking water at the base.
+SMITH: Mmmmm. Well, I'm off. Maintain speed and heading, Mr. Lightoller.
+LIGHTOLLER: Yes sir.",authority,"Speaker: SMITH
+Listener: LIGHTOLLER
+Relationship: authority
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",当然了，若有任何情况哪怕只是一点点不确定，就叫醒我。,gpt-5.4-mini,当然，如果有任何一点可疑，立刻叫醒我。,gpt-5.4-mini
+titanic,L614887,L614887,u8455,JACK,,,"JACK: Pretty tough for a valet, this fella.","Pretty tough for a valet, this fella.",,unclear,,这家伙，真像个男仆。,gpt-5.4-mini,这家伙当个贴身男仆可真够呛。,gpt-5.4-mini
+titanic,L614887,L614888,u8462,ROSE,u8455,JACK,"ROSE: He's an ex-Pinkerton. Cal's father hired him to keep Cal out of trouble... to make sure he always got back to the hotel with his wallet and watch, after some crawl through the less reputable parts of town...","He's an ex-Pinkerton. Cal's father hired him to keep Cal out of trouble... to make sure he always got back to the hotel with his wallet and watch, after some crawl through the less reputable parts of town...","JACK: Pretty tough for a valet, this fella.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",他以前是平克顿侦探。卡尔的父亲雇他看着卡尔，免得他惹麻烦……保证他在城里那些不太体面的地方鬼混一圈后，回到酒店时钱包和手表还在……,gpt-5.4-mini,他以前是平克顿侦探。卡尔的父亲雇他来盯着卡尔，免得他惹麻烦……确保他每次在城里那些不太体面的地方晃完之后，都能把钱包和手表带回酒店……,gpt-5.4-mini
+titanic,L614887,L614889,u8455,JACK,u8462,ROSE,JACK: Kinda like we're doin' right now -- uh oh!,Kinda like we're doin' right now -- uh oh!,"JACK: Pretty tough for a valet, this fella.
+ROSE: He's an ex-Pinkerton. Cal's father hired him to keep Cal out of trouble... to make sure he always got back to the hotel with his wallet and watch, after some crawl through the less reputable parts of town...",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",就像我们现在这样——哦，糟了！,gpt-5.4-mini,就像我们现在在干的事——哦，不！,gpt-5.4-mini
+titanic,L614893,L614893,u8455,JACK,,,"JACK: Where to, Miss?","Where to, Miss?",,unclear,,小姐，要去哪儿？,gpt-5.4-mini,小姐，去哪儿？,gpt-5.4-mini
+titanic,L614893,L614894,u8462,ROSE,u8455,JACK,ROSE: To the stars.,To the stars.,"JACK: Where to, Miss?",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",去星星那儿。,gpt-5.4-mini,去星星那儿。,gpt-5.4-mini
+titanic,L614895,L614895,u8455,JACK,,,JACK: Are you nervous?,Are you nervous?,,unclear,,你紧张吗？,gpt-5.4-mini,你紧张吗？,gpt-5.4-mini
+titanic,L614895,L614896,u8462,ROSE,u8455,JACK,"ROSE: Au contraire, mon cher.","Au contraire, mon cher.",JACK: Are you nervous?,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",恰恰相反，我亲爱的。,gpt-5.4-mini,恰恰相反，我亲爱的。,gpt-5.4-mini
+titanic,L614903,L614903,u8462,ROSE,,,ROSE: You're trembling.,You're trembling.,,unclear,,你在发抖。,gpt-5.4-mini,你在发抖。,gpt-5.4-mini
+titanic,L614903,L614904,u8455,JACK,u8462,ROSE,JACK: It's okay. I'm alright.,It's okay. I'm alright.,ROSE: You're trembling.,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",没事。我很好。,gpt-5.4-mini,没事，我很好。,gpt-5.4-mini
+titanic,L614907,L614907,u8452,FLEET,,,"FLEET: You can smell ice, you know, when it's near.","You can smell ice, you know, when it's near.",,unclear,,你知道，冰块靠近的时候，能闻得到。,gpt-5.4-mini,你知道，冰块靠近的时候，是闻得到的。,gpt-5.4-mini
+titanic,L614907,L614908,u8456,LEE,u8452,FLEET,LEE: Bollocks.,Bollocks.,"FLEET: You can smell ice, you know, when it's near.",friend,"Speaker: LEE
+Listener: FLEET
+Relationship: friend
+Translation guidance: Preserve casual, familiar, and friendly wording.",胡扯。,gpt-5.4-mini,扯淡。,gpt-5.4-mini
+titanic,L614907,L614909,u8452,FLEET,u8456,LEE,FLEET: Well I can.,Well I can.,"FLEET: You can smell ice, you know, when it's near.
+LEE: Bollocks.",friend,"Speaker: FLEET
+Listener: LEE
+Relationship: friend
+Translation guidance: Preserve casual, familiar, and friendly wording.",反正我能闻到。,gpt-5.4-mini,反正我能闻出来。,gpt-5.4-mini
+titanic,L614912,L614912,u8462,ROSE,,,"ROSE: When this ship docks, I'm getting off with you.","When this ship docks, I'm getting off with you.",,unclear,,等这艘船靠岸后，我要跟你一起下船。,gpt-5.4-mini,这艘船靠岸时，我要跟你一起下船。,gpt-5.4-mini
+titanic,L614912,L614913,u8455,JACK,u8462,ROSE,JACK: This is crazy.,This is crazy.,"ROSE: When this ship docks, I'm getting off with you.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",这太疯狂了。,gpt-5.4-mini,这太疯狂了。,gpt-5.4-mini
+titanic,L614912,L614914,u8462,ROSE,u8455,JACK,ROSE: I know. It doesn't make any sense. That's why I trust it.,I know. It doesn't make any sense. That's why I trust it.,"ROSE: When this ship docks, I'm getting off with you.
+JACK: This is crazy.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我知道。这根本说不通，所以我才相信它。,gpt-5.4-mini,我知道，这毫无道理，所以我才相信它。,gpt-5.4-mini
+titanic,L614915,L614915,u8452,FLEET,,,"FLEET: Cor... look at that, would ya.","Cor... look at that, would ya.",,unclear,,科尔……你看那个，行不行。,gpt-5.4-mini,科尔……你看那个，行吗。,gpt-5.4-mini
+titanic,L614915,L614916,u8456,LEE,u8452,FLEET,LEE: They're a bloody sight warmer than we are.,They're a bloody sight warmer than we are.,"FLEET: Cor... look at that, would ya.",friend,"Speaker: LEE
+Listener: FLEET
+Relationship: friend
+Translation guidance: Preserve casual, familiar, and friendly wording.",它们可比咱们暖和多了。,gpt-5.4-mini,它们可比我们暖和多了。,gpt-5.4-mini
+titanic,L614915,L614917,u8452,FLEET,u8456,LEE,"FLEET: Well if that's what it takes for us two to get warm, I'd rather not, if it's all the same.","Well if that's what it takes for us two to get warm, I'd rather not, if it's all the same.","FLEET: Cor... look at that, would ya.
+LEE: They're a bloody sight warmer than we are.",friend,"Speaker: FLEET
+Listener: LEE
+Relationship: friend
+Translation guidance: Preserve casual, familiar, and friendly wording.",要是为了让咱俩暖和起来得那样，我宁可不要，反正我是不愿意。,gpt-5.4-mini,嗯，要是咱俩得靠那样才能暖和起来，那我宁可不要，免得麻烦。,gpt-5.4-mini
+titanic,L614931,L614931,u8452,FLEET,,,"FLEET: Oy, mate... that was a close shave.","Oy, mate... that was a close shave.",,unclear,,哎，伙计……真是惊险。,gpt-5.4-mini,喂，伙计……刚才真是千钧一发。,gpt-5.4-mini
+titanic,L614931,L614932,u8456,LEE,u8452,FLEET,"LEE: Smell ice, can you? Bleedin' Christ!","Smell ice, can you? Bleedin' Christ!","FLEET: Oy, mate... that was a close shave.",friend,"Speaker: LEE
+Listener: FLEET
+Relationship: friend
+Translation guidance: Preserve casual, familiar, and friendly wording.",闻到冰味儿了？见鬼！,gpt-5.4-mini,你闻得到冰味儿吗？该死的！,gpt-5.4-mini
+titanic,L614943,L614943,u8455,JACK,,,JACK: Looks okay. I don't see anything.,Looks okay. I don't see anything.,,unclear,,看起来没事。我什么也没看到。,gpt-5.4-mini,看起来还行。我什么也没看见。,gpt-5.4-mini
+titanic,L614943,L614944,u8462,ROSE,u8455,JACK,ROSE: Could it have damaged the ship?,Could it have damaged the ship?,JACK: Looks okay. I don't see anything.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",会不会把船弄坏了？,gpt-5.4-mini,它会不会把船弄坏了？,gpt-5.4-mini
+titanic,L614943,L614945,u8455,JACK,u8462,ROSE,JACK: It didn't seem like much of a bump. I'm sure we're okay.,It didn't seem like much of a bump. I'm sure we're okay.,"JACK: Looks okay. I don't see anything.
+ROSE: Could it have damaged the ship?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",看起来撞得不算严重。我敢肯定我们没事。,gpt-5.4-mini,刚才那一下撞得不算厉害，我想我们没事。,gpt-5.4-mini
+titanic,L614952,L614952,u8454,ISMAY,,,ISMAY: Why have we stopped?,Why have we stopped?,,unclear,,我们为什么停了？,gpt-5.4-mini,我们为什么停下来了？,gpt-5.4-mini
+titanic,L614952,L614953,u8464,SMITH,u8454,ISMAY,SMITH: We've struck ice.,We've struck ice.,ISMAY: Why have we stopped?,unclear,"Speaker: SMITH
+Listener: ISMAY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我们撞到冰了。,gpt-5.4-mini,我们撞到冰了。,gpt-5.4-mini
+titanic,L614952,L614954,u8454,ISMAY,u8464,SMITH,"ISMAY: Well, do you think the ship is seriously damaged?","Well, do you think the ship is seriously damaged?","ISMAY: Why have we stopped?
+SMITH: We've struck ice.",unclear,"Speaker: ISMAY
+Listener: SMITH
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",那你觉得船受了严重损伤吗？,gpt-5.4-mini,那么，您觉得船受了严重损坏吗？,gpt-5.4-mini
+titanic,L614952,L614955,u8464,SMITH,u8454,ISMAY,SMITH: Excuse me.,Excuse me.,"ISMAY: Why have we stopped?
+SMITH: We've struck ice.
+ISMAY: Well, do you think the ship is seriously damaged?",unclear,"Speaker: SMITH
+Listener: ISMAY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",借过。,gpt-5.4-mini,借过。,gpt-5.4-mini
+titanic,L614961,L614961,u8455,JACK,,,JACK: It's bad.,It's bad.,,unclear,,情况很糟。,gpt-5.4-mini,情况很糟。,gpt-5.4-mini
+titanic,L614961,L614962,u8462,ROSE,u8455,JACK,ROSE: We have to tell Mother and Cal.,We have to tell Mother and Cal.,JACK: It's bad.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我们得告诉妈妈和卡尔。,gpt-5.4-mini,我们得告诉妈妈和卡尔。,gpt-5.4-mini
+titanic,L614961,L614963,u8455,JACK,u8462,ROSE,JACK: Now it's worse.,Now it's worse.,"JACK: It's bad.
+ROSE: We have to tell Mother and Cal.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",现在更糟了。,gpt-5.4-mini,现在更糟了。,gpt-5.4-mini
+titanic,L614961,L614964,u8462,ROSE,u8455,JACK,"ROSE: Come with me, Jack. I jump, you jump... Right?","Come with me, Jack. I jump, you jump... Right?","JACK: It's bad.
+ROSE: We have to tell Mother and Cal.
+JACK: Now it's worse.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",跟我来，杰克。我跳，你也跳……对吗？,gpt-5.4-mini,跟我来，杰克。我跳，你就跳……对吗？,gpt-5.4-mini
+titanic,L614961,L614965,u8455,JACK,u8462,ROSE,JACK: Right.,Right.,"ROSE: We have to tell Mother and Cal.
+JACK: Now it's worse.
+ROSE: Come with me, Jack. I jump, you jump... Right?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",对。,gpt-5.4-mini,对。,gpt-5.4-mini
+titanic,L614967,L614967,u8462,ROSE,,,ROSE: Something serious has happened.,Something serious has happened.,,unclear,,出大事了。,gpt-5.4-mini,出大事了。,gpt-5.4-mini
+titanic,L614967,L614968,u8450,CAL,u8462,ROSE,CAL: That's right. Two things dear to me have disappeared this evening. Now that one is back... ...I have a pretty good idea where to find the other. Search him.,That's right. Two things dear to me have disappeared this evening. Now that one is back... ...I have a pretty good idea where to find the other. Search him.,ROSE: Something serious has happened.,acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",没错。今晚我有两样珍视的东西都不见了。现在有一样回来了……我大概知道另一样在哪儿了。搜他。,gpt-5.4-mini,没错。今晚有两样我珍视的东西不见了。现在其中一样回来了……我大致知道另一样在哪儿了。去搜他。,gpt-5.4-mini
+titanic,L614970,L614970,u8455,JACK,,,JACK: This is horseshit.,This is horseshit.,,unclear,,这他妈的扯淡。,gpt-5.4-mini,这他妈是狗屁。,gpt-5.4-mini
+titanic,L614970,L614971,u8462,ROSE,u8455,JACK,"ROSE: Cal, you can't be serious! We're in the middle of an emergency and you --","Cal, you can't be serious! We're in the middle of an emergency and you --",JACK: This is horseshit.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",卡尔，你不会是认真的吧！我们正处在紧急情况下，你——,gpt-5.4-mini,卡尔，你不是认真的吧！我们正处在紧急时刻，而你——,gpt-5.4-mini
+titanic,L614975,L614975,u8455,JACK,,,"JACK: Don't you believe it, Rose. Don't!","Don't you believe it, Rose. Don't!",,unclear,,别相信，Rose。别！,gpt-5.4-mini,罗丝，别相信。千万别！,gpt-5.4-mini
+titanic,L614975,L614976,u8462,ROSE,u8455,JACK,ROSE: He couldn't have.,He couldn't have.,"JACK: Don't you believe it, Rose. Don't!",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",他不可能的。,gpt-5.4-mini,他不可能。,gpt-5.4-mini
+titanic,L614978,L614978,u8462,ROSE,,,ROSE: But I was with him the whole time.,But I was with him the whole time.,,unclear,,可是我一直和他在一起。,gpt-5.4-mini,但我一直都跟他在一起。,gpt-5.4-mini
+titanic,L614978,L614979,u8450,CAL,u8462,ROSE,CAL: Maybe he did it while you were putting your clothes back on.,Maybe he did it while you were putting your clothes back on.,ROSE: But I was with him the whole time.,acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",也许他是在你穿回衣服的时候干的。,gpt-5.4-mini,也许是你穿回衣服的时候他干的。,gpt-5.4-mini
+titanic,L614987,L614987,u8446,ANDREWS,,,ANDREWS: Water 14 feet above the keel in ten minutes... in the forepeak... in all three holds... and in boiler room six.,Water 14 feet above the keel in ten minutes... in the forepeak... in all three holds... and in boiler room six.,,unclear,,十分钟内，水位就会高出龙骨14英尺……前尖舱……三个货舱全都……还有六号锅炉舱。,gpt-5.4-mini,龙骨上方14英尺的水位，十分钟内……在前尖舱……三个货舱全都进水了……还有六号锅炉房。,gpt-5.4-mini
+titanic,L614987,L614988,u8464,SMITH,u8446,ANDREWS,SMITH: That's right.,That's right.,ANDREWS: Water 14 feet above the keel in ten minutes... in the forepeak... in all three holds... and in boiler room six.,acquaintance,"Speaker: SMITH
+Listener: ANDREWS
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",没错。,gpt-5.4-mini,对。,gpt-5.4-mini
+titanic,L614987,L614989,u8446,ANDREWS,u8464,SMITH,ANDREWS: Five compartments. She can stay afloat with the first four compartments breached. But not five. Not five. As she goes down by the head the water will spill over the tops of the bulkheads... at E Deck... from one to the next... back and back. There's no stopping it.,Five compartments. She can stay afloat with the first four compartments breached. But not five. Not five. As she goes down by the head the water will spill over the tops of the bulkheads... at E Deck... from one to the next... back and back. There's no stopping it.,"ANDREWS: Water 14 feet above the keel in ten minutes... in the forepeak... in all three holds... and in boiler room six.
+SMITH: That's right.",unclear,"Speaker: ANDREWS
+Listener: SMITH
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",五个舱室。她在前四个舱室破损的情况下还能浮着，但五个不行。绝对不行。等船头下沉时，海水就会漫过舱壁顶端……到E甲板……一个接一个……不断往后灌。根本挡不住。,gpt-5.4-mini,五个舱室。前四个舱室进水，她还能浮着。五个就不行了。五个不行。一旦船头下沉，海水就会漫过舱壁顶端……到E甲板……一个舱室接一个舱室……不断往后漫。根本挡不住。,gpt-5.4-mini
+titanic,L614987,L614990,u8464,SMITH,u8446,ANDREWS,SMITH: The pumps --,The pumps --,"ANDREWS: Water 14 feet above the keel in ten minutes... in the forepeak... in all three holds... and in boiler room six.
+SMITH: That's right.
+ANDREWS: Five compartments. She can stay afloat with the first four compartments breached. But not five. Not five. As she goes down by the head the water will spill over the tops of the bulkheads... at E Deck... from one to the next... back and back. There's no stopping it.",acquaintance,"Speaker: SMITH
+Listener: ANDREWS
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",水泵——,gpt-5.4-mini,水泵——,gpt-5.4-mini
+titanic,L614987,L614991,u8446,ANDREWS,u8464,SMITH,"ANDREWS: The pumps buy you time... but minutes only. From this moment, no matter what we do, Titanic will founder.","The pumps buy you time... but minutes only. From this moment, no matter what we do, Titanic will founder.","SMITH: That's right.
+ANDREWS: Five compartments. She can stay afloat with the first four compartments breached. But not five. Not five. As she goes down by the head the water will spill over the tops of the bulkheads... at E Deck... from one to the next... back and back. There's no stopping it.
+SMITH: The pumps --",unclear,"Speaker: ANDREWS
+Listener: SMITH
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",抽水机只能给你争取时间……但也只有几分钟。从现在起，不管我们做什么，泰坦尼克号都会沉没。,gpt-5.4-mini,泵能给你争取时间……但也只有几分钟。从这一刻起，不管我们做什么，泰坦尼克号都会沉没。,gpt-5.4-mini
+titanic,L614994,L614994,u8464,SMITH,,,SMITH: How much time?,How much time?,,unclear,,还要多久？,gpt-5.4-mini,还有多少时间？,gpt-5.4-mini
+titanic,L614994,L614995,u8446,ANDREWS,u8464,SMITH,"ANDREWS: An hour, two at most.","An hour, two at most.",SMITH: How much time?,unclear,"Speaker: ANDREWS
+Listener: SMITH
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",一个小时，最多两个小时。,gpt-5.4-mini,一个小时，最多两个。,gpt-5.4-mini
+titanic,L615018,L615018,u8450,CAL,,,CAL: It's just the God damned English doing everything by the book.,It's just the God damned English doing everything by the book.,,unclear,,就是那帮该死的英国佬，什么事都按规矩来。,gpt-5.4-mini,就是那些该死的英国人，凡事都按规矩来。,gpt-5.4-mini
+titanic,L615018,L615019,u8463,RUTH,u8450,CAL,"RUTH: There's no need for language, Mr. Hockley. Go back and turn the heater on in my room, so it won't be too cold when we get back.","There's no need for language, Mr. Hockley. Go back and turn the heater on in my room, so it won't be too cold when we get back.",CAL: It's just the God damned English doing everything by the book.,acquaintance,"Speaker: RUTH
+Listener: CAL
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",不必说了，霍克利先生。回去把我房间的暖气打开，等我们回来时别太冷。,gpt-5.4-mini,没必要说这种话，霍克利先生。回去把我房间里的暖气打开，免得我们回来时太冷。,gpt-5.4-mini
+titanic,L615020,L615020,u8462,ROSE,,,"ROSE: I saw the iceberg, Mr. Andrews. And I see it in your eyes. Please tell me the truth.","I saw the iceberg, Mr. Andrews. And I see it in your eyes. Please tell me the truth.",,unclear,,我看见冰山了，安德鲁先生。你眼里也看得见。请告诉我实话。,gpt-5.4-mini,我看见冰山了，安德鲁先生。我也从你的眼神里看见了。请你告诉我真相。,gpt-5.4-mini
+titanic,L615020,L615021,u8446,ANDREWS,u8462,ROSE,ANDREWS: The ship will sink.,The ship will sink.,"ROSE: I saw the iceberg, Mr. Andrews. And I see it in your eyes. Please tell me the truth.",acquaintance,"Speaker: ANDREWS
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",这艘船会沉。,gpt-5.4-mini,这艘船会沉。,gpt-5.4-mini
+titanic,L615020,L615022,u8462,ROSE,u8446,ANDREWS,ROSE: You're certain?,You're certain?,"ROSE: I saw the iceberg, Mr. Andrews. And I see it in your eyes. Please tell me the truth.
+ANDREWS: The ship will sink.",acquaintance,"Speaker: ROSE
+Listener: ANDREWS
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",你确定？,gpt-5.4-mini,你确定吗？,gpt-5.4-mini
+titanic,L615020,L615023,u8446,ANDREWS,u8462,ROSE,ANDREWS: Yes. In an hour or so... all this... will be at the bottom of the Atlantic.,Yes. In an hour or so... all this... will be at the bottom of the Atlantic.,"ROSE: I saw the iceberg, Mr. Andrews. And I see it in your eyes. Please tell me the truth.
+ANDREWS: The ship will sink.
+ROSE: You're certain?",acquaintance,"Speaker: ANDREWS
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",是的。一个小时左右……这里的一切……都会沉到大西洋底。,gpt-5.4-mini,是的。再过一个小时左右……这一切……都会沉到大西洋底。,gpt-5.4-mini
+titanic,L615025,L615025,u8446,ANDREWS,,,"ANDREWS: Please tell only who you must, I don't want to be responsible for a panic. And get to a boat quickly. Don't wait. You remember what I told you about the boats?","Please tell only who you must, I don't want to be responsible for a panic. And get to a boat quickly. Don't wait. You remember what I told you about the boats?",,unclear,,请只告诉该告诉的人，我不想引起恐慌。快去登上救生艇，别等了。你还记得我跟你说过那些艇的事吗？,gpt-5.4-mini,请只告诉必须知道的人，我不想引起恐慌。然后尽快上救生艇，别等。你还记得我跟你说过救生艇的事吗？,gpt-5.4-mini
+titanic,L615025,L615026,u8462,ROSE,u8446,ANDREWS,"ROSE: Yes, I understand. Thank you.","Yes, I understand. Thank you.","ANDREWS: Please tell only who you must, I don't want to be responsible for a panic. And get to a boat quickly. Don't wait. You remember what I told you about the boats?",acquaintance,"Speaker: ROSE
+Listener: ANDREWS
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",是，我明白了。谢谢你。,gpt-5.4-mini,是的，我明白。谢谢。,gpt-5.4-mini
+titanic,L615058,L615058,u8462,ROSE,,,"ROSE: Oh, Mother shut up! Don't you understand? The water is freezing and there aren't enough boats... not enough by half. Half the people on this ship are going to die.","Oh, Mother shut up! Don't you understand? The water is freezing and there aren't enough boats... not enough by half. Half the people on this ship are going to die.",,unclear,,妈妈，闭嘴！你还不明白吗？水都冻得刺骨，而且救生艇根本不够……连一半都不够。这船上一半的人都会死。,gpt-5.4-mini,妈，闭嘴！你还不明白吗？水冷得刺骨，救生艇根本不够……连一半都不够。这船上一半的人都要死。,gpt-5.4-mini
+titanic,L615058,L615059,u8450,CAL,u8462,ROSE,CAL: Not the better half.,Not the better half.,"ROSE: Oh, Mother shut up! Don't you understand? The water is freezing and there aren't enough boats... not enough by half. Half the people on this ship are going to die.",acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",不是更好的那一半。,gpt-5.4-mini,不是更好的一半。,gpt-5.4-mini
+titanic,L615063,L615063,u8463,RUTH,,,"RUTH: Rose, get in the boat!","Rose, get in the boat!",,unclear,,露丝，快上船！,gpt-5.4-mini,露丝，上船！,gpt-5.4-mini
+titanic,L615063,L615064,u8462,ROSE,u8463,RUTH,"ROSE: Goodbye, mother.","Goodbye, mother.","RUTH: Rose, get in the boat!",familial,"Speaker: ROSE
+Listener: RUTH
+Relationship: familial
+Translation guidance: Preserve family-related intimacy or authority in the wording.",再见，妈妈。,gpt-5.4-mini,再见，母亲。,gpt-5.4-mini
+titanic,L615065,L615065,u8450,CAL,,,CAL: Where are you going? To him? Is that it? To be a whore to that gutter rat?,Where are you going? To him? Is that it? To be a whore to that gutter rat?,,unclear,,你要去哪儿？去找他？就这样？去给那个下贱的臭老鼠当婊子？,gpt-5.4-mini,你要去哪儿？去找他吗？是吗？去给那个下水沟里的老鼠当婊子？,gpt-5.4-mini
+titanic,L615065,L615066,u8462,ROSE,u8450,CAL,ROSE: I'd rather be his whore than your wife.,I'd rather be his whore than your wife.,CAL: Where are you going? To him? Is that it? To be a whore to that gutter rat?,romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我宁愿当他的婊子，也不愿当你的妻子。,gpt-5.4-mini,我宁愿当他的妓女，也不愿当你的妻子。,gpt-5.4-mini
+titanic,L615071,L615071,u8453,HITCHINS,,,HITCHINS: Keep pulling... away from the ship. Pull.,Keep pulling... away from the ship. Pull.,,unclear,,继续拉……离船远点。拉。,gpt-5.4-mini,继续拉……离船远点。拉！,gpt-5.4-mini
+titanic,L615071,L615072,u8461,MOLLY,u8453,HITCHINS,"MOLLY: Ain't you boys ever rowed before? Here, gimme those oars. I'll show ya how it's done.","Ain't you boys ever rowed before? Here, gimme those oars. I'll show ya how it's done.",HITCHINS: Keep pulling... away from the ship. Pull.,adversarial,"Speaker: MOLLY
+Listener: HITCHINS
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",你们这些小伙子以前就没划过船吗？来，把船桨给我。我给你们示范示范。,gpt-5.4-mini,你们这些小伙子以前就没划过船吗？来，把船桨给我。我来给你们看看该怎么划。,gpt-5.4-mini
+titanic,L615076,L615076,u8462,ROSE,,,"ROSE: Mr. Andrews, thank God! Where would the Master at Arms take someone under arrest?!","Mr. Andrews, thank God! Where would the Master at Arms take someone under arrest?!",,unclear,,安德鲁斯先生，谢天谢地！负责拘捕的人会把被逮捕的人带到哪儿去？！,gpt-5.4-mini,安德鲁斯先生，谢天谢地！纠察长把一个被逮捕的人带到哪儿去？！,gpt-5.4-mini
+titanic,L615076,L615077,u8446,ANDREWS,u8462,ROSE,ANDREWS: What? You have to get to a boat right away!,What? You have to get to a boat right away!,"ROSE: Mr. Andrews, thank God! Where would the Master at Arms take someone under arrest?!",acquaintance,"Speaker: ANDREWS
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",什么？你得马上上救生艇！,gpt-5.4-mini,什么？你得马上去救生艇！,gpt-5.4-mini
+titanic,L615076,L615078,u8462,ROSE,u8446,ANDREWS,"ROSE: No! I'll do this with or without your help, sir. But without will take longer.","No! I'll do this with or without your help, sir. But without will take longer.","ROSE: Mr. Andrews, thank God! Where would the Master at Arms take someone under arrest?!
+ANDREWS: What? You have to get to a boat right away!",acquaintance,"Speaker: ROSE
+Listener: ANDREWS
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",不！不管有没有您的帮忙，先生，我都要这么做。不过没有您的帮忙会更慢。,gpt-5.4-mini,不！不管有没有您的帮助，先生，这事我都得做。但没有您的帮助会更慢。,gpt-5.4-mini
+titanic,L615076,L615079,u8446,ANDREWS,u8462,ROSE,"ANDREWS: Take the elevator to the very bottom, go left, down the crewman's passage, then make a right.","Take the elevator to the very bottom, go left, down the crewman's passage, then make a right.","ROSE: Mr. Andrews, thank God! Where would the Master at Arms take someone under arrest?!
+ANDREWS: What? You have to get to a boat right away!
+ROSE: No! I'll do this with or without your help, sir. But without will take longer.",acquaintance,"Speaker: ANDREWS
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",坐电梯到底层，往左，顺着船员通道下去，然后右拐。,gpt-5.4-mini,坐电梯到最底层，左转，沿着船员通道下去，然后右转。,gpt-5.4-mini
+titanic,L615076,L615080,u8462,ROSE,u8446,ANDREWS,"ROSE: Bottom, left, right. I have it.","Bottom, left, right. I have it.","ANDREWS: What? You have to get to a boat right away!
+ROSE: No! I'll do this with or without your help, sir. But without will take longer.
+ANDREWS: Take the elevator to the very bottom, go left, down the crewman's passage, then make a right.",acquaintance,"Speaker: ROSE
+Listener: ANDREWS
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",最底层，左边，右边。我记住了。,gpt-5.4-mini,到底，左，右。我记住了。,gpt-5.4-mini
+titanic,L615076,L615081,u8446,ANDREWS,u8462,ROSE,"ANDREWS: Hurry, Rose.","Hurry, Rose.","ROSE: No! I'll do this with or without your help, sir. But without will take longer.
+ANDREWS: Take the elevator to the very bottom, go left, down the crewman's passage, then make a right.
+ROSE: Bottom, left, right. I have it.",acquaintance,"Speaker: ANDREWS
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",快点，露丝。,gpt-5.4-mini,快点，Rose。,gpt-5.4-mini
+titanic,L615090,L615090,u8455,JACK,,,JACK: That guy Lovejoy put it in my pocket.,That guy Lovejoy put it in my pocket.,,unclear,,那个叫洛夫乔伊的家伙把它塞进我口袋里的。,gpt-5.4-mini,那个叫洛夫乔伊的家伙把它塞进我口袋里的。,gpt-5.4-mini
+titanic,L615090,L615091,u8462,ROSE,u8455,JACK,"ROSE: I know, I know.","I know, I know.",JACK: That guy Lovejoy put it in my pocket.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我知道，我知道。,gpt-5.4-mini,我知道，我知道。,gpt-5.4-mini
+titanic,L615090,L615092,u8455,JACK,u8462,ROSE,JACK: See if you can find a key for these. Try those drawers. It's a little brass one.,See if you can find a key for these. Try those drawers. It's a little brass one.,"JACK: That guy Lovejoy put it in my pocket.
+ROSE: I know, I know.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",看看能不能找把钥匙。试试那些抽屉，是一把小黄铜钥匙。,gpt-5.4-mini,看看能不能找把钥匙开这个。试试那些抽屉，是一把小黄铜钥匙。,gpt-5.4-mini
+titanic,L615093,L615093,u8455,JACK,,,JACK: So... how did you find out I didn't do it?,So... how did you find out I didn't do it?,,unclear,,那……你是怎么发现不是我干的？,gpt-5.4-mini,所以……你是怎么知道不是我干的？,gpt-5.4-mini
+titanic,L615093,L615094,u8462,ROSE,u8455,JACK,ROSE: I didn't. I just realized I already knew.,I didn't. I just realized I already knew.,JACK: So... how did you find out I didn't do it?,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我没有。我只是意识到我本来就知道。,gpt-5.4-mini,我没有。我只是意识到，我其实早就知道了。,gpt-5.4-mini
+titanic,L615097,L615097,u8455,JACK,,,JACK: You have to go for help.,You have to go for help.,,unclear,,你得去找人帮忙。,gpt-5.4-mini,你得去找人帮忙。,gpt-5.4-mini
+titanic,L615097,L615098,u8462,ROSE,u8455,JACK,ROSE: I'll be right back.,I'll be right back.,JACK: You have to go for help.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我马上回来。,gpt-5.4-mini,我马上回来。,gpt-5.4-mini
+titanic,L615097,L615099,u8455,JACK,u8462,ROSE,JACK: I'll wait here.,I'll wait here.,"JACK: You have to go for help.
+ROSE: I'll be right back.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我在这儿等你。,gpt-5.4-mini,我在这儿等你。,gpt-5.4-mini
+titanic,L615108,L615108,u8462,ROSE,,,ROSE: Will this work?,Will this work?,,unclear,,这行得通吗？,gpt-5.4-mini,这样行吗？,gpt-5.4-mini
+titanic,L615108,L615109,u8455,JACK,u8462,ROSE,JACK: We'll find out.,We'll find out.,ROSE: Will this work?,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我们试试就知道了。,gpt-5.4-mini,我们看看吧。,gpt-5.4-mini
+titanic,L615128,L615128,u8459,LOVEJOY,,,LOVEJOY: She's not on the starboard side either.,She's not on the starboard side either.,,unclear,,她也不在右舷那边。,gpt-5.4-mini,她也不在右舷这边。,gpt-5.4-mini
+titanic,L615128,L615129,u8450,CAL,u8459,LOVEJOY,CAL: We're running out of time. And this strutting martinet... ...isn't letting any men in at all.,We're running out of time. And this strutting martinet... ...isn't letting any men in at all.,LOVEJOY: She's not on the starboard side either.,acquaintance,"Speaker: CAL
+Listener: LOVEJOY
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",我们没多少时间了。而这个趾高气扬的独裁者……根本不让任何男人进去。,gpt-5.4-mini,我们没时间了。而这个趾高气扬的军官……根本不让任何男人进去。,gpt-5.4-mini
+titanic,L615128,L615130,u8459,LOVEJOY,u8450,CAL,LOVEJOY: The one on the other side is letting men in.,The one on the other side is letting men in.,"LOVEJOY: She's not on the starboard side either.
+CAL: We're running out of time. And this strutting martinet... ...isn't letting any men in at all.",ally,"Speaker: LOVEJOY
+Listener: CAL
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",另一边那艘允许男人上船。,gpt-5.4-mini,另一边那个倒是让男人进去。,gpt-5.4-mini
+titanic,L615128,L615131,u8450,CAL,u8459,LOVEJOY,CAL: Then that's our play. But we're still going to need some insurance. Come on.,Then that's our play. But we're still going to need some insurance. Come on.,"LOVEJOY: She's not on the starboard side either.
+CAL: We're running out of time. And this strutting martinet... ...isn't letting any men in at all.
+LOVEJOY: The one on the other side is letting men in.",acquaintance,"Speaker: CAL
+Listener: LOVEJOY
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",那就这么办。不过我们还是得有个保障。来。,gpt-5.4-mini,那就这么办。不过我们还需要点保障。走吧。,gpt-5.4-mini
+titanic,L615136,L615136,u8451,FABRIZIO,,,FABRIZIO: The boats are all going.,The boats are all going.,,unclear,,船都开走了。,gpt-5.4-mini,船都开走了。,gpt-5.4-mini
+titanic,L615136,L615137,u8455,JACK,u8451,FABRIZIO,JACK: We gotta get up there or we're gonna be gargling saltwater. Where's Tommy?,We gotta get up there or we're gonna be gargling saltwater. Where's Tommy?,FABRIZIO: The boats are all going.,ally,"Speaker: JACK
+Listener: FABRIZIO
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我们得上去，不然就得灌一肚子咸水。汤米呢？,gpt-5.4-mini,我们得上去，不然就得灌一肚子海水了。汤米在哪儿？,gpt-5.4-mini
+titanic,L615146,L615146,u8450,CAL,,,CAL: I make my own luck.,I make my own luck.,,unclear,,我自己的运气，我自己造。,gpt-5.4-mini,我靠自己创造运气。,gpt-5.4-mini
+titanic,L615146,L615147,u8459,LOVEJOY,u8450,CAL,LOVEJOY: So do I.,So do I.,CAL: I make my own luck.,ally,"Speaker: LOVEJOY
+Listener: CAL
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我也是。,gpt-5.4-mini,我也是。,gpt-5.4-mini
+titanic,L615153,L615153,u8453,HITCHINS,,,HITCHINS: The suction will pull us right down if we don't keep going.,The suction will pull us right down if we don't keep going.,,unclear,,如果我们不停前进，水流会把我们直接拖下去。,gpt-5.4-mini,如果我们不停往前走，吸力就会把我们直接拖下去。,gpt-5.4-mini
+titanic,L615153,L615154,u8461,MOLLY,u8453,HITCHINS,MOLLY: We got room for lots more. I say we go back.,We got room for lots more. I say we go back.,HITCHINS: The suction will pull us right down if we don't keep going.,adversarial,"Speaker: MOLLY
+Listener: HITCHINS
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",我们还能多救很多人。我说我们回去。,gpt-5.4-mini,我们还有地方。我的意见是回去。,gpt-5.4-mini
+titanic,L615153,L615155,u8453,HITCHINS,u8461,MOLLY,"HITCHINS: No! It's our lives now, not theirs. And I'm in charge of this boat! Now row!!","No! It's our lives now, not theirs. And I'm in charge of this boat! Now row!!","HITCHINS: The suction will pull us right down if we don't keep going.
+MOLLY: We got room for lots more. I say we go back.",adversarial,"Speaker: HITCHINS
+Listener: MOLLY
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",不行！现在是我们的命，不是他们的命。还有，这船现在我说了算！快划！！,gpt-5.4-mini,不行！现在是我们的命，不是他们的！而且这船现在由我指挥！快划！！,gpt-5.4-mini
+titanic,L615163,L615163,u8450,CAL,,,CAL: We're too late.,We're too late.,,unclear,,我们来晚了。,gpt-5.4-mini,我们来晚了。,gpt-5.4-mini
+titanic,L615163,L615164,u8459,LOVEJOY,u8450,CAL,LOVEJOY: There are still some boats forward. Stay with this one... Murdoch. He seems to be quite... practical.,There are still some boats forward. Stay with this one... Murdoch. He seems to be quite... practical.,CAL: We're too late.,ally,"Speaker: LOVEJOY
+Listener: CAL
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",前面还有几艘船。跟着这艘……默多克。他看起来挺……务实。,gpt-5.4-mini,前面还有几艘救生艇。跟着这艘……默多克。他看起来相当……务实。,gpt-5.4-mini
+titanic,L615183,L615183,u8462,ROSE,,,ROSE: I'm not going without you.,I'm not going without you.,,unclear,,我不会丢下你走的。,gpt-5.4-mini,我不会丢下你一个人走。,gpt-5.4-mini
+titanic,L615183,L615184,u8455,JACK,u8462,ROSE,"JACK: Get in the boat, Rose.","Get in the boat, Rose.",ROSE: I'm not going without you.,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",上船，露丝。,gpt-5.4-mini,上船，露丝。,gpt-5.4-mini
+titanic,L615190,L615190,u8450,CAL,,,CAL: There are boats on the other side that are allowing men in. Jack and I can get off safely. Both of us.,There are boats on the other side that are allowing men in. Jack and I can get off safely. Both of us.,,unclear,,那边有船，男人也能上。杰克和我都能安全离开。我们两个都能。,gpt-5.4-mini,另一边有船，男人也能上。我和杰克都能安全离开。我们两个都能。,gpt-5.4-mini
+titanic,L615190,L615191,u8455,JACK,u8450,CAL,JACK: I'll be alright. Hurry up so we can get going... we got our own boat to catch.,I'll be alright. Hurry up so we can get going... we got our own boat to catch.,CAL: There are boats on the other side that are allowing men in. Jack and I can get off safely. Both of us.,adversarial,"Speaker: JACK
+Listener: CAL
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",我会没事的。快点，我们得走了……我们还有自己的船要赶。,gpt-5.4-mini,我会没事的。快点，我们得走了……我们还有自己的船要赶。,gpt-5.4-mini
+titanic,L615190,L615192,u8450,CAL,u8455,JACK,"CAL: Get in... hurry up, it's almost full.","Get in... hurry up, it's almost full.","CAL: There are boats on the other side that are allowing men in. Jack and I can get off safely. Both of us.
+JACK: I'll be alright. Hurry up so we can get going... we got our own boat to catch.",adversarial,"Speaker: CAL
+Listener: JACK
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",进去……快点，快满了。,gpt-5.4-mini,上去……快点，快满了。,gpt-5.4-mini
+titanic,L615194,L615194,u8450,CAL,,,CAL: You're a good liar.,You're a good liar.,,unclear,,你很会撒谎。,gpt-5.4-mini,你很会撒谎。,gpt-5.4-mini
+titanic,L615194,L615195,u8455,JACK,u8450,CAL,JACK: Almost as good as you.,Almost as good as you.,CAL: You're a good liar.,adversarial,"Speaker: JACK
+Listener: CAL
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",差不多跟你一样厉害。,gpt-5.4-mini,差不多跟你一样好。,gpt-5.4-mini
+titanic,L615194,L615196,u8450,CAL,u8455,JACK,"CAL: I always win, Jack. One way or another. Pity I didn't keep that drawing. It's going to be worth a lot more by morning.","I always win, Jack. One way or another. Pity I didn't keep that drawing. It's going to be worth a lot more by morning.","CAL: You're a good liar.
+JACK: Almost as good as you.",adversarial,"Speaker: CAL
+Listener: JACK
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",我总会赢的，杰克，想方设法都会。可惜我没把那幅画留下。等到明天早上，它会值更多钱。,gpt-5.4-mini,我总是赢，杰克。总有办法。可惜我没把那幅画留下。到明天早上，它就会值更多钱。,gpt-5.4-mini
+titanic,L615199,L615199,u8462,ROSE,,,"ROSE: You jump, I jump, right?","You jump, I jump, right?",,unclear,,你跳，我就跳，对吧？,gpt-5.4-mini,你跳，我就跳，对吧？,gpt-5.4-mini
+titanic,L615199,L615200,u8455,JACK,u8462,ROSE,JACK: Right.,Right.,"ROSE: You jump, I jump, right?",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",对。,gpt-5.4-mini,对。,gpt-5.4-mini
+titanic,L615202,L615202,u8459,LOVEJOY,,,LOVEJOY: What could possible be funny?,What could possible be funny?,,unclear,,有什么好笑的？,gpt-5.4-mini,有什么好笑的？,gpt-5.4-mini
+titanic,L615202,L615203,u8450,CAL,u8459,LOVEJOY,CAL: I put the diamond in my coat pocket. And I put my coat... on her.,I put the diamond in my coat pocket. And I put my coat... on her.,LOVEJOY: What could possible be funny?,acquaintance,"Speaker: CAL
+Listener: LOVEJOY
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",我把钻石放进了大衣口袋。然后把我的大衣……披在了她身上。,gpt-5.4-mini,我把钻石放进了大衣口袋。然后我把大衣……披在她身上了。,gpt-5.4-mini
+titanic,L615224,L615224,u8462,ROSE,,,"ROSE: Won't you even make a try for it, Mr. Andrews?","Won't you even make a try for it, Mr. Andrews?",,unclear,,安德鲁斯先生，您连试都不肯试一下吗？,gpt-5.4-mini,安德鲁斯先生，你连试都不肯试一下吗？,gpt-5.4-mini
+titanic,L615224,L615225,u8446,ANDREWS,u8462,ROSE,"ANDREWS: I'm sorry that I didn't build you a stronger ship, young Rose.","I'm sorry that I didn't build you a stronger ship, young Rose.","ROSE: Won't you even make a try for it, Mr. Andrews?",acquaintance,"Speaker: ANDREWS
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",很抱歉，我没能给你造一艘更坚固的船，小罗斯。,gpt-5.4-mini,很抱歉我没能给你造一艘更坚固的船，年轻的罗斯。,gpt-5.4-mini
+titanic,L615227,L615227,u8446,ANDREWS,,,"ANDREWS: Good luck to you, Rose.","Good luck to you, Rose.",,unclear,,祝你好运，Rose。,gpt-5.4-mini,祝你好运，罗斯。,gpt-5.4-mini
+titanic,L615227,L615228,u8462,ROSE,u8446,ANDREWS,"ROSE: And to you, Mr. Andrews.","And to you, Mr. Andrews.","ANDREWS: Good luck to you, Rose.",acquaintance,"Speaker: ROSE
+Listener: ANDREWS
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",也祝您好运，安德鲁斯先生。,gpt-5.4-mini,也祝你好运，安德鲁斯先生。,gpt-5.4-mini
+titanic,L615251,L615251,u8455,JACK,,,JACK: Look for something floating. Some debris... wood... anything.,Look for something floating. Some debris... wood... anything.,,unclear,,找找有没有漂浮的东西。什么残骸……木头……什么都行。,gpt-5.4-mini,找找有没有漂着的东西。什么残骸……木头……什么都行。,gpt-5.4-mini
+titanic,L615251,L615252,u8462,ROSE,u8455,JACK,ROSE: It's so cold.,It's so cold.,JACK: Look for something floating. Some debris... wood... anything.,romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",太冷了。,gpt-5.4-mini,太冷了。,gpt-5.4-mini
+titanic,L615251,L615253,u8455,JACK,u8462,ROSE,"JACK: I know. I know. Help me, here. Look around.","I know. I know. Help me, here. Look around.","JACK: Look for something floating. Some debris... wood... anything.
+ROSE: It's so cold.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我知道，我知道。帮我一下，快找找四周。,gpt-5.4-mini,我知道，我知道。帮我一下，快找找四周。,gpt-5.4-mini
+titanic,L615266,L615266,u8453,HITCHINS,,,HITCHINS: They'll pull us right down I tell ya!,They'll pull us right down I tell ya!,,unclear,,他们会把我们直接拖下去，我跟你说！,gpt-5.4-mini,它们会把我们全都拽下去，我告诉你！,gpt-5.4-mini
+titanic,L615266,L615267,u8461,MOLLY,u8453,HITCHINS,"MOLLY: Aw knock it off, yer scarin' me. Come on girls, grab your oars. Let's go. Well come on!","Aw knock it off, yer scarin' me. Come on girls, grab your oars. Let's go. Well come on!",HITCHINS: They'll pull us right down I tell ya!,adversarial,"Speaker: MOLLY
+Listener: HITCHINS
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",行了，别嚷了，你吓着我了。来吧，姑娘们，拿起你们的桨。走吧。快点儿！,gpt-5.4-mini,少来了，你吓到我了。来吧，姑娘们，拿起船桨。走吧。快点，快点！,gpt-5.4-mini
+titanic,L615268,L615268,u8461,MOLLY,,,MOLLY: I don't understand a one of you. What's the matter with you? It's your men back there! We got plenty a' room for more.,I don't understand a one of you. What's the matter with you? It's your men back there! We got plenty a' room for more.,,unclear,,我真是一个都不懂你们。你们到底怎么回事？是你们的人在后头！我们这儿还有的是地方。,gpt-5.4-mini,我一个都不懂你们。你们到底怎么了？是你们后头那些男人！我们这儿还有的是地方，能再挤些人进来。,gpt-5.4-mini
+titanic,L615268,L615269,u8453,HITCHINS,u8461,MOLLY,"HITCHINS: If you don't shut that hole in yer face, there'll be one less in this boat!","If you don't shut that hole in yer face, there'll be one less in this boat!",MOLLY: I don't understand a one of you. What's the matter with you? It's your men back there! We got plenty a' room for more.,adversarial,"Speaker: HITCHINS
+Listener: MOLLY
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",你要是再不把你那张嘴闭上，这船上就少一个人！,gpt-5.4-mini,你要是再不闭上你那张嘴，这船上就会少一个人！,gpt-5.4-mini
+titanic,L615272,L615272,u8462,ROSE,,,ROSE: It's getting quiet.,It's getting quiet.,,unclear,,安静下来了。,gpt-5.4-mini,安静下来了。,gpt-5.4-mini
+titanic,L615272,L615273,u8455,JACK,u8462,ROSE,JACK: Just a few more minutes. It'll take them a while to get the boats organized...,Just a few more minutes. It'll take them a while to get the boats organized...,ROSE: It's getting quiet.,ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",再过几分钟就好。他们还得花点时间把救生艇安排好……,gpt-5.4-mini,再过几分钟就好了。他们得花点时间把救生艇安排好……,gpt-5.4-mini
+titanic,L615276,L615276,u8455,JACK,,,"JACK: No... don't say your good-byes, Rose. Don't you give up. Don't do it.","No... don't say your good-byes, Rose. Don't you give up. Don't do it.",,unclear,,不……别说再见，露丝。别放弃。别这么做。,gpt-5.4-mini,不……别说再见，露丝。别放弃。别这么做。,gpt-5.4-mini
+titanic,L615276,L615277,u8462,ROSE,u8455,JACK,ROSE: I'm so cold.,I'm so cold.,"JACK: No... don't say your good-byes, Rose. Don't you give up. Don't do it.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我好冷。,gpt-5.4-mini,我好冷。,gpt-5.4-mini
+titanic,L615276,L615278,u8455,JACK,u8462,ROSE,"JACK: You're going to get out of this... you're going to go on and you're going to make babies and watch them grow and you're going to die an old lady, warm in your bed. Not here. Not this night. Do you understand me?","You're going to get out of this... you're going to go on and you're going to make babies and watch them grow and you're going to die an old lady, warm in your bed. Not here. Not this night. Do you understand me?","JACK: No... don't say your good-byes, Rose. Don't you give up. Don't do it.
+ROSE: I'm so cold.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",你会活下去的……你会继续活下去，生孩子，看着他们长大，然后你会在温暖的床上安享晚年。不是在这里。不是今晚。你明白吗？,gpt-5.4-mini,你会活着出去的……你会继续活下去，你会生孩子，看着他们长大，然后你会做个老太太，暖暖和和地死在自己的床上。不是在这里，不是今晚。你明白吗？,gpt-5.4-mini
+titanic,L615276,L615279,u8462,ROSE,u8455,JACK,ROSE: I can't feel my body.,I can't feel my body.,"JACK: No... don't say your good-byes, Rose. Don't you give up. Don't do it.
+ROSE: I'm so cold.
+JACK: You're going to get out of this... you're going to go on and you're going to make babies and watch them grow and you're going to die an old lady, warm in your bed. Not here. Not this night. Do you understand me?",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我感觉不到我的身体了。,gpt-5.4-mini,我感觉不到我的身体。,gpt-5.4-mini
+titanic,L615276,L615280,u8455,JACK,u8462,ROSE,"JACK: Rose, listen to me. Listen. Winning that ticket was the best thing that ever happened to me.","Rose, listen to me. Listen. Winning that ticket was the best thing that ever happened to me.","ROSE: I'm so cold.
+JACK: You're going to get out of this... you're going to go on and you're going to make babies and watch them grow and you're going to die an old lady, warm in your bed. Not here. Not this night. Do you understand me?
+ROSE: I can't feel my body.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",露丝，听我说。听着。赢到那张船票是我这一生最幸运的事。,gpt-5.4-mini,露丝，听我说。听着。赢得那张船票，是我这辈子最幸运的事。,gpt-5.4-mini
+titanic,L615282,L615282,u8455,JACK,,,"JACK: You must do me this honor... promise me you will survive... that you will never give up... no matter what happens... no matter how hopeless... promise me now, and never let go of that promise.","You must do me this honor... promise me you will survive... that you will never give up... no matter what happens... no matter how hopeless... promise me now, and never let go of that promise.",,unclear,,你必须答应我这个请求……答应我你一定要活下去……绝不要放弃……不管发生什么……不管多么绝望……现在就答应我，永远别忘了这个承诺。,gpt-5.4-mini,你必须给我这个荣幸……答应我你一定要活下去……无论发生什么，都不要放弃……不管有多绝望……现在答应我，永远不要放弃这个承诺。,gpt-5.4-mini
+titanic,L615282,L615283,u8462,ROSE,u8455,JACK,ROSE: I promise.,I promise.,"JACK: You must do me this honor... promise me you will survive... that you will never give up... no matter what happens... no matter how hopeless... promise me now, and never let go of that promise.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我答应你。,gpt-5.4-mini,我发誓。,gpt-5.4-mini
+titanic,L615282,L615284,u8455,JACK,u8462,ROSE,JACK: Never let go.,Never let go.,"JACK: You must do me this honor... promise me you will survive... that you will never give up... no matter what happens... no matter how hopeless... promise me now, and never let go of that promise.
+ROSE: I promise.",ally,"Speaker: JACK
+Listener: ROSE
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",永远别放手。,gpt-5.4-mini,永远别放手。,gpt-5.4-mini
+titanic,L615282,L615285,u8462,ROSE,u8455,JACK,"ROSE: I promise. I will never let go, Jack. I'll never let go.","I promise. I will never let go, Jack. I'll never let go.","JACK: You must do me this honor... promise me you will survive... that you will never give up... no matter what happens... no matter how hopeless... promise me now, and never let go of that promise.
+ROSE: I promise.
+JACK: Never let go.",romantic_intent,"Speaker: ROSE
+Listener: JACK
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我保证。我永远不会放手，杰克。我永远不会放手。,gpt-5.4-mini,我保证。我绝不会放手，杰克。我永远不会放手。,gpt-5.4-mini
+titanic,L615296,L615296,u8462,ROSE,,,"ROSE: Yes, I lived. How awkward for you.","Yes, I lived. How awkward for you.",,unclear,,是啊，我活下来了。真让你尴尬。,gpt-5.4-mini,是啊，我活下来了。让你很尴尬吧。,gpt-5.4-mini
+titanic,L615296,L615297,u8450,CAL,u8462,ROSE,CAL: Rose... your mother and I have been looking for you --,Rose... your mother and I have been looking for you --,"ROSE: Yes, I lived. How awkward for you.",acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",露丝……你母亲和我一直在找你——,gpt-5.4-mini,露丝……你母亲和我一直在找你——,gpt-5.4-mini
+titanic,L615299,L615299,u8462,ROSE,,,ROSE: Is this in any way unclear?,Is this in any way unclear?,,unclear,,这还不够清楚吗？,gpt-5.4-mini,这还不够清楚吗？,gpt-5.4-mini
+titanic,L615299,L615300,u8450,CAL,u8462,ROSE,CAL: What do I tell your mother?,What do I tell your mother?,ROSE: Is this in any way unclear?,acquaintance,"Speaker: CAL
+Listener: ROSE
+Relationship: acquaintance
+Translation guidance: Use neutral social wording without excessive intimacy.",那我该怎么跟你母亲交代？,gpt-5.4-mini,那我该怎么跟你母亲交代？,gpt-5.4-mini
+titanic,L615299,L615301,u8462,ROSE,u8450,CAL,ROSE: Tell her that her daughter died with the Titanic.,Tell her that her daughter died with the Titanic.,"ROSE: Is this in any way unclear?
+CAL: What do I tell your mother?",romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",告诉她，她的女儿和泰坦尼克号一起死了。,gpt-5.4-mini,告诉她，她的女儿和泰坦尼克号一起死了。,gpt-5.4-mini
+titanic,L615302,L615302,u8450,CAL,,,"CAL: You're precious to me, Rose.","You're precious to me, Rose.",,unclear,,萝丝，你对我来说很珍贵。,gpt-5.4-mini,萝丝，你对我来说很珍贵。,gpt-5.4-mini
+titanic,L615302,L615303,u8462,ROSE,u8450,CAL,"ROSE: Jewels are precious. Goodbye, Mr. Hockley.","Jewels are precious. Goodbye, Mr. Hockley.","CAL: You're precious to me, Rose.",romantic_intent,"Speaker: ROSE
+Listener: CAL
+Relationship: romantic_intent
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",珠宝才是珍贵的。再见，霍克利先生。,gpt-5.4-mini,珠宝才珍贵。再见，霍克利先生。,gpt-5.4-mini
+titanic,L615311,L615311,u8458,LIZZY,,,LIZZY: I'm sorry.,I'm sorry.,,unclear,,对不起。,gpt-5.4-mini,对不起。,gpt-5.4-mini
+titanic,L615311,L615312,u8460,LOVETT,u8458,LIZZY,LOVETT: We were pissin' in the wind the whole time.,We were pissin' in the wind the whole time.,LIZZY: I'm sorry.,unclear,"Speaker: LOVETT
+Listener: LIZZY
+Relationship: unclear
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",我们那会儿一直都在白费劲。,gpt-5.4-mini,我们一直都在白费劲。,gpt-5.4-mini
+titanic,L615315,L615315,u8462,ROSE,,,ROSE: Don't come any closer.,Don't come any closer.,,unclear,,别过来。,gpt-5.4-mini,别再靠近了。,gpt-5.4-mini
+titanic,L615315,L615316,u8460,LOVETT,u8462,ROSE,LOVETT: You had it the entire time?!,You had it the entire time?!,ROSE: Don't come any closer.,adversarial,"Speaker: LOVETT
+Listener: ROSE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",你一直都带着它？！,gpt-5.4-mini,你一直都带着它？！,gpt-5.4-mini
+titanic,L615318,L615318,u8447,BODINE,,,BODINE: Holy shit.,Holy shit.,,unclear,,我的天啊。,gpt-5.4-mini,我的天哪。,gpt-5.4-mini
+titanic,L615318,L615319,u8460,LOVETT,u8447,BODINE,LOVETT: Don't drop it Rose.,Don't drop it Rose.,BODINE: Holy shit.,adversarial,"Speaker: LOVETT
+Listener: BODINE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",别掉了，露丝。,gpt-5.4-mini,别松手，露丝。,gpt-5.4-mini
+titanic,L615318,L615320,u8447,BODINE,u8460,LOVETT,BODINE: Rush her.,Rush her.,"BODINE: Holy shit.
+LOVETT: Don't drop it Rose.",ally,"Speaker: BODINE
+Listener: LOVETT
+Relationship: ally
+Translation guidance: Use neutral wording unless local dialogue strongly suggests otherwise.",快送她！,gpt-5.4-mini,快点救她。,gpt-5.4-mini
+titanic,L615318,L615321,u8460,LOVETT,u8447,BODINE,"LOVETT: It's hers, you schmuck. Look, Rose, I... I don't know what to say to a woman who tries to jump off the Titanic when it's not sinking, and jumps back onto it when it is... we're not dealing with logic here, I know that... but please... think about this a second.","It's hers, you schmuck. Look, Rose, I... I don't know what to say to a woman who tries to jump off the Titanic when it's not sinking, and jumps back onto it when it is... we're not dealing with logic here, I know that... but please... think about this a second.","BODINE: Holy shit.
+LOVETT: Don't drop it Rose.
+BODINE: Rush her.",adversarial,"Speaker: LOVETT
+Listener: BODINE
+Relationship: adversarial
+Translation guidance: Preserve tension, hostility, or confrontational tone.",那是她的，你这混蛋。听着，露丝，我……我不知道该对一个想在泰坦尼克号没沉的时候跳下去，等它真沉了又跳回去的女人说什么……我们现在讲不了逻辑，我知道……但求你……再想一想。,gpt-5.4-mini,那是她的，蠢货。听着，罗斯，我……我不知道该对一个在泰坦尼克号没沉的时候想跳下去、等它真的沉了又跳回去的女人说什么……我们讲的不是逻辑，我知道……但求你……再想一想。,gpt-5.4-mini

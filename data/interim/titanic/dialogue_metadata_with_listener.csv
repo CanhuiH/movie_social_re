@@ -1,0 +1,262 @@
+movie_name,movie_idx,conversation_id,utterance_id,timestamp,speaker_id,speaker_name,reply_to,listener_id,listener_name,text
+titanic,m574,L614356,L614357,,u8460,LOVETT,L614356,u8447,BODINE,Stay off the floor. Don't stir it up like you did yesterday.
+titanic,m574,L614356,L614358,,u8447,BODINE,L614357,u8460,LOVETT,I'm tryin' boss.
+titanic,m574,L614364,L614365,,u8460,LOVETT,L614364,u8447,BODINE,"You are, Lewis.  You rolling?"
+titanic,m574,L614368,L614369,,u8447,BODINE,L614368,u8460,LOVETT,"You know, boss, this happened to Geraldo and his career never recovered."
+titanic,m574,L614368,L614370,,u8460,LOVETT,L614369,u8447,BODINE,Get that outta my face.
+titanic,m574,L614372,L614373,,u8460,LOVETT,L614372,u8449,BUELL,"How it's going? It's going like a first date in prison, whattaya think?!"
+titanic,m574,L614386,L614387,,u8460,LOVETT,L614386,u8449,BUELL,"Bobby, we're launching. See these submersibles here, going in the water? Take a message."
+titanic,m574,L614386,L614388,,u8449,BUELL,L614387,u8460,LOVETT,"No, trust me, you want to take this call."
+titanic,m574,L614389,L614390,,u8449,BUELL,L614389,u8460,LOVETT,Rose Calvert.
+titanic,m574,L614389,L614391,,u8460,LOVETT,L614390,u8449,BUELL,...Mrs. Calvert?
+titanic,m574,L614393,L614394,,u8460,LOVETT,L614393,u8449,BUELL,"Alright. You have my attention, Rose. Can you tell me who the woman in the picture is?"
+titanic,m574,L614398,L614399,,u8460,LOVETT,L614398,u8447,BODINE,A hundred and one next month.
+titanic,m574,L614398,L614400,,u8447,BODINE,L614399,u8460,LOVETT,"Okay, so she's a very old goddamned liar. I traced her as far back as the 20's... she was working as an actress in L.A. An actress. Her name was Rose Dawson. Then she married a guy named Calvert, moved to Cedar Rapids, had two kids. Now Calvert's dead, and from what I've heard Cedar Rapids is dead."
+titanic,m574,L614403,L614404,,u8462,ROSE,L614403,u8460,LOVETT,"Yes. Very nice. Have you met my granddaughter, Lizzy? She takes care of me."
+titanic,m574,L614407,L614408,,u8460,LOVETT,L614407,u8462,ROSE,Would you like anything?
+titanic,m574,L614407,L614409,,u8462,ROSE,L614408,u8460,LOVETT,I should like to see my drawing.
+titanic,m574,L614410,L614411,,u8462,ROSE,L614410,u8460,LOVETT,"It was a dreadful, heavy thing.  I only wore it this once."
+titanic,m574,L614414,L614415,,u8462,ROSE,L614414,u8460,LOVETT,"Someone named Hockley, I should imagine."
+titanic,m574,L614414,L614416,,u8460,LOVETT,L614415,u8462,ROSE,"Nathan Hockley, right. Pittsburgh steel tycoon. For a diamond necklace his son Caledon Hockley bought in France for his fiancee... you... a week before he sailed on Titanic. And the claim was filed right after the sinking. So the diamond had to've gone down with the ship.  See the date?"
+titanic,m574,L614417,L614418,,u8460,LOVETT,L614417,u8458,LIZZY,"If your grandma is who she says she is, she was wearing the diamond the day Titanic sank.  And that makes you my new best friend. I will happily compensate you for anything you can tell us that will lead to its recovery."
+titanic,m574,L614429,L614430,,u8460,LOVETT,L614429,u8447,BODINE,"Rose might not want to see this, Lewis."
+titanic,m574,L614441,L614442,,u8460,LOVETT,L614441,u8462,ROSE,Just tell us what you can --
+titanic,m574,L614441,L614443,,u8462,ROSE,L614442,u8460,LOVETT,It's been 84 years... and I can still smell the fresh paint. The china had never been used. The sheets had never been slept in.
+titanic,m574,L614447,L614448,,u8463,RUTH,L614447,u8450,CAL,So this is the ship they say is unsinkable.
+titanic,m574,L614447,L614449,,u8450,CAL,L614448,u8463,RUTH,It is unsinkable. God himself couldn't sink this ship.
+titanic,m574,L614458,L614459,,u8463,RUTH,L614458,u8450,CAL,"Honestly, Cal, if you weren't forever booking everything at the last instant, we could have gone through the terminal instead of running along the dock like some squalid immigrant family."
+titanic,m574,L614458,L614460,,u8450,CAL,L614459,u8463,RUTH,"All part of my charm, Ruth. At any rate, it was my darling fiancee's beauty rituals which made us late."
+titanic,m574,L614461,L614462,,u8450,CAL,L614461,u8462,ROSE,"I couldn't let you wear black on sailing day, sweetpea. It's bad luck."
+titanic,m574,L614461,L614463,,u8462,ROSE,L614462,u8450,CAL,I felt like black.
+titanic,m574,L614471,L614472,,u8451,FABRIZIO,L614471,u8455,JACK,What sorry? What you got? You lose my money?? Ma va fa'n culo testa di cazzo --
+titanic,m574,L614471,L614473,,u8455,JACK,L614472,u8451,FABRIZIO,"Sorry, you're not gonna see your mama again for a long time..."
+titanic,m574,L614474,L614475,,u8451,FABRIZIO,L614474,u8455,JACK,Porca Madonna!! YEEAAAAA!!!
+titanic,m574,L614478,L614479,,u8451,FABRIZIO,L614478,u8455,JACK,You see? Is my destinio!! Like I told you. I go to l'America!! To be a millionaire!!  Capito?? I go to America!!
+titanic,m574,L614490,L614491,,u8455,JACK,L614490,u8451,FABRIZIO,Of course not. That's not the point.  Goodbye! Goodbye!! I'll miss you!
+titanic,m574,L614494,L614495,,u8462,ROSE,L614494,u8450,CAL,You're wrong. They're fascinating. Like in a dream... there's truth without logic. What's his name again...?  Picasso.
+titanic,m574,L614494,L614496,,u8450,CAL,L614495,u8462,ROSE,"He'll never amount to a thing, trust me. At least they were cheap."
+titanic,m574,L614514,L614515,,u8450,CAL,L614514,u8463,RUTH,She knows.
+titanic,m574,L614520,L614521,,u8462,ROSE,L614520,u8463,RUTH,Excuse me.
+titanic,m574,L614532,L614533,,u8462,ROSE,L614532,u8455,JACK,No! Stay where you are. I mean it. I'll let go.
+titanic,m574,L614532,L614534,,u8455,JACK,L614533,u8462,ROSE,No you won't.
+titanic,m574,L614532,L614535,,u8462,ROSE,L614534,u8455,JACK,What do you mean no I won't? Don't presume to tell me what I will and will not do. You don't know me.
+titanic,m574,L614532,L614536,,u8455,JACK,L614535,u8462,ROSE,"You would have done it already. Now come on, take my hand."
+titanic,m574,L614537,L614538,,u8455,JACK,L614537,u8462,ROSE,I can't. I'm involved now. If you let go I have to jump in after you.
+titanic,m574,L614537,L614539,,u8462,ROSE,L614538,u8455,JACK,Don't be absurd. You'll be killed.
+titanic,m574,L614541,L614542,,u8455,JACK,L614541,u8462,ROSE,It would hurt. I'm not saying it wouldn't. To be honest I'm a lot more concerned about the water being so cold.
+titanic,m574,L614543,L614544,,u8455,JACK,L614543,u8462,ROSE,Freezing. Maybe a couple degrees over.
+titanic,m574,L614545,L614546,,u8462,ROSE,L614545,u8455,JACK,No.
+titanic,m574,L614545,L614547,,u8455,JACK,L614546,u8462,ROSE,"Well they have some of the coldest winters around, and I grew up there, near Chippewa Falls. Once when I was a kid me and my father were ice- fishing out on Lake Wissota... ice- fishing's where you chop a hole in the --"
+titanic,m574,L614545,L614548,,u8462,ROSE,L614547,u8455,JACK,I know what ice fishing is!
+titanic,m574,L614545,L614549,,u8455,JACK,L614548,u8462,ROSE,"Sorry. Just... you look like kind of an indoor girl. Anyway, I went through some thin ice and I'm tellin' ya, water that cold... like that right down there... it hits you like a thousand knives all over your body. You can't breath, you can't think... least not about anything but the pain.  Which is why I'm not looking forward to jumping in after you. But like I said, I don't see a choice. I guess I'm kinda hoping you'll come back over the rail and get me off the hook here."
+titanic,m574,L614545,L614550,,u8462,ROSE,L614549,u8455,JACK,You're crazy.
+titanic,m574,L614545,L614551,,u8455,JACK,L614550,u8462,ROSE,"That's what everybody says. But with all due respect, I'm not the one hanging off the back of a ship."
+titanic,m574,L614554,L614555,,u8462,ROSE,L614554,u8455,JACK,"Pleased to meet you, Mr. Dawson."
+titanic,m574,L614556,L614557,,u8455,JACK,L614556,u8462,ROSE,I've got you. I won't let go.
+titanic,m574,L614560,L614561,,u8462,ROSE,L614560,u8450,CAL,"Cal, stop! It was an accident."
+titanic,m574,L614560,L614562,,u8450,CAL,L614561,u8462,ROSE,An accident?!
+titanic,m574,L614560,L614563,,u8462,ROSE,L614562,u8450,CAL,It was... stupid really. I was leaning over and I slipped.
+titanic,m574,L614564,L614565,,u8450,CAL,L614564,u8462,ROSE,You wanted to see the propellers?
+titanic,m574,L614573,L614574,,u8450,CAL,L614573,u8462,ROSE,Rose is displeased. Mmm... what to do?
+titanic,m574,L614575,L614576,,u8455,JACK,L614575,u8450,CAL,Sure. Count me in.
+titanic,m574,L614575,L614577,,u8450,CAL,L614576,u8455,JACK,Good. Settled then.
+titanic,m574,L614578,L614579,,u8455,JACK,L614578,u8450,CAL,Can I bum a cigarette?
+titanic,m574,L614583,L614584,,u8450,CAL,L614583,u8462,ROSE,Diamond. Yes it is. 56 carats.
+titanic,m574,L614585,L614586,,u8462,ROSE,L614585,u8450,CAL,"The Heart of the Ocean. Cal, it's... it's overwhelming."
+titanic,m574,L614591,L614592,,u8460,LOVETT,L614591,u8462,ROSE,"Well, that's the general idea, my dear."
+titanic,m574,L614593,L614594,,u8460,LOVETT,L614593,u8447,BODINE,Lewis...
+titanic,m574,L614596,L614597,,u8462,ROSE,L614596,u8460,LOVETT,"I'm afraid I'm feeling a little tired, Mr. Lovett."
+titanic,m574,L614598,L614599,,u8458,LIZZY,L614598,u8460,LOVETT,That's enough.
+titanic,m574,L614604,L614605,,u8458,LIZZY,L614604,u8448,BROCK,Don't you mean work me?
+titanic,m574,L614604,L614606,,u8448,BROCK,L614605,u8458,LIZZY,"Look, I'm running out of time. I need your help."
+titanic,m574,L614604,L614607,,u8458,LIZZY,L614606,u8448,BROCK,I'm not going to help you browbeat my hundred and one year old grandmother. I came down here to tell you to back off.
+titanic,m574,L614604,L614608,,u8448,BROCK,L614607,u8458,LIZZY,Lizzy... you gotta understand something. I've bet it all to find the Heart of the Ocean. I've got all my dough tied up in this thing. My wife even divorced me over this hunt. I need what's locked inside your grandma's memory.  You see this? Right here?
+titanic,m574,L614609,L614610,,u8448,BROCK,L614609,u8458,LIZZY,That's the shape my hand's gonna be when I hold that thing. You understand? I'm not leaving here without it.
+titanic,m574,L614609,L614611,,u8458,LIZZY,L614610,u8448,BROCK,"Look, Brock, she's going to do this her way, in her own time. Don't forget, she contacted you. She's out here for her own reasons, God knows what they are."
+titanic,m574,L614612,L614613,,u8458,LIZZY,L614612,u8460,LOVETT,"What past? She has never once, not once, ever said a word about being on the Titanic until two days ago."
+titanic,m574,L614612,L614614,,u8460,LOVETT,L614613,u8458,LIZZY,Then we're all meeting your grandmother for the first time.
+titanic,m574,L614612,L614615,,u8458,LIZZY,L614614,u8460,LOVETT,You think she was really there?
+titanic,m574,L614612,L614616,,u8460,LOVETT,L614615,u8458,LIZZY,"Oh, yeah. Yeah, I'm a believer. She was there."
+titanic,m574,L614622,L614623,,u8462,ROSE,L614622,u8455,JACK,Could I speak to you in private?
+titanic,m574,L614622,L614624,,u8455,JACK,L614623,u8462,ROSE,"Uh, yes. Of course. After you."
+titanic,m574,L614625,L614626,,u8462,ROSE,L614625,u8455,JACK,Rose. Rose DeWitt Bukater.
+titanic,m574,L614625,L614627,,u8455,JACK,L614626,u8462,ROSE,That's quite a moniker. I may hafta get you to write that down.
+titanic,m574,L614628,L614629,,u8455,JACK,L614628,u8462,ROSE,Jack.
+titanic,m574,L614628,L614630,,u8462,ROSE,L614629,u8455,JACK,Jack... I feel like such an idiot. It took me all morning to get up the nerve to face you.
+titanic,m574,L614628,L614631,,u8455,JACK,L614630,u8462,ROSE,"Well, here you are."
+titanic,m574,L614628,L614632,,u8462,ROSE,L614631,u8455,JACK,Here I am. I... I want to thank you for what you did. Not just for... for pulling me back. But for your discretion.
+titanic,m574,L614628,L614633,,u8455,JACK,L614632,u8462,ROSE,You're welcome. Rose.
+titanic,m574,L614628,L614634,,u8462,ROSE,L614633,u8455,JACK,"Look, I know what you must be thinking! Poor little rich girl. What does she know about misery?"
+titanic,m574,L614628,L614635,,u8455,JACK,L614634,u8462,ROSE,That's not what I was thinking. What I was thinking was... what could have happened to hurt this girl so much she though she had no way out.
+titanic,m574,L614628,L614636,,u8462,ROSE,L614635,u8455,JACK,"I don't... it wasn't just one thing. It was everything. It was them, it was their whole world. And I was trapped in it, like an insect in amber.  I just had to get away... just run and run and run... and then I was at the back rail and there was no more ship... even the Titanic wasn't big enough. Not enough to get away from them. And before I'd really though about it, I was over the rail. I was so furious. I'll show them. They'll be sorry!"
+titanic,m574,L614628,L614637,,u8455,JACK,L614636,u8462,ROSE,Uh huh. They'll be sorry. 'Course you'll be dead.
+titanic,m574,L614628,L614638,,u8462,ROSE,L614637,u8455,JACK,"Oh God, I am such an utter fool."
+titanic,m574,L614628,L614639,,u8455,JACK,L614638,u8462,ROSE,"That penguin last night, is he one of them?"
+titanic,m574,L614628,L614640,,u8462,ROSE,L614639,u8455,JACK,"Penguin? Oh, Cal! He is them."
+titanic,m574,L614628,L614641,,u8455,JACK,L614640,u8462,ROSE,Is he your boyfriend?
+titanic,m574,L614628,L614642,,u8462,ROSE,L614641,u8455,JACK,Worse I'm afraid.
+titanic,m574,L614644,L614645,,u8462,ROSE,L614644,u8455,JACK,"Yes, exactly!"
+titanic,m574,L614644,L614646,,u8455,JACK,L614645,u8462,ROSE,So don't marry him.
+titanic,m574,L614644,L614647,,u8462,ROSE,L614646,u8455,JACK,If only it were that simple.
+titanic,m574,L614644,L614648,,u8455,JACK,L614647,u8462,ROSE,It is that simple.
+titanic,m574,L614644,L614649,,u8462,ROSE,L614648,u8455,JACK,"Oh, Jack... please don't judge me until you've seen my world."
+titanic,m574,L614644,L614650,,u8455,JACK,L614649,u8462,ROSE,"Well, I guess I will tonight."
+titanic,m574,L614651,L614652,,u8455,JACK,L614651,u8462,ROSE,Just some sketches.
+titanic,m574,L614651,L614653,,u8462,ROSE,L614652,u8455,JACK,May I?
+titanic,m574,L614654,L614655,,u8455,JACK,L614654,u8462,ROSE,"Well, they didn't think too much of 'em in Paree."
+titanic,m574,L614656,L614657,,u8455,JACK,L614656,u8462,ROSE,"Well, they didn't think too much of 'em in Paree."
+titanic,m574,L614661,L614662,,u8455,JACK,L614661,u8462,ROSE,Yup. That's one of the great things about Paris. Lots of girls willing take their clothes off.
+titanic,m574,L614663,L614664,,u8455,JACK,L614663,u8462,ROSE,She had beautiful hands.
+titanic,m574,L614663,L614665,,u8462,ROSE,L614664,u8455,JACK,I think you must have had a love affair with her...
+titanic,m574,L614663,L614666,,u8455,JACK,L614665,u8462,ROSE,"No, no! Just with her hands."
+titanic,m574,L614663,L614667,,u8462,ROSE,L614666,u8455,JACK,"You have a gift, Jack. You do. You see people."
+titanic,m574,L614663,L614668,,u8455,JACK,L614667,u8462,ROSE,I see you.
+titanic,m574,L614669,L614670,,u8455,JACK,L614669,u8462,ROSE,You wouldn'ta jumped.
+titanic,m574,L614675,L614676,,u8464,SMITH,L614675,u8454,ISMAY,"No, but we're making excellent time."
+titanic,m574,L614675,L614677,,u8454,ISMAY,L614676,u8464,SMITH,"Captain, the press knows the size of Titanic, let them marvel at her speed too. We must give them something new to print. And the maiden voyage of Titanic must make headlines!"
+titanic,m574,L614675,L614678,,u8464,SMITH,L614677,u8454,ISMAY,I prefer not to push the engines until they've been properly run in.
+titanic,m574,L614675,L614679,,u8454,ISMAY,L614678,u8464,SMITH,"Of course I leave it to your good offices to decide what's best, but what a glorious end to your last crossing if we get into New York Tuesday night and surprise them all.  Retire with a bang, eh, E.J.?"
+titanic,m574,L614680,L614681,,u8455,JACK,L614680,u8462,ROSE,"You wouldn't last two days. There's no hot water, and hardly ever any caviar."
+titanic,m574,L614680,L614682,,u8462,ROSE,L614681,u8455,JACK,"Listen, buster... I hate caviar! And I'm tired of people dismissing my dreams with a chuckle and a pat on the head."
+titanic,m574,L614680,L614683,,u8455,JACK,L614682,u8462,ROSE,I'm sorry. Really... I am.
+titanic,m574,L614680,L614684,,u8462,ROSE,L614683,u8455,JACK,"Well, alright. There's something in me, Jack. I feel it. I don't know what it is, whether I should be an artist, or, I don't know... a dancer. Like Isadora Duncan.... a wild pagan spirit..."
+titanic,m574,L614687,L614688,,u8455,JACK,L614687,u8462,ROSE,"Well, then logging got to be too much like work, so I went down to Los Angeles to the pier in Santa Monica. That's a swell place, they even have a rollercoaster. I sketched portraits there for ten cents a piece."
+titanic,m574,L614687,L614689,,u8462,ROSE,L614688,u8455,JACK,A whole ten cents?!
+titanic,m574,L614687,L614690,,u8455,JACK,L614689,u8462,ROSE,"Yeah; it was great money... I could make a dollar a day, sometimes. But only in summer. When it got cold, I decided to go to Paris and see what the real artists were doing."
+titanic,m574,L614687,L614691,,u8462,ROSE,L614690,u8455,JACK,"Why can't I be like you Jack? Just head out for the horizon whenever I feel like it.  Say we'll go there, sometime... to that pier... even if we only ever just talk about it."
+titanic,m574,L614687,L614692,,u8455,JACK,L614691,u8462,ROSE,"Alright, we're going. We'll drink cheap beer and go on the rollercoaster until we throw up and we'll ride horses on the beach... right in the surf... but you have to ride like a cowboy, none of that side-saddle stuff."
+titanic,m574,L614687,L614693,,u8462,ROSE,L614692,u8455,JACK,You mean one leg on each side? Scandalous! Can you show me?
+titanic,m574,L614687,L614694,,u8455,JACK,L614693,u8462,ROSE,Sure. If you like.
+titanic,m574,L614687,L614695,,u8462,ROSE,L614694,u8455,JACK,I think I would.  And teach me to spit too. Like a man. Why should only men be able to spit. It's unfair.
+titanic,m574,L614687,L614696,,u8455,JACK,L614695,u8462,ROSE,"They didn't teach you that in finishing school? Here, it's easy. Watch closely."
+titanic,m574,L614700,L614701,,u8463,RUTH,L614700,u8462,ROSE,"Charmed, I'm sure."
+titanic,m574,L614715,L614716,,u8462,ROSE,L614715,u8455,JACK,"Cal, surely you remember Mr. Dawson."
+titanic,m574,L614737,L614738,,u8455,JACK,L614737,u8450,CAL,"No caviar for me, thanks.  Never did like it much."
+titanic,m574,L614754,L614755,,u8446,ANDREWS,L614754,u8462,ROSE,"Thank you, Rose."
+titanic,m574,L614760,L614761,,u8450,CAL,L614760,u8455,JACK,"Probably best. It'll be all business and politics, that sort of thing. Wouldn't interest you. Good of you to come."
+titanic,m574,L614762,L614763,,u8455,JACK,L614762,u8462,ROSE,Time for my coach to turn back into a pumpkin.
+titanic,m574,L614765,L614766,,u8455,JACK,L614765,u8462,ROSE,"You're still my best girl, Cora."
+titanic,m574,L614767,L614768,,u8455,JACK,L614767,u8462,ROSE,Just move with me. Don't think.
+titanic,m574,L614770,L614771,,u8451,FABRIZIO,L614770,u8455,JACK,"I don't know what she's say, she don't know what I say, so we get along fine."
+titanic,m574,L614780,L614781,,u8462,ROSE,L614780,u8455,JACK,A mistake?
+titanic,m574,L614780,L614782,,u8455,JACK,L614781,u8462,ROSE,Uh huh. You got mailed to the wrong address.
+titanic,m574,L614780,L614783,,u8462,ROSE,L614782,u8455,JACK,"I did, didn't I?  Look! A shooting star."
+titanic,m574,L614780,L614784,,u8455,JACK,L614783,u8462,ROSE,"That was a long one. My father used to say that whenever you saw one, it was a soul going to heaven."
+titanic,m574,L614780,L614785,,u8462,ROSE,L614784,u8455,JACK,I like that. Aren't we supposed to wish on it?
+titanic,m574,L614789,L614790,,u8462,ROSE,L614789,u8450,CAL,I was tired.
+titanic,m574,L614789,L614791,,u8450,CAL,L614790,u8462,ROSE,Yes. Your exertions below decks were no doubt exausting.
+titanic,m574,L614789,L614792,,u8462,ROSE,L614791,u8450,CAL,I see you had that undertaker of a manservant follow me.
+titanic,m574,L614789,L614793,,u8450,CAL,L614792,u8462,ROSE,You will never behave like that again! Do you understand?
+titanic,m574,L614789,L614794,,u8462,ROSE,L614793,u8450,CAL,I'm not some foreman in your mills than you can command! I am your fiancee --
+titanic,m574,L614799,L614800,,u8462,ROSE,L614799,u8463,RUTH,Of course I know it's gone. You remind me every day!
+titanic,m574,L614799,L614801,,u8463,RUTH,L614800,u8462,ROSE,Your father left us nothing but a legacy of bad debts hidden by a good name. And that name is the only card we have to play.
+titanic,m574,L614802,L614803,,u8462,ROSE,L614802,u8463,RUTH,How can you put this on my shoulders?
+titanic,m574,L614804,L614805,,u8462,ROSE,L614804,u8463,RUTH,It's so unfair.
+titanic,m574,L614804,L614806,,u8463,RUTH,L614805,u8462,ROSE,Of course it's unfair! We're women. Our choices are never easy.
+titanic,m574,L614829,L614830,,u8446,ANDREWS,L614829,u8462,ROSE,"About half, actually. Rose, you miss nothing, do you? In fact, I put in these new type davits, which can take an extra row of boats here.  But it was thought... by some... that the deck would look too cluttered. So I was over-ruled."
+titanic,m574,L614834,L614835,,u8462,ROSE,L614834,u8455,JACK,"Jack, I --"
+titanic,m574,L614834,L614836,,u8455,JACK,L614835,u8462,ROSE,"No wait. Let me try to get this out. You're amazing... and I know I have nothing to offer you, Rose. I know that. But I'm involved now. You jump, I jump, remember? I can't turn away without knowin' that you're goin' to be alright."
+titanic,m574,L614837,L614838,,u8455,JACK,L614837,u8462,ROSE,"I don't think so. They've got you in a glass jar like some butterfly, and you're goin' to die if you don't break out. Maybe not right away, 'cause you're strong. But sooner or later the fire in you is goin' to go out."
+titanic,m574,L614837,L614839,,u8462,ROSE,L614838,u8455,JACK,"It's not up to you to save me, Jack."
+titanic,m574,L614837,L614840,,u8455,JACK,L614839,u8462,ROSE,You're right. Only you can do that.
+titanic,m574,L614837,L614841,,u8462,ROSE,L614840,u8455,JACK,"I have to get back, they'll miss me. Please, Jack, for both our sakes, leave me alone."
+titanic,m574,L614846,L614847,,u8455,JACK,L614846,u8462,ROSE,Sssshh. Come here.
+titanic,m574,L614857,L614858,,u8455,JACK,L614857,u8462,ROSE,"Zat is true, I am not used to working in such 'orreeble conditions.  Hey... Monet!"
+titanic,m574,L614860,L614861,,u8455,JACK,L614860,u8462,ROSE,Should I be expecting him anytime soon?
+titanic,m574,L614860,L614862,,u8462,ROSE,L614861,u8455,JACK,Not as long as the cigars and brandy hold out.
+titanic,m574,L614863,L614864,,u8462,ROSE,L614863,u8455,JACK,"A diamond. A very rare diamond, called the Heart of the Ocean."
+titanic,m574,L614869,L614870,,u8455,JACK,L614869,u8462,ROSE,He does landscapes.
+titanic,m574,L614876,L614877,,u8450,CAL,L614876,u8459,LOVEJOY,"This is ridiculous, Lovejoy. Find her."
+titanic,m574,L614878,L614879,,u8464,SMITH,L614878,u8457,LIGHTOLLER,"Yes, like a mill pond. Not a breath of wind."
+titanic,m574,L614878,L614880,,u8457,LIGHTOLLER,L614879,u8464,SMITH,"It's make the bergs harder to see, with no breaking water at the base."
+titanic,m574,L614878,L614881,,u8464,SMITH,L614880,u8457,LIGHTOLLER,"Mmmmm. Well, I'm off. Maintain speed and heading, Mr. Lightoller."
+titanic,m574,L614878,L614882,,u8457,LIGHTOLLER,L614881,u8464,SMITH,Yes sir.
+titanic,m574,L614878,L614883,,u8464,SMITH,L614882,u8457,LIGHTOLLER,"And wake me, of course, if anything becomes in the slightest degree doubtful."
+titanic,m574,L614887,L614888,,u8462,ROSE,L614887,u8455,JACK,"He's an ex-Pinkerton. Cal's father hired him to keep Cal out of trouble... to make sure he always got back to the hotel with his wallet and watch, after some crawl through the less reputable parts of town..."
+titanic,m574,L614887,L614889,,u8455,JACK,L614888,u8462,ROSE,Kinda like we're doin' right now -- uh oh!
+titanic,m574,L614893,L614894,,u8462,ROSE,L614893,u8455,JACK,To the stars.
+titanic,m574,L614895,L614896,,u8462,ROSE,L614895,u8455,JACK,"Au contraire, mon cher."
+titanic,m574,L614903,L614904,,u8455,JACK,L614903,u8462,ROSE,It's okay. I'm alright.
+titanic,m574,L614907,L614908,,u8456,LEE,L614907,u8452,FLEET,Bollocks.
+titanic,m574,L614907,L614909,,u8452,FLEET,L614908,u8456,LEE,Well I can.
+titanic,m574,L614912,L614913,,u8455,JACK,L614912,u8462,ROSE,This is crazy.
+titanic,m574,L614912,L614914,,u8462,ROSE,L614913,u8455,JACK,I know. It doesn't make any sense. That's why I trust it.
+titanic,m574,L614915,L614916,,u8456,LEE,L614915,u8452,FLEET,They're a bloody sight warmer than we are.
+titanic,m574,L614915,L614917,,u8452,FLEET,L614916,u8456,LEE,"Well if that's what it takes for us two to get warm, I'd rather not, if it's all the same."
+titanic,m574,L614931,L614932,,u8456,LEE,L614931,u8452,FLEET,"Smell ice, can you? Bleedin' Christ!"
+titanic,m574,L614943,L614944,,u8462,ROSE,L614943,u8455,JACK,Could it have damaged the ship?
+titanic,m574,L614943,L614945,,u8455,JACK,L614944,u8462,ROSE,It didn't seem like much of a bump. I'm sure we're okay.
+titanic,m574,L614952,L614953,,u8464,SMITH,L614952,u8454,ISMAY,We've struck ice.
+titanic,m574,L614952,L614954,,u8454,ISMAY,L614953,u8464,SMITH,"Well, do you think the ship is seriously damaged?"
+titanic,m574,L614952,L614955,,u8464,SMITH,L614954,u8454,ISMAY,Excuse me.
+titanic,m574,L614961,L614962,,u8462,ROSE,L614961,u8455,JACK,We have to tell Mother and Cal.
+titanic,m574,L614961,L614963,,u8455,JACK,L614962,u8462,ROSE,Now it's worse.
+titanic,m574,L614961,L614964,,u8462,ROSE,L614963,u8455,JACK,"Come with me, Jack. I jump, you jump... Right?"
+titanic,m574,L614961,L614965,,u8455,JACK,L614964,u8462,ROSE,Right.
+titanic,m574,L614967,L614968,,u8450,CAL,L614967,u8462,ROSE,That's right. Two things dear to me have disappeared this evening. Now that one is back...  ...I have a pretty good idea where to find the other.  Search him.
+titanic,m574,L614970,L614971,,u8462,ROSE,L614970,u8455,JACK,"Cal, you can't be serious! We're in the middle of an emergency and you --"
+titanic,m574,L614975,L614976,,u8462,ROSE,L614975,u8455,JACK,He couldn't have.
+titanic,m574,L614978,L614979,,u8450,CAL,L614978,u8462,ROSE,Maybe he did it while you were putting your clothes back on.
+titanic,m574,L614987,L614988,,u8464,SMITH,L614987,u8446,ANDREWS,That's right.
+titanic,m574,L614987,L614989,,u8446,ANDREWS,L614988,u8464,SMITH,Five compartments. She can stay afloat with the first four compartments breached. But not five. Not five. As she goes down by the head the water will spill over the tops of the bulkheads... at E Deck... from one to the next... back and back. There's no stopping it.
+titanic,m574,L614987,L614990,,u8464,SMITH,L614989,u8446,ANDREWS,The pumps --
+titanic,m574,L614987,L614991,,u8446,ANDREWS,L614990,u8464,SMITH,"The pumps buy you time... but minutes only. From this moment, no matter what we do, Titanic will founder."
+titanic,m574,L614994,L614995,,u8446,ANDREWS,L614994,u8464,SMITH,"An hour, two at most."
+titanic,m574,L615018,L615019,,u8463,RUTH,L615018,u8450,CAL,"There's no need for language, Mr. Hockley.  Go back and turn the heater on in my room, so it won't be too cold when we get back."
+titanic,m574,L615020,L615021,,u8446,ANDREWS,L615020,u8462,ROSE,The ship will sink.
+titanic,m574,L615020,L615022,,u8462,ROSE,L615021,u8446,ANDREWS,You're certain?
+titanic,m574,L615020,L615023,,u8446,ANDREWS,L615022,u8462,ROSE,Yes. In an hour or so... all this... will be at the bottom of the Atlantic.
+titanic,m574,L615025,L615026,,u8462,ROSE,L615025,u8446,ANDREWS,"Yes, I understand. Thank you."
+titanic,m574,L615058,L615059,,u8450,CAL,L615058,u8462,ROSE,Not the better half.
+titanic,m574,L615063,L615064,,u8462,ROSE,L615063,u8463,RUTH,"Goodbye, mother."
+titanic,m574,L615065,L615066,,u8462,ROSE,L615065,u8450,CAL,I'd rather be his whore than your wife.
+titanic,m574,L615071,L615072,,u8461,MOLLY,L615071,u8453,HITCHINS,"Ain't you boys ever rowed before? Here, gimme those oars. I'll show ya how it's done."
+titanic,m574,L615076,L615077,,u8446,ANDREWS,L615076,u8462,ROSE,What? You have to get to a boat right away!
+titanic,m574,L615076,L615078,,u8462,ROSE,L615077,u8446,ANDREWS,"No! I'll do this with or without your help, sir. But without will take longer."
+titanic,m574,L615076,L615079,,u8446,ANDREWS,L615078,u8462,ROSE,"Take the elevator to the very bottom, go left, down the crewman's passage, then make a right."
+titanic,m574,L615076,L615080,,u8462,ROSE,L615079,u8446,ANDREWS,"Bottom, left, right. I have it."
+titanic,m574,L615076,L615081,,u8446,ANDREWS,L615080,u8462,ROSE,"Hurry, Rose."
+titanic,m574,L615090,L615091,,u8462,ROSE,L615090,u8455,JACK,"I know, I know."
+titanic,m574,L615090,L615092,,u8455,JACK,L615091,u8462,ROSE,See if you can find a key for these. Try those drawers. It's a little brass one.
+titanic,m574,L615093,L615094,,u8462,ROSE,L615093,u8455,JACK,I didn't.  I just realized I already knew.
+titanic,m574,L615097,L615098,,u8462,ROSE,L615097,u8455,JACK,I'll be right back.
+titanic,m574,L615097,L615099,,u8455,JACK,L615098,u8462,ROSE,I'll wait here.
+titanic,m574,L615108,L615109,,u8455,JACK,L615108,u8462,ROSE,We'll find out.
+titanic,m574,L615128,L615129,,u8450,CAL,L615128,u8459,LOVEJOY,We're running out of time. And this strutting martinet...  ...isn't letting any men in at all.
+titanic,m574,L615128,L615130,,u8459,LOVEJOY,L615129,u8450,CAL,The one on the other side is letting men in.
+titanic,m574,L615128,L615131,,u8450,CAL,L615130,u8459,LOVEJOY,Then that's our play. But we're still going to need some insurance.  Come on.
+titanic,m574,L615136,L615137,,u8455,JACK,L615136,u8451,FABRIZIO,We gotta get up there or we're gonna be gargling saltwater. Where's Tommy?
+titanic,m574,L615146,L615147,,u8459,LOVEJOY,L615146,u8450,CAL,So do I.
+titanic,m574,L615153,L615154,,u8461,MOLLY,L615153,u8453,HITCHINS,We got room for lots more. I say we go back.
+titanic,m574,L615153,L615155,,u8453,HITCHINS,L615154,u8461,MOLLY,"No! It's our lives now, not theirs. And I'm in charge of this boat! Now row!!"
+titanic,m574,L615163,L615164,,u8459,LOVEJOY,L615163,u8450,CAL,There are still some boats forward. Stay with this one... Murdoch. He seems to be quite... practical.
+titanic,m574,L615183,L615184,,u8455,JACK,L615183,u8462,ROSE,"Get in the boat, Rose."
+titanic,m574,L615190,L615191,,u8455,JACK,L615190,u8450,CAL,I'll be alright. Hurry up so we can get going... we got our own boat to catch.
+titanic,m574,L615190,L615192,,u8450,CAL,L615191,u8455,JACK,"Get in... hurry up, it's almost full."
+titanic,m574,L615194,L615195,,u8455,JACK,L615194,u8450,CAL,Almost as good as you.
+titanic,m574,L615194,L615196,,u8450,CAL,L615195,u8455,JACK,"I always win, Jack. One way or another.  Pity I didn't keep that drawing. It's going to be worth a lot more by morning."
+titanic,m574,L615199,L615200,,u8455,JACK,L615199,u8462,ROSE,Right.
+titanic,m574,L615202,L615203,,u8450,CAL,L615202,u8459,LOVEJOY,I put the diamond in my coat pocket. And I put my coat... on her.
+titanic,m574,L615224,L615225,,u8446,ANDREWS,L615224,u8462,ROSE,"I'm sorry that I didn't build you a stronger ship, young Rose."
+titanic,m574,L615227,L615228,,u8462,ROSE,L615227,u8446,ANDREWS,"And to you, Mr. Andrews."
+titanic,m574,L615251,L615252,,u8462,ROSE,L615251,u8455,JACK,It's so cold.
+titanic,m574,L615251,L615253,,u8455,JACK,L615252,u8462,ROSE,"I know. I know. Help me, here. Look around."
+titanic,m574,L615266,L615267,,u8461,MOLLY,L615266,u8453,HITCHINS,"Aw knock it off, yer scarin' me. Come on girls, grab your oars. Let's go.  Well come on!"
+titanic,m574,L615268,L615269,,u8453,HITCHINS,L615268,u8461,MOLLY,"If you don't shut that hole in yer face, there'll be one less in this boat!"
+titanic,m574,L615272,L615273,,u8455,JACK,L615272,u8462,ROSE,Just a few more minutes. It'll take them a while to get the boats organized...
+titanic,m574,L615276,L615277,,u8462,ROSE,L615276,u8455,JACK,I'm so cold.
+titanic,m574,L615276,L615278,,u8455,JACK,L615277,u8462,ROSE,"You're going to get out of this... you're going to go on and you're going to make babies and watch them grow and you're going to die an old lady, warm in your bed. Not here. Not this night. Do you understand me?"
+titanic,m574,L615276,L615279,,u8462,ROSE,L615278,u8455,JACK,I can't feel my body.
+titanic,m574,L615276,L615280,,u8455,JACK,L615279,u8462,ROSE,"Rose, listen to me. Listen. Winning that ticket was the best thing that ever happened to me."
+titanic,m574,L615282,L615283,,u8462,ROSE,L615282,u8455,JACK,I promise.
+titanic,m574,L615282,L615284,,u8455,JACK,L615283,u8462,ROSE,Never let go.
+titanic,m574,L615282,L615285,,u8462,ROSE,L615284,u8455,JACK,"I promise. I will never let go, Jack. I'll never let go."
+titanic,m574,L615296,L615297,,u8450,CAL,L615296,u8462,ROSE,Rose... your mother and I have been looking for you --
+titanic,m574,L615299,L615300,,u8450,CAL,L615299,u8462,ROSE,What do I tell your mother?
+titanic,m574,L615299,L615301,,u8462,ROSE,L615300,u8450,CAL,Tell her that her daughter died with the Titanic.
+titanic,m574,L615302,L615303,,u8462,ROSE,L615302,u8450,CAL,"Jewels are precious. Goodbye, Mr. Hockley."
+titanic,m574,L615311,L615312,,u8460,LOVETT,L615311,u8458,LIZZY,We were pissin' in the wind the whole time.
+titanic,m574,L615315,L615316,,u8460,LOVETT,L615315,u8462,ROSE,You had it the entire time?!
+titanic,m574,L615318,L615319,,u8460,LOVETT,L615318,u8447,BODINE,Don't drop it Rose.
+titanic,m574,L615318,L615320,,u8447,BODINE,L615319,u8460,LOVETT,Rush her.
+titanic,m574,L615318,L615321,,u8460,LOVETT,L615320,u8447,BODINE,"It's hers, you schmuck.  Look, Rose, I... I don't know what to say to a woman who tries to jump off the Titanic when it's not sinking, and jumps back onto it when it is... we're not dealing with logic here, I know that... but please... think about this a second."
