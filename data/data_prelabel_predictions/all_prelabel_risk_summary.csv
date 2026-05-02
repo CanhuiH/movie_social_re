@@ -1,0 +1,13 @@
+﻿source_zip,source_csv,total_rows,predicted_risk_rows,predicted_risk_rate
+amadeus.zip,dialogue_metadata.csv,1007,517,0.5134
+amadeus.zip,dialogue_metadata_with_listener.csv,784,387,0.4936
+an_officer_and_a_gentleman.zip,dialogue_metadata.csv,499,312,0.6253
+an_officer_and_a_gentleman.zip,dialogue_metadata_with_listener.csv,362,227,0.6271
+dead_poets_society.zip,dialogue_metadata.csv,491,272,0.554
+dead_poets_society.zip,dialogue_metadata_with_listener.csv,349,208,0.596
+gladiator.zip,dialogue_metadata.csv,377,225,0.5968
+gladiator.zip,dialogue_metadata_with_listener.csv,263,144,0.5475
+mrs_brown.zip,dialogue_metadata.csv,484,200,0.4132
+mrs_brown.zip,dialogue_metadata_with_listener.csv,370,147,0.3973
+the_godfather.zip,dialogue_metadata.csv,536,265,0.4944
+the_godfather.zip,dialogue_metadata_with_listener.csv,389,186,0.4781
