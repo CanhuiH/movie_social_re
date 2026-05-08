@@ -11,3 +11,5 @@ mrs_brown.zip,dialogue_metadata.csv,484,200,0.4132
 mrs_brown.zip,dialogue_metadata_with_listener.csv,370,147,0.3973
 the_godfather.zip,dialogue_metadata.csv,536,265,0.4944
 the_godfather.zip,dialogue_metadata_with_listener.csv,389,186,0.4781
+titanic.zip,dialogue_metadata.csv,397,207,0.5214
+titanic.zip,dialogue_metadata_with_listener.csv,261,137,0.5249
