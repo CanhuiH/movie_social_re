@@ -1,0 +1,1711 @@
+modeling_row_id,movie_name,conversation_id,utterance_id,context_6_turns,current_text,final_power_dynamic,final_respect_level,model_text,speaker_name,listener_name,judge1_power_dynamic,judge2_power_dynamic,judge1_respect_level,judge2_respect_level
+23,amadeus,L30064,L30066,"1. CONSTANZE: Oh, ha, ha, ha.
+2. MOZART to CONSTANZE: Sra-I'm-sick! Sra-I'm sick!","Yes, you are. You're very sick.",roughly_equal_power,neutral_respect,"Context:
+1. CONSTANZE: Oh, ha, ha, ha.
+2. MOZART to CONSTANZE: Sra-I'm-sick! Sra-I'm sick!
+
+Current turn:
+Yes, you are. You're very sick.",CONSTANZE,MOZART,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+26,amadeus,L30064,L30073,"1. MOZART to CONSTANZE: No, no. Say it backwards, shit-wit. Sra-I'm-sick Say it backwards!
+2. CONSTANZE to MOZART: Sra-I'm-sick. Sick - kiss I'm - my Kiss my! Sra-I'm-sick - Kiss my arse!
+3. MOZART to CONSTANZE: Em iram! Em iram!
+4. CONSTANZE to MOZART: No, I'm not playing this game.
+5. MOZART to CONSTANZE: No, this is serious. Say it backwards.
+6. CONSTANZE to MOZART: No!",Just say it - you'll see. It's very serious. Em iram!  Em iram!,roughly_equal_power,neutral_respect,"Context:
+1. MOZART to CONSTANZE: No, no. Say it backwards, shit-wit. Sra-I'm-sick Say it backwards!
+2. CONSTANZE to MOZART: Sra-I'm-sick. Sick - kiss I'm - my Kiss my! Sra-I'm-sick - Kiss my arse!
+3. MOZART to CONSTANZE: Em iram! Em iram!
+4. CONSTANZE to MOZART: No, I'm not playing this game.
+5. MOZART to CONSTANZE: No, this is serious. Say it backwards.
+6. CONSTANZE to MOZART: No!
+
+Current turn:
+Just say it - you'll see. It's very serious. Em iram!  Em iram!",MOZART,CONSTANZE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+27,amadeus,L30064,L30074,"1. CONSTANZE to MOZART: Sra-I'm-sick. Sick - kiss I'm - my Kiss my! Sra-I'm-sick - Kiss my arse!
+2. MOZART to CONSTANZE: Em iram! Em iram!
+3. CONSTANZE to MOZART: No, I'm not playing this game.
+4. MOZART to CONSTANZE: No, this is serious. Say it backwards.
+5. CONSTANZE to MOZART: No!
+6. MOZART to CONSTANZE: Just say it - you'll see. It's very serious. Em iram!  Em iram!","Iram - marry Em - marry me! No, no! You're a fiend. I'm not going to marry a fiend. A dirty fiend at that.",roughly_equal_power,low_respect,"Context:
+1. CONSTANZE to MOZART: Sra-I'm-sick. Sick - kiss I'm - my Kiss my! Sra-I'm-sick - Kiss my arse!
+2. MOZART to CONSTANZE: Em iram! Em iram!
+3. CONSTANZE to MOZART: No, I'm not playing this game.
+4. MOZART to CONSTANZE: No, this is serious. Say it backwards.
+5. CONSTANZE to MOZART: No!
+6. MOZART to CONSTANZE: Just say it - you'll see. It's very serious. Em iram!  Em iram!
+
+Current turn:
+Iram - marry Em - marry me! No, no! You're a fiend. I'm not going to marry a fiend. A dirty fiend at that.",CONSTANZE,MOZART,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+30,amadeus,L30077,L30079,"1. MOZART: Tish-I'm tee. What's that?
+2. CONSTANZE to MOZART: What?",Tish-I'm-tee.,roughly_equal_power,neutral_respect,"Context:
+1. MOZART: Tish-I'm tee. What's that?
+2. CONSTANZE to MOZART: What?
+
+Current turn:
+Tish-I'm-tee.",MOZART,CONSTANZE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+35,amadeus,L30085,L30086,"1. ARCO: Follow me, please. The Archbishop would like a word.",Certainly!,listener_higher_power,high_respect,"Context:
+1. ARCO: Follow me, please. The Archbishop would like a word.
+
+Current turn:
+Certainly!",MOZART,ARCO,listener_higher_power,listener_higher_power,high_respect,high_respect
+42,amadeus,L30113,L30114,"1. JOSEPH: Ah-ha. Well then, we should make some effort to acquire him. We could use a good German composer in Vienna, surely?","I agree, Majesty, but I'm afraid it's not possible. The young man is still in the pay of the Archbishop.",listener_higher_power,high_respect,"Context:
+1. JOSEPH: Ah-ha. Well then, we should make some effort to acquire him. We could use a good German composer in Vienna, surely?
+
+Current turn:
+I agree, Majesty, but I'm afraid it's not possible. The young man is still in the pay of the Archbishop.",VON STRACK,JOSEPH,listener_higher_power,listener_higher_power,high_respect,high_respect
+56,amadeus,L30158,L30158,,"Bravo, Your Majesty!",listener_higher_power,high_respect,"Current turn:
+Bravo, Your Majesty!",ORSINI-ROSENBERG,,listener_higher_power,listener_higher_power,high_respect,high_respect
+62,amadeus,L30171,L30174,"1. MOZART: I know your work well, Signore. Do you know I actually composed some variations on a melody of yours?
+2. SALIERI to MOZART: Really?
+3. MOZART to SALIERI: Mio caro Adone.",Ah!,roughly_equal_power,neutral_respect,"Context:
+1. MOZART: I know your work well, Signore. Do you know I actually composed some variations on a melody of yours?
+2. SALIERI to MOZART: Really?
+3. MOZART to SALIERI: Mio caro Adone.
+
+Current turn:
+Ah!",SALIERI,MOZART,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+83,amadeus,L30223,L30239,"1. CAVALIERI to SALIERI: How do you know?
+2. SALIERI to CAVALIERI: Well even if there is, I don't think you want to get involved with this one.
+3. CAVALIERI to SALIERI: Why not?
+4. SALIERI to CAVALIERI: Well, do you know where it's set, my dear?
+5. CAVALIERI to SALIERI: Where?
+6. SALIERI to CAVALIERI: In a harem.",What's that?,roughly_equal_power,neutral_respect,"Context:
+1. CAVALIERI to SALIERI: How do you know?
+2. SALIERI to CAVALIERI: Well even if there is, I don't think you want to get involved with this one.
+3. CAVALIERI to SALIERI: Why not?
+4. SALIERI to CAVALIERI: Well, do you know where it's set, my dear?
+5. CAVALIERI to SALIERI: Where?
+6. SALIERI to CAVALIERI: In a harem.
+
+Current turn:
+What's that?",CAVALIERI,SALIERI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+84,amadeus,L30223,L30241,"1. CAVALIERI to SALIERI: Why not?
+2. SALIERI to CAVALIERI: Well, do you know where it's set, my dear?
+3. CAVALIERI to SALIERI: Where?
+4. SALIERI to CAVALIERI: In a harem.
+5. CAVALIERI to SALIERI: What's that?
+6. SALIERI to CAVALIERI: A brothel.",Oh!,roughly_equal_power,neutral_respect,"Context:
+1. CAVALIERI to SALIERI: Why not?
+2. SALIERI to CAVALIERI: Well, do you know where it's set, my dear?
+3. CAVALIERI to SALIERI: Where?
+4. SALIERI to CAVALIERI: In a harem.
+5. CAVALIERI to SALIERI: What's that?
+6. SALIERI to CAVALIERI: A brothel.
+
+Current turn:
+Oh!",CAVALIERI,SALIERI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+88,amadeus,L30247,L30249,"1. CAVALIERI: What does he look like?
+2. SALIERI to CAVALIERI: You might be disappointed.",Why?,roughly_equal_power,neutral_respect,"Context:
+1. CAVALIERI: What does he look like?
+2. SALIERI to CAVALIERI: You might be disappointed.
+
+Current turn:
+Why?",CAVALIERI,SALIERI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+97,amadeus,L30270,L30275,"1. MOZART: It is new, it is, isn't it, Sire?
+2. JOSEPH to MOZART: Yes, indeed.
+3. MOZART to JOSEPH: And German?
+4. JOSEPH to MOZART: Oh, yes. Absolutely. German. Unquestionably!
+5. MOZART to JOSEPH: So then you like it? You really like it, Your Majesty?",Of course I do. It's very good. Of course now and then - just now and then - it gets a touch elaborate.,speaker_higher_power,neutral_respect,"Context:
+1. MOZART: It is new, it is, isn't it, Sire?
+2. JOSEPH to MOZART: Yes, indeed.
+3. MOZART to JOSEPH: And German?
+4. JOSEPH to MOZART: Oh, yes. Absolutely. German. Unquestionably!
+5. MOZART to JOSEPH: So then you like it? You really like it, Your Majesty?
+
+Current turn:
+Of course I do. It's very good. Of course now and then - just now and then - it gets a touch elaborate.",JOSEPH,MOZART,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+102,amadeus,L30284,L30284,,"My dear, young man, don't take it too hard. Your work is ingenious. It's quality work. And there are simply too many notes, that's all. Cut a few and it will be perfect.",speaker_higher_power,high_respect,"Current turn:
+My dear, young man, don't take it too hard. Your work is ingenious. It's quality work. And there are simply too many notes, that's all. Cut a few and it will be perfect.",JOSEPH,,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+108,amadeus,L30301,L30304,"1. MOZART: Katherina! I'll tell you what I'm going to do. I'm going to write another aria for you. Something even more amazing for the second act. I have to get some water. Her mother is lying on the stage.
+2. CAVALIERI to MOZART: Don't bother!
+3. MOZART to CAVALIERI: What?",Don't bother.,roughly_equal_power,low_respect,"Context:
+1. MOZART: Katherina! I'll tell you what I'm going to do. I'm going to write another aria for you. Something even more amazing for the second act. I have to get some water. Her mother is lying on the stage.
+2. CAVALIERI to MOZART: Don't bother!
+3. MOZART to CAVALIERI: What?
+
+Current turn:
+Don't bother.",CAVALIERI,MOZART,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+119,amadeus,L30326,L30328,"1. SALIERI: Dear Mozart, my sincere congratulations.
+2. MOZART to SALIERI: Did you like it, then?",How could I not?,roughly_equal_power,high_respect,"Context:
+1. SALIERI: Dear Mozart, my sincere congratulations.
+2. MOZART to SALIERI: Did you like it, then?
+
+Current turn:
+How could I not?",SALIERI,MOZART,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+128,amadeus,L30345,L30348,"1. COLLOREDO: No! I won't have him back.
+2. LEOPOLD to COLLOREDO: But he needs to be here in Salzburg, Your Grace. He needs me and he needs you. Your protection, your understanding.
+3. COLLOREDO to LEOPOLD: Hardly.","Oh sir, yes! He's about to make the worst mistake of his life. Some little Viennese slut is trying to trick him into marriage. I know my son. He is too simple to see the trap - and there is no one there who really cares for him.",listener_higher_power,high_respect,"Context:
+1. COLLOREDO: No! I won't have him back.
+2. LEOPOLD to COLLOREDO: But he needs to be here in Salzburg, Your Grace. He needs me and he needs you. Your protection, your understanding.
+3. COLLOREDO to LEOPOLD: Hardly.
+
+Current turn:
+Oh sir, yes! He's about to make the worst mistake of his life. Some little Viennese slut is trying to trick him into marriage. I know my son. He is too simple to see the trap - and there is no one there who really cares for him.",LEOPOLD,COLLOREDO,listener_higher_power,listener_higher_power,high_respect,high_respect
+133,amadeus,L30345,L30354,"1. LEOPOLD to COLLOREDO: Oh sir, yes! He's about to make the worst mistake of his life. Some little Viennese slut is trying to trick him into marriage. I know my son. He is too simple to see the trap - and there is no one there who really cares for him.
+2. COLLOREDO to LEOPOLD: I'm not surprised. Money seems to be more important to him than loyalty or friendship. He has sold himself to Vienna. Let Vienna look out for him.
+3. LEOPOLD to COLLOREDO: Sir -
+4. COLLOREDO to LEOPOLD: Your son is an unprincipled, spoiled, conceited brat.
+5. LEOPOLD to COLLOREDO: Yes, sir, that's the truth. But don't blame him. The fault is mine. I was too indulgent with him. But not again. Never again, I promise! I implore you - let me bring him back here. I'll make him give his word to serve you faithfully.
+6. COLLOREDO to LEOPOLD: And how will you make him keep it?","Oh, sir, he's never disobeyed me in anything. Please, Your Grace, give him one more chance.",listener_higher_power,high_respect,"Context:
+1. LEOPOLD to COLLOREDO: Oh sir, yes! He's about to make the worst mistake of his life. Some little Viennese slut is trying to trick him into marriage. I know my son. He is too simple to see the trap - and there is no one there who really cares for him.
+2. COLLOREDO to LEOPOLD: I'm not surprised. Money seems to be more important to him than loyalty or friendship. He has sold himself to Vienna. Let Vienna look out for him.
+3. LEOPOLD to COLLOREDO: Sir -
+4. COLLOREDO to LEOPOLD: Your son is an unprincipled, spoiled, conceited brat.
+5. LEOPOLD to COLLOREDO: Yes, sir, that's the truth. But don't blame him. The fault is mine. I was too indulgent with him. But not again. Never again, I promise! I implore you - let me bring him back here. I'll make him give his word to serve you faithfully.
+6. COLLOREDO to LEOPOLD: And how will you make him keep it?
+
+Current turn:
+Oh, sir, he's never disobeyed me in anything. Please, Your Grace, give him one more chance.",LEOPOLD,COLLOREDO,listener_higher_power,listener_higher_power,high_respect,high_respect
+140,amadeus,L30369,L30369,,"An interesting idea, Majesty. But -",listener_higher_power,high_respect,"Current turn:
+An interesting idea, Majesty. But -",SALIERI,,listener_higher_power,listener_higher_power,high_respect,high_respect
+141,amadeus,L30369,L30370,"1. SALIERI: An interesting idea, Majesty. But -",Yes?,speaker_higher_power,neutral_respect,"Context:
+1. SALIERI: An interesting idea, Majesty. But -
+
+Current turn:
+Yes?",JOSEPH,SALIERI,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+144,amadeus,L30369,L30373,"1. SALIERI: An interesting idea, Majesty. But -
+2. JOSEPH to SALIERI: Yes?
+3. SALIERI to JOSEPH: You already commissioned an opera from Mozart.
+4. JOSEPH to SALIERI: And the result satisfies.","Yes, of course. My concern is to protect you from any suspicion of favouritism.",listener_higher_power,high_respect,"Context:
+1. SALIERI: An interesting idea, Majesty. But -
+2. JOSEPH to SALIERI: Yes?
+3. SALIERI to JOSEPH: You already commissioned an opera from Mozart.
+4. JOSEPH to SALIERI: And the result satisfies.
+
+Current turn:
+Yes, of course. My concern is to protect you from any suspicion of favouritism.",SALIERI,JOSEPH,listener_higher_power,listener_higher_power,high_respect,high_respect
+145,amadeus,L30369,L30374,"1. SALIERI: An interesting idea, Majesty. But -
+2. JOSEPH to SALIERI: Yes?
+3. SALIERI to JOSEPH: You already commissioned an opera from Mozart.
+4. JOSEPH to SALIERI: And the result satisfies.
+5. SALIERI to JOSEPH: Yes, of course. My concern is to protect you from any suspicion of favouritism.",Ah-ha. Favouritism. But I so want Mozart.,speaker_higher_power,neutral_respect,"Context:
+1. SALIERI: An interesting idea, Majesty. But -
+2. JOSEPH to SALIERI: Yes?
+3. SALIERI to JOSEPH: You already commissioned an opera from Mozart.
+4. JOSEPH to SALIERI: And the result satisfies.
+5. SALIERI to JOSEPH: Yes, of course. My concern is to protect you from any suspicion of favouritism.
+
+Current turn:
+Ah-ha. Favouritism. But I so want Mozart.",JOSEPH,SALIERI,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+153,amadeus,L30379,L30384,"1. MOZART: What is this, Herr Chamberlain?
+2. VON STRACK to MOZART: What is what?
+3. MOZART to VON STRACK: Why do I have to submit samples of my work to some stupid committee? Just to teach a sixteen-year-old girl.
+4. VON STRACK to MOZART: Because His Majesty wishes it.
+5. MOZART to VON STRACK: Is the Emperor angry with me?",On the contrary.,speaker_higher_power,neutral_respect,"Context:
+1. MOZART: What is this, Herr Chamberlain?
+2. VON STRACK to MOZART: What is what?
+3. MOZART to VON STRACK: Why do I have to submit samples of my work to some stupid committee? Just to teach a sixteen-year-old girl.
+4. VON STRACK to MOZART: Because His Majesty wishes it.
+5. MOZART to VON STRACK: Is the Emperor angry with me?
+
+Current turn:
+On the contrary.",VON STRACK,MOZART,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+167,amadeus,L30398,L30407,"1. MOZART to CONSTANZE: They'll come anyway. They love me here.
+2. CONSTANZE to MOZART: No, they will not. I know how things work in this city.
+3. MOZART to CONSTANZE: Oh yes? You always know everything.
+4. CONSTANZE to MOZART: Well, I'm not borrowing any more money from my mother, and that's that!
+5. MOZART to CONSTANZE: You borrowed money from your mother?
+6. CONSTANZE to MOZART: Yes!","Well, don't do that again!",speaker_higher_power,low_respect,"Context:
+1. MOZART to CONSTANZE: They'll come anyway. They love me here.
+2. CONSTANZE to MOZART: No, they will not. I know how things work in this city.
+3. MOZART to CONSTANZE: Oh yes? You always know everything.
+4. CONSTANZE to MOZART: Well, I'm not borrowing any more money from my mother, and that's that!
+5. MOZART to CONSTANZE: You borrowed money from your mother?
+6. CONSTANZE to MOZART: Yes!
+
+Current turn:
+Well, don't do that again!",MOZART,CONSTANZE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+169,amadeus,L30398,L30409,"1. MOZART to CONSTANZE: Oh yes? You always know everything.
+2. CONSTANZE to MOZART: Well, I'm not borrowing any more money from my mother, and that's that!
+3. MOZART to CONSTANZE: You borrowed money from your mother?
+4. CONSTANZE to MOZART: Yes!
+5. MOZART to CONSTANZE: Well, don't do that again!
+6. CONSTANZE to MOZART: How are we going to live, Wolfi? Do you want me to go into the streets and beg?",Don't be stupid.,roughly_equal_power,low_respect,"Context:
+1. MOZART to CONSTANZE: Oh yes? You always know everything.
+2. CONSTANZE to MOZART: Well, I'm not borrowing any more money from my mother, and that's that!
+3. MOZART to CONSTANZE: You borrowed money from your mother?
+4. CONSTANZE to MOZART: Yes!
+5. MOZART to CONSTANZE: Well, don't do that again!
+6. CONSTANZE to MOZART: How are we going to live, Wolfi? Do you want me to go into the streets and beg?
+
+Current turn:
+Don't be stupid.",MOZART,CONSTANZE,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+174,amadeus,L30414,L30417,"1. SERVANT: Excuse me, sir, there is a lady who insists on talking to you.
+2. SALIERI to SERVANT: Who is she?
+3. SERVANT to SALIERI: She didn't say. But she says it's urgent.","Excuse me, my dear.",speaker_higher_power,high_respect,"Context:
+1. SERVANT: Excuse me, sir, there is a lady who insists on talking to you.
+2. SALIERI to SERVANT: Who is she?
+3. SERVANT to SALIERI: She didn't say. But she says it's urgent.
+
+Current turn:
+Excuse me, my dear.",SALIERI,SERVANT,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+175,amadeus,L30418,L30418,,Excellency!,listener_higher_power,high_respect,"Current turn:
+Excellency!",CONSTANZE,,listener_higher_power,listener_higher_power,high_respect,high_respect
+195,amadeus,L30455,L30457,"1. SALIERI: Come back tonight.
+2. CONSTANZE to SALIERI: Tonight?",Alone.,speaker_higher_power,low_respect,"Context:
+1. SALIERI: Come back tonight.
+2. CONSTANZE to SALIERI: Tonight?
+
+Current turn:
+Alone.",SALIERI,CONSTANZE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+199,amadeus,L30455,L30461,"1. SALIERI: Come back tonight.
+2. CONSTANZE to SALIERI: Tonight?
+3. SALIERI to CONSTANZE: Alone.
+4. CONSTANZE to SALIERI: What for?
+5. SALIERI to CONSTANZE: Some service deserves service in return. No?
+6. CONSTANZE to SALIERI: What do you mean?",Isn't it obvious?,speaker_higher_power,low_respect,"Context:
+1. SALIERI: Come back tonight.
+2. CONSTANZE to SALIERI: Tonight?
+3. SALIERI to CONSTANZE: Alone.
+4. CONSTANZE to SALIERI: What for?
+5. SALIERI to CONSTANZE: Some service deserves service in return. No?
+6. CONSTANZE to SALIERI: What do you mean?
+
+Current turn:
+Isn't it obvious?",SALIERI,CONSTANZE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+210,amadeus,L30501,L30505,"1. MOZART: Stop it now. Stop it. I've brought some friends to meet you. They're next door waiting. Do we have anything to eat? They're all starving.
+2. CONSTANZE to MOZART: Tell them to go away. I don't want to see anybody.
+3. MOZART to CONSTANZE: What's the matter with you?
+4. CONSTANZE to MOZART: Tell them to go!",Sssh. What is it? Tell me.,roughly_equal_power,neutral_respect,"Context:
+1. MOZART: Stop it now. Stop it. I've brought some friends to meet you. They're next door waiting. Do we have anything to eat? They're all starving.
+2. CONSTANZE to MOZART: Tell them to go away. I don't want to see anybody.
+3. MOZART to CONSTANZE: What's the matter with you?
+4. CONSTANZE to MOZART: Tell them to go!
+
+Current turn:
+Sssh. What is it? Tell me.",MOZART,CONSTANZE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+211,amadeus,L30501,L30506,"1. MOZART: Stop it now. Stop it. I've brought some friends to meet you. They're next door waiting. Do we have anything to eat? They're all starving.
+2. CONSTANZE to MOZART: Tell them to go away. I don't want to see anybody.
+3. MOZART to CONSTANZE: What's the matter with you?
+4. CONSTANZE to MOZART: Tell them to go!
+5. MOZART to CONSTANZE: Sssh. What is it? Tell me.",No!,roughly_equal_power,low_respect,"Context:
+1. MOZART: Stop it now. Stop it. I've brought some friends to meet you. They're next door waiting. Do we have anything to eat? They're all starving.
+2. CONSTANZE to MOZART: Tell them to go away. I don't want to see anybody.
+3. MOZART to CONSTANZE: What's the matter with you?
+4. CONSTANZE to MOZART: Tell them to go!
+5. MOZART to CONSTANZE: Sssh. What is it? Tell me.
+
+Current turn:
+No!",CONSTANZE,MOZART,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+221,amadeus,L30524,L30525,1. SALIERI: What does he want?,"He didn't say, sir. I told him I didn't know when you would be back, but he insisted on waiting.",listener_higher_power,high_respect,"Context:
+1. SALIERI: What does he want?
+
+Current turn:
+He didn't say, sir. I told him I didn't know when you would be back, but he insisted on waiting.",SERVANT,SALIERI,listener_higher_power,listener_higher_power,high_respect,high_respect
+232,amadeus,L30533,L30537,"1. SALIERI: Why didn't you come to me yesterday, Mozart? This is a most painful situation. Yesterday I could have helped you. Today, I can't.
+2. MOZART to SALIERI: Why? Here is the music. It's here. I am submitting it humbly. Isn't that what you wanted?
+3. SALIERI to MOZART: I have just come from the palace. The post has been filled.
+4. MOZART to SALIERI: Filled? That's impossible! They haven't even seen my work. I need this post. Please, can't you help me? Please!","My dear Mozart, there is no one in the world I would rather help, but now it is too late.",speaker_higher_power,high_respect,"Context:
+1. SALIERI: Why didn't you come to me yesterday, Mozart? This is a most painful situation. Yesterday I could have helped you. Today, I can't.
+2. MOZART to SALIERI: Why? Here is the music. It's here. I am submitting it humbly. Isn't that what you wanted?
+3. SALIERI to MOZART: I have just come from the palace. The post has been filled.
+4. MOZART to SALIERI: Filled? That's impossible! They haven't even seen my work. I need this post. Please, can't you help me? Please!
+
+Current turn:
+My dear Mozart, there is no one in the world I would rather help, but now it is too late.",SALIERI,MOZART,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+238,amadeus,L30544,L30562,"1. MOZART to SALIERI: I'd better not. It's a bit of a secret.
+2. SALIERI to MOZART: Come, come, Mozart; I'm interested. Truly.
+3. MOZART to SALIERI: Actually, it's a big secret. Oh, this is delicious! What is it?
+4. SALIERI to MOZART: Cream cheese mixed with granulated sugar and suffused with rum. Crema al Mascarpone.
+5. MOZART to SALIERI: Ah. Italian?
+6. SALIERI to MOZART: Forgive me. We all have patriotic feelings of some kind.","Two thousand, two hundred florins is all I need A hundred? Fifty?",listener_higher_power,neutral_respect,"Context:
+1. MOZART to SALIERI: I'd better not. It's a bit of a secret.
+2. SALIERI to MOZART: Come, come, Mozart; I'm interested. Truly.
+3. MOZART to SALIERI: Actually, it's a big secret. Oh, this is delicious! What is it?
+4. SALIERI to MOZART: Cream cheese mixed with granulated sugar and suffused with rum. Crema al Mascarpone.
+5. MOZART to SALIERI: Ah. Italian?
+6. SALIERI to MOZART: Forgive me. We all have patriotic feelings of some kind.
+
+Current turn:
+Two thousand, two hundred florins is all I need A hundred? Fifty?",MOZART,SALIERI,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+261,amadeus,L30656,L30659,"1. LEOPOLD: I see that you're expecting.
+2. CONSTANZE to LEOPOLD: Oh, yes.
+3. LEOPOLD to CONSTANZE: When, may I ask?",In three months! Papa.,listener_higher_power,high_respect,"Context:
+1. LEOPOLD: I see that you're expecting.
+2. CONSTANZE to LEOPOLD: Oh, yes.
+3. LEOPOLD to CONSTANZE: When, may I ask?
+
+Current turn:
+In three months! Papa.",CONSTANZE,LEOPOLD,listener_higher_power,listener_higher_power,high_respect,high_respect
+264,amadeus,L30680,L30681,1. SCHIKANEDER: What did he say? What did he say?,"Papa, the rule is you can only give penalties that can be performed in the room.",roughly_equal_power,neutral_respect,"Context:
+1. SCHIKANEDER: What did he say? What did he say?
+
+Current turn:
+Papa, the rule is you can only give penalties that can be performed in the room.",MOZART,SCHIKANEDER,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+275,amadeus,L30728,L30730,"1. CONSTANZE: Look, old man, you stay out of this. We spend a fortune on you, more than we can possibly afford, and all you do is criticize, morning to night. And then you think you can -
+2. MOZART to CONSTANZE: Stanzi!","No, it's right he should hear. I'm sick to death of it. We can't do anything right for you, can we?",roughly_equal_power,low_respect,"Context:
+1. CONSTANZE: Look, old man, you stay out of this. We spend a fortune on you, more than we can possibly afford, and all you do is criticize, morning to night. And then you think you can -
+2. MOZART to CONSTANZE: Stanzi!
+
+Current turn:
+No, it's right he should hear. I'm sick to death of it. We can't do anything right for you, can we?",CONSTANZE,MOZART,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+276,amadeus,L30736,L30736,,And so you do! The only time you come out is to eat.,roughly_equal_power,low_respect,"Current turn:
+And so you do! The only time you come out is to eat.",CONSTANZE,,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+290,amadeus,L30783,L30786,"1. ORSINI-ROSENBERG: You mean that play?
+2. SALIERI to ORSINI-ROSENBERG: Exactly.
+3. ORSINI-ROSENBERG to SALIERI: He's setting that play to music?",Yes.,roughly_equal_power,neutral_respect,"Context:
+1. ORSINI-ROSENBERG: You mean that play?
+2. SALIERI to ORSINI-ROSENBERG: Exactly.
+3. ORSINI-ROSENBERG to SALIERI: He's setting that play to music?
+
+Current turn:
+Yes.",SALIERI,ORSINI-ROSENBERG,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+291,amadeus,L30783,L30787,"1. ORSINI-ROSENBERG: You mean that play?
+2. SALIERI to ORSINI-ROSENBERG: Exactly.
+3. ORSINI-ROSENBERG to SALIERI: He's setting that play to music?
+4. SALIERI to ORSINI-ROSENBERG: Yes.",You must be mad.,roughly_equal_power,low_respect,"Context:
+1. ORSINI-ROSENBERG: You mean that play?
+2. SALIERI to ORSINI-ROSENBERG: Exactly.
+3. ORSINI-ROSENBERG to SALIERI: He's setting that play to music?
+4. SALIERI to ORSINI-ROSENBERG: Yes.
+
+Current turn:
+You must be mad.",ORSINI-ROSENBERG,SALIERI,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+296,amadeus,L30795,L30799,"1. VON STRACK: I know we banned this play, but frankly I can't remember why. Can you refresh my memory, Herr Director?
+2. ORSINI-ROSENBERG to VON STRACK: For the same reason, Herr Chamberlain, that it was banned in France.
+3. VON STRACK to ORSINI-ROSENBERG: Oh yes, yes. And that was?
+4. ORSINI-ROSENBERG to VON STRACK: Well, the play makes a hero out of a valet. He outwits his noble master and exposes him as a lecher. Do you see the implications? This would be, in a grander situation, as if a Chamberlain were to expose an Emperor.",Ah.,roughly_equal_power,neutral_respect,"Context:
+1. VON STRACK: I know we banned this play, but frankly I can't remember why. Can you refresh my memory, Herr Director?
+2. ORSINI-ROSENBERG to VON STRACK: For the same reason, Herr Chamberlain, that it was banned in France.
+3. VON STRACK to ORSINI-ROSENBERG: Oh yes, yes. And that was?
+4. ORSINI-ROSENBERG to VON STRACK: Well, the play makes a hero out of a valet. He outwits his noble master and exposes him as a lecher. Do you see the implications? This would be, in a grander situation, as if a Chamberlain were to expose an Emperor.
+
+Current turn:
+Ah.",VON STRACK,ORSINI-ROSENBERG,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+300,amadeus,L30802,L30805,"1. JOSEPH: Mozart, are you aware I have declared the French play of Figaro unsuitable for our theatre?
+2. MOZART to JOSEPH: Yes, Sire.
+3. JOSEPH to MOZART: Yet we hear you are making an opera from it. Is this true?","Who told you this, Majesty?",listener_higher_power,high_respect,"Context:
+1. JOSEPH: Mozart, are you aware I have declared the French play of Figaro unsuitable for our theatre?
+2. MOZART to JOSEPH: Yes, Sire.
+3. JOSEPH to MOZART: Yet we hear you are making an opera from it. Is this true?
+
+Current turn:
+Who told you this, Majesty?",MOZART,JOSEPH,listener_higher_power,listener_higher_power,high_respect,high_respect
+326,amadeus,L30867,L30867,,"Wolfgang, what is it? Sta calmo, per favore. What's the matter?",roughly_equal_power,high_respect,"Current turn:
+Wolfgang, what is it? Sta calmo, per favore. What's the matter?",SALIERI,,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+334,amadeus,L30887,L30888,"1. JOSEPH: Do you like this, Salieri?","It is not a question of liking, Your Majesty. Your own law decrees it, I'm afraid.",listener_higher_power,high_respect,"Context:
+1. JOSEPH: Do you like this, Salieri?
+
+Current turn:
+It is not a question of liking, Your Majesty. Your own law decrees it, I'm afraid.",SALIERI,JOSEPH,listener_higher_power,listener_higher_power,high_respect,high_respect
+336,amadeus,L30894,L30895,"1. ORSINI-ROSENBERG: Can we see the scene with the music back, please?","Oh yes, certainly. Certainly, Herr Director!",listener_higher_power,high_respect,"Context:
+1. ORSINI-ROSENBERG: Can we see the scene with the music back, please?
+
+Current turn:
+Oh yes, certainly. Certainly, Herr Director!",MOZART,ORSINI-ROSENBERG,listener_higher_power,listener_higher_power,high_respect,high_respect
+346,amadeus,L30922,L30924,"1. SALIERI: Mozart. It was good of you to come.
+2. MOZART to SALIERI: How could I not?",Did my work please you?,roughly_equal_power,high_respect,"Context:
+1. SALIERI: Mozart. It was good of you to come.
+2. MOZART to SALIERI: How could I not?
+
+Current turn:
+Did my work please you?",SALIERI,MOZART,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+348,amadeus,L30922,L30926,"1. SALIERI: Mozart. It was good of you to come.
+2. MOZART to SALIERI: How could I not?
+3. SALIERI to MOZART: Did my work please you?
+4. MOZART to SALIERI: How could it not, Excellency?",Yes?,speaker_higher_power,neutral_respect,"Context:
+1. SALIERI: Mozart. It was good of you to come.
+2. MOZART to SALIERI: How could I not?
+3. SALIERI to MOZART: Did my work please you?
+4. MOZART to SALIERI: How could it not, Excellency?
+
+Current turn:
+Yes?",SALIERI,MOZART,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+374,amadeus,L31022,L31029,"1. MOZART to CONSTANZE: Why not? Half the house!
+2. CONSTANZE to MOZART: When? We need money now. Either he pays now, or you don't do it.
+3. MOZART to CONSTANZE: Oh, Stanzi.
+4. CONSTANZE to MOZART: I don't trust this man. And I didn't like what he did with your opera. It was common.
+5. MOZART to CONSTANZE: Well, you liked it, didn't you? Monkey-flunki-punki.
+6. CONSTANZE to MOZART: Half the house! You'll never see a penny. I want it here, in my hand.","Stanzi-manzi, I'll put it in your hand!",roughly_equal_power,neutral_respect,"Context:
+1. MOZART to CONSTANZE: Why not? Half the house!
+2. CONSTANZE to MOZART: When? We need money now. Either he pays now, or you don't do it.
+3. MOZART to CONSTANZE: Oh, Stanzi.
+4. CONSTANZE to MOZART: I don't trust this man. And I didn't like what he did with your opera. It was common.
+5. MOZART to CONSTANZE: Well, you liked it, didn't you? Monkey-flunki-punki.
+6. CONSTANZE to MOZART: Half the house! You'll never see a penny. I want it here, in my hand.
+
+Current turn:
+Stanzi-manzi, I'll put it in your hand!",MOZART,CONSTANZE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+379,amadeus,L31041,L31043,"1. SCHLUMBERG: I'm sorry. No.
+2. MOZART to SCHLUMBERG: Please. I'll give it back, I promise. Please, sir.","My answer is no, Mozart.",speaker_higher_power,neutral_respect,"Context:
+1. SCHLUMBERG: I'm sorry. No.
+2. MOZART to SCHLUMBERG: Please. I'll give it back, I promise. Please, sir.
+
+Current turn:
+My answer is no, Mozart.",SCHLUMBERG,MOZART,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+390,amadeus,L31068,L31070,"1. CONSTANZE: What's that? Oh!  Who gave you this? How much is it? Wolfi, who gave you this?
+2. MOZART to CONSTANZE: I'm not telling you.",Why not?,roughly_equal_power,neutral_respect,"Context:
+1. CONSTANZE: What's that? Oh!  Who gave you this? How much is it? Wolfi, who gave you this?
+2. MOZART to CONSTANZE: I'm not telling you.
+
+Current turn:
+Why not?",CONSTANZE,MOZART,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+410,amadeus,L31106,L31110,"1. SCHIKANEDER: Look, you little clown, do you know how many people I've hired for you? Do you know how many people are waiting?
+2. CONSTANZE to SCHIKANEDER: Leave him alone!
+3. SCHIKANEDER to CONSTANZE: I'm paying these people. Do you realize that?
+4. CONSTANZE to SCHIKANEDER: He's doing his best.",I'm paying people just to wait for you. It's ridiculous!,speaker_higher_power,low_respect,"Context:
+1. SCHIKANEDER: Look, you little clown, do you know how many people I've hired for you? Do you know how many people are waiting?
+2. CONSTANZE to SCHIKANEDER: Leave him alone!
+3. SCHIKANEDER to CONSTANZE: I'm paying these people. Do you realize that?
+4. CONSTANZE to SCHIKANEDER: He's doing his best.
+
+Current turn:
+I'm paying people just to wait for you. It's ridiculous!",SCHIKANEDER,CONSTANZE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+411,amadeus,L31117,L31117,,Now calm yourself. Calm. What's the matter with you?,speaker_higher_power,neutral_respect,"Current turn:
+Now calm yourself. Calm. What's the matter with you?",SALIERI,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+423,amadeus,L31140,L31143,"1. CONSTANZE: Give me one reason I can understand.
+2. MOZART to CONSTANZE: I can't write it!
+3. CONSTANZE to MOZART: Why not?",It's killing me.,roughly_equal_power,neutral_respect,"Context:
+1. CONSTANZE: Give me one reason I can understand.
+2. MOZART to CONSTANZE: I can't write it!
+3. CONSTANZE to MOZART: Why not?
+
+Current turn:
+It's killing me.",MOZART,CONSTANZE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+438,amadeus,L31193,L31195,"1. SALIERI: I would never miss anything that you had written. You must know that.
+2. MOZART to SALIERI: This is only a vaudeville.","Oh no. It is a sublime piece. The grandest operone. I tell you, you are the greatest composer known to me.",roughly_equal_power,high_respect,"Context:
+1. SALIERI: I would never miss anything that you had written. You must know that.
+2. MOZART to SALIERI: This is only a vaudeville.
+
+Current turn:
+Oh no. It is a sublime piece. The grandest operone. I tell you, you are the greatest composer known to me.",SALIERI,MOZART,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+439,amadeus,L31193,L31196,"1. SALIERI: I would never miss anything that you had written. You must know that.
+2. MOZART to SALIERI: This is only a vaudeville.
+3. SALIERI to MOZART: Oh no. It is a sublime piece. The grandest operone. I tell you, you are the greatest composer known to me.",Do you mean that?,roughly_equal_power,neutral_respect,"Context:
+1. SALIERI: I would never miss anything that you had written. You must know that.
+2. MOZART to SALIERI: This is only a vaudeville.
+3. SALIERI to MOZART: Oh no. It is a sublime piece. The grandest operone. I tell you, you are the greatest composer known to me.
+
+Current turn:
+Do you mean that?",MOZART,SALIERI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+443,amadeus,L31193,L31201,"1. SALIERI to MOZART: Oh no. It is a sublime piece. The grandest operone. I tell you, you are the greatest composer known to me.
+2. MOZART to SALIERI: Do you mean that?
+3. SALIERI to MOZART: I do.
+4. MOZART to SALIERI: I have bad fancies. I don't sleep well anymore. Then I drink too much, and think stupid things.
+5. SALIERI to MOZART: Are you ill?
+6. MOZART to SALIERI: The doctor thinks I am. But -",What?,roughly_equal_power,neutral_respect,"Context:
+1. SALIERI to MOZART: Oh no. It is a sublime piece. The grandest operone. I tell you, you are the greatest composer known to me.
+2. MOZART to SALIERI: Do you mean that?
+3. SALIERI to MOZART: I do.
+4. MOZART to SALIERI: I have bad fancies. I don't sleep well anymore. Then I drink too much, and think stupid things.
+5. SALIERI to MOZART: Are you ill?
+6. MOZART to SALIERI: The doctor thinks I am. But -
+
+Current turn:
+What?",SALIERI,MOZART,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+445,amadeus,L31203,L31204,1. SALIERI: Shall I answer it?,"No! No, it's him!",roughly_equal_power,neutral_respect,"Context:
+1. SALIERI: Shall I answer it?
+
+Current turn:
+No! No, it's him!",MOZART,SALIERI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+457,amadeus,L31225,L31225,,"Oh, by the way, give him this. This is his share. That should cheer him up, eh?",speaker_higher_power,neutral_respect,"Current turn:
+Oh, by the way, give him this. This is his share. That should cheer him up, eh?",SCHIKANEDER,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+468,amadeus,L31239,L31242,"1. OFFICER: What is it?
+2. CONSTANZE to OFFICER: I want to go!
+3. OFFICER to CONSTANZE: Where?",I want to go back to Vienna.,listener_higher_power,neutral_respect,"Context:
+1. OFFICER: What is it?
+2. CONSTANZE to OFFICER: I want to go!
+3. OFFICER to CONSTANZE: Where?
+
+Current turn:
+I want to go back to Vienna.",CONSTANZE,OFFICER,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+469,amadeus,L31239,L31243,"1. OFFICER: What is it?
+2. CONSTANZE to OFFICER: I want to go!
+3. OFFICER to CONSTANZE: Where?
+4. CONSTANZE to OFFICER: I want to go back to Vienna.",Now?,speaker_higher_power,neutral_respect,"Context:
+1. OFFICER: What is it?
+2. CONSTANZE to OFFICER: I want to go!
+3. OFFICER to CONSTANZE: Where?
+4. CONSTANZE to OFFICER: I want to go back to Vienna.
+
+Current turn:
+Now?",OFFICER,CONSTANZE,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+477,amadeus,L31248,L31252,"1. MOZART: Where did I stop?
+2. SALIERI to MOZART: The end of the Recordare - Statuens in parte dextra.
+3. MOZART to SALIERI: So now the Confutatis. Confutatis Maledictis. When the wicked are confounded. Flammis acribus addictis. How would you translate that?
+4. SALIERI to MOZART: Consigned to flames of woe.",Do you believe in it?,roughly_equal_power,neutral_respect,"Context:
+1. MOZART: Where did I stop?
+2. SALIERI to MOZART: The end of the Recordare - Statuens in parte dextra.
+3. MOZART to SALIERI: So now the Confutatis. Confutatis Maledictis. When the wicked are confounded. Flammis acribus addictis. How would you translate that?
+4. SALIERI to MOZART: Consigned to flames of woe.
+
+Current turn:
+Do you believe in it?",MOZART,SALIERI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+479,amadeus,L31248,L31255,"1. SALIERI to MOZART: The end of the Recordare - Statuens in parte dextra.
+2. MOZART to SALIERI: So now the Confutatis. Confutatis Maledictis. When the wicked are confounded. Flammis acribus addictis. How would you translate that?
+3. SALIERI to MOZART: Consigned to flames of woe.
+4. MOZART to SALIERI: Do you believe in it?
+5. SALIERI to MOZART: What?
+6. MOZART to SALIERI: A fire which never dies. Burning one forever?","Oh, yes.",roughly_equal_power,neutral_respect,"Context:
+1. SALIERI to MOZART: The end of the Recordare - Statuens in parte dextra.
+2. MOZART to SALIERI: So now the Confutatis. Confutatis Maledictis. When the wicked are confounded. Flammis acribus addictis. How would you translate that?
+3. SALIERI to MOZART: Consigned to flames of woe.
+4. MOZART to SALIERI: Do you believe in it?
+5. SALIERI to MOZART: What?
+6. MOZART to SALIERI: A fire which never dies. Burning one forever?
+
+Current turn:
+Oh, yes.",SALIERI,MOZART,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+481,amadeus,L31248,L31257,"1. SALIERI to MOZART: Consigned to flames of woe.
+2. MOZART to SALIERI: Do you believe in it?
+3. SALIERI to MOZART: What?
+4. MOZART to SALIERI: A fire which never dies. Burning one forever?
+5. SALIERI to MOZART: Oh, yes.
+6. MOZART to SALIERI: Strange!",Come. Let's begin.,speaker_higher_power,neutral_respect,"Context:
+1. SALIERI to MOZART: Consigned to flames of woe.
+2. MOZART to SALIERI: Do you believe in it?
+3. SALIERI to MOZART: What?
+4. MOZART to SALIERI: A fire which never dies. Burning one forever?
+5. SALIERI to MOZART: Oh, yes.
+6. MOZART to SALIERI: Strange!
+
+Current turn:
+Come. Let's begin.",SALIERI,MOZART,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+497,amadeus,L31287,L31288,1. SALIERI: That's wonderful!,"Yes, yes - go on. The Voca Me. Suddenly sotto voce. Write that down: sotto voce, pianissimo. Voca me cum benedictis. Call me among the blessed.",speaker_higher_power,neutral_respect,"Context:
+1. SALIERI: That's wonderful!
+
+Current turn:
+Yes, yes - go on. The Voca Me. Suddenly sotto voce. Write that down: sotto voce, pianissimo. Voca me cum benedictis. Call me among the blessed.",MOZART,SALIERI,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+501,amadeus,L31300,L31301,1. MOZART: Do you want to rest a bit?,Oh no. I'm not tired at all.,roughly_equal_power,neutral_respect,"Context:
+1. MOZART: Do you want to rest a bit?
+
+Current turn:
+Oh no. I'm not tired at all.",SALIERI,MOZART,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+502,amadeus,L31300,L31302,"1. MOZART: Do you want to rest a bit?
+2. SALIERI to MOZART: Oh no. I'm not tired at all.",We'll stop for just a moment. Then we'll do the Lacrimosa.,speaker_higher_power,neutral_respect,"Context:
+1. MOZART: Do you want to rest a bit?
+2. SALIERI to MOZART: Oh no. I'm not tired at all.
+
+Current turn:
+We'll stop for just a moment. Then we'll do the Lacrimosa.",MOZART,SALIERI,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+504,amadeus,L31309,L31310,1. CONSTANZE: What are you doing here?,"Your husband is ill, ma'am. He took sick. I brought him home.",roughly_equal_power,high_respect,"Context:
+1. CONSTANZE: What are you doing here?
+
+Current turn:
+Your husband is ill, ma'am. He took sick. I brought him home.",SALIERI,CONSTANZE,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+513,titanic,L614368,L614370,"1. LOVETT: Shit.
+2. BODINE to LOVETT: You know, boss, this happened to Geraldo and his career never recovered.",Get that outta my face.,speaker_higher_power,low_respect,"Context:
+1. LOVETT: Shit.
+2. BODINE to LOVETT: You know, boss, this happened to Geraldo and his career never recovered.
+
+Current turn:
+Get that outta my face.",LOVETT,BODINE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+522,titanic,L614458,L614459,1. CAL: Steerage swine. Apparently missed his annual bath.,"Honestly, Cal, if you weren't forever booking everything at the last instant, we could have gone through the terminal instead of running along the dock like some squalid immigrant family.",roughly_equal_power,low_respect,"Context:
+1. CAL: Steerage swine. Apparently missed his annual bath.
+
+Current turn:
+Honestly, Cal, if you weren't forever booking everything at the last instant, we could have gone through the terminal instead of running along the dock like some squalid immigrant family.",RUTH,CAL,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+529,titanic,L614490,L614491,1. FABRIZIO: You know somebody?,Of course not. That's not the point.  Goodbye! Goodbye!! I'll miss you!,roughly_equal_power,neutral_respect,"Context:
+1. FABRIZIO: You know somebody?
+
+Current turn:
+Of course not. That's not the point.  Goodbye! Goodbye!! I'll miss you!",JACK,FABRIZIO,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+532,titanic,L614537,L614538,1. ROSE: You're distracting me. Go away.,I can't. I'm involved now. If you let go I have to jump in after you.,roughly_equal_power,neutral_respect,"Context:
+1. ROSE: You're distracting me. Go away.
+
+Current turn:
+I can't. I'm involved now. If you let go I have to jump in after you.",JACK,ROSE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+536,titanic,L614545,L614546,1. JACK: Ever been to Wisconsin?,No.,roughly_equal_power,neutral_respect,"Context:
+1. JACK: Ever been to Wisconsin?
+
+Current turn:
+No.",ROSE,JACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+554,titanic,L614604,L614606,"1. BROCK: Hey, Lizzy. I need to talk to you for a second.
+2. LIZZY to BROCK: Don't you mean work me?","Look, I'm running out of time. I need your help.",roughly_equal_power,neutral_respect,"Context:
+1. BROCK: Hey, Lizzy. I need to talk to you for a second.
+2. LIZZY to BROCK: Don't you mean work me?
+
+Current turn:
+Look, I'm running out of time. I need your help.",BROCK,LIZZY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+555,titanic,L614604,L614607,"1. BROCK: Hey, Lizzy. I need to talk to you for a second.
+2. LIZZY to BROCK: Don't you mean work me?
+3. BROCK to LIZZY: Look, I'm running out of time. I need your help.",I'm not going to help you browbeat my hundred and one year old grandmother. I came down here to tell you to back off.,roughly_equal_power,low_respect,"Context:
+1. BROCK: Hey, Lizzy. I need to talk to you for a second.
+2. LIZZY to BROCK: Don't you mean work me?
+3. BROCK to LIZZY: Look, I'm running out of time. I need your help.
+
+Current turn:
+I'm not going to help you browbeat my hundred and one year old grandmother. I came down here to tell you to back off.",LIZZY,BROCK,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+559,titanic,L614612,L614614,"1. LOVETT: Maybe she wants to make peace with the past.
+2. LIZZY to LOVETT: What past? She has never once, not once, ever said a word about being on the Titanic until two days ago.",Then we're all meeting your grandmother for the first time.,roughly_equal_power,neutral_respect,"Context:
+1. LOVETT: Maybe she wants to make peace with the past.
+2. LIZZY to LOVETT: What past? She has never once, not once, ever said a word about being on the Titanic until two days ago.
+
+Current turn:
+Then we're all meeting your grandmother for the first time.",LOVETT,LIZZY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+567,titanic,L614628,L614633,"1. ROSE: Mr. Dawson, I --
+2. JACK to ROSE: Jack.
+3. ROSE to JACK: Jack... I feel like such an idiot. It took me all morning to get up the nerve to face you.
+4. JACK to ROSE: Well, here you are.
+5. ROSE to JACK: Here I am. I... I want to thank you for what you did. Not just for... for pulling me back. But for your discretion.",You're welcome. Rose.,roughly_equal_power,neutral_respect,"Context:
+1. ROSE: Mr. Dawson, I --
+2. JACK to ROSE: Jack.
+3. ROSE to JACK: Jack... I feel like such an idiot. It took me all morning to get up the nerve to face you.
+4. JACK to ROSE: Well, here you are.
+5. ROSE to JACK: Here I am. I... I want to thank you for what you did. Not just for... for pulling me back. But for your discretion.
+
+Current turn:
+You're welcome. Rose.",JACK,ROSE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+591,titanic,L614663,L614667,"1. ROSE: You liked this woman. You used her several times.
+2. JACK to ROSE: She had beautiful hands.
+3. ROSE to JACK: I think you must have had a love affair with her...
+4. JACK to ROSE: No, no! Just with her hands.","You have a gift, Jack. You do. You see people.",roughly_equal_power,high_respect,"Context:
+1. ROSE: You liked this woman. You used her several times.
+2. JACK to ROSE: She had beautiful hands.
+3. ROSE to JACK: I think you must have had a love affair with her...
+4. JACK to ROSE: No, no! Just with her hands.
+
+Current turn:
+You have a gift, Jack. You do. You see people.",ROSE,JACK,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+604,titanic,L614770,L614771,1. JACK: How you two doin'?,"I don't know what she's say, she don't know what I say, so we get along fine.",roughly_equal_power,neutral_respect,"Context:
+1. JACK: How you two doin'?
+
+Current turn:
+I don't know what she's say, she don't know what I say, so we get along fine.",FABRIZIO,JACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+612,titanic,L614789,L614793,"1. CAL: I had hoped you would come to me last night.
+2. ROSE to CAL: I was tired.
+3. CAL to ROSE: Yes. Your exertions below decks were no doubt exausting.
+4. ROSE to CAL: I see you had that undertaker of a manservant follow me.",You will never behave like that again! Do you understand?,speaker_higher_power,low_respect,"Context:
+1. CAL: I had hoped you would come to me last night.
+2. ROSE to CAL: I was tired.
+3. CAL to ROSE: Yes. Your exertions below decks were no doubt exausting.
+4. ROSE to CAL: I see you had that undertaker of a manservant follow me.
+
+Current turn:
+You will never behave like that again! Do you understand?",CAL,ROSE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+619,titanic,L614834,L614836,"1. JACK: Rose, you're no picnic... you're a spoiled little brat even, but under that you're a strong, pure heart, and you're the most amazingly astounding girl I've ever known and --
+2. ROSE to JACK: Jack, I --","No wait. Let me try to get this out. You're amazing... and I know I have nothing to offer you, Rose. I know that. But I'm involved now. You jump, I jump, remember? I can't turn away without knowin' that you're goin' to be alright.",roughly_equal_power,high_respect,"Context:
+1. JACK: Rose, you're no picnic... you're a spoiled little brat even, but under that you're a strong, pure heart, and you're the most amazingly astounding girl I've ever known and --
+2. ROSE to JACK: Jack, I --
+
+Current turn:
+No wait. Let me try to get this out. You're amazing... and I know I have nothing to offer you, Rose. I know that. But I'm involved now. You jump, I jump, remember? I can't turn away without knowin' that you're goin' to be alright.",JACK,ROSE,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+653,titanic,L615020,L615022,"1. ROSE: I saw the iceberg, Mr. Andrews. And I see it in your eyes. Please tell me the truth.
+2. ANDREWS to ROSE: The ship will sink.",You're certain?,roughly_equal_power,neutral_respect,"Context:
+1. ROSE: I saw the iceberg, Mr. Andrews. And I see it in your eyes. Please tell me the truth.
+2. ANDREWS to ROSE: The ship will sink.
+
+Current turn:
+You're certain?",ROSE,ANDREWS,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+657,titanic,L615065,L615065,,Where are you going? To him? Is that it? To be a whore to that gutter rat?,speaker_higher_power,low_respect,"Current turn:
+Where are you going? To him? Is that it? To be a whore to that gutter rat?",CAL,,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+663,titanic,L615093,L615094,1. JACK: So... how did you find out I didn't do it?,I didn't.  I just realized I already knew.,roughly_equal_power,neutral_respect,"Context:
+1. JACK: So... how did you find out I didn't do it?
+
+Current turn:
+I didn't.  I just realized I already knew.",ROSE,JACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+666,titanic,L615108,L615109,1. ROSE: Will this work?,We'll find out.,roughly_equal_power,neutral_respect,"Context:
+1. ROSE: Will this work?
+
+Current turn:
+We'll find out.",JACK,ROSE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+670,titanic,L615183,L615184,1. ROSE: I'm not going without you.,"Get in the boat, Rose.",speaker_higher_power,neutral_respect,"Context:
+1. ROSE: I'm not going without you.
+
+Current turn:
+Get in the boat, Rose.",JACK,ROSE,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+672,titanic,L615190,L615192,"1. CAL: There are boats on the other side that are allowing men in. Jack and I can get off safely. Both of us.
+2. JACK to CAL: I'll be alright. Hurry up so we can get going... we got our own boat to catch.","Get in... hurry up, it's almost full.",speaker_higher_power,neutral_respect,"Context:
+1. CAL: There are boats on the other side that are allowing men in. Jack and I can get off safely. Both of us.
+2. JACK to CAL: I'll be alright. Hurry up so we can get going... we got our own boat to catch.
+
+Current turn:
+Get in... hurry up, it's almost full.",CAL,JACK,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+682,titanic,L615268,L615269,1. MOLLY: I don't understand a one of you. What's the matter with you? It's your men back there! We got plenty a' room for more.,"If you don't shut that hole in yer face, there'll be one less in this boat!",speaker_higher_power,low_respect,"Context:
+1. MOLLY: I don't understand a one of you. What's the matter with you? It's your men back there! We got plenty a' room for more.
+
+Current turn:
+If you don't shut that hole in yer face, there'll be one less in this boat!",HITCHINS,MOLLY,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+693,dead poets society,L157213,L157214,"1. NOLAN: Welcome. back, Mr. Dalton.  How's your father?","Doing fine, sir.",listener_higher_power,high_respect,"Context:
+1. NOLAN: Welcome. back, Mr. Dalton.  How's your father?
+
+Current turn:
+Doing fine, sir.",CHARLIE,NOLAN,listener_higher_power,listener_higher_power,high_respect,high_respect
+699,dead poets society,L157235,L157235,,"Hey, I heard you went to summer school?",roughly_equal_power,neutral_respect,"Current turn:
+Hey, I heard you went to summer school?",CHARLIE,,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+705,dead poets society,L157248,L157250,"1. MEEKS: Well, welcome to ""Hell""ton.
+2. CHARLIE to MEEKS: It's every bit as hard as they say. Unless you're a genius like Meeks.",He flatters me so I'll help him with Latin.,roughly_equal_power,neutral_respect,"Context:
+1. MEEKS: Well, welcome to ""Hell""ton.
+2. CHARLIE to MEEKS: It's every bit as hard as they say. Unless you're a genius like Meeks.
+
+Current turn:
+He flatters me so I'll help him with Latin.",MEEKS,CHARLIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+721,dead poets society,L157281,L157281,,"I don't know about anyone else, but I could use a refresher in Latin.  Eight o'clock in my room?",roughly_equal_power,neutral_respect,"Current turn:
+I don't know about anyone else, but I could use a refresher in Latin.  Eight o'clock in my room?",CHARLIE,,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+724,dead poets society,L157286,L157288,"1. NEIL: So what do you think of my father?
+2. TODD to NEIL: I'll take him over mine.",What?,roughly_equal_power,neutral_respect,"Context:
+1. NEIL: So what do you think of my father?
+2. TODD to NEIL: I'll take him over mine.
+
+Current turn:
+What?",NEIL,TODD,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+728,dead poets society,L157306,L157309,"1. KEATING: Gather ye rosebuds while ye may.  The Latin term for that sentiment is ""Carpe Diem."" Anyone know what that means?
+2. MEEKS to KEATING: Carpe Diem... seize the day.
+3. KEATING to MEEKS: Very good, Mr._?",Meeks.,listener_higher_power,neutral_respect,"Context:
+1. KEATING: Gather ye rosebuds while ye may.  The Latin term for that sentiment is ""Carpe Diem."" Anyone know what that means?
+2. MEEKS to KEATING: Carpe Diem... seize the day.
+3. KEATING to MEEKS: Very good, Mr._?
+
+Current turn:
+Meeks.",MEEKS,KEATING,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+730,dead poets society,L157319,L157319,,"Oh come on, Cameron, don't you get anything?",roughly_equal_power,low_respect,"Current turn:
+Oh come on, Cameron, don't you get anything?",CHARLIE,,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+759,dead poets society,L157422,L157426,"1. CAMERON: Sounds boring to me.
+2. CHARLIE to CAMERON: Don't come.
+3. CAMERON to CHARLIE: You know how many demerits we're talking?
+4. CHARLIE to CAMERON: So don't goddam come!  Please.",All I'm saying is we have to be careful. We can't get caught.,roughly_equal_power,neutral_respect,"Context:
+1. CAMERON: Sounds boring to me.
+2. CHARLIE to CAMERON: Don't come.
+3. CAMERON to CHARLIE: You know how many demerits we're talking?
+4. CHARLIE to CAMERON: So don't goddam come!  Please.
+
+Current turn:
+All I'm saying is we have to be careful. We can't get caught.",CAMERON,CHARLIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+769,dead poets society,L157440,L157444,"1. KNOX: I don't know.  I don't get it.
+2. CHARLIE to KNOX: Come on.  It'll help you get Chris.
+3. KNOX to CHARLIE: It will?  How do you figure?
+4. CHARLIE to KNOX: Women swoon!",But why?,roughly_equal_power,neutral_respect,"Context:
+1. KNOX: I don't know.  I don't get it.
+2. CHARLIE to KNOX: Come on.  It'll help you get Chris.
+3. KNOX to CHARLIE: It will?  How do you figure?
+4. CHARLIE to KNOX: Women swoon!
+
+Current turn:
+But why?",KNOX,CHARLIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+785,dead poets society,L157482,L157483,1. TODD: A Midsummer Night's Dream. What is it?,"A play, dummy.",roughly_equal_power,low_respect,"Context:
+1. TODD: A Midsummer Night's Dream. What is it?
+
+Current turn:
+A play, dummy.",NEIL,TODD,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+791,dead poets society,L157490,L157492,"1. TODD: Neil, how are you gonna be in a play if your father won't let you?
+2. NEIL to TODD: First I gotta get the part, then I'll worry about that.",Won't he kill you if you don't let him know you're auditioning?,roughly_equal_power,neutral_respect,"Context:
+1. TODD: Neil, how are you gonna be in a play if your father won't let you?
+2. NEIL to TODD: First I gotta get the part, then I'll worry about that.
+
+Current turn:
+Won't he kill you if you don't let him know you're auditioning?",TODD,NEIL,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+795,dead poets society,L157490,L157496,"1. TODD: Neil, how are you gonna be in a play if your father won't let you?
+2. NEIL to TODD: First I gotta get the part, then I'll worry about that.
+3. TODD to NEIL: Won't he kill you if you don't let him know you're auditioning?
+4. NEIL to TODD: As far as I'm concerned, he won't have to know about any of it.
+5. TODD to NEIL: Come on, that's impossible.
+6. NEIL to TODD: Horseshit.  Nothing's impossible.",Why don't you ask him first?  Maybe he'll say yes.,roughly_equal_power,neutral_respect,"Context:
+1. TODD: Neil, how are you gonna be in a play if your father won't let you?
+2. NEIL to TODD: First I gotta get the part, then I'll worry about that.
+3. TODD to NEIL: Won't he kill you if you don't let him know you're auditioning?
+4. NEIL to TODD: As far as I'm concerned, he won't have to know about any of it.
+5. TODD to NEIL: Come on, that's impossible.
+6. NEIL to TODD: Horseshit.  Nothing's impossible.
+
+Current turn:
+Why don't you ask him first?  Maybe he'll say yes.",TODD,NEIL,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+811,dead poets society,L157547,L157547,,"Neil, how are you gonna do this?",roughly_equal_power,neutral_respect,"Current turn:
+Neil, how are you gonna do this?",TODD,,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+817,dead poets society,L157567,L157568,"1. KEATING: Good god, boy! Yell!",Yawp!,listener_higher_power,neutral_respect,"Context:
+1. KEATING: Good god, boy! Yell!
+
+Current turn:
+Yawp!",TODD,KEATING,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+822,dead poets society,L157574,L157574,,"Todd, there's a picture of Whitman over the door.  What does he remind you Of? Quickly, Anderson, don't think about it.",speaker_higher_power,neutral_respect,"Current turn:
+Todd, there's a picture of Whitman over the door.  What does he remind you Of? Quickly, Anderson, don't think about it.",KEATING,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+827,dead poets society,L157574,L157580,"1. KEATING: Todd, there's a picture of Whitman over the door.  What does he remind you Of? Quickly, Anderson, don't think about it.
+2. TODD to KEATING: A madman.
+3. KEATING to TODD: A madman.  Perhaps he was.  What kind of madman?  Don't think!  Answer.
+4. TODD to KEATING: A crazy madman.
+5. KEATING to TODD: Use your imagination!  First thing that pops to your mind, even if it's gibberish!
+6. TODD to KEATING: A... A  sweaty-toothed madman.",Now there's the poet speaking!  Close your eyes and think of the picture. Describe what you see.  NOW!,speaker_higher_power,neutral_respect,"Context:
+1. KEATING: Todd, there's a picture of Whitman over the door.  What does he remind you Of? Quickly, Anderson, don't think about it.
+2. TODD to KEATING: A madman.
+3. KEATING to TODD: A madman.  Perhaps he was.  What kind of madman?  Don't think!  Answer.
+4. TODD to KEATING: A crazy madman.
+5. KEATING to TODD: Use your imagination!  First thing that pops to your mind, even if it's gibberish!
+6. TODD to KEATING: A... A  sweaty-toothed madman.
+
+Current turn:
+Now there's the poet speaking!  Close your eyes and think of the picture. Describe what you see.  NOW!",KEATING,TODD,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+828,dead poets society,L157574,L157581,"1. TODD to KEATING: A madman.
+2. KEATING to TODD: A madman.  Perhaps he was.  What kind of madman?  Don't think!  Answer.
+3. TODD to KEATING: A crazy madman.
+4. KEATING to TODD: Use your imagination!  First thing that pops to your mind, even if it's gibberish!
+5. TODD to KEATING: A... A  sweaty-toothed madman.
+6. KEATING to TODD: Now there's the poet speaking!  Close your eyes and think of the picture. Describe what you see.  NOW!",I... I close my eyes.  His image floats beside me.,listener_higher_power,neutral_respect,"Context:
+1. TODD to KEATING: A madman.
+2. KEATING to TODD: A madman.  Perhaps he was.  What kind of madman?  Don't think!  Answer.
+3. TODD to KEATING: A crazy madman.
+4. KEATING to TODD: Use your imagination!  First thing that pops to your mind, even if it's gibberish!
+5. TODD to KEATING: A... A  sweaty-toothed madman.
+6. KEATING to TODD: Now there's the poet speaking!  Close your eyes and think of the picture. Describe what you see.  NOW!
+
+Current turn:
+I... I close my eyes.  His image floats beside me.",TODD,KEATING,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+835,dead poets society,L157597,L157597,,"Charlie, That was great!  Where did you learn to play like that?",roughly_equal_power,high_respect,"Current turn:
+Charlie, That was great!  Where did you learn to play like that?",NEIL,,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+848,dead poets society,L157614,L157622,"1. KNOX to CHARLIE: Yeah.
+2. CHARLIE to KNOX: Well?
+3. KNOX to CHARLIE: So?
+4. CHARLIE to KNOX: So you really think she means you're going with her?
+5. KNOX to CHARLIE: Well hell no, Charlie, but that's not the point.  That's not the point at all!
+6. CHARLIE to KNOX: What is the point?","The point is she was thinking about me! I've only met her once and already she's thinking about me.  Damn it, it's gonna happen!  I feel it.  She's going to be mine!",roughly_equal_power,neutral_respect,"Context:
+1. KNOX to CHARLIE: Yeah.
+2. CHARLIE to KNOX: Well?
+3. KNOX to CHARLIE: So?
+4. CHARLIE to KNOX: So you really think she means you're going with her?
+5. KNOX to CHARLIE: Well hell no, Charlie, but that's not the point.  That's not the point at all!
+6. CHARLIE to KNOX: What is the point?
+
+Current turn:
+The point is she was thinking about me! I've only met her once and already she's thinking about me.  Damn it, it's gonna happen!  I feel it.  She's going to be mine!",KNOX,CHARLIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+852,dead poets society,L157633,L157635,"1. NEIL: This is your desk set.  I don't get it.
+2. TODD to NEIL: They gave me the exact same thing as last year!",Oh..,roughly_equal_power,neutral_respect,"Context:
+1. NEIL: This is your desk set.  I don't get it.
+2. TODD to NEIL: They gave me the exact same thing as last year!
+
+Current turn:
+Oh..",NEIL,TODD,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+856,dead poets society,L157639,L157641,"1. NEIL: Look, Todd, you're obviously under- estimating the value of this desk set.
+2. TODD to NEIL: what?","I mean, this is one special gift!  Who would want a football or a baseball bat or a car when they could get a desk set as wonderful as this one!",roughly_equal_power,neutral_respect,"Context:
+1. NEIL: Look, Todd, you're obviously under- estimating the value of this desk set.
+2. TODD to NEIL: what?
+
+Current turn:
+I mean, this is one special gift!  Who would want a football or a baseball bat or a car when they could get a desk set as wonderful as this one!",NEIL,TODD,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+861,dead poets society,L157667,L157671,"1. CHRIS: Oh, hi.  I'm glad you made it.  Did you bring anybody?
+2. KNOX to CHRIS: No.
+3. CHRIS to KNOX: Ginny Danburry's here.  Look for her.
+4. KNOX to CHRIS: But, Chris...",I gotta find Chet.  Make yourself at home.,roughly_equal_power,neutral_respect,"Context:
+1. CHRIS: Oh, hi.  I'm glad you made it.  Did you bring anybody?
+2. KNOX to CHRIS: No.
+3. CHRIS to KNOX: Ginny Danburry's here.  Look for her.
+4. KNOX to CHRIS: But, Chris...
+
+Current turn:
+I gotta find Chet.  Make yourself at home.",CHRIS,KNOX,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+873,dead poets society,L157708,L157709,1. GLORIA: Yeah!    Don't you guys miss having girls here?,"Miss it?  It drives us crazy.  That's part of what this club is about.  In fact, I'd like to announce that I've published an article in the school paper, in the name of the Dead Poets society, demanding girls be admitted to Welton, so we can all stop beating off.",roughly_equal_power,low_respect,"Context:
+1. GLORIA: Yeah!    Don't you guys miss having girls here?
+
+Current turn:
+Miss it?  It drives us crazy.  That's part of what this club is about.  In fact, I'd like to announce that I've published an article in the school paper, in the name of the Dead Poets society, demanding girls be admitted to Welton, so we can all stop beating off.",CHARLIE,GLORIA,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+882,dead poets society,L157741,L157742,1. CHRIS: Don't stop.,Stop what?,roughly_equal_power,neutral_respect,"Context:
+1. CHRIS: Don't stop.
+
+Current turn:
+Stop what?",CHET,CHRIS,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+885,dead poets society,L157757,L157758,"1. CHARLIE: Hey guys, why don't you show Tina the Dead Poets garden?",Garden?,roughly_equal_power,neutral_respect,"Context:
+1. CHARLIE: Hey guys, why don't you show Tina the Dead Poets garden?
+
+Current turn:
+Garden?",MEEKS,CHARLIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+909,dead poets society,L157804,L157811,"1. KEATING to NOLAN: I didn't know you taught.
+2. NOLAN to KEATING: English.  Way before your time.  It was hard giving it up, I'll tell you.  I'm hearing rumors, John, of some unusual teaching methods in your classroom.  I'm not saying they have anything to do with the Dalton boy's outburst, but I don't think I have to warn you that boys his age are very impressionable.
+3. KEATING to NOLAN: Your reprimand made quite an impression I'm sure.
+4. NOLAN to KEATING: What was going on in the courtyard the other day?
+5. KEATING to NOLAN: Courtyard?
+6. NOLAN to KEATING: Boys marching.  Clapping in unison.",Oh that. That was an exercise to prove a point.  About the evils of conformity.,listener_higher_power,neutral_respect,"Context:
+1. KEATING to NOLAN: I didn't know you taught.
+2. NOLAN to KEATING: English.  Way before your time.  It was hard giving it up, I'll tell you.  I'm hearing rumors, John, of some unusual teaching methods in your classroom.  I'm not saying they have anything to do with the Dalton boy's outburst, but I don't think I have to warn you that boys his age are very impressionable.
+3. KEATING to NOLAN: Your reprimand made quite an impression I'm sure.
+4. NOLAN to KEATING: What was going on in the courtyard the other day?
+5. KEATING to NOLAN: Courtyard?
+6. NOLAN to KEATING: Boys marching.  Clapping in unison.
+
+Current turn:
+Oh that. That was an exercise to prove a point.  About the evils of conformity.",KEATING,NOLAN,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+923,dead poets society,L157844,L157846,"1. NEIL: You should come to rehearsals.  I know they need people to work the lights and stuff.
+2. TODD to NEIL: No thanks.",Lots of girls.  The girl who plays Hermia is incredible.,roughly_equal_power,neutral_respect,"Context:
+1. NEIL: You should come to rehearsals.  I know they need people to work the lights and stuff.
+2. TODD to NEIL: No thanks.
+
+Current turn:
+Lots of girls.  The girl who plays Hermia is incredible.",NEIL,TODD,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+926,dead poets society,L157844,L157849,"1. NEIL: You should come to rehearsals.  I know they need people to work the lights and stuff.
+2. TODD to NEIL: No thanks.
+3. NEIL to TODD: Lots of girls.  The girl who plays Hermia is incredible.
+4. TODD to NEIL: I'll come to the performance.
+5. NEIL to TODD: Chicken shit.  Where were we?","Yea, art thou there?",roughly_equal_power,neutral_respect,"Context:
+1. NEIL: You should come to rehearsals.  I know they need people to work the lights and stuff.
+2. TODD to NEIL: No thanks.
+3. NEIL to TODD: Lots of girls.  The girl who plays Hermia is incredible.
+4. TODD to NEIL: I'll come to the performance.
+5. NEIL to TODD: Chicken shit.  Where were we?
+
+Current turn:
+Yea, art thou there?",TODD,NEIL,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+942,dead poets society,L157873,L157874,1. NEIL: Visit from my father.,Do you have to quit the play?,roughly_equal_power,neutral_respect,"Context:
+1. NEIL: Visit from my father.
+
+Current turn:
+Do you have to quit the play?",TODD,NEIL,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+949,dead poets society,L157891,L157891,,"Oh Captain, My Captain, we came here so I could talk to you about something.",listener_higher_power,high_respect,"Current turn:
+Oh Captain, My Captain, we came here so I could talk to you about something.",NEIL,,listener_higher_power,listener_higher_power,high_respect,high_respect
+955,dead poets society,L157900,L157904,"1. NEIL: Gosh, they don't give you much room around here, do they?
+2. KEATING to NEIL: Maybe they don't want worldly things distracting me from my teaching.
+3. NEIL to KEATING: Why do you do it?  I mean, with all this seize-the-day business, I'd have thought you'd be out seeing the world or something?
+4. KEATING to NEIL: Ah, but I am seeing the world, Neil. The new world.  Seeing a student like you take root and bloom.  It's worth everything.  That's why I came back here. A place like this needs at least one teacher like me.  Did you come here to talk about my teaching?","Mr. Keating, my father is making me quit the play at Henley Hall.  When I think about carpe diem and all that, I feel like I'm in prison!  I mean, I can see his point.  We're not a rich family like Charlie's.  But he's planned the rest of my life for me and he's never even asked me what I want!",listener_higher_power,high_respect,"Context:
+1. NEIL: Gosh, they don't give you much room around here, do they?
+2. KEATING to NEIL: Maybe they don't want worldly things distracting me from my teaching.
+3. NEIL to KEATING: Why do you do it?  I mean, with all this seize-the-day business, I'd have thought you'd be out seeing the world or something?
+4. KEATING to NEIL: Ah, but I am seeing the world, Neil. The new world.  Seeing a student like you take root and bloom.  It's worth everything.  That's why I came back here. A place like this needs at least one teacher like me.  Did you come here to talk about my teaching?
+
+Current turn:
+Mr. Keating, my father is making me quit the play at Henley Hall.  When I think about carpe diem and all that, I feel like I'm in prison!  I mean, I can see his point.  We're not a rich family like Charlie's.  But he's planned the rest of my life for me and he's never even asked me what I want!",NEIL,KEATING,listener_higher_power,listener_higher_power,high_respect,high_respect
+959,dead poets society,L157908,L157909,"1. KEATING: Neil, I know this seems impossible but you have to go to your father and show him what you're feeling.  You have to let him see who you are-  It's your only chance.","I know what he'll say.  He'll say that acting is just a whim and that it's frivolous and that I should forget about it.  He'll tell me how they're counting on me and to put it out of my mind ""for my own good.""",listener_higher_power,neutral_respect,"Context:
+1. KEATING: Neil, I know this seems impossible but you have to go to your father and show him what you're feeling.  You have to let him see who you are-  It's your only chance.
+
+Current turn:
+I know what he'll say.  He'll say that acting is just a whim and that it's frivolous and that I should forget about it.  He'll tell me how they're counting on me and to put it out of my mind ""for my own good.""",NEIL,KEATING,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+978,dead poets society,L157961,L157962,"1. KNOX: If they catch you here, we'll both be in big trouble.","Oh, but it's fine for you to come barging into my school and make a complete fool out of me?",roughly_equal_power,low_respect,"Context:
+1. KNOX: If they catch you here, we'll both be in big trouble.
+
+Current turn:
+Oh, but it's fine for you to come barging into my school and make a complete fool out of me?",CHRIS,KNOX,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+981,dead poets society,L157968,L157972,"1. KNOX: Of course I know you!  From the first time I saw you, I knew you had a wonderful soul.
+2. CHRIS to KNOX: Just like that?!  You just knew?
+3. KNOX to CHRIS: Of course just like that.  That's how you always know when it's right.
+4. CHRIS to KNOX: And if it so happens that you're wrong? If it just so happens that I could care less About you?",Then you wouldn't be here warning me about Chet.,roughly_equal_power,neutral_respect,"Context:
+1. KNOX: Of course I know you!  From the first time I saw you, I knew you had a wonderful soul.
+2. CHRIS to KNOX: Just like that?!  You just knew?
+3. KNOX to CHRIS: Of course just like that.  That's how you always know when it's right.
+4. CHRIS to KNOX: And if it so happens that you're wrong? If it just so happens that I could care less About you?
+
+Current turn:
+Then you wouldn't be here warning me about Chet.",KNOX,CHRIS,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+983,dead poets society,L157973,L157976,"1. CHRIS: Look, I've got to go.  I'm gonna be late for the play.
+2. KNOX to CHRIS: Are you going with Chet?
+3. CHRIS to KNOX: Chet?  To a play? Are you kidding?",Then come with me.,roughly_equal_power,neutral_respect,"Context:
+1. CHRIS: Look, I've got to go.  I'm gonna be late for the play.
+2. KNOX to CHRIS: Are you going with Chet?
+3. CHRIS to KNOX: Chet?  To a play? Are you kidding?
+
+Current turn:
+Then come with me.",KNOX,CHRIS,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+994,the godfather,L592849,L592851,"1. DON CORLEONE: Bonasera, we know each other for years, but this is the first time you come to me for help.  I don't remember the last time you invited me to your house for coffee...even though our wives are friends.
+2. BONASERA to DON CORLEONE: What do you want of me?  I'll give you anything you want, but do what I ask!",And what is that Bonasera?,speaker_higher_power,neutral_respect,"Context:
+1. DON CORLEONE: Bonasera, we know each other for years, but this is the first time you come to me for help.  I don't remember the last time you invited me to your house for coffee...even though our wives are friends.
+2. BONASERA to DON CORLEONE: What do you want of me?  I'll give you anything you want, but do what I ask!
+
+Current turn:
+And what is that Bonasera?",DON CORLEONE,BONASERA,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+999,the godfather,L592871,L592872,1. PAULIE: You look terrif on the floor!,"What are you, a dance judge?  Go do your job; take a walk around the neighborhood... see everything is okay.",speaker_higher_power,low_respect,"Context:
+1. PAULIE: You look terrif on the floor!
+
+Current turn:
+What are you, a dance judge?  Go do your job; take a walk around the neighborhood... see everything is okay.",CLEMENZA,PAULIE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1009,the godfather,L592893,L592895,"1. KAY: Michael, what are those men doing?
+2. MICHAEL to KAY: They're waiting to see my father.",They're talking to themselves.,roughly_equal_power,neutral_respect,"Context:
+1. KAY: Michael, what are those men doing?
+2. MICHAEL to KAY: They're waiting to see my father.
+
+Current turn:
+They're talking to themselves.",KAY,MICHAEL,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1017,the godfather,L592911,L592912,"1. MICHAEL: Once upon a time, about fifteen years ago some people wanted to take over my father's olive oil business.  They had Al Capone send some men in from Chicago to kill my father, and they almost did.",Al Capone!,roughly_equal_power,neutral_respect,"Context:
+1. MICHAEL: Once upon a time, about fifteen years ago some people wanted to take over my father's olive oil business.  They had Al Capone send some men in from Chicago to kill my father, and they almost did.
+
+Current turn:
+Al Capone!",KAY,MICHAEL,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1022,the godfather,L592911,L592920,"1. KAY to MICHAEL: Michael...
+2. MICHAEL to KAY: Then the legs at the knees...
+3. KAY to MICHAEL: Michael you're trying to scare me...
+4. MICHAEL to KAY: Then the thighs where they joined the torso.
+5. KAY to MICHAEL: Michael, I don't want to hear anymore...
+6. MICHAEL to KAY: Then Luca turned to the other man...","Michael, I love you.",roughly_equal_power,high_respect,"Context:
+1. KAY to MICHAEL: Michael...
+2. MICHAEL to KAY: Then the legs at the knees...
+3. KAY to MICHAEL: Michael you're trying to scare me...
+4. MICHAEL to KAY: Then the thighs where they joined the torso.
+5. KAY to MICHAEL: Michael, I don't want to hear anymore...
+6. MICHAEL to KAY: Then Luca turned to the other man...
+
+Current turn:
+Michael, I love you.",KAY,MICHAEL,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+1023,the godfather,L592922,L592923,1. KAY: I never know when you're telling me the truth.,I told you you wouldn't like him.,roughly_equal_power,neutral_respect,"Context:
+1. KAY: I never know when you're telling me the truth.
+
+Current turn:
+I told you you wouldn't like him.",MICHAEL,KAY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1026,the godfather,L592925,L592927,"1. MICHAEL: Tom...Tom, I'd like you to meet Kay Adams.
+2. KAY to MICHAEL: How do you do.","My brother, Tom Hagen.",roughly_equal_power,neutral_respect,"Context:
+1. MICHAEL: Tom...Tom, I'd like you to meet Kay Adams.
+2. KAY to MICHAEL: How do you do.
+
+Current turn:
+My brother, Tom Hagen.",MICHAEL,KAY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1028,the godfather,L592930,L592931,"1. KAY: If he's your brother, why does he have a different name?","My brother Sonny found him living in the streets when he was a kid, so my father took him in.  He's a good lawyer.",roughly_equal_power,neutral_respect,"Context:
+1. KAY: If he's your brother, why does he have a different name?
+
+Current turn:
+My brother Sonny found him living in the streets when he was a kid, so my father took him in.  He's a good lawyer.",MICHAEL,KAY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1030,the godfather,L592939,L592941,"1. HAGEN: He's his own boss, and very competent.
+2. DON CORLEONE to HAGEN: And with prison record.","Two terms; one in Italy, one in the United States.  He's known to the Government as a top narcotics man. That could be a plus for us; he could never get immunity to testify.",listener_higher_power,neutral_respect,"Context:
+1. HAGEN: He's his own boss, and very competent.
+2. DON CORLEONE to HAGEN: And with prison record.
+
+Current turn:
+Two terms; one in Italy, one in the United States.  He's known to the Government as a top narcotics man. That could be a plus for us; he could never get immunity to testify.",HAGEN,DON CORLEONE,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1040,the godfather,L592965,L592965,,"All right, Hollywood...Now tell me about this Hollywood Pezzonovanta who won't let you work.",speaker_higher_power,neutral_respect,"Current turn:
+All right, Hollywood...Now tell me about this Hollywood Pezzonovanta who won't let you work.",DON CORLEONE,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1044,the godfather,L592973,L592975,"1. DON CORLEONE: When does my daughter leave with her bridegroom?
+2. HAGEN to DON CORLEONE: They'll cut the cake in a few minutes...leave right after that. Your new son-in-law, do we give him something important?","No, give him a living.  But never let him know the family's business. What else, Tom?",speaker_higher_power,neutral_respect,"Context:
+1. DON CORLEONE: When does my daughter leave with her bridegroom?
+2. HAGEN to DON CORLEONE: They'll cut the cake in a few minutes...leave right after that. Your new son-in-law, do we give him something important?
+
+Current turn:
+No, give him a living.  But never let him know the family's business. What else, Tom?",DON CORLEONE,HAGEN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1045,the godfather,L592981,L592982,1. DON CORLEONE: Will your girl friend get back to the city all right?,Tom said he'd take care of it.,listener_higher_power,neutral_respect,"Context:
+1. DON CORLEONE: Will your girl friend get back to the city all right?
+
+Current turn:
+Tom said he'd take care of it.",MICHAEL,DON CORLEONE,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1052,the godfather,L593005,L593010,"1. HAGEN: Mr. Corleone is Johnny's Godfather. That is very close, a very sacred religious relationship.
+2. WOLTZ to HAGEN: Okay, but just tell him this is one favor I can't give.  But he should try me again on anything else.
+3. HAGEN to WOLTZ: He never asks a second favor when he has been refused the first. Understood?
+4. WOLTZ to HAGEN: You smooth son of a bitch, let me lay it on the line for you, and your boss.  Johnny Fontane never gets that movie.  I don't care how many Dago, Guinea, wop Greaseball Goombahs come out of the woodwork!
+5. HAGEN to WOLTZ: I'm German-Irish.","Okay my Kraut-Mick friend, Johnny will never get that part because I hate that pinko punk and I'm going to run him out of the Movies.  And I'll tell you why.  He ruined one of Woltz Brothers' most valuable proteges.  For five years I had this girl under training; singing lessons!  Acting lessons!  Dancing lessons!  We spent hundreds of thousands of dollars--I was going to make her a star.  I'll be even more frank, just to show you that I'm not a hard-hearted man, that it wasn't all dollars and cents.  That girl was beautiful and young and innocent and she was the greatest piece of ass I've ever ad and I've had them all over the world.  Then Johnny comes along with that olive oil voice and guinea charm and she runs off.  She threw it all away to make me look ridiculous.  A MAN IN MY POSITION CANNOT AFFORD TO BE MADE TO LOOK RIDICULOUS!",speaker_higher_power,low_respect,"Context:
+1. HAGEN: Mr. Corleone is Johnny's Godfather. That is very close, a very sacred religious relationship.
+2. WOLTZ to HAGEN: Okay, but just tell him this is one favor I can't give.  But he should try me again on anything else.
+3. HAGEN to WOLTZ: He never asks a second favor when he has been refused the first. Understood?
+4. WOLTZ to HAGEN: You smooth son of a bitch, let me lay it on the line for you, and your boss.  Johnny Fontane never gets that movie.  I don't care how many Dago, Guinea, wop Greaseball Goombahs come out of the woodwork!
+5. HAGEN to WOLTZ: I'm German-Irish.
+
+Current turn:
+Okay my Kraut-Mick friend, Johnny will never get that part because I hate that pinko punk and I'm going to run him out of the Movies.  And I'll tell you why.  He ruined one of Woltz Brothers' most valuable proteges.  For five years I had this girl under training; singing lessons!  Acting lessons!  Dancing lessons!  We spent hundreds of thousands of dollars--I was going to make her a star.  I'll be even more frank, just to show you that I'm not a hard-hearted man, that it wasn't all dollars and cents.  That girl was beautiful and young and innocent and she was the greatest piece of ass I've ever ad and I've had them all over the world.  Then Johnny comes along with that olive oil voice and guinea charm and she runs off.  She threw it all away to make me look ridiculous.  A MAN IN MY POSITION CANNOT AFFORD TO BE MADE TO LOOK RIDICULOUS!",WOLTZ,HAGEN,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1078,the godfather,L593134,L593136,"1. SONNY: I was worried when we couldn't get in touch with you in that hick town.
+2. MICHAEL to SONNY: How's Mom?",Good.  She's been through it before. Me too.  You were too young to know about it.  You better wait outside; there're some things you shouldn't hear.,speaker_higher_power,neutral_respect,"Context:
+1. SONNY: I was worried when we couldn't get in touch with you in that hick town.
+2. MICHAEL to SONNY: How's Mom?
+
+Current turn:
+Good.  She's been through it before. Me too.  You were too young to know about it.  You better wait outside; there're some things you shouldn't hear.",SONNY,MICHAEL,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1080,the godfather,L593134,L593140,"1. SONNY: I was worried when we couldn't get in touch with you in that hick town.
+2. MICHAEL to SONNY: How's Mom?
+3. SONNY to MICHAEL: Good.  She's been through it before. Me too.  You were too young to know about it.  You better wait outside; there're some things you shouldn't hear.
+4. MICHAEL to SONNY: I can help you out...
+5. SONNY to MICHAEL: Oh no you can't, the old man'd be sore as hell if I let you get mixed up in this.
+6. MICHAEL to SONNY: Jesus Christ, he's my father, Sonny.",Theresa.,speaker_higher_power,neutral_respect,"Context:
+1. SONNY: I was worried when we couldn't get in touch with you in that hick town.
+2. MICHAEL to SONNY: How's Mom?
+3. SONNY to MICHAEL: Good.  She's been through it before. Me too.  You were too young to know about it.  You better wait outside; there're some things you shouldn't hear.
+4. MICHAEL to SONNY: I can help you out...
+5. SONNY to MICHAEL: Oh no you can't, the old man'd be sore as hell if I let you get mixed up in this.
+6. MICHAEL to SONNY: Jesus Christ, he's my father, Sonny.
+
+Current turn:
+Theresa.",SONNY,MICHAEL,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1085,the godfather,L593148,L593151,"1. MICHAEL: Is it going to be all-out war, like last time?
+2. SONNY to MICHAEL: Until the old man tells me different.
+3. MICHAEL to SONNY: Then wait, Sonny.  Talk to Pop.","Sollozzo is a dead man, I don't care what it costs.  I don't care if we have to fight all the five families in New York.  The Tattaglia family's going to eat dirt.  I don't care if we all go down together.",speaker_higher_power,neutral_respect,"Context:
+1. MICHAEL: Is it going to be all-out war, like last time?
+2. SONNY to MICHAEL: Until the old man tells me different.
+3. MICHAEL to SONNY: Then wait, Sonny.  Talk to Pop.
+
+Current turn:
+Sollozzo is a dead man, I don't care what it costs.  I don't care if we have to fight all the five families in New York.  The Tattaglia family's going to eat dirt.  I don't care if we all go down together.",SONNY,MICHAEL,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1089,the godfather,L593175,L593176,"1. CLEMENZA: I tol' you to stay put, Paulie...",The guy at the gate's outside...says there's a package...,listener_higher_power,neutral_respect,"Context:
+1. CLEMENZA: I tol' you to stay put, Paulie...
+
+Current turn:
+The guy at the gate's outside...says there's a package...",PAULIE,CLEMENZA,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1106,the godfather,L593236,L593239,"1. MICHAEL: Visiting hour ends at eight thirty. I'll just sit with him; I want to show respect.
+2. KAY to MICHAEL: Can I go to the hospital with you?
+3. MICHAEL to KAY: I don't think so.  You don't want to end up on page 3 of the Daily News.","My parents don't read the Daily News.  All right, if you think I shouldn't.  I can't believe the things the papers are printing. I'm sure most of it's not true.",listener_higher_power,neutral_respect,"Context:
+1. MICHAEL: Visiting hour ends at eight thirty. I'll just sit with him; I want to show respect.
+2. KAY to MICHAEL: Can I go to the hospital with you?
+3. MICHAEL to KAY: I don't think so.  You don't want to end up on page 3 of the Daily News.
+
+Current turn:
+My parents don't read the Daily News.  All right, if you think I shouldn't.  I can't believe the things the papers are printing. I'm sure most of it's not true.",KAY,MICHAEL,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1113,the godfather,L593255,L593259,"1. NURSE: You cannot stay here...I'm sorry.
+2. MICHAEL to NURSE: You and I are going to move my father right now...to another room on another floor...Can you disconnect those tubes so we can wheel the bed out?
+3. NURSE to MICHAEL: Absolutely not!  We have to get permission from the Doctor.
+4. MICHAEL to NURSE: You've read about my father in the papers.  You've seen that no one's here to guard him.  Now I've just gotten word that men are coming to this hospital to kill him.  Believe me and help me.","We don't have to disconnect them, we can wheel the stand with the bed.",listener_higher_power,neutral_respect,"Context:
+1. NURSE: You cannot stay here...I'm sorry.
+2. MICHAEL to NURSE: You and I are going to move my father right now...to another room on another floor...Can you disconnect those tubes so we can wheel the bed out?
+3. NURSE to MICHAEL: Absolutely not!  We have to get permission from the Doctor.
+4. MICHAEL to NURSE: You've read about my father in the papers.  You've seen that no one's here to guard him.  Now I've just gotten word that men are coming to this hospital to kill him.  Believe me and help me.
+
+Current turn:
+We don't have to disconnect them, we can wheel the stand with the bed.",NURSE,MICHAEL,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1132,the godfather,L593333,L593335,"1. SOLLOZZO: I'm glad you came, Mike.  I hope we can straighten everything out.  All this is terrible, it's not the way I wanted things to happen at all. It should never have happened.
+2. MICHAEL to SOLLOZZO: I want to settle things tonight.  I want my father left alone.","He won't be; I swear to you be my children he won't be.  Just keep an open mind when we talk.  I hope you're not a hothead like your brother, Sonny.  It's impossible to talk business with him.",roughly_equal_power,neutral_respect,"Context:
+1. SOLLOZZO: I'm glad you came, Mike.  I hope we can straighten everything out.  All this is terrible, it's not the way I wanted things to happen at all. It should never have happened.
+2. MICHAEL to SOLLOZZO: I want to settle things tonight.  I want my father left alone.
+
+Current turn:
+He won't be; I swear to you be my children he won't be.  Just keep an open mind when we talk.  I hope you're not a hothead like your brother, Sonny.  It's impossible to talk business with him.",SOLLOZZO,MICHAEL,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1144,the godfather,L593407,L593407,,You filthy guinea spoiled brat. Clean it up or I'll kick your head in.,speaker_higher_power,low_respect,"Current turn:
+You filthy guinea spoiled brat. Clean it up or I'll kick your head in.",CARLO,,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1152,the godfather,L593443,L593445,"1. HAGEN: This is Tom Hagen; I'm calling for Don Corleone, at his request.
+2. BONASERA to HAGEN: Yes, I understand I'm listening.",You owe the Don a service.  He has no doubt that you will repay it.,speaker_higher_power,neutral_respect,"Context:
+1. HAGEN: This is Tom Hagen; I'm calling for Don Corleone, at his request.
+2. BONASERA to HAGEN: Yes, I understand I'm listening.
+
+Current turn:
+You owe the Don a service.  He has no doubt that you will repay it.",HAGEN,BONASERA,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1177,the godfather,L593541,L593552,"1. MICHAEL to DON CORLEONE: I could accept everything that's happened; I could accept it, but that I never had a choice.  From the time I was born, you had laid this all out for me.
+2. DON CORLEONE to MICHAEL: No, I wanted other things for you.
+3. MICHAEL to DON CORLEONE: You wanted me to be your son.
+4. DON CORLEONE to MICHAEL: Yes, but sons who would be professors, scientists, musicians...and grandchildren who could be, who knows, a Governor, a President even, nothing's impossible here in America.
+5. MICHAEL to DON CORLEONE: Then why have I become a man like you?
+6. DON CORLEONE to MICHAEL: You are like me, we refuse to be fools, to be puppets dancing on a string pulled by other men.  I hoped the time for guns and killing and massacres was over.  That was my misfortune.  That was your misfortune.  I was hunted on the streets of Corleone when I was twelve years old because of who my father was.  I had no choice.",A man has to choose what he will be. I believe that.,roughly_equal_power,neutral_respect,"Context:
+1. MICHAEL to DON CORLEONE: I could accept everything that's happened; I could accept it, but that I never had a choice.  From the time I was born, you had laid this all out for me.
+2. DON CORLEONE to MICHAEL: No, I wanted other things for you.
+3. MICHAEL to DON CORLEONE: You wanted me to be your son.
+4. DON CORLEONE to MICHAEL: Yes, but sons who would be professors, scientists, musicians...and grandchildren who could be, who knows, a Governor, a President even, nothing's impossible here in America.
+5. MICHAEL to DON CORLEONE: Then why have I become a man like you?
+6. DON CORLEONE to MICHAEL: You are like me, we refuse to be fools, to be puppets dancing on a string pulled by other men.  I hoped the time for guns and killing and massacres was over.  That was my misfortune.  That was your misfortune.  I was hunted on the streets of Corleone when I was twelve years old because of who my father was.  I had no choice.
+
+Current turn:
+A man has to choose what he will be. I believe that.",MICHAEL,DON CORLEONE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1183,the godfather,L593566,L593567,1. FREDO: Mike!  The party starting!,"Come here a minute, Fredo.",speaker_higher_power,neutral_respect,"Context:
+1. FREDO: Mike!  The party starting!
+
+Current turn:
+Come here a minute, Fredo.",MICHAEL,FREDO,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1186,the godfather,L593582,L593583,1. MOE: Buy me out?...,"The hotel, the casino.  The Corleone family wants to buy you out.",speaker_higher_power,neutral_respect,"Context:
+1. MOE: Buy me out?...
+
+Current turn:
+The hotel, the casino.  The Corleone family wants to buy you out.",MICHAEL,MOE,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1195,the godfather,L593601,L593602,1. MICHAEL: I have to see my father and his people when we get back to the Mall.,Oh Michael.,roughly_equal_power,neutral_respect,"Context:
+1. MICHAEL: I have to see my father and his people when we get back to the Mall.
+
+Current turn:
+Oh Michael.",KAY,MICHAEL,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1196,the godfather,L593601,L593603,"1. MICHAEL: I have to see my father and his people when we get back to the Mall.
+2. KAY to MICHAEL: Oh Michael.",We'll go to the show tomorrow night--we can change the tickets.,roughly_equal_power,neutral_respect,"Context:
+1. MICHAEL: I have to see my father and his people when we get back to the Mall.
+2. KAY to MICHAEL: Oh Michael.
+
+Current turn:
+We'll go to the show tomorrow night--we can change the tickets.",MICHAEL,KAY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1197,the godfather,L593601,L593604,"1. MICHAEL: I have to see my father and his people when we get back to the Mall.
+2. KAY to MICHAEL: Oh Michael.
+3. MICHAEL to KAY: We'll go to the show tomorrow night--we can change the tickets.",Don't you want dinner first?,roughly_equal_power,neutral_respect,"Context:
+1. MICHAEL: I have to see my father and his people when we get back to the Mall.
+2. KAY to MICHAEL: Oh Michael.
+3. MICHAEL to KAY: We'll go to the show tomorrow night--we can change the tickets.
+
+Current turn:
+Don't you want dinner first?",KAY,MICHAEL,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1212,the godfather,L593640,L593642,"1. HAGEN: Mike, why are you cutting me out of the action?
+2. MICHAEL to HAGEN: Tom, we're going to be legitimate all the way, and you're the legal man.  What could be more important than that.","I'm not talking about that.  I'm talking about Rocco Lampone building a secret regime.  Why does Neri report directly to you, rather than through me or a caporegime?",listener_higher_power,neutral_respect,"Context:
+1. HAGEN: Mike, why are you cutting me out of the action?
+2. MICHAEL to HAGEN: Tom, we're going to be legitimate all the way, and you're the legal man.  What could be more important than that.
+
+Current turn:
+I'm not talking about that.  I'm talking about Rocco Lampone building a secret regime.  Why does Neri report directly to you, rather than through me or a caporegime?",HAGEN,MICHAEL,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1216,the godfather,L593650,L593650,,"Tom, I never thought you were a bad Consigliere, I thought Santino a bad Don, rest in peace.  He had a good heart but he wasn't the right man to head the family when I had my misfortune.  Michael has all my confidence, as you do.  For reasons which you can't know, you must have no part in what will happen.",speaker_higher_power,high_respect,"Current turn:
+Tom, I never thought you were a bad Consigliere, I thought Santino a bad Don, rest in peace.  He had a good heart but he wasn't the right man to head the family when I had my misfortune.  Michael has all my confidence, as you do.  For reasons which you can't know, you must have no part in what will happen.",DON CORLEONE,,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+1230,the godfather,L593717,L593717,,Godfather!,listener_higher_power,high_respect,"Current turn:
+Godfather!",CARLO,,listener_higher_power,listener_higher_power,high_respect,high_respect
+1244,an officer and a gentleman,L426551,L426555,"1. BYRON: This is it. This is where I live. I suppose you could bunk over there and you could go to school at the base.
+2. ZACK to BYRON: Great.
+3. BYRON to ZACK: I'm not finished. I'll only be in port one week a month and when I'm here you'd never catch me playing daddy with you 'cause it's not who I am. Like I told you on the phone, you I'd be better off in that state school back in Virginia.
+4. ZACK to BYRON: I ain't never going back to that school, sir.",You got to kid. Let me spell it out for you. This is a whorehouse. And I happen to like my life the way it is and nobody's gonna make me change.,speaker_higher_power,low_respect,"Context:
+1. BYRON: This is it. This is where I live. I suppose you could bunk over there and you could go to school at the base.
+2. ZACK to BYRON: Great.
+3. BYRON to ZACK: I'm not finished. I'll only be in port one week a month and when I'm here you'd never catch me playing daddy with you 'cause it's not who I am. Like I told you on the phone, you I'd be better off in that state school back in Virginia.
+4. ZACK to BYRON: I ain't never going back to that school, sir.
+
+Current turn:
+You got to kid. Let me spell it out for you. This is a whorehouse. And I happen to like my life the way it is and nobody's gonna make me change.",BYRON,ZACK,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1246,an officer and a gentleman,L426558,L426562,"1. BYRON: Come back here, kid!
+2. ZACK to BYRON: What for?
+3. BYRON to ZACK: Okay, okay. You win.
+4. ZACK to BYRON: Thank you, sir!",Stop calling me 'sir! I ain't no officer. My name is Byron.,roughly_equal_power,neutral_respect,"Context:
+1. BYRON: Come back here, kid!
+2. ZACK to BYRON: What for?
+3. BYRON to ZACK: Okay, okay. You win.
+4. ZACK to BYRON: Thank you, sir!
+
+Current turn:
+Stop calling me 'sir! I ain't no officer. My name is Byron.",BYRON,ZACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1252,an officer and a gentleman,L426591,L426592,1. BYRON: So what're you doing in Seattle?,Get ready pard. This one's gonna blow you away.,roughly_equal_power,neutral_respect,"Context:
+1. BYRON: So what're you doing in Seattle?
+
+Current turn:
+Get ready pard. This one's gonna blow you away.",ZACK,BYRON,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1262,an officer and a gentleman,L426614,L426615,"1. FOLEY: Now when I say ""understand"" I want the whole group to say, ""Yes, sir!"" Understand?","Yes, sir!",listener_higher_power,high_respect,"Context:
+1. FOLEY: Now when I say ""understand"" I want the whole group to say, ""Yes, sir!"" Understand?
+
+Current turn:
+Yes, sir!",GROUP,FOLEY,listener_higher_power,listener_higher_power,high_respect,high_respect
+1268,an officer and a gentleman,L426621,L426622,"1. FOLEY: I know why most of you are here. We're not stupid. But before you get to sell what we teach you over at United Airlines, you gotta give the Navy six years of your life, Sweet Pea. Lot of things can happen in six year. Another war could come up in six years. If you're too peaceful a person to dump napalm on an enemy village where there might be women and children, I'm gonna find that out. Understand?","Yes, sir!",listener_higher_power,high_respect,"Context:
+1. FOLEY: I know why most of you are here. We're not stupid. But before you get to sell what we teach you over at United Airlines, you gotta give the Navy six years of your life, Sweet Pea. Lot of things can happen in six year. Another war could come up in six years. If you're too peaceful a person to dump napalm on an enemy village where there might be women and children, I'm gonna find that out. Understand?
+
+Current turn:
+Yes, sir!",GROUP,FOLEY,listener_higher_power,listener_higher_power,high_respect,high_respect
+1279,an officer and a gentleman,L426625,L426640,"1. SID to FOLEY: No, sir.
+2. FOLEY to SID: Lauder, Sweet Pea!
+3. SID to FOLEY: No, sir!
+4. FOLEY to SID: Do you want to fuck me up the ass, boy? Is that why you called me a 'ewe'? Are you a queer?
+5. SID to FOLEY: No, sir.
+6. FOLEY to SID: Where are you from, boy?","Oklahoma City, Oklahoma.",listener_higher_power,neutral_respect,"Context:
+1. SID to FOLEY: No, sir.
+2. FOLEY to SID: Lauder, Sweet Pea!
+3. SID to FOLEY: No, sir!
+4. FOLEY to SID: Do you want to fuck me up the ass, boy? Is that why you called me a 'ewe'? Are you a queer?
+5. SID to FOLEY: No, sir.
+6. FOLEY to SID: Where are you from, boy?
+
+Current turn:
+Oklahoma City, Oklahoma.",SID,FOLEY,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1280,an officer and a gentleman,L426625,L426641,"1. FOLEY to SID: Lauder, Sweet Pea!
+2. SID to FOLEY: No, sir!
+3. FOLEY to SID: Do you want to fuck me up the ass, boy? Is that why you called me a 'ewe'? Are you a queer?
+4. SID to FOLEY: No, sir.
+5. FOLEY to SID: Where are you from, boy?
+6. SID to FOLEY: Oklahoma City, Oklahoma.","Only two things come out of Oklahoma, steers and queers. Which one are you, boy? I don't see any horns so you must be a queer.",speaker_higher_power,low_respect,"Context:
+1. FOLEY to SID: Lauder, Sweet Pea!
+2. SID to FOLEY: No, sir!
+3. FOLEY to SID: Do you want to fuck me up the ass, boy? Is that why you called me a 'ewe'? Are you a queer?
+4. SID to FOLEY: No, sir.
+5. FOLEY to SID: Where are you from, boy?
+6. SID to FOLEY: Oklahoma City, Oklahoma.
+
+Current turn:
+Only two things come out of Oklahoma, steers and queers. Which one are you, boy? I don't see any horns so you must be a queer.",FOLEY,SID,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1283,an officer and a gentleman,L426644,L426645,"1. FOLEY: Are you laughing at me, dick-brain?","No, sir!",listener_higher_power,high_respect,"Context:
+1. FOLEY: Are you laughing at me, dick-brain?
+
+Current turn:
+No, sir!",ZACK,FOLEY,listener_higher_power,listener_higher_power,high_respect,high_respect
+1289,an officer and a gentleman,L426651,L426653,"1. FOLEY: Where'd you get this, Mayo? This is really wonder work.
+2. ZACK to FOLEY: Subic Bay, sir. In the Philippines.","I thought I recognized the work.  Be proud of those wings. They're the only ones you're gonna leave here with, Mayo-naise.",speaker_higher_power,low_respect,"Context:
+1. FOLEY: Where'd you get this, Mayo? This is really wonder work.
+2. ZACK to FOLEY: Subic Bay, sir. In the Philippines.
+
+Current turn:
+I thought I recognized the work.  Be proud of those wings. They're the only ones you're gonna leave here with, Mayo-naise.",FOLEY,ZACK,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1294,an officer and a gentleman,L426690,L426691,"1. CASEY: You're pretty funny, Mayo.","Maybe we'll be roommates, Seeger, and you'll find out how funny I really am...",roughly_equal_power,neutral_respect,"Context:
+1. CASEY: You're pretty funny, Mayo.
+
+Current turn:
+Maybe we'll be roommates, Seeger, and you'll find out how funny I really am...",ZACK,CASEY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1295,an officer and a gentleman,L426698,L426700,"1. LYNETTE: Far fucking out! I've been wanting to meet one of the Blue Angels since I can remember.
+2. PAULA to LYNETTE: Lynette, watch your mouth! Somebody might overhear.","Paula, look at the new Poopies.",roughly_equal_power,neutral_respect,"Context:
+1. LYNETTE: Far fucking out! I've been wanting to meet one of the Blue Angels since I can remember.
+2. PAULA to LYNETTE: Lynette, watch your mouth! Somebody might overhear.
+
+Current turn:
+Paula, look at the new Poopies.",LYNETTE,PAULA,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1303,an officer and a gentleman,L426733,L426736,"1. ZACK: Good morning, girls.
+2. CASEY to ZACK: Ever heard of knocking, mayo?
+3. ZACK to CASEY: Hey, did you hear? Sands and Kantrowitz DORed last night.  Survival of the fittest.","The whole world's a jungle, huh, Mayo? Dog eat dog down to the last one, right?",roughly_equal_power,low_respect,"Context:
+1. ZACK: Good morning, girls.
+2. CASEY to ZACK: Ever heard of knocking, mayo?
+3. ZACK to CASEY: Hey, did you hear? Sands and Kantrowitz DORed last night.  Survival of the fittest.
+
+Current turn:
+The whole world's a jungle, huh, Mayo? Dog eat dog down to the last one, right?",CASEY,ZACK,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+1309,an officer and a gentleman,L426760,L426761,"1. PAULA: That was you guys, huh?",Come on. Let's go dance.,roughly_equal_power,neutral_respect,"Context:
+1. PAULA: That was you guys, huh?
+
+Current turn:
+Come on. Let's go dance.",LYNETTE,PAULA,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1312,an officer and a gentleman,L426764,L426768,"1. ZACK: Hey, what kind of name is Pokrifki?
+2. PAULA to ZACK: Polish. What kind of name is Mayo?
+3. ZACK to PAULA: Italian. My mom was Irish. I got her ears. But the rest is all wop.
+4. PAULA to ZACK: Where are you from, Mayo the Wop?","Everywhere and nowhere, Paula the Polack.",roughly_equal_power,low_respect,"Context:
+1. ZACK: Hey, what kind of name is Pokrifki?
+2. PAULA to ZACK: Polish. What kind of name is Mayo?
+3. ZACK to PAULA: Italian. My mom was Irish. I got her ears. But the rest is all wop.
+4. PAULA to ZACK: Where are you from, Mayo the Wop?
+
+Current turn:
+Everywhere and nowhere, Paula the Polack.",ZACK,PAULA,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+1332,an officer and a gentleman,L426812,L426812,,"Well, it you're not gonna ask, then I will. How was it?",roughly_equal_power,neutral_respect,"Current turn:
+Well, it you're not gonna ask, then I will. How was it?",LYNETTE,,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1348,an officer and a gentleman,L426847,L426849,"1. JOE: Esther, do you think she's using...  ...birth control?
+2. ESTHER to JOE: Yes, Joe.",When did this happen?,roughly_equal_power,neutral_respect,"Context:
+1. JOE: Esther, do you think she's using...  ...birth control?
+2. ESTHER to JOE: Yes, Joe.
+
+Current turn:
+When did this happen?",JOE,ESTHER,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1349,an officer and a gentleman,L426847,L426850,"1. JOE: Esther, do you think she's using...  ...birth control?
+2. ESTHER to JOE: Yes, Joe.
+3. JOE to ESTHER: When did this happen?",A long time ago.,roughly_equal_power,neutral_respect,"Context:
+1. JOE: Esther, do you think she's using...  ...birth control?
+2. ESTHER to JOE: Yes, Joe.
+3. JOE to ESTHER: When did this happen?
+
+Current turn:
+A long time ago.",ESTHER,JOE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1350,an officer and a gentleman,L426851,L426852,1. ZACK: Look at Foley! Can you believe it!,Shhhh...,roughly_equal_power,neutral_respect,"Context:
+1. ZACK: Look at Foley! Can you believe it!
+
+Current turn:
+Shhhh...",SID,ZACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1360,an officer and a gentleman,L426894,L426897,"1. ZACK: I shouldn't have done that. I should've walked.
+2. PAULA to ZACK: He didn't give you much choice.
+3. ZACK to PAULA: There's always a choice.",Where'd you learn to fight like that?,roughly_equal_power,neutral_respect,"Context:
+1. ZACK: I shouldn't have done that. I should've walked.
+2. PAULA to ZACK: He didn't give you much choice.
+3. ZACK to PAULA: There's always a choice.
+
+Current turn:
+Where'd you learn to fight like that?",PAULA,ZACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1369,an officer and a gentleman,L426910,L426912,"1. ZACK: Paula, I never try to fool anybody about who I am, what I want... so if even in the back of your --
+2. PAULA to ZACK: I know who you are and what you want.","What do you want, Paula? What do you really want?",roughly_equal_power,neutral_respect,"Context:
+1. ZACK: Paula, I never try to fool anybody about who I am, what I want... so if even in the back of your --
+2. PAULA to ZACK: I know who you are and what you want.
+
+Current turn:
+What do you want, Paula? What do you really want?",ZACK,PAULA,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1376,an officer and a gentleman,L426932,L426933,"1. PERRYMAN: I'll never get it polished in time. Give me a buckle, Zack.",I can't risk it.,roughly_equal_power,neutral_respect,"Context:
+1. PERRYMAN: I'll never get it polished in time. Give me a buckle, Zack.
+
+Current turn:
+I can't risk it.",ZACK,PERRYMAN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1389,an officer and a gentleman,L426953,L426956,"1. FOLEY: Hey, what do you say we call off this little charade of yours over a couple of beers at Trader Jon's...? Come on, man. You're about as close to being officer material as me.
+2. ZACK to FOLEY: Sir, this candidate believes he'll make a good officer, sir!
+3. FOLEY to ZACK: No way, Mayo. You don't give a shit about anybody but yourself and every single one of your classmates knows it. Think they'd trust you behind the controls of a plane they have to fly in? Hey, man, I figure you for the kind of guy who'd zip off one day in my F-14 and sell it to the Cubans.","Sir, that's not true! I love my country!",listener_higher_power,high_respect,"Context:
+1. FOLEY: Hey, what do you say we call off this little charade of yours over a couple of beers at Trader Jon's...? Come on, man. You're about as close to being officer material as me.
+2. ZACK to FOLEY: Sir, this candidate believes he'll make a good officer, sir!
+3. FOLEY to ZACK: No way, Mayo. You don't give a shit about anybody but yourself and every single one of your classmates knows it. Think they'd trust you behind the controls of a plane they have to fly in? Hey, man, I figure you for the kind of guy who'd zip off one day in my F-14 and sell it to the Cubans.
+
+Current turn:
+Sir, that's not true! I love my country!",ZACK,FOLEY,listener_higher_power,listener_higher_power,high_respect,high_respect
+1390,an officer and a gentleman,L426953,L426957,"1. FOLEY: Hey, what do you say we call off this little charade of yours over a couple of beers at Trader Jon's...? Come on, man. You're about as close to being officer material as me.
+2. ZACK to FOLEY: Sir, this candidate believes he'll make a good officer, sir!
+3. FOLEY to ZACK: No way, Mayo. You don't give a shit about anybody but yourself and every single one of your classmates knows it. Think they'd trust you behind the controls of a plane they have to fly in? Hey, man, I figure you for the kind of guy who'd zip off one day in my F-14 and sell it to the Cubans.
+4. ZACK to FOLEY: Sir, that's not true! I love my country!","Sell it to the Air Force, Mayo!",speaker_higher_power,low_respect,"Context:
+1. FOLEY: Hey, what do you say we call off this little charade of yours over a couple of beers at Trader Jon's...? Come on, man. You're about as close to being officer material as me.
+2. ZACK to FOLEY: Sir, this candidate believes he'll make a good officer, sir!
+3. FOLEY to ZACK: No way, Mayo. You don't give a shit about anybody but yourself and every single one of your classmates knows it. Think they'd trust you behind the controls of a plane they have to fly in? Hey, man, I figure you for the kind of guy who'd zip off one day in my F-14 and sell it to the Cubans.
+4. ZACK to FOLEY: Sir, that's not true! I love my country!
+
+Current turn:
+Sell it to the Air Force, Mayo!",FOLEY,ZACK,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1394,an officer and a gentleman,L426959,L426963,"1. ZACK: I want to fly, sir!
+2. FOLEY to ZACK: That's no reason. Everybody wants to fly. My grandmother wants to fly. You going after a job with one of the airlines?
+3. ZACK to FOLEY: I want to fly jets, sir!
+4. FOLEY to ZACK: Why? Because you can do it alone?","No, sir!",listener_higher_power,high_respect,"Context:
+1. ZACK: I want to fly, sir!
+2. FOLEY to ZACK: That's no reason. Everybody wants to fly. My grandmother wants to fly. You going after a job with one of the airlines?
+3. ZACK to FOLEY: I want to fly jets, sir!
+4. FOLEY to ZACK: Why? Because you can do it alone?
+
+Current turn:
+No, sir!",ZACK,FOLEY,listener_higher_power,listener_higher_power,high_respect,high_respect
+1399,an officer and a gentleman,L426974,L426976,"1. FOLEY: Mayo, are those your friends?
+2. ZACK to FOLEY: Yes, sir!",Maybe there's hope for you yet.,speaker_higher_power,neutral_respect,"Context:
+1. FOLEY: Mayo, are those your friends?
+2. ZACK to FOLEY: Yes, sir!
+
+Current turn:
+Maybe there's hope for you yet.",FOLEY,ZACK,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1406,an officer and a gentleman,L426989,L426990,1. ZACK: How about that prick! He told me he wasn't officer material because he grew up poor like me.,He said he grew up poor?,roughly_equal_power,neutral_respect,"Context:
+1. ZACK: How about that prick! He told me he wasn't officer material because he grew up poor like me.
+
+Current turn:
+He said he grew up poor?",PERRYMAN,ZACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1409,an officer and a gentleman,L426997,L426999,"1. PAULA: Want me to get a towel?
+2. ZACK to PAULA: I'll get it if you want.",I don't want you to move.,roughly_equal_power,neutral_respect,"Context:
+1. PAULA: Want me to get a towel?
+2. ZACK to PAULA: I'll get it if you want.
+
+Current turn:
+I don't want you to move.",PAULA,ZACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1420,an officer and a gentleman,L427018,L427023,"1. BYRON: Who's that?
+2. ZACK to BYRON: Nobody. Just a girl I've been making it with the last couple of weekends.
+3. BYRON to ZACK: Great ass.
+4. ZACK to BYRON: Yeah, I sort of thought so myself.
+5. BYRON to ZACK: Better watch out for that kind, Zackie. You know what they call 'em, don't ya?","Yeah, I know.",roughly_equal_power,neutral_respect,"Context:
+1. BYRON: Who's that?
+2. ZACK to BYRON: Nobody. Just a girl I've been making it with the last couple of weekends.
+3. BYRON to ZACK: Great ass.
+4. ZACK to BYRON: Yeah, I sort of thought so myself.
+5. BYRON to ZACK: Better watch out for that kind, Zackie. You know what they call 'em, don't ya?
+
+Current turn:
+Yeah, I know.",ZACK,BYRON,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1423,an officer and a gentleman,L427029,L427030,1. ZACK: That's not how she told it. She said you wrote her every week you were away.,I wrote. Not every week...,roughly_equal_power,neutral_respect,"Context:
+1. ZACK: That's not how she told it. She said you wrote her every week you were away.
+
+Current turn:
+I wrote. Not every week...",BYRON,ZACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1424,an officer and a gentleman,L427029,L427031,"1. ZACK: That's not how she told it. She said you wrote her every week you were away.
+2. BYRON to ZACK: I wrote. Not every week...","She said you told her in every letter how much you loved her, how you wanted to marry her, have children with her...",roughly_equal_power,neutral_respect,"Context:
+1. ZACK: That's not how she told it. She said you wrote her every week you were away.
+2. BYRON to ZACK: I wrote. Not every week...
+
+Current turn:
+She said you told her in every letter how much you loved her, how you wanted to marry her, have children with her...",ZACK,BYRON,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1427,an officer and a gentleman,L427038,L427039,1. PAULA: What's the matter?,"Nothing. Go back to the show, Paula.",roughly_equal_power,neutral_respect,"Context:
+1. PAULA: What's the matter?
+
+Current turn:
+Nothing. Go back to the show, Paula.",ZACK,PAULA,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1435,an officer and a gentleman,L427052,L427053,"1. LYNETTE: Paula, how far would you go to catch Zack?",What do you mean?,roughly_equal_power,neutral_respect,"Context:
+1. LYNETTE: Paula, how far would you go to catch Zack?
+
+Current turn:
+What do you mean?",PAULA,LYNETTE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1437,an officer and a gentleman,L427052,L427055,"1. LYNETTE: Paula, how far would you go to catch Zack?
+2. PAULA to LYNETTE: What do you mean?
+3. LYNETTE to PAULA: You know what I mean. Would you... let yourself get pregnant?",No way... Would you?,roughly_equal_power,neutral_respect,"Context:
+1. LYNETTE: Paula, how far would you go to catch Zack?
+2. PAULA to LYNETTE: What do you mean?
+3. LYNETTE to PAULA: You know what I mean. Would you... let yourself get pregnant?
+
+Current turn:
+No way... Would you?",PAULA,LYNETTE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1443,an officer and a gentleman,L427066,L427068,"1. ZACK: Hi.
+2. PAULA to ZACK: Are those for me?","No, they're for your mom.",roughly_equal_power,neutral_respect,"Context:
+1. ZACK: Hi.
+2. PAULA to ZACK: Are those for me?
+
+Current turn:
+No, they're for your mom.",ZACK,PAULA,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1444,an officer and a gentleman,L427075,L427076,"1. ESTHER: He doesn't mean anything by it, Zack. Do you, Joe?",I don't mean anything by it.,roughly_equal_power,neutral_respect,"Context:
+1. ESTHER: He doesn't mean anything by it, Zack. Do you, Joe?
+
+Current turn:
+I don't mean anything by it.",JOE,ESTHER,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1451,an officer and a gentleman,L427085,L427088,"1. PAULA: Zack, do you ever think about what it'd be like to have kids... a family.
+2. ZACK to PAULA: No. Is that what you want?
+3. PAULA to ZACK: Some day. When I'm sure I can do a better job of it than my folks.",What would you do differently?,roughly_equal_power,neutral_respect,"Context:
+1. PAULA: Zack, do you ever think about what it'd be like to have kids... a family.
+2. ZACK to PAULA: No. Is that what you want?
+3. PAULA to ZACK: Some day. When I'm sure I can do a better job of it than my folks.
+
+Current turn:
+What would you do differently?",ZACK,PAULA,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1456,an officer and a gentleman,L427094,L427095,1. ZACK: Your real father was an Officer candidate like me?,Twenty-two years ago.,roughly_equal_power,neutral_respect,"Context:
+1. ZACK: Your real father was an Officer candidate like me?
+
+Current turn:
+Twenty-two years ago.",PAULA,ZACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1458,an officer and a gentleman,L427098,L427099,1. PAULA: Call me during the week if you get the chance.,"I'll try, but this week we go into survival training, so I can't make any promises.  Well, thanks again for dinner. Thank your mom again for me, will you?",roughly_equal_power,high_respect,"Context:
+1. PAULA: Call me during the week if you get the chance.
+
+Current turn:
+I'll try, but this week we go into survival training, so I can't make any promises.  Well, thanks again for dinner. Thank your mom again for me, will you?",ZACK,PAULA,roughly_equal_power,roughly_equal_power,high_respect,high_respect
+1461,an officer and a gentleman,L427103,L427103,,"I kid you not, Mayo, I am in love. We must've set a new indoor record today. You want to know how many times we did it?",roughly_equal_power,neutral_respect,"Current turn:
+I kid you not, Mayo, I am in love. We must've set a new indoor record today. You want to know how many times we did it?",SID,,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1467,an officer and a gentleman,L427117,L427120,"1. LYNETTE: Sid Worley, I think you're ashamed of me.
+2. SID to LYNETTE: Ashamed? No -- I love you, Lynette. I mean that. After I leave them, I'll meet you at the motel, okay?
+3. LYNETTE to SID: If you won't take me to dinner with your parents, I won't meet you at the motel.","Lynette, I told you already, it won't work.",roughly_equal_power,neutral_respect,"Context:
+1. LYNETTE: Sid Worley, I think you're ashamed of me.
+2. SID to LYNETTE: Ashamed? No -- I love you, Lynette. I mean that. After I leave them, I'll meet you at the motel, okay?
+3. LYNETTE to SID: If you won't take me to dinner with your parents, I won't meet you at the motel.
+
+Current turn:
+Lynette, I told you already, it won't work.",SID,LYNETTE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1489,an officer and a gentleman,L427194,L427197,"1. ZACK: So what's the problem? Girls do that all the time.
+2. SID to ZACK: I can't let her go off and have the kid by herself and not do anything. If it's my kid, too, then I've got a responsibility, don't I?
+3. ZACK to SID: Not if she won't even talk about an abortion.",But it would still be my kid. That's the point.,roughly_equal_power,neutral_respect,"Context:
+1. ZACK: So what's the problem? Girls do that all the time.
+2. SID to ZACK: I can't let her go off and have the kid by herself and not do anything. If it's my kid, too, then I've got a responsibility, don't I?
+3. ZACK to SID: Not if she won't even talk about an abortion.
+
+Current turn:
+But it would still be my kid. That's the point.",SID,ZACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1496,an officer and a gentleman,L427223,L427224,1. ZACK: I thought the D.I.'s were supposed to help you in this place! What kind of human being are you?,"Stop eyeballing me, Mayo, or you're out!",speaker_higher_power,low_respect,"Context:
+1. ZACK: I thought the D.I.'s were supposed to help you in this place! What kind of human being are you?
+
+Current turn:
+Stop eyeballing me, Mayo, or you're out!",FOLEY,ZACK,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1500,an officer and a gentleman,L427231,L427235,"1. ZACK: I'm looking for Sid.
+2. PAULA to ZACK: So?
+3. ZACK to PAULA: Paula, he DORed and nobody's seen him.
+4. PAULA to ZACK: Why'd he do it?","Hey! You know goddamn well what happened so let's not play any games, okay?",roughly_equal_power,low_respect,"Context:
+1. ZACK: I'm looking for Sid.
+2. PAULA to ZACK: So?
+3. ZACK to PAULA: Paula, he DORed and nobody's seen him.
+4. PAULA to ZACK: Why'd he do it?
+
+Current turn:
+Hey! You know goddamn well what happened so let's not play any games, okay?",ZACK,PAULA,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+1503,an officer and a gentleman,L427238,L427240,"1. SID: Hi, babe. Come on. I've got a couple of things I want to tell you.
+2. LYNETTE to SID: What're you doing out of uniform, Sid? You don't want to get in trouble.",Forget that. Come on. Got a little surprise...,roughly_equal_power,neutral_respect,"Context:
+1. SID: Hi, babe. Come on. I've got a couple of things I want to tell you.
+2. LYNETTE to SID: What're you doing out of uniform, Sid? You don't want to get in trouble.
+
+Current turn:
+Forget that. Come on. Got a little surprise...",SID,LYNETTE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1506,an officer and a gentleman,L427245,L427245,,"Let's go tell Paula! God, I wonder where we'll be stationed first. I hope it'll be Hawaii. I've always wanted to go to Hawaii.",roughly_equal_power,neutral_respect,"Current turn:
+Let's go tell Paula! God, I wonder where we'll be stationed first. I hope it'll be Hawaii. I've always wanted to go to Hawaii.",LYNETTE,,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1508,an officer and a gentleman,L427245,L427247,"1. LYNETTE: Let's go tell Paula! God, I wonder where we'll be stationed first. I hope it'll be Hawaii. I've always wanted to go to Hawaii.
+2. SID to LYNETTE: We're not gonna be stationed anywhere, baby. I DORed.",You what?,roughly_equal_power,neutral_respect,"Context:
+1. LYNETTE: Let's go tell Paula! God, I wonder where we'll be stationed first. I hope it'll be Hawaii. I've always wanted to go to Hawaii.
+2. SID to LYNETTE: We're not gonna be stationed anywhere, baby. I DORed.
+
+Current turn:
+You what?",LYNETTE,SID,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1513,an officer and a gentleman,L427261,L427262,1. ZACK: What did you tell him about the baby?,"That there isn't one, as of today. I had my period.  I couldn't believe it. He still wanted to marry me.",roughly_equal_power,neutral_respect,"Context:
+1. ZACK: What did you tell him about the baby?
+
+Current turn:
+That there isn't one, as of today. I had my period.  I couldn't believe it. He still wanted to marry me.",LYNETTE,ZACK,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1525,an officer and a gentleman,L427293,L427294,"1. FOLEY: Mayo, the rest of your class knows about candidate Worley, and we're all sorry.","Sir, this officer candidate requests permission to speak to you in private.",listener_higher_power,high_respect,"Context:
+1. FOLEY: Mayo, the rest of your class knows about candidate Worley, and we're all sorry.
+
+Current turn:
+Sir, this officer candidate requests permission to speak to you in private.",ZACK,FOLEY,listener_higher_power,listener_higher_power,high_respect,high_respect
+1526,an officer and a gentleman,L427293,L427295,"1. FOLEY: Mayo, the rest of your class knows about candidate Worley, and we're all sorry.
+2. ZACK to FOLEY: Sir, this officer candidate requests permission to speak to you in private.","I'm busy, Mayo. It'll have to wait.",speaker_higher_power,neutral_respect,"Context:
+1. FOLEY: Mayo, the rest of your class knows about candidate Worley, and we're all sorry.
+2. ZACK to FOLEY: Sir, this officer candidate requests permission to speak to you in private.
+
+Current turn:
+I'm busy, Mayo. It'll have to wait.",FOLEY,ZACK,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1528,an officer and a gentleman,L427293,L427297,"1. FOLEY: Mayo, the rest of your class knows about candidate Worley, and we're all sorry.
+2. ZACK to FOLEY: Sir, this officer candidate requests permission to speak to you in private.
+3. FOLEY to ZACK: I'm busy, Mayo. It'll have to wait.
+4. ZACK to FOLEY: It's important, sir!","Mayo, you didn't hear me -- I said I I'm busy! And so are you! Go get cleaned up!",speaker_higher_power,low_respect,"Context:
+1. FOLEY: Mayo, the rest of your class knows about candidate Worley, and we're all sorry.
+2. ZACK to FOLEY: Sir, this officer candidate requests permission to speak to you in private.
+3. FOLEY to ZACK: I'm busy, Mayo. It'll have to wait.
+4. ZACK to FOLEY: It's important, sir!
+
+Current turn:
+Mayo, you didn't hear me -- I said I I'm busy! And so are you! Go get cleaned up!",FOLEY,ZACK,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1543,gladiator,L242444,L242445,"1. QUINTUS: Gladly, Caesar.  And, if you'd like we can take you for a tour of the front at first light.","I'm certain father will be in better humors by then.  Now, honor us with your presence at dinner.  I'll join you as soon as I see my father's physician.",speaker_higher_power,high_respect,"Context:
+1. QUINTUS: Gladly, Caesar.  And, if you'd like we can take you for a tour of the front at first light.
+
+Current turn:
+I'm certain father will be in better humors by then.  Now, honor us with your presence at dinner.  I'll join you as soon as I see my father's physician.",COMMODUS,QUINTUS,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+1547,gladiator,L242466,L242468,"1. COMMODUS: More wine, sister?  Surely you can drink more than that.
+2. LUCILLA to COMMODUS: I was suddenly thinking about going to bed.","Oh, stay...  Don't you want to join the chorus of praises for Narcissus' glory?  Just remember, he is a married man.",speaker_higher_power,low_respect,"Context:
+1. COMMODUS: More wine, sister?  Surely you can drink more than that.
+2. LUCILLA to COMMODUS: I was suddenly thinking about going to bed.
+
+Current turn:
+Oh, stay...  Don't you want to join the chorus of praises for Narcissus' glory?  Just remember, he is a married man.",COMMODUS,LUCILLA,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1549,gladiator,L242469,L242471,"1. NARCISSUS: Do you expect Marcus to be well enough by morning for an audience?
+2. COMMODUS to NARCISSUS: That's difficult to say, general.","Perhaps, Master Galen, you may say.",listener_higher_power,high_respect,"Context:
+1. NARCISSUS: Do you expect Marcus to be well enough by morning for an audience?
+2. COMMODUS to NARCISSUS: That's difficult to say, general.
+
+Current turn:
+Perhaps, Master Galen, you may say.",NARCISSUS,COMMODUS,listener_higher_power,listener_higher_power,high_respect,high_respect
+1564,gladiator,L242520,L242525,"1. MARCUS AURELIUS: I want you to start your work for the last phase of the campaign.
+2. NARCISSUS to MARCUS AURELIUS: I will, Marcus.  But you're going to be well enough to direct it yourself.
+3. MARCUS AURELIUS to NARCISSUS: I've made so many mistakes, Narcissus.  We all put off the very last duties of our lives because we're afraid of admitting when our lives are over.
+4. NARCISSUS to MARCUS AURELIUS: There's no reason to say that. Everyone knows you're going to be well.  I had Servis groom your horse for a triumphal visit to the front at first light.
+5. MARCUS AURELIUS to NARCISSUS: Servis made it through again?","He's like you, sir, too tough for the Gods to swallow.",listener_higher_power,high_respect,"Context:
+1. MARCUS AURELIUS: I want you to start your work for the last phase of the campaign.
+2. NARCISSUS to MARCUS AURELIUS: I will, Marcus.  But you're going to be well enough to direct it yourself.
+3. MARCUS AURELIUS to NARCISSUS: I've made so many mistakes, Narcissus.  We all put off the very last duties of our lives because we're afraid of admitting when our lives are over.
+4. NARCISSUS to MARCUS AURELIUS: There's no reason to say that. Everyone knows you're going to be well.  I had Servis groom your horse for a triumphal visit to the front at first light.
+5. MARCUS AURELIUS to NARCISSUS: Servis made it through again?
+
+Current turn:
+He's like you, sir, too tough for the Gods to swallow.",NARCISSUS,MARCUS AURELIUS,listener_higher_power,listener_higher_power,high_respect,high_respect
+1565,gladiator,L242526,L242526,,"If I'd ever had a sign that you wanted to rule I would have... no, again, it's my own bullheadedness. Narcissus, I should have adopted you years ago.  And now the Gods are begging me to make you my son!",speaker_higher_power,high_respect,"Current turn:
+If I'd ever had a sign that you wanted to rule I would have... no, again, it's my own bullheadedness. Narcissus, I should have adopted you years ago.  And now the Gods are begging me to make you my son!",MARCUS AURELIUS,,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+1580,gladiator,L242568,L242570,"1. SELENE: Well, you wanted the girls to have the best teachers.
+2. NARCISSUS to SELENE: Greeks?",Athenians...,roughly_equal_power,neutral_respect,"Context:
+1. SELENE: Well, you wanted the girls to have the best teachers.
+2. NARCISSUS to SELENE: Greeks?
+
+Current turn:
+Athenians...",SELENE,NARCISSUS,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1607,gladiator,L242648,L242652,"1. JUBA: You on your way to trial, too, general?  Or do you think they've already had our trial?
+2. NARCISSUS to JUBA: Why you?
+3. JUBA to NARCISSUS: My loyalties... were in doubt.
+4. NARCISSUS to JUBA: Fools to let us both live; we'll be our own best witnesses at our trial.",That's what worries me...,roughly_equal_power,neutral_respect,"Context:
+1. JUBA: You on your way to trial, too, general?  Or do you think they've already had our trial?
+2. NARCISSUS to JUBA: Why you?
+3. JUBA to NARCISSUS: My loyalties... were in doubt.
+4. NARCISSUS to JUBA: Fools to let us both live; we'll be our own best witnesses at our trial.
+
+Current turn:
+That's what worries me...",JUBA,NARCISSUS,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1610,gladiator,L242659,L242660,1. JUBA: Is this Rome?  Are we just going to be executed?,They can't... if this is Rome...,roughly_equal_power,neutral_respect,"Context:
+1. JUBA: Is this Rome?  Are we just going to be executed?
+
+Current turn:
+They can't... if this is Rome...",NARCISSUS,JUBA,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1612,gladiator,L242679,L242680,1. NARCISSUS: Thank you.  What is going to happen tomorrow?  Exactly?,"You are to be killed, exactly. They'll give you a sporting chance, but just enough to make your murder... entertaining.  Romans like to mix their metaphors:  laughter with their executions, you know?  If you survive, though, you will become a gladiator.  A gladiator at least gets a fair fight.",speaker_higher_power,low_respect,"Context:
+1. NARCISSUS: Thank you.  What is going to happen tomorrow?  Exactly?
+
+Current turn:
+You are to be killed, exactly. They'll give you a sporting chance, but just enough to make your murder... entertaining.  Romans like to mix their metaphors:  laughter with their executions, you know?  If you survive, though, you will become a gladiator.  A gladiator at least gets a fair fight.",PROXIMO,NARCISSUS,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1622,gladiator,L242729,L242730,1. COMMODUS: Did Narcissus die today?  Wasn't this his day to die?,"I'm sure, I don't know.",listener_higher_power,neutral_respect,"Context:
+1. COMMODUS: Did Narcissus die today?  Wasn't this his day to die?
+
+Current turn:
+I'm sure, I don't know.",LUCILLA,COMMODUS,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1632,gladiator,L242775,L242775,,Throw it down into the streets! Down into the Forum.  If it's my father they want then give him to them!,speaker_higher_power,neutral_respect,"Current turn:
+Throw it down into the streets! Down into the Forum.  If it's my father they want then give him to them!",COMMODUS,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1637,gladiator,L242775,L242783,"1. COMMODUS to FALCO: Maybe it'll crush Gaius.
+2. FALCO to COMMODUS: I'm serious.
+3. COMMODUS to FALCO: So am I.
+4. FALCO to COMMODUS: We can crush Gaius another way. What if you do throw something to the people they really want?  Make them a gift of food.
+5. COMMODUS to FALCO: Give away food?
+6. FALCO to COMMODUS: Sacks of grain, even bread.  I own the grain licenses for the military, I can arrange to divert a shipment bound for the army of the Danube.",Take grain away from the army?,speaker_higher_power,neutral_respect,"Context:
+1. COMMODUS to FALCO: Maybe it'll crush Gaius.
+2. FALCO to COMMODUS: I'm serious.
+3. COMMODUS to FALCO: So am I.
+4. FALCO to COMMODUS: We can crush Gaius another way. What if you do throw something to the people they really want?  Make them a gift of food.
+5. COMMODUS to FALCO: Give away food?
+6. FALCO to COMMODUS: Sacks of grain, even bread.  I own the grain licenses for the military, I can arrange to divert a shipment bound for the army of the Danube.
+
+Current turn:
+Take grain away from the army?",COMMODUS,FALCO,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1638,gladiator,L242787,L242788,1. COMMODUS: How about in the forum.  Right in front of the Senate.,If I may be so bold...,listener_higher_power,high_respect,"Context:
+1. COMMODUS: How about in the forum.  Right in front of the Senate.
+
+Current turn:
+If I may be so bold...",LUCILLA,COMMODUS,listener_higher_power,listener_higher_power,high_respect,high_respect
+1665,gladiator,L242926,L242926,,"Now that is a happy sound! Tomorrow, I want the citizens -- my people -- back in the arena.  The Gods know, I'm tired.  Come to bed, now; tonight we're celebrating.",speaker_higher_power,neutral_respect,"Current turn:
+Now that is a happy sound! Tomorrow, I want the citizens -- my people -- back in the arena.  The Gods know, I'm tired.  Come to bed, now; tonight we're celebrating.",COMMODUS,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1667,gladiator,L242926,L242928,"1. COMMODUS: Now that is a happy sound! Tomorrow, I want the citizens -- my people -- back in the arena.  The Gods know, I'm tired.  Come to bed, now; tonight we're celebrating.
+2. LUCILLA to COMMODUS: What are you talking about?",Now that we're done with that infatuation forever.,speaker_higher_power,low_respect,"Context:
+1. COMMODUS: Now that is a happy sound! Tomorrow, I want the citizens -- my people -- back in the arena.  The Gods know, I'm tired.  Come to bed, now; tonight we're celebrating.
+2. LUCILLA to COMMODUS: What are you talking about?
+
+Current turn:
+Now that we're done with that infatuation forever.",COMMODUS,LUCILLA,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1674,gladiator,L242941,L242942,"1. NARCISSUS: The Emperor and I are bound by the threads of The Fates.  He was born on August thirty-first, you know.",That makes his birth sign... Virgo! Why that's the sign of a little girl!  Can you tell my readers more about your star-crossed connection with Emperor Commodus?,roughly_equal_power,low_respect,"Context:
+1. NARCISSUS: The Emperor and I are bound by the threads of The Fates.  He was born on August thirty-first, you know.
+
+Current turn:
+That makes his birth sign... Virgo! Why that's the sign of a little girl!  Can you tell my readers more about your star-crossed connection with Emperor Commodus?",COS,NARCISSUS,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+1684,gladiator,L242964,L242970,"1. PROXIMO: You put this inside your shirt -- when Tiger stabs your stomach -- it's full of pig's blood.  Gushes out everywhere!  It's really impressive.  Fantastic!  Better than the real thing!
+2. NARCISSUS to PROXIMO: So I pretend I'm dead.  You get gold, what do I get?
+3. PROXIMO to NARCISSUS: You get to come alive again in the country!
+4. NARCISSUS to PROXIMO: As, what, 'The Galloping Gladiator?!'
+5. PROXIMO to NARCISSUS: The point is you get to fight the easy country circuit, the small arenas, relax, live the good life!
+6. NARCISSUS to PROXIMO: Spend my days beheading country bumpkins?  I don't know, Proximo, who has better wine than you? Besides, I'm beginning to think of the Colosseum as my home.",But -- you have to go out there! I'll give you more than your one third!  When I get paid... just take the fall!  You're too hurt to fight and the man's a killer!,speaker_higher_power,neutral_respect,"Context:
+1. PROXIMO: You put this inside your shirt -- when Tiger stabs your stomach -- it's full of pig's blood.  Gushes out everywhere!  It's really impressive.  Fantastic!  Better than the real thing!
+2. NARCISSUS to PROXIMO: So I pretend I'm dead.  You get gold, what do I get?
+3. PROXIMO to NARCISSUS: You get to come alive again in the country!
+4. NARCISSUS to PROXIMO: As, what, 'The Galloping Gladiator?!'
+5. PROXIMO to NARCISSUS: The point is you get to fight the easy country circuit, the small arenas, relax, live the good life!
+6. NARCISSUS to PROXIMO: Spend my days beheading country bumpkins?  I don't know, Proximo, who has better wine than you? Besides, I'm beginning to think of the Colosseum as my home.
+
+Current turn:
+But -- you have to go out there! I'll give you more than your one third!  When I get paid... just take the fall!  You're too hurt to fight and the man's a killer!",PROXIMO,NARCISSUS,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1685,gladiator,L242964,L242971,"1. NARCISSUS to PROXIMO: So I pretend I'm dead.  You get gold, what do I get?
+2. PROXIMO to NARCISSUS: You get to come alive again in the country!
+3. NARCISSUS to PROXIMO: As, what, 'The Galloping Gladiator?!'
+4. PROXIMO to NARCISSUS: The point is you get to fight the easy country circuit, the small arenas, relax, live the good life!
+5. NARCISSUS to PROXIMO: Spend my days beheading country bumpkins?  I don't know, Proximo, who has better wine than you? Besides, I'm beginning to think of the Colosseum as my home.
+6. PROXIMO to NARCISSUS: But -- you have to go out there! I'll give you more than your one third!  When I get paid... just take the fall!  You're too hurt to fight and the man's a killer!","Pressures on, eh Proximo?  There's got to be a load of money in this. Why else would you toss a red hot commodity like me out the window?",roughly_equal_power,neutral_respect,"Context:
+1. NARCISSUS to PROXIMO: So I pretend I'm dead.  You get gold, what do I get?
+2. PROXIMO to NARCISSUS: You get to come alive again in the country!
+3. NARCISSUS to PROXIMO: As, what, 'The Galloping Gladiator?!'
+4. PROXIMO to NARCISSUS: The point is you get to fight the easy country circuit, the small arenas, relax, live the good life!
+5. NARCISSUS to PROXIMO: Spend my days beheading country bumpkins?  I don't know, Proximo, who has better wine than you? Besides, I'm beginning to think of the Colosseum as my home.
+6. PROXIMO to NARCISSUS: But -- you have to go out there! I'll give you more than your one third!  When I get paid... just take the fall!  You're too hurt to fight and the man's a killer!
+
+Current turn:
+Pressures on, eh Proximo?  There's got to be a load of money in this. Why else would you toss a red hot commodity like me out the window?",NARCISSUS,PROXIMO,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1689,gladiator,L242997,L242997,,"Tribuus!  Go left here, I want to see my new statue at Via Claudia.",speaker_higher_power,neutral_respect,"Current turn:
+Tribuus!  Go left here, I want to see my new statue at Via Claudia.",COMMODUS,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1690,gladiator,L242997,L242998,"1. COMMODUS: Tribuus!  Go left here, I want to see my new statue at Via Claudia.","Yes, Caesar.",listener_higher_power,high_respect,"Context:
+1. COMMODUS: Tribuus!  Go left here, I want to see my new statue at Via Claudia.
+
+Current turn:
+Yes, Caesar.",TRIBUUS,COMMODUS,listener_higher_power,listener_higher_power,high_respect,high_respect
+1704,gladiator,L243032,L243032,,"Cos, what in hades is the emperor up to?  And don't tell me you don't know!",speaker_higher_power,low_respect,"Current turn:
+Cos, what in hades is the emperor up to?  And don't tell me you don't know!",PROXIMO,,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1713,gladiator,L243074,L243075,1. COMMODUS: Damn him!  I should have killed him on the front -- I let you talk me out of that.,You would have had a full scale revolt on your hands.,listener_higher_power,neutral_respect,"Context:
+1. COMMODUS: Damn him!  I should have killed him on the front -- I let you talk me out of that.
+
+Current turn:
+You would have had a full scale revolt on your hands.",LUCILLA,COMMODUS,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect

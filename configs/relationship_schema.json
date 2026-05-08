@@ -1,0 +1,302 @@
+{
+  "schema_mode": "movie_specific",
+  "global_categories": [
+    "familial",
+    "romance",
+    "friendship",
+    "acquaintance",
+    "authority",
+    "class_or_service",
+    "adversarial",
+    "ally",
+    "unclear"
+  ],
+  "notes": "Each movie uses a customized relationship schema based on its social setting. The global_categories field can be used later to map movie-specific labels into broader comparable categories.",
+  "movie_schemas": {
+    "titanic": {
+      "schema_focus": "Class hierarchy, formal engagement, family obligation, romantic intimacy, service relations, and conflict across social rank.",
+      "labels": [
+        "familial",
+        "romantic_intent",
+        "formal_engagement",
+        "friend",
+        "acquaintance",
+        "ship_authority",
+        "class_service",
+        "adversarial",
+        "ally",
+        "unclear"
+      ],
+      "definitions": {
+        "familial": "A family relationship, such as parent-child or other explicitly stated family tie.",
+        "romantic_intent": "Attraction, flirtation, emotional intimacy, or romantic attachment without a formal engagement or marriage expectation.",
+        "formal_engagement": "A socially recognized romantic commitment, fiance/fiancee relation, expected marriage bond, or marriage pressure shaped by family or class expectations.",
+        "friend": "A familiar and supportive peer relationship without stronger romance, family, authority, service, or conflict cues.",
+        "acquaintance": "The characters interact or know each other, but the local dialogue does not clearly show a stronger relationship type.",
+        "ship_authority": "A role-based command relation involving officers, crew, guards, or institutional authority aboard the ship.",
+        "class_service": "A class-based or servant/service relationship where class status, service role, formal address, or deference shapes the interaction.",
+        "adversarial": "A hostile, oppositional, coercive, threatening, or conflict-driven relationship in the local dialogue.",
+        "ally": "A cooperative or protective relationship where one character supports, defends, or helps another, often across class boundaries or danger.",
+        "unclear": "Not enough evidence in the provided local dialogue context to infer a reliable relationship."
+      },
+      "priority_rules": [
+        "Use formal_engagement over romantic_intent when marriage, fiance/fiancee status, or family/class marriage pressure is explicit.",
+        "Use class_service when class status or service role is central, even if the tone is friendly.",
+        "Use ship_authority for officer, crew, guard, or emergency command relations.",
+        "Use unclear rather than relying on outside knowledge of Titanic."
+      ],
+      "global_category_mapping": {
+        "familial": "familial",
+        "romantic_intent": "romance",
+        "formal_engagement": "romance",
+        "friend": "friendship",
+        "acquaintance": "acquaintance",
+        "ship_authority": "authority",
+        "class_service": "class_or_service",
+        "adversarial": "adversarial",
+        "ally": "ally",
+        "unclear": "unclear"
+      }
+    },
+    "the godfather": {
+      "schema_focus": "Family hierarchy, patriarchal authority, loyalty, organized-crime rank, obligation, alliance, negotiation, and adversarial power relations.",
+      "labels": [
+        "blood_family",
+        "marriage_family",
+        "patriarchal_authority",
+        "organized_crime_authority",
+        "loyal_ally",
+        "business_acquaintance",
+        "friend",
+        "adversarial",
+        "unclear"
+      ],
+      "definitions": {
+        "blood_family": "A direct blood-family relationship or explicit family tie.",
+        "marriage_family": "A family relationship through marriage or in-law obligation.",
+        "patriarchal_authority": "A family-centered authority relation shaped by seniority, patriarchal command, family duty, or deference to a family head.",
+        "organized_crime_authority": "A rank-based or patronage-based relation within organized crime, including boss-subordinate, client-patron, or command relationships.",
+        "loyal_ally": "A relationship defined by loyalty, protection, strategic cooperation, or active alignment with another character.",
+        "business_acquaintance": "A transactional or negotiation-based relationship where characters know or deal with each other but are not clearly close, loyal, or hostile.",
+        "friend": "A familiar personal relationship without stronger family, authority, loyalty, or conflict cues.",
+        "adversarial": "A hostile, coercive, threatening, betraying, or openly oppositional relationship.",
+        "unclear": "Not enough evidence in the provided local dialogue context to infer a reliable relationship."
+      },
+      "priority_rules": [
+        "Use patriarchal_authority when family hierarchy and deference are central.",
+        "Use organized_crime_authority when rank, patronage, command, or criminal organizational power is central.",
+        "Use loyal_ally for loyalty and protection, not merely casual friendliness.",
+        "Use adversarial for threats, coercion, betrayal, or negotiation under explicit hostility."
+      ],
+      "global_category_mapping": {
+        "blood_family": "familial",
+        "marriage_family": "familial",
+        "patriarchal_authority": "authority",
+        "organized_crime_authority": "authority",
+        "loyal_ally": "ally",
+        "business_acquaintance": "acquaintance",
+        "friend": "friendship",
+        "adversarial": "adversarial",
+        "unclear": "unclear"
+      }
+    },
+    "dead poets society": {
+      "schema_focus": "Teacher-student authority, mentorship, school discipline, peer friendship, family authority, support, and conflict with institutional expectations.",
+      "labels": [
+        "teacher_student_authority",
+        "mentor_student",
+        "peer_friend",
+        "familial_authority",
+        "ally",
+        "adversarial",
+        "acquaintance",
+        "unclear"
+      ],
+      "definitions": {
+        "teacher_student_authority": "A school-based authority relation between teacher, administrator, or school institution and student.",
+        "mentor_student": "A guidance-centered relation where one character encourages, teaches, inspires, or supports another beyond simple authority.",
+        "peer_friend": "A familiar peer relationship among students or similar-status characters, often casual or supportive.",
+        "familial_authority": "A parent-child or family relationship where obligation, control, expectation, or parental authority is central.",
+        "ally": "A supportive relation where one character actively helps, protects, or stands with another against pressure.",
+        "adversarial": "A confrontational, resistant, accusatory, or conflict-driven relation in the local dialogue.",
+        "acquaintance": "A known but weakly specified relation without enough evidence for a stronger label.",
+        "unclear": "Not enough evidence in the provided local dialogue context to infer a reliable relationship."
+      },
+      "priority_rules": [
+        "Use mentor_student when guidance, inspiration, or encouragement is central, even if authority is also present.",
+        "Use teacher_student_authority when institutional role, discipline, evaluation, or command is central.",
+        "Use familial_authority for parent-child control or family expectation.",
+        "Use peer_friend for student-to-student friendship when no stronger conflict or alliance cue dominates."
+      ],
+      "global_category_mapping": {
+        "teacher_student_authority": "authority",
+        "mentor_student": "ally",
+        "peer_friend": "friendship",
+        "familial_authority": "familial",
+        "ally": "ally",
+        "adversarial": "adversarial",
+        "acquaintance": "acquaintance",
+        "unclear": "unclear"
+      }
+    },
+    "amadeus": {
+      "schema_focus": "Court hierarchy, artistic rivalry, patronage, professional dependence, admiration, jealousy, institutional authority, and strategic cooperation.",
+      "labels": [
+        "court_authority",
+        "patron_artist",
+        "artistic_rivalry",
+        "professional_ally",
+        "friend",
+        "class_service",
+        "acquaintance",
+        "adversarial",
+        "unclear"
+      ],
+      "definitions": {
+        "court_authority": "A court, emperor, church, noble, or institutional authority relation shaped by rank or command.",
+        "patron_artist": "A patronage or professional-dependence relation where artistic opportunity, payment, status, or approval shapes the interaction.",
+        "artistic_rivalry": "A competitive relation centered on artistic status, jealousy, reputation, or professional comparison.",
+        "professional_ally": "A cooperative professional or artistic relationship where characters work together or support each other's goals.",
+        "friend": "A familiar supportive relationship without stronger patronage, rank, rivalry, or conflict cues.",
+        "class_service": "A service or rank-based relation where class difference, social status, or service role shapes the interaction.",
+        "acquaintance": "A known but weakly specified social or professional relation.",
+        "adversarial": "A hostile, undermining, accusatory, jealous, or openly oppositional relationship.",
+        "unclear": "Not enough evidence in the provided local dialogue context to infer a reliable relationship."
+      },
+      "priority_rules": [
+        "Use court_authority for rank-based court, church, imperial, or institutional power.",
+        "Use patron_artist when opportunity, payment, commission, approval, or professional dependence is central.",
+        "Use artistic_rivalry when competition, jealousy, reputation, or professional comparison is central.",
+        "Use adversarial when rivalry becomes explicit hostility, accusation, or sabotage."
+      ],
+      "global_category_mapping": {
+        "court_authority": "authority",
+        "patron_artist": "class_or_service",
+        "artistic_rivalry": "adversarial",
+        "professional_ally": "ally",
+        "friend": "friendship",
+        "class_service": "class_or_service",
+        "acquaintance": "acquaintance",
+        "adversarial": "adversarial",
+        "unclear": "unclear"
+      }
+    },
+    "gladiator": {
+      "schema_focus": "Military command, imperial authority, slavery, loyalty, rebellion, rivalry, revenge, family memory, and survival-based alliance.",
+      "labels": [
+        "military_authority",
+        "imperial_authority",
+        "enslaver_enslaved",
+        "battle_ally",
+        "familial",
+        "friend",
+        "adversarial",
+        "unclear"
+      ],
+      "definitions": {
+        "military_authority": "A commander-soldier, officer-subordinate, or military command relation.",
+        "imperial_authority": "An emperor-subject, ruler-servant, political command, or imperial power relation.",
+        "enslaver_enslaved": "A relation shaped by slavery, ownership, captivity, forced labor, or extreme status domination.",
+        "battle_ally": "A cooperation, loyalty, protection, or shared-resistance relation formed through combat, survival, or rebellion.",
+        "familial": "An explicitly stated family relationship or family-memory relation.",
+        "friend": "A familiar supportive relationship without stronger military, imperial, slavery, alliance, or conflict cues.",
+        "adversarial": "A hostile, threatening, revenge-driven, rival, or directly oppositional relationship.",
+        "unclear": "Not enough evidence in the provided local dialogue context to infer a reliable relationship."
+      },
+      "priority_rules": [
+        "Use military_authority for command within military hierarchy.",
+        "Use imperial_authority for ruler-subject or political authority.",
+        "Use enslaver_enslaved when captivity, ownership, or forced domination is central.",
+        "Use battle_ally for loyalty or cooperation under battle, survival, or resistance pressure."
+      ],
+      "global_category_mapping": {
+        "military_authority": "authority",
+        "imperial_authority": "authority",
+        "enslaver_enslaved": "class_or_service",
+        "battle_ally": "ally",
+        "familial": "familial",
+        "friend": "friendship",
+        "adversarial": "adversarial",
+        "unclear": "unclear"
+      }
+    },
+    "an officer and a gentleman": {
+      "schema_focus": "Military training hierarchy, instructor-trainee authority, peer support, romance, discipline, conflict, and social pressure.",
+      "labels": [
+        "instructor_trainee_authority",
+        "military_peer",
+        "romantic_intent",
+        "friend",
+        "ally",
+        "adversarial",
+        "acquaintance",
+        "unclear"
+      ],
+      "definitions": {
+        "instructor_trainee_authority": "A training, drill instructor, officer, rank, discipline, command, or evaluation relation.",
+        "military_peer": "A peer relationship among trainees, officers, or military-adjacent characters of similar status.",
+        "romantic_intent": "Attraction, flirtation, dating, emotional intimacy, or romantic pursuit without formal engagement cues.",
+        "friend": "A familiar supportive relation without stronger romance, military peer identity, authority, or conflict cues.",
+        "ally": "A supportive relation where one character actively helps, protects, or stands with another under training or social pressure.",
+        "adversarial": "A confrontational, humiliating, disciplinary, resistant, or personally hostile relationship.",
+        "acquaintance": "A known but weakly specified relation without enough evidence for a stronger label.",
+        "unclear": "Not enough evidence in the provided local dialogue context to infer a reliable relationship."
+      },
+      "priority_rules": [
+        "Use instructor_trainee_authority when training, discipline, rank, command, or evaluation is central.",
+        "Use military_peer for peer relations shaped by shared military training context.",
+        "Use romantic_intent for dating, attraction, flirtation, or romantic intimacy.",
+        "Use adversarial for humiliation, disciplinary conflict, confrontation, or personal hostility."
+      ],
+      "global_category_mapping": {
+        "instructor_trainee_authority": "authority",
+        "military_peer": "friendship",
+        "romantic_intent": "romance",
+        "friend": "friendship",
+        "ally": "ally",
+        "adversarial": "adversarial",
+        "acquaintance": "acquaintance",
+        "unclear": "unclear"
+      }
+    },
+    "mrs brown": {
+      "schema_focus": "Monarchical authority, royal household service, personal loyalty, confidant roles, intimacy across rank, public duty, and social propriety.",
+      "labels": [
+        "monarch_subject_authority",
+        "royal_service",
+        "confidant_ally",
+        "friend",
+        "romantic_intent",
+        "adversarial",
+        "acquaintance",
+        "unclear"
+      ],
+      "definitions": {
+        "monarch_subject_authority": "A queen-subject, royal household authority, government authority, or command relation shaped by rank and monarchy.",
+        "royal_service": "A servant, attendant, household, or class-based service relationship within or around royal life.",
+        "confidant_ally": "A trusted adviser, emotional supporter, protector, or loyal companion relation across institutional or class pressure.",
+        "friend": "A personally warm or familiar relationship without stronger royal authority, service, confidant, romantic, or conflict cues.",
+        "romantic_intent": "Emotional intimacy, romantic implication, or attraction beyond service, loyalty, or friendship when supported by local dialogue.",
+        "adversarial": "A hostile, oppositional, socially critical, politically resistant, or conflict-driven relationship.",
+        "acquaintance": "A known but weakly specified relation without enough evidence for a stronger label.",
+        "unclear": "Not enough evidence in the provided local dialogue context to infer a reliable relationship."
+      },
+      "priority_rules": [
+        "Use monarch_subject_authority when rank, command, royal duty, or public authority is central.",
+        "Use royal_service when service, household role, attendant role, or class difference is central.",
+        "Use confidant_ally when trust, advice, protection, or emotional support is the strongest cue.",
+        "Use romantic_intent only when local dialogue suggests intimacy beyond service, loyalty, or friendship."
+      ],
+      "global_category_mapping": {
+        "monarch_subject_authority": "authority",
+        "royal_service": "class_or_service",
+        "confidant_ally": "ally",
+        "friend": "friendship",
+        "romantic_intent": "romance",
+        "adversarial": "adversarial",
+        "acquaintance": "acquaintance",
+        "unclear": "unclear"
+      }
+    }
+  }
+}

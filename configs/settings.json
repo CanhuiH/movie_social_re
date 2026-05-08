@@ -1,0 +1,27 @@
+{
+  "default_movie": "titanic",
+  "default_context_window": 6,
+  "default_re_provider": "gemini",
+  "default_re_model": "gemini-3-flash-preview",
+  "openai_api_key_env": "OPENAI_API_KEY",
+  "gemini_api_key_env": "GEMINI_API_KEY",
+  "prompt_file": "prompts/relationship_extraction.txt",
+  "movies_file": "configs/movies.json",
+  "relationship_schema_file": "configs/relationship_schema.json",
+  "data_dir": "data",
+  "raw_dir": "data/raw",
+  "interim_dir": "data/interim",
+  "processed_dir": "data/processed",
+  "llm": {
+    "max_retries": 3,
+    "retry_sleep_seconds": 2,
+    "request_timeout_seconds": 120
+  },
+  "outputs": {
+    "dialogue_metadata": "dialogue_metadata.csv",
+    "dialogue_metadata_clean": "dialogue_metadata_clean.csv",
+    "turn_windows": "turn_windows.csv",
+    "re_output": "re_clean.csv",
+    "re_clean": "re_clean.csv"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "task_name": "power_respect_classification",
+  "input_file": "data/labeled/power_respect_labels.csv",
+  "output_dir": "data/modeling",
+  "models_dir": "models",
+  "embeddings_dir": "models/embeddings",
+  "reports_dir": "outputs/modeling",
+  "prepared_data_file": "data/modeling/power_respect_modeling_data.csv",
+  "train_file": "data/modeling/train.csv",
+  "val_file": "data/modeling/val.csv",
+  "test_file": "data/modeling/test.csv",
+  "text_columns": [
+    "context_6_turns",
+    "current_text"
+  ],
+  "combined_text_column": "model_text",
+  "targets": [
+    "final_power_dynamic",
+    "final_respect_level"
+  ],
+  "id_columns": [
+    "movie_name",
+    "conversation_id",
+    "utterance_id"
+  ],
+  "required_columns": [
+    "movie_name",
+    "conversation_id",
+    "utterance_id",
+    "context_6_turns",
+    "current_text",
+    "final_power_dynamic",
+    "final_respect_level"
+  ],
+  "label_policy": {
+    "drop_unclear_power_dynamic": true,
+    "drop_unclear_respect_level": true,
+    "power_dynamic_labels": [
+      "speaker_higher_power",
+      "listener_higher_power",
+      "roughly_equal_power",
+      "unclear"
+    ],
+    "respect_level_labels": [
+      "high_respect",
+      "neutral_respect",
+      "low_respect",
+      "unclear"
+    ]
+  },
+  "split": {
+    "split_strategy": "fixed_size",
+    "train_size": 1200,
+    "val_size": 224,
+    "test_size": 300,
+    "translation_eval_size": 0,
+    "translation_eval_file": "data/modeling/translation_eval.csv",
+    "random_state": 42,
+    "stratify_target": "final_power_dynamic"
+  },
+  "embedding": {
+    "model_name": "roberta-base",
+    "max_length": 512,
+    "batch_size": 16,
+    "pooling": "mean",
+    "device": "auto",
+    "cache_embeddings": true,
+    "train_embeddings_file": "models/embeddings/train_bert_embeddings.npy",
+    "val_embeddings_file": "models/embeddings/val_bert_embeddings.npy",
+    "test_embeddings_file": "models/embeddings/test_bert_embeddings.npy"
+  },
+  "classifier": {
+    "model_type": "logistic_regression",
+    "available_model_types": [
+      "logistic_regression",
+      "linear_svm",
+      "ridge_classifier"
+    ],
+    "class_weight": "balanced",
+    "random_state": 42,
+    "logistic_regression": {
+      "max_iter": 2000,
+      "solver": "lbfgs",
+      "C": 1.0
+    },
+    "linear_svm": {
+      "max_iter": 5000,
+      "C": 1.0,
+      "dual": "auto"
+    },
+    "ridge_classifier": {
+      "alpha": 1.0
+    }
+  },
+  "saved_models": {
+    "power_dynamic_model": "models/power_dynamic_logreg.joblib",
+    "respect_level_model": "models/respect_level_logreg.joblib",
+    "label_encoders": "models/label_encoders.joblib"
+  },
+  "evaluation": {
+    "primary_metric": "macro_f1",
+    "metrics": [
+      "accuracy",
+      "macro_f1",
+      "weighted_f1"
+    ],
+    "power_dynamic_metrics_file": "outputs/modeling/power_dynamic_metrics.csv",
+    "respect_level_metrics_file": "outputs/modeling/respect_level_metrics.csv",
+    "power_dynamic_predictions_file": "outputs/modeling/power_dynamic_predictions.csv",
+    "respect_level_predictions_file": "outputs/modeling/respect_level_predictions.csv",
+    "power_dynamic_report_file": "outputs/modeling/power_dynamic_classification_report.txt",
+    "respect_level_report_file": "outputs/modeling/respect_level_classification_report.txt",
+    "power_dynamic_confusion_matrix_file": "outputs/modeling/power_dynamic_confusion_matrix.csv",
+    "respect_level_confusion_matrix_file": "outputs/modeling/respect_level_confusion_matrix.csv"
+  }
+}

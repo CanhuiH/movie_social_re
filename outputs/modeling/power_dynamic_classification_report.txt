@@ -1,0 +1,9 @@
+                       precision    recall  f1-score   support
+
+listener_higher_power       0.45      0.52      0.48        58
+  roughly_equal_power       0.86      0.85      0.85       164
+ speaker_higher_power       0.50      0.46      0.48        78
+
+             accuracy                           0.68       300
+            macro avg       0.60      0.61      0.61       300
+         weighted avg       0.69      0.68      0.68       300

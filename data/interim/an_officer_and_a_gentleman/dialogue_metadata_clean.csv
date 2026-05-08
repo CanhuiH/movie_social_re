@@ -1,0 +1,500 @@
+movie_name,movie_idx,conversation_id,utterance_id,timestamp,turn_index,utterance_order,speaker_id,speaker_name,reply_to,listener_id,listener_name,text
+an officer and a gentleman,m154,L426539,L426539,,0,0,u2405,BYRON,,,,"You, Zack?"
+an officer and a gentleman,m154,L426539,L426540,,1,1,u2415,ZACK,L426539,u2405,BYRON,"Yes, Sir."
+an officer and a gentleman,m154,L426539,L426541,,2,2,u2405,BYRON,L426540,u2415,ZACK,I'm Byron. Nice to meet you. C'mon. Let's go get your luggage.
+an officer and a gentleman,m154,L426543,L426543,,0,0,u2405,BYRON,,,,"How was the flight? They take care of you okay? Long way from Norfolk, isn't it?"
+an officer and a gentleman,m154,L426543,L426544,,1,1,u2415,ZACK,L426543,u2405,BYRON,"Yes, sir."
+an officer and a gentleman,m154,L426543,L426545,,2,2,u2405,BYRON,L426544,u2415,ZACK,"Listen, kid, I was sorry to hear about your mom. That's pretty rough. I would've returned your call a lot sooner but I was out at sea..."
+an officer and a gentleman,m154,L426543,L426546,,3,3,u2415,ZACK,L426545,u2405,BYRON,I been calling for four months.
+an officer and a gentleman,m154,L426543,L426547,,4,4,u2405,BYRON,L426546,u2415,ZACK,"Well, that's how long I've been out at sea."
+an officer and a gentleman,m154,L426551,L426551,,0,0,u2405,BYRON,,,,This is it. This is where I live. I suppose you could bunk over there and you could go to school at the base.
+an officer and a gentleman,m154,L426551,L426552,,1,1,u2415,ZACK,L426551,u2405,BYRON,Great.
+an officer and a gentleman,m154,L426551,L426553,,2,2,u2405,BYRON,L426552,u2415,ZACK,"I'm not finished. I'll only be in port one week a month and when I'm here you'd never catch me playing daddy with you 'cause it's not who I am. Like I told you on the phone, you I'd be better off in that state school back in Virginia."
+an officer and a gentleman,m154,L426551,L426554,,3,3,u2415,ZACK,L426553,u2405,BYRON,"I ain't never going back to that school, sir."
+an officer and a gentleman,m154,L426551,L426555,,4,4,u2405,BYRON,L426554,u2415,ZACK,You got to kid. Let me spell it out for you. This is a whorehouse. And I happen to like my life the way it is and nobody's gonna make me change.
+an officer and a gentleman,m154,L426551,L426556,,5,5,u2415,ZACK,L426555,u2405,BYRON,I don't care about that. I just ain't going back. You don't want me? Okay. I'll find me another place.
+an officer and a gentleman,m154,L426558,L426558,,0,0,u2405,BYRON,,,,"Come back here, kid!"
+an officer and a gentleman,m154,L426558,L426559,,1,1,u2415,ZACK,L426558,u2405,BYRON,What for?
+an officer and a gentleman,m154,L426558,L426560,,2,2,u2405,BYRON,L426559,u2415,ZACK,"Okay, okay. You win."
+an officer and a gentleman,m154,L426558,L426561,,3,3,u2415,ZACK,L426560,u2405,BYRON,"Thank you, sir!"
+an officer and a gentleman,m154,L426558,L426562,,4,4,u2405,BYRON,L426561,u2415,ZACK,Stop calling me 'sir! I ain't no officer. My name is Byron.
+an officer and a gentleman,m154,L426574,L426574,,0,0,u2415,ZACK,,,,"Hi, Byron."
+an officer and a gentleman,m154,L426574,L426575,,1,1,u2405,BYRON,L426574,u2415,ZACK,"Zack, you little shit! You haven't changed a bit!"
+an officer and a gentleman,m154,L426574,L426576,,2,2,u2415,ZACK,L426575,u2405,BYRON,"Neither have you, pard!"
+an officer and a gentleman,m154,L426577,L426577,,0,0,u2405,BYRON,,,,"Hey, honey, look at this! My son! Isn't he beautiful? You should've called!"
+an officer and a gentleman,m154,L426577,L426578,,1,1,u2415,ZACK,L426577,u2405,BYRON,"You were out at sea! Hey, guess what? I graduated. I got my degree."
+an officer and a gentleman,m154,L426577,L426579,,2,2,u2405,BYRON,L426578,u2415,ZACK,I thought you quit school. Last I heard you were on your way to a construction job or something down in Brazil.
+an officer and a gentleman,m154,L426577,L426580,,3,3,u2415,ZACK,L426579,u2405,BYRON,"Yeah, I made some money down there, then I talked my way into another college and I did it. I wasn't magna cum laude but I did okay. You should've seen me in my cap and gown."
+an officer and a gentleman,m154,L426577,L426581,,4,4,u2405,BYRON,L426580,u2415,ZACK,Why the fuck didn't you invite me? I would've come.
+an officer and a gentleman,m154,L426587,L426587,,0,0,u2415,ZACK,,,,"Ay, palequero. Never hochi in the P.I."
+an officer and a gentleman,m154,L426587,L426588,,1,1,u2405,BYRON,L426587,u2415,ZACK,"Wha-chu-say, palequero? Short time, long time, only ten dolla."
+an officer and a gentleman,m154,L426591,L426591,,0,0,u2405,BYRON,,,,So what're you doing in Seattle?
+an officer and a gentleman,m154,L426591,L426592,,1,1,u2415,ZACK,L426591,u2405,BYRON,Get ready pard. This one's gonna blow you away.
+an officer and a gentleman,m154,L426591,L426593,,2,2,u2405,BYRON,L426592,u2415,ZACK,"Zackie, nothing you do will ever surprise me, pard, not after some of the shit you've pulled."
+an officer and a gentleman,m154,L426591,L426594,,3,3,u2415,ZACK,L426593,u2405,BYRON,I joined the Navy.
+an officer and a gentleman,m154,L426595,L426595,,0,0,u2405,BYRON,,,,You... in the Navy?
+an officer and a gentleman,m154,L426595,L426596,,1,1,u2415,ZACK,L426595,u2405,BYRON,That's right. I'm on my way over to this officer school in Port Ranier.
+an officer and a gentleman,m154,L426595,L426597,,2,2,u2405,BYRON,L426596,u2415,ZACK,Why?
+an officer and a gentleman,m154,L426595,L426598,,3,3,u2415,ZACK,L426597,u2405,BYRON,To fly jets. To be the fastest motherfucker in the world. You gotta come and visit me. I'm only a couple hours away.
+an officer and a gentleman,m154,L426595,L426599,,4,4,u2405,BYRON,L426598,u2415,ZACK,Who gave you this idea?
+an officer and a gentleman,m154,L426595,L426600,,5,5,u2415,ZACK,L426599,u2405,BYRON,Nobody. It just came to me.
+an officer and a gentleman,m154,L426603,L426603,,0,0,u2405,BYRON,,,,"Don't be pissed. I'm on your side, Pard. I just don't want you to do something you'll regret. You gotta give six years to the Navy if you wanna fly... that's six years with the most uptight assholes God put on this earth. Officers aren't like you and me, man. It's another breed."
+an officer and a gentleman,m154,L426603,L426604,,1,1,u2415,ZACK,L426603,u2405,BYRON,"You afraid you'll have to salute me, Chief?"
+an officer and a gentleman,m154,L426603,L426605,,2,2,u2405,BYRON,L426604,u2415,ZACK,"Fuck, no! Why would I care about something as dumb as that?"
+an officer and a gentleman,m154,L426603,L426606,,3,3,u2415,ZACK,L426605,u2405,BYRON,"I don't know. That's just how it sounded. Well, I'll see you."
+an officer and a gentleman,m154,L426607,L426607,,0,0,u2405,BYRON,,,,"Hey, what did you want? A lot of fatherly bullshit? A big pat on the back?"
+an officer and a gentleman,m154,L426607,L426608,,1,1,u2415,ZACK,L426607,u2405,BYRON,"From you, pard? Never. Thanks for the graduation present."
+an officer and a gentleman,m154,L426607,L426609,,2,2,u2405,BYRON,L426608,u2415,ZACK,"Hey, Zackie -- don't go away mad."
+an officer and a gentleman,m154,L426614,L426614,,0,0,u2408,FOLEY,,,,"Now when I say ""understand"" I want the whole group to say, ""Yes, sir!"" Understand?"
+an officer and a gentleman,m154,L426614,L426615,,1,1,u2409,GROUP,L426614,u2408,FOLEY,"Yes, sir!"
+an officer and a gentleman,m154,L426614,L426616,,2,2,u2408,FOLEY,L426615,u2409,GROUP,Louder!
+an officer and a gentleman,m154,L426614,L426617,,3,3,u2409,GROUP,L426616,u2408,FOLEY,"Yes, sir!!"
+an officer and a gentleman,m154,L426614,L426618,,4,4,u2408,FOLEY,L426617,u2409,GROUP,"I don't believe what I'm seeing! Where've you been all your lives, at an orgy? Listening to Mick Jagger and bad mouthing your country, I'll bet."
+an officer and a gentleman,m154,L426619,L426619,,0,0,u2408,FOLEY,,,,"Stop eyeballing me, boy! You are not worthy enough to look your superiors in the eye. Use your peripheral vision! Understand?!"
+an officer and a gentleman,m154,L426619,L426620,,1,1,u2409,GROUP,L426619,u2408,FOLEY,"Yes, sir!"
+an officer and a gentleman,m154,L426621,L426621,,0,0,u2408,FOLEY,,,,"I know why most of you are here. We're not stupid. But before you get to sell what we teach you over at United Airlines, you gotta give the Navy six years of your life, Sweet Pea. Lot of things can happen in six year. Another war could come up in six years. If you're too peaceful a person to dump napalm on an enemy village where there might be women and children, I'm gonna find that out. Understand?"
+an officer and a gentleman,m154,L426621,L426622,,1,1,u2409,GROUP,L426621,u2408,FOLEY,"Yes, sir!"
+an officer and a gentleman,m154,L426623,L426623,,0,0,u2408,FOLEY,,,,"Hi, son."
+an officer and a gentleman,m154,L426623,L426624,,1,1,u2414,SID,L426623,u2408,FOLEY,"How're you doing, Sarge?"
+an officer and a gentleman,m154,L426625,L426625,,0,0,u2408,FOLEY,,,,What did you call me?
+an officer and a gentleman,m154,L426625,L426626,,1,1,u2414,SID,L426625,u2408,FOLEY,Pardon?
+an officer and a gentleman,m154,L426625,L426627,,2,2,u2408,FOLEY,L426626,u2414,SID,"What did you call me, boy?"
+an officer and a gentleman,m154,L426625,L426628,,3,3,u2414,SID,L426627,u2408,FOLEY,I called you Sarge.
+an officer and a gentleman,m154,L426625,L426629,,4,4,u2408,FOLEY,L426628,u2414,SID,Before that.
+an officer and a gentleman,m154,L426625,L426630,,5,5,u2414,SID,L426629,u2408,FOLEY,I didn't call you anything before that.
+an officer and a gentleman,m154,L426625,L426631,,6,6,u2408,FOLEY,L426630,u2414,SID,"You said, 'How're you?' I am not a 'ewe,' boy! A ewe is a female sheep, boy! Is that what you think I am, boy?"
+an officer and a gentleman,m154,L426625,L426632,,7,7,u2414,SID,L426631,u2408,FOLEY,No.
+an officer and a gentleman,m154,L426625,L426633,,8,8,u2408,FOLEY,L426632,u2414,SID,"No, sir!"
+an officer and a gentleman,m154,L426625,L426634,,9,9,u2414,SID,L426633,u2408,FOLEY,"No, sir."
+an officer and a gentleman,m154,L426625,L426635,,10,10,u2408,FOLEY,L426634,u2414,SID,"Lauder, Sweet Pea!"
+an officer and a gentleman,m154,L426625,L426636,,11,11,u2414,SID,L426635,u2408,FOLEY,"No, sir!"
+an officer and a gentleman,m154,L426625,L426637,,12,12,u2408,FOLEY,L426636,u2414,SID,"Do you want to fuck me up the ass, boy? Is that why you called me a 'ewe'? Are you a queer?"
+an officer and a gentleman,m154,L426625,L426638,,13,13,u2414,SID,L426637,u2408,FOLEY,"No, sir."
+an officer and a gentleman,m154,L426625,L426639,,14,14,u2408,FOLEY,L426638,u2414,SID,"Where are you from, boy?"
+an officer and a gentleman,m154,L426625,L426640,,15,15,u2414,SID,L426639,u2408,FOLEY,"Oklahoma City, Oklahoma."
+an officer and a gentleman,m154,L426625,L426641,,16,16,u2408,FOLEY,L426640,u2414,SID,"Only two things come out of Oklahoma, steers and queers. Which one are you, boy? I don't see any horns so you must be a queer."
+an officer and a gentleman,m154,L426625,L426642,,17,17,u2414,SID,L426641,u2408,FOLEY,"No, sir."
+an officer and a gentleman,m154,L426625,L426643,,18,18,u2408,FOLEY,L426642,u2414,SID,"Stop whispering, Sweet Pea, you're giving me a hard on!"
+an officer and a gentleman,m154,L426644,L426644,,0,0,u2408,FOLEY,,,,"Are you laughing at me, dick-brain?"
+an officer and a gentleman,m154,L426644,L426645,,1,1,u2415,ZACK,L426644,u2408,FOLEY,"No, sir!"
+an officer and a gentleman,m154,L426647,L426647,,0,0,u2408,FOLEY,,,,"What's your name, boy?"
+an officer and a gentleman,m154,L426647,L426648,,1,1,u2415,ZACK,L426647,u2408,FOLEY,"Mayo, Zack Mayo, sir!"
+an officer and a gentleman,m154,L426647,L426649,,2,2,u2408,FOLEY,L426648,u2415,ZACK,"How did you slip into this program, Mayo? I didn't know the Navy was so hard up. You got an injury there, Mayo?"
+an officer and a gentleman,m154,L426647,L426650,,3,3,u2415,ZACK,L426649,u2408,FOLEY,"Not exactly, sir."
+an officer and a gentleman,m154,L426651,L426651,,0,0,u2408,FOLEY,,,,"Where'd you get this, Mayo? This is really wonder work."
+an officer and a gentleman,m154,L426651,L426652,,1,1,u2415,ZACK,L426651,u2408,FOLEY,"Subic Bay, sir. In the Philippines."
+an officer and a gentleman,m154,L426651,L426653,,2,2,u2408,FOLEY,L426652,u2415,ZACK,"I thought I recognized the work. Be proud of those wings. They're the only ones you're gonna leave here with, Mayo-naise."
+an officer and a gentleman,m154,L426664,L426664,,0,0,u2411,LYNETTE,,,,"Come on, guys. It's five o'clock."
+an officer and a gentleman,m154,L426664,L426665,,1,1,u2412,PAULA,L426664,u2411,LYNETTE,One more minute.
+an officer and a gentleman,m154,L426676,L426676,,0,0,u2413,PERRYMAN,,,,How do you figure that's your bunk?
+an officer and a gentleman,m154,L426676,L426677,,1,1,u2415,ZACK,L426676,u2413,PERRYMAN,"He said it's up to us and I got here first, didn't I?"
+an officer and a gentleman,m154,L426678,L426678,,0,0,u2414,SID,,,,"Whatever you say, Mayonnaise."
+an officer and a gentleman,m154,L426678,L426679,,1,1,u2408,FOLEY,L426678,u2414,SID,"Fall out on the lawn in five minutes, in your Poopie suits!"
+an officer and a gentleman,m154,L426685,L426685,,0,0,u2414,SID,,,,That Foley looks like he's been through a war or two.
+an officer and a gentleman,m154,L426685,L426686,,1,1,u2415,ZACK,L426685,u2414,SID,I've seen better.
+an officer and a gentleman,m154,L426688,L426688,,0,0,u2414,SID,,,,Think there's any truth to what he was saying about those girls? Is that still going on?
+an officer and a gentleman,m154,L426688,L426689,,1,1,u2415,ZACK,L426688,u2414,SID,"Sure it is, Sweet Pea, but he should've warned you 'scuzzy' female types about the 'Puget Dudes.' They'll tell you they're wearing a rubber but they've bit a little hole in the end."
+an officer and a gentleman,m154,L426690,L426690,,0,0,u2406,CASEY,,,,"You're pretty funny, Mayo."
+an officer and a gentleman,m154,L426690,L426691,,1,1,u2415,ZACK,L426690,u2406,CASEY,"Maybe we'll be roommates, Seeger, and you'll find out how funny I really am..."
+an officer and a gentleman,m154,L426698,L426698,,0,0,u2411,LYNETTE,,,,Far fucking out! I've been wanting to meet one of the Blue Angels since I can remember.
+an officer and a gentleman,m154,L426698,L426699,,1,1,u2412,PAULA,L426698,u2411,LYNETTE,"Lynette, watch your mouth! Somebody might overhear."
+an officer and a gentleman,m154,L426698,L426700,,2,2,u2411,LYNETTE,L426699,u2412,PAULA,"Paula, look at the new Poopies."
+an officer and a gentleman,m154,L426698,L426701,,3,3,u2412,PAULA,L426700,u2411,LYNETTE,"Yeah, I saw 'em. Poor guys."
+an officer and a gentleman,m154,L426698,L426702,,4,4,u2411,LYNETTE,L426701,u2412,PAULA,See you in a month when you get liberty!
+an officer and a gentleman,m154,L426698,L426703,,5,5,u2412,PAULA,L426702,u2411,LYNETTE,Don't worry. It grows out about an inch by them.
+an officer and a gentleman,m154,L426717,L426717,,0,0,u2415,ZACK,,,,"Hey, baby, you could get sent to war, get your ass shot down."
+an officer and a gentleman,m154,L426717,L426718,,1,1,u2406,CASEY,L426717,u2415,ZACK,Don't lose any sleep over it. I wouldn't mind being the first woman to fly a jet fighter in combat.
+an officer and a gentleman,m154,L426717,L426719,,2,2,u2415,ZACK,L426718,u2406,CASEY,Great. You can go in my place.
+an officer and a gentleman,m154,L426723,L426723,,0,0,u2415,ZACK,,,,Jets.
+an officer and a gentleman,m154,L426723,L426724,,1,1,u2414,SID,L426723,u2415,ZACK,"I hate to tell you guys, but only two out of every class make it into jets. Which one of you is going with me?"
+an officer and a gentleman,m154,L426733,L426733,,0,0,u2415,ZACK,,,,"Good morning, girls."
+an officer and a gentleman,m154,L426733,L426734,,1,1,u2406,CASEY,L426733,u2415,ZACK,"Ever heard of knocking, mayo?"
+an officer and a gentleman,m154,L426733,L426735,,2,2,u2415,ZACK,L426734,u2406,CASEY,"Hey, did you hear? Sands and Kantrowitz DORed last night. Survival of the fittest."
+an officer and a gentleman,m154,L426733,L426736,,3,3,u2406,CASEY,L426735,u2415,ZACK,"The whole world's a jungle, huh, Mayo? Dog eat dog down to the last one, right?"
+an officer and a gentleman,m154,L426733,L426737,,4,4,u2415,ZACK,L426736,u2406,CASEY,"You got it, Sweet Pea. Nice boonies, Seeger."
+an officer and a gentleman,m154,L426741,L426741,,0,0,u2415,ZACK,,,,"Two bucks a buckle, Perryman. Look at that shine! Boonies'll cost you five."
+an officer and a gentleman,m154,L426741,L426742,,1,1,u2413,PERRYMAN,L426741,u2415,ZACK,Who's got two bucks? It's costing me every penny they pay us just to keep my old Lady and my kids in that motel.
+an officer and a gentleman,m154,L426744,L426744,,0,0,u2413,PERRYMAN,,,,"Hey, man, is the piss-ass money you're making off this worth the risk of getting us all kicked out of here on an honor violation?"
+an officer and a gentleman,m154,L426744,L426745,,1,1,u2415,ZACK,L426744,u2413,PERRYMAN,I don't notice anyone else complaining.
+an officer and a gentleman,m154,L426752,L426752,,0,0,u2415,ZACK,,,,"Hey, you gonna tell anybody about this?"
+an officer and a gentleman,m154,L426752,L426753,,1,1,u2414,SID,L426752,u2415,ZACK,Not if you make it worth my while. How about free boonies for the duration?
+an officer and a gentleman,m154,L426758,L426758,,0,0,u2415,ZACK,,,,You told us it would grow out an inch.
+an officer and a gentleman,m154,L426758,L426759,,1,1,u2414,SID,L426758,u2415,ZACK,"It's grown out more than an inch, sweetheart."
+an officer and a gentleman,m154,L426760,L426760,,0,0,u2412,PAULA,,,,"That was you guys, huh?"
+an officer and a gentleman,m154,L426760,L426761,,1,1,u2411,LYNETTE,L426760,u2412,PAULA,Come on. Let's go dance.
+an officer and a gentleman,m154,L426762,L426762,,0,0,u2411,LYNETTE,,,,Is this you boys first night of liberty since you got here?
+an officer and a gentleman,m154,L426762,L426763,,1,1,u2414,SID,L426762,u2411,LYNETTE,"Yes, ma'am. Four long, hard weeks of sacrifice for my country... for my people... for you. But I survived."
+an officer and a gentleman,m154,L426764,L426764,,0,0,u2415,ZACK,,,,"Hey, what kind of name is Pokrifki?"
+an officer and a gentleman,m154,L426764,L426765,,1,1,u2412,PAULA,L426764,u2415,ZACK,Polish. What kind of name is Mayo?
+an officer and a gentleman,m154,L426764,L426766,,2,2,u2415,ZACK,L426765,u2412,PAULA,Italian. My mom was Irish. I got her ears. But the rest is all wop.
+an officer and a gentleman,m154,L426764,L426767,,3,3,u2412,PAULA,L426766,u2415,ZACK,"Where are you from, Mayo the Wop?"
+an officer and a gentleman,m154,L426764,L426768,,4,4,u2415,ZACK,L426767,u2412,PAULA,"Everywhere and nowhere, Paula the Polack."
+an officer and a gentleman,m154,L426764,L426769,,5,5,u2412,PAULA,L426768,u2415,ZACK,Seriously.
+an officer and a gentleman,m154,L426764,L426770,,6,6,u2415,ZACK,L426769,u2412,PAULA,My father is a Rear Admiral in the Seventh Fleet.
+an officer and a gentleman,m154,L426764,L426771,,7,7,u2412,PAULA,L426770,u2415,ZACK,Really?
+an officer and a gentleman,m154,L426764,L426772,,8,8,u2415,ZACK,L426771,u2412,PAULA,"Yeah. We've lived all over the world. Katmandu, Moscow, Nairobi."
+an officer and a gentleman,m154,L426764,L426773,,9,9,u2412,PAULA,L426772,u2415,ZACK,"Really? I've never been out of Washington except once when I visited this aunt of mine over to Portland. I mean, over at Portland. Ain't it pathetic the way folks talk around here?"
+an officer and a gentleman,m154,L426775,L426775,,0,0,u2412,PAULA,,,,You got a girl?
+an officer and a gentleman,m154,L426775,L426776,,1,1,u2415,ZACK,L426775,u2412,PAULA,"No, and I'm not looking for one either."
+an officer and a gentleman,m154,L426778,L426778,,0,0,u2415,ZACK,,,,I hear most of the girls who come to these things are looking for a husband.
+an officer and a gentleman,m154,L426778,L426779,,1,1,u2412,PAULA,L426778,u2415,ZACK,Not me.
+an officer and a gentleman,m154,L426778,L426780,,2,2,u2415,ZACK,L426779,u2412,PAULA,Yeah? Why're you here?
+an officer and a gentleman,m154,L426778,L426781,,3,3,u2412,PAULA,L426780,u2415,ZACK,"To meet interesting people, improve myself. You wouldn't believe the losers we got over in Port Angeles."
+an officer and a gentleman,m154,L426778,L426782,,4,4,u2415,ZACK,L426781,u2412,PAULA,Do you go to school?
+an officer and a gentleman,m154,L426778,L426783,,5,5,u2412,PAULA,L426782,u2415,ZACK,"No. I work for National Paper. It's a good job. I make eight-twenty-three an hour. When I get enough money saved, I plan to go on to college."
+an officer and a gentleman,m154,L426784,L426784,,0,0,u2411,LYNETTE,,,,You been through the Dilbert Dunker yet?
+an officer and a gentleman,m154,L426784,L426785,,1,1,u2414,SID,L426784,u2411,LYNETTE,"Cake walk. Both my dad and my brother went through it and made it, so I know I can."
+an officer and a gentleman,m154,L426784,L426786,,2,2,u2411,LYNETTE,L426785,u2414,SID,Is your brother a flyer?
+an officer and a gentleman,m154,L426784,L426787,,3,3,u2414,SID,L426786,u2411,LYNETTE,He was. He died.
+an officer and a gentleman,m154,L426784,L426788,,4,4,u2411,LYNETTE,L426787,u2414,SID,Vietnam?
+an officer and a gentleman,m154,L426784,L426789,,5,5,u2414,SID,L426788,u2411,LYNETTE,Yeah.
+an officer and a gentleman,m154,L426784,L426790,,6,6,u2411,LYNETTE,L426789,u2414,SID,"I had a big brother who died over there, too. He wasn't no flyer though. He was just your basic Marine Corps type. I was only twelve when it happened, so I don't remember much about him."
+an officer and a gentleman,m154,L426784,L426791,,7,7,u2414,SID,L426790,u2411,LYNETTE,I sure remember Tommy. Mind if we talked about something else?
+an officer and a gentleman,m154,L426784,L426792,,8,8,u2411,LYNETTE,L426791,u2414,SID,We don't have to talk at all.
+an officer and a gentleman,m154,L426795,L426795,,0,0,u2412,PAULA,,,,Think you'll make it all the way to getting your wings?
+an officer and a gentleman,m154,L426795,L426796,,1,1,u2415,ZACK,L426795,u2412,PAULA,Who knows? Guys a lot smarter than me are dropping out like flies.
+an officer and a gentleman,m154,L426795,L426797,,2,2,u2412,PAULA,L426796,u2415,ZACK,"Just think 'I'm gonna do it!' Program yourself. See yourself making it. It'll happen. I know 'cause I just read this article in Cosmo, and it was about that very thing."
+an officer and a gentleman,m154,L426795,L426798,,3,3,u2415,ZACK,L426797,u2412,PAULA,"You're a very pretty girl, Paula."
+an officer and a gentleman,m154,L426800,L426800,,0,0,u2414,SID,,,,Something tells me you've been here before.
+an officer and a gentleman,m154,L426800,L426801,,1,1,u2411,LYNETTE,L426800,u2414,SID,Now what on earth would give you an idea like that?
+an officer and a gentleman,m154,L426802,L426802,,0,0,u2414,SID,,,,You're sure it's okay?
+an officer and a gentleman,m154,L426802,L426803,,1,1,u2411,LYNETTE,L426802,u2414,SID,Don't worry. I'll respect you afterwards.
+an officer and a gentleman,m154,L426806,L426806,,0,0,u2414,SID,,,,Could you believe those girls!
+an officer and a gentleman,m154,L426806,L426807,,1,1,u2415,ZACK,L426806,u2414,SID,'Nellie's Nymphos!'
+an officer and a gentleman,m154,L426806,L426808,,2,2,u2414,SID,L426807,u2415,ZACK,"Jesus, that Lynette! I rode her hard and put her up wet."
+an officer and a gentleman,m154,L426810,L426810,,0,0,u2412,PAULA,,,,"Hurry, Lynette. It's almost midnight."
+an officer and a gentleman,m154,L426810,L426811,,1,1,u2411,LYNETTE,L426810,u2412,PAULA,I got my foot on the floor.
+an officer and a gentleman,m154,L426812,L426812,,0,0,u2411,LYNETTE,,,,"Well, it you're not gonna ask, then I will. How was it?"
+an officer and a gentleman,m154,L426812,L426813,,1,1,u2412,PAULA,L426812,u2411,LYNETTE,Great.
+an officer and a gentleman,m154,L426812,L426814,,2,2,u2411,LYNETTE,L426813,u2412,PAULA,"Details, Pokrif. From what I saw he had an incredible body."
+an officer and a gentleman,m154,L426812,L426815,,3,3,u2412,PAULA,L426814,u2411,LYNETTE,Yeah... Mmmm...
+an officer and a gentleman,m154,L426812,L426816,,4,4,u2411,LYNETTE,L426815,u2412,PAULA,What did he do? Did he do anything that was different?
+an officer and a gentleman,m154,L426812,L426817,,5,5,u2412,PAULA,L426816,u2411,LYNETTE,Everything was different.
+an officer and a gentleman,m154,L426812,L426818,,6,6,u2411,LYNETTE,L426817,u2412,PAULA,But in what ways?
+an officer and a gentleman,m154,L426820,L426820,,0,0,u2412,PAULA,,,,How did it go with you guys?
+an officer and a gentleman,m154,L426820,L426821,,1,1,u2411,LYNETTE,L426820,u2412,PAULA,"Big Sid came in about two and a half seconds, then had the nerve to ask, 'Did you make it, too, sweetheart?'"
+an officer and a gentleman,m154,L426823,L426823,,0,0,u2412,PAULA,,,,He ask you out for next weekend?
+an officer and a gentleman,m154,L426823,L426824,,1,1,u2411,LYNETTE,L426823,u2412,PAULA,"No, but I told him I'd be at the Town Tavern next Saturday night, and he sounded like he might come."
+an officer and a gentleman,m154,L426823,L426825,,2,2,u2412,PAULA,L426824,u2411,LYNETTE,"I told Zack about Saturday night, too. The fifth week's supposed to be the roughest. Come Wednesday, he'll be wishing he took my number."
+an officer and a gentleman,m154,L426823,L426826,,3,3,u2411,LYNETTE,L426825,u2412,PAULA,You hope.
+an officer and a gentleman,m154,L426823,L426827,,4,4,u2412,PAULA,L426826,u2411,LYNETTE,He'll show. I'd bet my paycheck on it.
+an officer and a gentleman,m154,L426831,L426831,,0,0,u2412,PAULA,,,,"I know I'm late and I'm sorry, but Mrs. Rufferwell asked us to help with the cleanup and..."
+an officer and a gentleman,m154,L426831,L426832,,1,1,u2410,JOE,L426831,u2412,PAULA,"I said, come here!"
+an officer and a gentleman,m154,L426833,L426833,,0,0,u2412,PAULA,,,,"Daddy, I don't want to get into anything with you tonight. I'm tired and I..."
+an officer and a gentleman,m154,L426833,L426834,,1,1,u2410,JOE,L426833,u2412,PAULA,What are you tired from?
+an officer and a gentleman,m154,L426835,L426835,,0,0,u2407,ESTHER,,,,Joe!
+an officer and a gentleman,m154,L426835,L426836,,1,1,u2410,JOE,L426835,u2407,ESTHER,Come over here where I can see you.
+an officer and a gentleman,m154,L426838,L426838,,0,0,u2412,PAULA,,,,I don't know what it is. It could be anything.
+an officer and a gentleman,m154,L426838,L426839,,1,1,u2410,JOE,L426838,u2412,PAULA,"But you knew right off what I was talking about, didn't you, Paula! Did you let that boy --"
+an officer and a gentleman,m154,L426840,L426840,,0,0,u2412,PAULA,,,,Don't you dare ask me that question. I'm an adult and you got no right to push your nose into my affairs like that!
+an officer and a gentleman,m154,L426840,L426841,,1,1,u2410,JOE,L426840,u2412,PAULA,"Well, as long as you live in this house, young lady, you live by my rules! You should be dating local boys."
+an officer and a gentleman,m154,L426840,L426842,,2,2,u2412,PAULA,L426841,u2410,JOE,"Uh-uh! Not a chance! There's nobody in this town doing anything with his life, except what his father did, which is nothing. If I can't have more out of life than that, I'd rather be dead!"
+an officer and a gentleman,m154,L426840,L426843,,3,3,u2410,JOE,L426842,u2412,PAULA,Do you honestly think you'll find a boy in that... that officer's school who's serious about marriage?
+an officer and a gentleman,m154,L426840,L426844,,4,4,u2412,PAULA,L426843,u2410,JOE,Yes I do!
+an officer and a gentleman,m154,L426840,L426845,,5,5,u2410,JOE,L426844,u2412,PAULA,Then you're dumber than I thought! All you'll get from their kind is pregnant!
+an officer and a gentleman,m154,L426847,L426847,,0,0,u2410,JOE,,,,"Esther, do you think she's using... ...birth control?"
+an officer and a gentleman,m154,L426847,L426848,,1,1,u2407,ESTHER,L426847,u2410,JOE,"Yes, Joe."
+an officer and a gentleman,m154,L426847,L426849,,2,2,u2410,JOE,L426848,u2407,ESTHER,When did this happen?
+an officer and a gentleman,m154,L426847,L426850,,3,3,u2407,ESTHER,L426849,u2410,JOE,A long time ago.
+an officer and a gentleman,m154,L426851,L426851,,0,0,u2415,ZACK,,,,Look at Foley! Can you believe it!
+an officer and a gentleman,m154,L426851,L426852,,1,1,u2414,SID,L426851,u2415,ZACK,Shhhh...
+an officer and a gentleman,m154,L426870,L426870,,0,0,u2414,SID,,,,"Nice, hospitable folks they get around here. I hope she comes."
+an officer and a gentleman,m154,L426870,L426871,,1,1,u2415,ZACK,L426870,u2414,SID,"She'll come, pard. A rich socialite Oakie like you oughta be a big catch around these parts."
+an officer and a gentleman,m154,L426870,L426872,,2,2,u2414,SID,L426871,u2415,ZACK,"Get off my case, Mayo. I didn't grow up rich."
+an officer and a gentleman,m154,L426873,L426873,,0,0,u2415,ZACK,,,,I think we're making some of the locals jealous.
+an officer and a gentleman,m154,L426873,L426874,,1,1,u2412,PAULA,L426873,u2415,ZACK,"Who cares? Mmmm. Now I remember. Mayo the Wop. Gee, I'm glad you're here. I've been looking forward to this all week."
+an officer and a gentleman,m154,L426873,L426875,,2,2,u2415,ZACK,L426874,u2412,PAULA,"Me, too."
+an officer and a gentleman,m154,L426876,L426876,,0,0,u2414,SID,,,,What would you girls like to do? Want to stick around here for a little or... or could I suggest another plan...?
+an officer and a gentleman,m154,L426876,L426877,,1,1,u2411,LYNETTE,L426876,u2414,SID,Like pick up some booze and go to a motel?
+an officer and a gentleman,m154,L426876,L426878,,2,2,u2414,SID,L426877,u2411,LYNETTE,Or we could do that yeah.
+an officer and a gentleman,m154,L426879,L426879,,0,0,u2412,PAULA,,,,I vote for the motel.
+an officer and a gentleman,m154,L426879,L426880,,1,1,u2415,ZACK,L426879,u2412,PAULA,My kinda group!
+an officer and a gentleman,m154,L426890,L426890,,0,0,u2411,LYNETTE,,,,God! I've never seen anything like that in my whole life! Did you see that guy's nose?
+an officer and a gentleman,m154,L426890,L426891,,1,1,u2415,ZACK,L426890,u2411,LYNETTE,"Lynette, just keep your mouth shut until we get to the motel. Will you do that for me, please."
+an officer and a gentleman,m154,L426890,L426892,,2,2,u2411,LYNETTE,L426891,u2415,ZACK,"Well, excuse me for livin'!"
+an officer and a gentleman,m154,L426894,L426894,,0,0,u2415,ZACK,,,,I shouldn't have done that. I should've walked.
+an officer and a gentleman,m154,L426894,L426895,,1,1,u2412,PAULA,L426894,u2415,ZACK,He didn't give you much choice.
+an officer and a gentleman,m154,L426894,L426896,,2,2,u2415,ZACK,L426895,u2412,PAULA,There's always a choice.
+an officer and a gentleman,m154,L426894,L426897,,3,3,u2412,PAULA,L426896,u2415,ZACK,Where'd you learn to fight like that?
+an officer and a gentleman,m154,L426894,L426898,,4,4,u2415,ZACK,L426897,u2412,PAULA,"I don't feel like talking, if you don't mind."
+an officer and a gentleman,m154,L426894,L426899,,5,5,u2412,PAULA,L426898,u2415,ZACK,"Opening up just a little wouldn't kill you, ya know."
+an officer and a gentleman,m154,L426900,L426900,,0,0,u2415,ZACK,,,,"You want me to fuck you? Is that it? Okay, come here. Take your clothes off. Get into bed."
+an officer and a gentleman,m154,L426900,L426901,,1,1,u2412,PAULA,L426900,u2415,ZACK,Where's that coming from? I wouldn't fuck now if my life depended on it!
+an officer and a gentleman,m154,L426900,L426902,,2,2,u2415,ZACK,L426901,u2412,PAULA,Forget it. Just get out of here.
+an officer and a gentleman,m154,L426903,L426903,,0,0,u2412,PAULA,,,,I don't know who you think you're talking to! I ain't some whore you brought here! I've been trying to be your friend and you treat me like shit!
+an officer and a gentleman,m154,L426903,L426904,,1,1,u2415,ZACK,L426903,u2412,PAULA,Be a friend. Leave.
+an officer and a gentleman,m154,L426903,L426905,,2,2,u2412,PAULA,L426904,u2415,ZACK,"You got no manners and you never tell the truth! You're nothin' special. And if you ask me, you got no chance at all of being an officer!"
+an officer and a gentleman,m154,L426907,L426907,,0,0,u2415,ZACK,,,,You stayed after all.
+an officer and a gentleman,m154,L426907,L426908,,1,1,u2412,PAULA,L426907,u2415,ZACK,"Wrong. I've driven a hundred and twenty miles, told a hundred and twenty lies, and said a hundred and twenty Hail Mary's since I saw you. Hungry?"
+an officer and a gentleman,m154,L426907,L426909,,2,2,u2415,ZACK,L426908,u2412,PAULA,I'm starving.
+an officer and a gentleman,m154,L426910,L426910,,0,0,u2415,ZACK,,,,"Paula, I never try to fool anybody about who I am, what I want... so if even in the back of your --"
+an officer and a gentleman,m154,L426910,L426911,,1,1,u2412,PAULA,L426910,u2415,ZACK,I know who you are and what you want.
+an officer and a gentleman,m154,L426910,L426912,,2,2,u2415,ZACK,L426911,u2412,PAULA,"What do you want, Paula? What do you really want?"
+an officer and a gentleman,m154,L426910,L426913,,3,3,u2412,PAULA,L426912,u2415,ZACK,To have a good time with you until you have to go.
+an officer and a gentleman,m154,L426910,L426914,,4,4,u2415,ZACK,L426913,u2412,PAULA,That's it?
+an officer and a gentleman,m154,L426917,L426917,,0,0,u2412,PAULA,,,,"Zack, I dare you not to fall in love with me. I ain't gonna get serious with you, no way. But how can you resist me? I'm like candy."
+an officer and a gentleman,m154,L426917,L426918,,1,1,u2415,ZACK,L426917,u2412,PAULA,You're better than candy.
+an officer and a gentleman,m154,L426917,L426919,,2,2,u2412,PAULA,L426918,u2415,ZACK,I'm serious. It's gonna be hard to get enough.
+an officer and a gentleman,m154,L426921,L426921,,0,0,u2412,PAULA,,,,"Zack, when you're through with a girl, what do you do? Do you say something or do you just... disappear?"
+an officer and a gentleman,m154,L426921,L426922,,1,1,u2415,ZACK,L426921,u2412,PAULA,I've never had a girl.
+an officer and a gentleman,m154,L426923,L426923,,0,0,u2415,ZACK,,,,I forgot to thank you for breakfast.
+an officer and a gentleman,m154,L426923,L426924,,1,1,u2412,PAULA,L426923,u2415,ZACK,"Any time, sailor."
+an officer and a gentleman,m154,L426927,L426927,,0,0,u2415,ZACK,,,,You okay?
+an officer and a gentleman,m154,L426927,L426928,,1,1,u2414,SID,L426927,u2415,ZACK,Sure.
+an officer and a gentleman,m154,L426932,L426932,,0,0,u2413,PERRYMAN,,,,"I'll never get it polished in time. Give me a buckle, Zack."
+an officer and a gentleman,m154,L426932,L426933,,1,1,u2415,ZACK,L426932,u2413,PERRYMAN,I can't risk it.
+an officer and a gentleman,m154,L426932,L426934,,2,2,u2413,PERRYMAN,L426933,u2415,ZACK,"You'd make it. He's just getting to the girls. Come on, Zack. I gotta see my family, man. I couldn't take it if he keeps me here over the weekend."
+an officer and a gentleman,m154,L426932,L426935,,3,3,u2415,ZACK,L426934,u2413,PERRYMAN,"Sorry, pard. Wouldn't want you to get an honor violation."
+an officer and a gentleman,m154,L426940,L426940,,0,0,u2408,FOLEY,,,,I want your D.O.R.
+an officer and a gentleman,m154,L426940,L426941,,1,1,u2415,ZACK,L426940,u2408,FOLEY,"No, sir. You can kick me out, but I'm not quitting."
+an officer and a gentleman,m154,L426940,L426942,,2,2,u2408,FOLEY,L426941,u2415,ZACK,"Get into your fatigues, Mayo. Before the weekend's out, you'll quit."
+an officer and a gentleman,m154,L426945,L426945,,0,0,u2408,FOLEY,,,,"She may not make it through the program, but she's got more heart and more character than you'll ever have. I've seen your college record. I've never heard of most of those schools. Tell me something, Mayo. Did you buy that degree?"
+an officer and a gentleman,m154,L426945,L426946,,1,1,u2415,ZACK,L426945,u2408,FOLEY,"No, sir! It was the hardest thing I ever did, sir! Until this."
+an officer and a gentleman,m154,L426945,L426947,,2,2,u2408,FOLEY,L426946,u2415,ZACK,"That's a lie, Mayo. You've gone through a lot worse, haven't you?"
+an officer and a gentleman,m154,L426948,L426948,,0,0,u2408,FOLEY,,,,"Stop eyeballing me, mister! I've looked through your file and done a little checking, and I know it all. I know about your mother. I know your old man's an alcoholic and a whore chaser. Life sure has dealt you some shitty cards! Hasn't it, Mayo?"
+an officer and a gentleman,m154,L426948,L426949,,1,1,u2415,ZACK,L426948,u2408,FOLEY,"I'm doing okay, sir."
+an officer and a gentleman,m154,L426948,L426950,,2,2,u2408,FOLEY,L426949,u2415,ZACK,"No you're not. You're failing the big one, baby, and I don't just mean in here. I mean in life. I've watched you, Mayo, and you don't mesh. You grab-ass and joke around but you don't make friends, not the way the others do."
+an officer and a gentleman,m154,L426953,L426953,,0,0,u2408,FOLEY,,,,"Hey, what do you say we call off this little charade of yours over a couple of beers at Trader Jon's...? Come on, man. You're about as close to being officer material as me."
+an officer and a gentleman,m154,L426953,L426954,,1,1,u2415,ZACK,L426953,u2408,FOLEY,"Sir, this candidate believes he'll make a good officer, sir!"
+an officer and a gentleman,m154,L426953,L426955,,2,2,u2408,FOLEY,L426954,u2415,ZACK,"No way, Mayo. You don't give a shit about anybody but yourself and every single one of your classmates knows it. Think they'd trust you behind the controls of a plane they have to fly in? Hey, man, I figure you for the kind of guy who'd zip off one day in my F-14 and sell it to the Cubans."
+an officer and a gentleman,m154,L426953,L426956,,3,3,u2415,ZACK,L426955,u2408,FOLEY,"Sir, that's not true! I love my country!"
+an officer and a gentleman,m154,L426953,L426957,,4,4,u2408,FOLEY,L426956,u2415,ZACK,"Sell it to the Air Force, Mayo!"
+an officer and a gentleman,m154,L426959,L426959,,0,0,u2415,ZACK,,,,"I want to fly, sir!"
+an officer and a gentleman,m154,L426959,L426960,,1,1,u2408,FOLEY,L426959,u2415,ZACK,That's no reason. Everybody wants to fly. My grandmother wants to fly. You going after a job with one of the airlines?
+an officer and a gentleman,m154,L426959,L426961,,2,2,u2415,ZACK,L426960,u2408,FOLEY,"I want to fly jets, sir!"
+an officer and a gentleman,m154,L426959,L426962,,3,3,u2408,FOLEY,L426961,u2415,ZACK,Why? Because you can do it alone?
+an officer and a gentleman,m154,L426959,L426963,,4,4,u2415,ZACK,L426962,u2408,FOLEY,"No, sir!"
+an officer and a gentleman,m154,L426959,L426964,,5,5,u2408,FOLEY,L426963,u2415,ZACK,"What is it, the kicks? Is that it?"
+an officer and a gentleman,m154,L426959,L426965,,6,6,u2415,ZACK,L426964,u2408,FOLEY,I don't want to do something anybody can do.
+an officer and a gentleman,m154,L426959,L426966,,7,7,u2408,FOLEY,L426965,u2415,ZACK,Pity you don't have the character.
+an officer and a gentleman,m154,L426959,L426967,,8,8,u2415,ZACK,L426966,u2408,FOLEY,"That's not true, sir! I've changed a lot since I've been here! And I'm gonna make it, sir!"
+an officer and a gentleman,m154,L426959,L426968,,9,9,u2408,FOLEY,L426967,u2415,ZACK,"Not a fucking chance, asshole!"
+an officer and a gentleman,m154,L426974,L426974,,0,0,u2408,FOLEY,,,,"Mayo, are those your friends?"
+an officer and a gentleman,m154,L426974,L426975,,1,1,u2415,ZACK,L426974,u2408,FOLEY,"Yes, sir!"
+an officer and a gentleman,m154,L426974,L426976,,2,2,u2408,FOLEY,L426975,u2415,ZACK,Maybe there's hope for you yet.
+an officer and a gentleman,m154,L426977,L426977,,0,0,u2413,PERRYMAN,,,,"I see you didn't DOR, Mayo."
+an officer and a gentleman,m154,L426977,L426978,,1,1,u2415,ZACK,L426977,u2413,PERRYMAN,"Hey, Sid, thanks."
+an officer and a gentleman,m154,L426979,L426979,,0,0,u2415,ZACK,,,,"Hey, you guys still awake?"
+an officer and a gentleman,m154,L426979,L426980,,1,1,u2414,SID,L426979,u2415,ZACK,Yeah.
+an officer and a gentleman,m154,L426981,L426981,,0,0,u2415,ZACK,,,,"Hey, do you guys ever... feel like you don't belong here...?"
+an officer and a gentleman,m154,L426981,L426982,,1,1,u2413,PERRYMAN,L426981,u2415,ZACK,Yeah. All week long.
+an officer and a gentleman,m154,L426983,L426983,,0,0,u2414,SID,,,,"What's the matter, Sweet Pea. Foley finally starting to get to you?"
+an officer and a gentleman,m154,L426983,L426984,,1,1,u2415,ZACK,L426983,u2414,SID,Naw.
+an officer and a gentleman,m154,L426987,L426987,,0,0,u2415,ZACK,,,,"That isn't true, is it?"
+an officer and a gentleman,m154,L426987,L426988,,1,1,u2414,SID,L426987,u2415,ZACK,A little.
+an officer and a gentleman,m154,L426989,L426989,,0,0,u2415,ZACK,,,,How about that prick! He told me he wasn't officer material because he grew up poor like me.
+an officer and a gentleman,m154,L426989,L426990,,1,1,u2413,PERRYMAN,L426989,u2415,ZACK,He said he grew up poor?
+an officer and a gentleman,m154,L426989,L426991,,2,2,u2415,ZACK,L426990,u2413,PERRYMAN,The kid on the windy side of the baker's window. That's how he put it.
+an officer and a gentleman,m154,L426989,L426992,,3,3,u2413,PERRYMAN,L426991,u2415,ZACK,Foley's not poor. Buddy of mine in oh-four told me he's the son of a rich doctor down in Louisiana.
+an officer and a gentleman,m154,L426995,L426995,,0,0,u2415,ZACK,,,,That was great.
+an officer and a gentleman,m154,L426995,L426996,,1,1,u2412,PAULA,L426995,u2415,ZACK,It sure was.
+an officer and a gentleman,m154,L426997,L426997,,0,0,u2412,PAULA,,,,Want me to get a towel?
+an officer and a gentleman,m154,L426997,L426998,,1,1,u2415,ZACK,L426997,u2412,PAULA,I'll get it if you want.
+an officer and a gentleman,m154,L426997,L426999,,2,2,u2412,PAULA,L426998,u2415,ZACK,I don't want you to move.
+an officer and a gentleman,m154,L426997,L427000,,3,3,u2415,ZACK,L426999,u2412,PAULA,I don't want to move. But somebody has to move sometime. Eventually.
+an officer and a gentleman,m154,L426997,L427001,,4,4,u2412,PAULA,L427000,u2415,ZACK,"They found them like that, shriveled up from weeks without food or water..."
+an officer and a gentleman,m154,L427004,L427004,,0,0,u2412,PAULA,,,,"You know, sometimes I wish I was one of those girls they're letting in the flight program these days. God, I'd love to fly."
+an officer and a gentleman,m154,L427004,L427005,,1,1,u2415,ZACK,L427004,u2412,PAULA,What's stopping you?
+an officer and a gentleman,m154,L427006,L427006,,0,0,u2412,PAULA,,,,"I don't care what the magazines say... it's just not as easy being a girl, especially from a Catholic family. You don't know the junk I grew up listening to, 'bout the way women are supposed to think and act."
+an officer and a gentleman,m154,L427006,L427007,,1,1,u2415,ZACK,L427006,u2412,PAULA,That's no excuse for not going after what you want.
+an officer and a gentleman,m154,L427006,L427008,,2,2,u2412,PAULA,L427007,u2415,ZACK,"Who says I'm not going after what I want? My mother's thirty-nine years old and she still works in that factory. Every time I see her, I know exactly what I don't want."
+an officer and a gentleman,m154,L427009,L427009,,0,0,u2415,ZACK,,,,My old lady swallowed a bottle of pills one day while I was at school.
+an officer and a gentleman,m154,L427009,L427010,,1,1,u2412,PAULA,L427009,u2415,ZACK,God.
+an officer and a gentleman,m154,L427009,L427011,,2,2,u2415,ZACK,L427010,u2412,PAULA,The thing that really got to me... she didn't leave a note. Nothing. I've always hated her for that.
+an officer and a gentleman,m154,L427009,L427012,,3,3,u2412,PAULA,L427011,u2415,ZACK,Does it still hurt?
+an officer and a gentleman,m154,L427009,L427013,,4,4,u2415,ZACK,L427012,u2412,PAULA,"Naw. You're alone in this world no matter what kinda folks or background you had. Nothing hurts, pard, once you got that one down."
+an officer and a gentleman,m154,L427015,L427015,,0,0,u2415,ZACK,,,,I'm sorry. I can't sit with you.
+an officer and a gentleman,m154,L427015,L427016,,1,1,u2412,PAULA,L427015,u2415,ZACK,I understand. Maybe we'll see each other after the show...
+an officer and a gentleman,m154,L427018,L427018,,0,0,u2405,BYRON,,,,Who's that?
+an officer and a gentleman,m154,L427018,L427019,,1,1,u2415,ZACK,L427018,u2405,BYRON,Nobody. Just a girl I've been making it with the last couple of weekends.
+an officer and a gentleman,m154,L427018,L427020,,2,2,u2405,BYRON,L427019,u2415,ZACK,Great ass.
+an officer and a gentleman,m154,L427018,L427021,,3,3,u2415,ZACK,L427020,u2405,BYRON,"Yeah, I sort of thought so myself."
+an officer and a gentleman,m154,L427018,L427022,,4,4,u2405,BYRON,L427021,u2415,ZACK,"Better watch out for that kind, Zackie. You know what they call 'em, don't ya?"
+an officer and a gentleman,m154,L427018,L427023,,5,5,u2415,ZACK,L427022,u2405,BYRON,"Yeah, I know."
+an officer and a gentleman,m154,L427018,L427024,,6,6,u2405,BYRON,L427023,u2415,ZACK,"Back east in Newport, Rhode Island, they call 'em the Fall River Debs. In Pensacola, the Mobile Debs. In Norfolk --"
+an officer and a gentleman,m154,L427018,L427025,,7,7,u2415,ZACK,L427024,u2405,BYRON,That what she was... a Norfolk Deb?
+an officer and a gentleman,m154,L427018,L427026,,8,8,u2405,BYRON,L427025,u2415,ZACK,"Who? Aw shit, Zackie, let's not get off on your mother again, please."
+an officer and a gentleman,m154,L427018,L427027,,9,9,u2415,ZACK,L427026,u2405,BYRON,"What if I want to talk about her, pard? What then? You know, that's all I've ever heard from you, since I was a kid... you never want to talk about that, man, and it's important."
+an officer and a gentleman,m154,L427018,L427028,,10,10,u2405,BYRON,L427027,u2415,ZACK,There's nothing to talk about. Two goddamn times I made it with your old lady. We barely even talked.
+an officer and a gentleman,m154,L427029,L427029,,0,0,u2415,ZACK,,,,That's not how she told it. She said you wrote her every week you were away.
+an officer and a gentleman,m154,L427029,L427030,,1,1,u2405,BYRON,L427029,u2415,ZACK,I wrote. Not every week...
+an officer and a gentleman,m154,L427029,L427031,,2,2,u2415,ZACK,L427030,u2405,BYRON,"She said you told her in every letter how much you loved her, how you wanted to marry her, have children with her..."
+an officer and a gentleman,m154,L427029,L427032,,3,3,u2405,BYRON,L427031,u2415,ZACK,I never said any of that!
+an officer and a gentleman,m154,L427029,L427033,,4,4,u2415,ZACK,L427032,u2405,BYRON,"I found them, pard, and read them myself, right after she did it!"
+an officer and a gentleman,m154,L427029,L427034,,5,5,u2405,BYRON,L427033,u2415,ZACK,"Okay, I wrote those things... and yeah, I had big thoughts of getting together with your mom... but when she hit me with being pregnant, I saw who she was. I'd had quiff lay that shit on me before!"
+an officer and a gentleman,m154,L427029,L427035,,6,6,u2415,ZACK,L427034,u2405,BYRON,"What did you call her? What did I hear you call her, you son of a bitch?"
+an officer and a gentleman,m154,L427038,L427038,,0,0,u2412,PAULA,,,,What's the matter?
+an officer and a gentleman,m154,L427038,L427039,,1,1,u2415,ZACK,L427038,u2412,PAULA,"Nothing. Go back to the show, Paula."
+an officer and a gentleman,m154,L427038,L427040,,2,2,u2412,PAULA,L427039,u2415,ZACK,I've seen all that a hundred times.
+an officer and a gentleman,m154,L427038,L427041,,3,3,u2415,ZACK,L427040,u2412,PAULA,"Hey, will you just leave me alone?"
+an officer and a gentleman,m154,L427044,L427044,,0,0,u2415,ZACK,,,,Come on. Invite me. All day the idea of a family Sunday dinner's been coming into my head. Since you're the only one I know around here with family...
+an officer and a gentleman,m154,L427044,L427045,,1,1,u2412,PAULA,L427044,u2415,ZACK,"Zack, I don't know if I want to do that..."
+an officer and a gentleman,m154,L427047,L427047,,0,0,u2415,ZACK,,,,"Hey, what about Sunday dinner? When're you gonna let me know?"
+an officer and a gentleman,m154,L427047,L427048,,1,1,u2412,PAULA,L427047,u2415,ZACK,When I'm good and ready.
+an officer and a gentleman,m154,L427050,L427050,,0,0,u2411,LYNETTE,,,,You serious about having him over?
+an officer and a gentleman,m154,L427050,L427051,,1,1,u2412,PAULA,L427050,u2411,LYNETTE,I haven't made up my mind.
+an officer and a gentleman,m154,L427052,L427052,,0,0,u2411,LYNETTE,,,,"Paula, how far would you go to catch Zack?"
+an officer and a gentleman,m154,L427052,L427053,,1,1,u2412,PAULA,L427052,u2411,LYNETTE,What do you mean?
+an officer and a gentleman,m154,L427052,L427054,,2,2,u2411,LYNETTE,L427053,u2412,PAULA,You know what I mean. Would you... let yourself get pregnant?
+an officer and a gentleman,m154,L427052,L427055,,3,3,u2412,PAULA,L427054,u2411,LYNETTE,No way... Would you?
+an officer and a gentleman,m154,L427052,L427056,,4,4,u2411,LYNETTE,L427055,u2412,PAULA,"I never used to think I'd do something like that, but now I'm not so sure. You ask me, nine weeks just ain't long enough to get a guy to fall in love with you."
+an officer and a gentleman,m154,L427052,L427057,,5,5,u2412,PAULA,L427056,u2411,LYNETTE,"That don't justify trying to trap a boy by getting pregnant, Lynette! Nothing justifies that. I can't believe you're even thinking like that. I mean, that's really backward."
+an officer and a gentleman,m154,L427052,L427058,,6,6,u2411,LYNETTE,L427057,u2412,PAULA,"No more backward, if you ask me, than the way these hotshot assholes fuck us, then ditch us. Don't you ever feel used, Paula? Don't you ever feel like if this is all you get for your trouble then the sonofabitch ought to be paying for it...?"
+an officer and a gentleman,m154,L427052,L427059,,7,7,u2412,PAULA,L427058,u2411,LYNETTE,No. I never feel like that.
+an officer and a gentleman,m154,L427052,L427060,,8,8,u2411,LYNETTE,L427059,u2412,PAULA,I do.
+an officer and a gentleman,m154,L427066,L427066,,0,0,u2415,ZACK,,,,Hi.
+an officer and a gentleman,m154,L427066,L427067,,1,1,u2412,PAULA,L427066,u2415,ZACK,Are those for me?
+an officer and a gentleman,m154,L427066,L427068,,2,2,u2415,ZACK,L427067,u2412,PAULA,"No, they're for your mom."
+an officer and a gentleman,m154,L427075,L427075,,0,0,u2407,ESTHER,,,,"He doesn't mean anything by it, Zack. Do you, Joe?"
+an officer and a gentleman,m154,L427075,L427076,,1,1,u2410,JOE,L427075,u2407,ESTHER,I don't mean anything by it.
+an officer and a gentleman,m154,L427080,L427080,,0,0,u2412,PAULA,,,,I'm so embarrassed. I knew I shouldn't have brought you here.
+an officer and a gentleman,m154,L427080,L427081,,1,1,u2415,ZACK,L427080,u2412,PAULA,"No, it's okay. It was a great free meal. Everybody was so uptight I felt sorry for you."
+an officer and a gentleman,m154,L427080,L427082,,2,2,u2412,PAULA,L427081,u2415,ZACK,That's okay. I'm used to it.
+an officer and a gentleman,m154,L427083,L427083,,0,0,u2412,PAULA,,,,"So, after you graduate you go on to basic flight, right? Is that in Pensacola?"
+an officer and a gentleman,m154,L427083,L427084,,1,1,u2415,ZACK,L427083,u2412,PAULA,"Yeah, then if I get jets, it's on to Beeville, Texas."
+an officer and a gentleman,m154,L427085,L427085,,0,0,u2412,PAULA,,,,"Zack, do you ever think about what it'd be like to have kids... a family."
+an officer and a gentleman,m154,L427085,L427086,,1,1,u2415,ZACK,L427085,u2412,PAULA,No. Is that what you want?
+an officer and a gentleman,m154,L427085,L427087,,2,2,u2412,PAULA,L427086,u2415,ZACK,Some day. When I'm sure I can do a better job of it than my folks.
+an officer and a gentleman,m154,L427085,L427088,,3,3,u2415,ZACK,L427087,u2412,PAULA,What would you do differently?
+an officer and a gentleman,m154,L427085,L427089,,4,4,u2412,PAULA,L427088,u2415,ZACK,"For a start, I wouldn't marry a man I wasn't in love with."
+an officer and a gentleman,m154,L427085,L427090,,5,5,u2415,ZACK,L427089,u2412,PAULA,Why'd your mom marry that guy if she didn't love him?
+an officer and a gentleman,m154,L427085,L427091,,6,6,u2412,PAULA,L427090,u2415,ZACK,Because my real father wouldn't marry her.
+an officer and a gentleman,m154,L427085,L427092,,7,7,u2415,ZACK,L427091,u2412,PAULA,Your real father?
+an officer and a gentleman,m154,L427094,L427094,,0,0,u2415,ZACK,,,,Your real father was an Officer candidate like me?
+an officer and a gentleman,m154,L427094,L427095,,1,1,u2412,PAULA,L427094,u2415,ZACK,Twenty-two years ago.
+an officer and a gentleman,m154,L427094,L427096,,2,2,u2415,ZACK,L427095,u2412,PAULA,No wonder he was looking at me like that.
+an officer and a gentleman,m154,L427098,L427098,,0,0,u2412,PAULA,,,,Call me during the week if you get the chance.
+an officer and a gentleman,m154,L427098,L427099,,1,1,u2415,ZACK,L427098,u2412,PAULA,"I'll try, but this week we go into survival training, so I can't make any promises. Well, thanks again for dinner. Thank your mom again for me, will you?"
+an officer and a gentleman,m154,L427098,L427100,,2,2,u2412,PAULA,L427099,u2415,ZACK,"Sure. Zack, I hope you know I didn't have to show you that picture."
+an officer and a gentleman,m154,L427098,L427101,,3,3,u2415,ZACK,L427100,u2412,PAULA,I know that.
+an officer and a gentleman,m154,L427103,L427103,,0,0,u2414,SID,,,,"I kid you not, Mayo, I am in love. We must've set a new indoor record today. You want to know how many times we did it?"
+an officer and a gentleman,m154,L427103,L427104,,1,1,u2415,ZACK,L427103,u2414,SID,"You'd better get smart, man. It's time to walk away."
+an officer and a gentleman,m154,L427103,L427105,,2,2,u2414,SID,L427104,u2415,ZACK,What? You've gotta be kidding!
+an officer and a gentleman,m154,L427103,L427106,,3,3,u2415,ZACK,L427105,u2414,SID,Remember what Foley said? His little warning? Those are the girls he was talking about. They're out to marry us any way they can.
+an officer and a gentleman,m154,L427103,L427107,,4,4,u2414,SID,L427106,u2415,ZACK,"I don't believe that. They're just having a good time, same as us."
+an officer and a gentleman,m154,L427103,L427108,,5,5,u2415,ZACK,L427107,u2414,SID,"That's what they want you to think, but I saw where she lived, what is she's trying to get away from. Just take my word for it, pard. Break it off now. Do it this week."
+an officer and a gentleman,m154,L427117,L427117,,0,0,u2411,LYNETTE,,,,"Sid Worley, I think you're ashamed of me."
+an officer and a gentleman,m154,L427117,L427118,,1,1,u2414,SID,L427117,u2411,LYNETTE,"Ashamed? No -- I love you, Lynette. I mean that. After I leave them, I'll meet you at the motel, okay?"
+an officer and a gentleman,m154,L427117,L427119,,2,2,u2411,LYNETTE,L427118,u2414,SID,"If you won't take me to dinner with your parents, I won't meet you at the motel."
+an officer and a gentleman,m154,L427117,L427120,,3,3,u2414,SID,L427119,u2411,LYNETTE,"Lynette, I told you already, it won't work."
+an officer and a gentleman,m154,L427117,L427121,,4,4,u2411,LYNETTE,L427120,u2414,SID,"Then, I'll see you around."
+an officer and a gentleman,m154,L427136,L427136,,0,0,u2414,SID,,,,Thanks for covering for me.
+an officer and a gentleman,m154,L427136,L427137,,1,1,u2415,ZACK,L427136,u2414,SID,"No problem, but who's Susan?"
+an officer and a gentleman,m154,L427136,L427138,,2,2,u2414,SID,L427137,u2415,ZACK,"My girl back home. We're supposed to get married after I get my wings. She was Tommy's girl. They were engaged to be married before he died. I should've told you about her. I don't know why I didn't, except I didn't want you to think I was a shit for making it with Lynette."
+an officer and a gentleman,m154,L427136,L427139,,3,3,u2415,ZACK,L427138,u2414,SID,"I'm not your folks, man. You love this... Susan?"
+an officer and a gentleman,m154,L427136,L427140,,4,4,u2414,SID,L427139,u2415,ZACK,She's the sweetest person I've ever known. Loves kids. Works with handicapped kids every afternoon at the church. Everybody loves her.
+an officer and a gentleman,m154,L427136,L427141,,5,5,u2415,ZACK,L427140,u2414,SID,"I didn't ask you all that, Sweet Pea. I asked if you loved her."
+an officer and a gentleman,m154,L427136,L427142,,6,6,u2414,SID,L427141,u2415,ZACK,"Listen, I'm not going to go to that little reunion party. I'm meeting Lynette at the motel. Best head in fifty-two states. After three days of survival training, how could I resist?"
+an officer and a gentleman,m154,L427143,L427143,,0,0,u2415,ZACK,,,,You should've done what I did. A clean break.
+an officer and a gentleman,m154,L427143,L427144,,1,1,u2414,SID,L427143,u2415,ZACK,Lynette told me it really tore her up when you didn't call this week.
+an officer and a gentleman,m154,L427157,L427157,,0,0,u2406,CASEY,,,,"Zack, we've got to go."
+an officer and a gentleman,m154,L427157,L427158,,1,1,u2415,ZACK,L427157,u2406,CASEY,"Just trying to have fun. That fucking prison is really starting to get to me. C'mon, Seeger. Gimme a push. Fuck you guys! I'll do it myself!"
+an officer and a gentleman,m154,L427164,L427164,,0,0,u2414,SID,,,,"By the way, shouldn't you have had a period by now?"
+an officer and a gentleman,m154,L427164,L427165,,1,1,u2411,LYNETTE,L427164,u2414,SID,"I'm a little late, that's all."
+an officer and a gentleman,m154,L427164,L427166,,2,2,u2414,SID,L427165,u2411,LYNETTE,How late?
+an officer and a gentleman,m154,L427164,L427167,,3,3,u2411,LYNETTE,L427166,u2414,SID,"What difference does it make? If anything was to happen, which I'm sure it isn't, it would be my responsibility."
+an officer and a gentleman,m154,L427164,L427168,,4,4,u2414,SID,L427167,u2411,LYNETTE,"Exactly how late are you, Lynette?"
+an officer and a gentleman,m154,L427164,L427169,,5,5,u2411,LYNETTE,L427168,u2414,SID,"What do you care? Suppose I was pregnant. Just suppose it. You don't think I'd try to make you do anything you don't want to, do you?"
+an officer and a gentleman,m154,L427164,L427170,,6,6,u2414,SID,L427169,u2411,LYNETTE,"No. But that's not the only issue here, sweetheart. There's a lot more to it than that."
+an officer and a gentleman,m154,L427171,L427171,,0,0,u2411,LYNETTE,,,,"What other issue is there, Sid?"
+an officer and a gentleman,m154,L427171,L427172,,1,1,u2414,SID,L427171,u2411,LYNETTE,"My responsibility as its father, for one. I mean, if I've made you pregnant, I'd want to... do the right thing."
+an officer and a gentleman,m154,L427173,L427173,,0,0,u2414,SID,,,,"...I'd want to pay for the abortion... I'd want to be with you through the whole thing... by your side. So how late are you, Lynette?"
+an officer and a gentleman,m154,L427173,L427174,,1,1,u2411,LYNETTE,L427173,u2414,SID,Let's just wait and see what happens.
+an officer and a gentleman,m154,L427176,L427176,,0,0,u2415,ZACK,,,,Talk to me in the morning. I feel like shit.
+an officer and a gentleman,m154,L427176,L427177,,1,1,u2414,SID,L427176,u2415,ZACK,But it can't wait.
+an officer and a gentleman,m154,L427179,L427179,,0,0,u2415,ZACK,,,,"Calm down, Sweet Pea. She seen a doctor?"
+an officer and a gentleman,m154,L427179,L427180,,1,1,u2414,SID,L427179,u2415,ZACK,"No, but she's gotta be at least a month late."
+an officer and a gentleman,m154,L427179,L427181,,2,2,u2415,ZACK,L427180,u2414,SID,Doesn't mean shit. Get her to a doctor. You can't do anything until you hear what he says. Make the appointment yourself.
+an officer and a gentleman,m154,L427189,L427189,,0,0,u2406,CASEY,,,,"Go on, Zack! Go for the record!"
+an officer and a gentleman,m154,L427189,L427190,,1,1,u2415,ZACK,L427189,u2406,CASEY,"Fuck the record. Now you listen to me and do exactly what I tell you. Start back ten yards and take off from here. Not here... or there... but right here! No excuses, Seeger! You are going to plant those legs here and then you're going to yank yourself over that wall because you have to! You want jets? Then do it, goddamnit!"
+an officer and a gentleman,m154,L427191,L427191,,0,0,u2414,SID,,,,It's a big religious thing with her and she won't even discuss it.
+an officer and a gentleman,m154,L427191,L427192,,1,1,u2415,ZACK,L427191,u2414,SID,But she expects you to marry her?
+an officer and a gentleman,m154,L427191,L427193,,2,2,u2414,SID,L427192,u2415,ZACK,"She said it was up to me. If I don't, she'll go off and have the baby on her own somewhere."
+an officer and a gentleman,m154,L427194,L427194,,0,0,u2415,ZACK,,,,So what's the problem? Girls do that all the time.
+an officer and a gentleman,m154,L427194,L427195,,1,1,u2414,SID,L427194,u2415,ZACK,"I can't let her go off and have the kid by herself and not do anything. If it's my kid, too, then I've got a responsibility, don't I?"
+an officer and a gentleman,m154,L427194,L427196,,2,2,u2415,ZACK,L427195,u2414,SID,Not if she won't even talk about an abortion.
+an officer and a gentleman,m154,L427194,L427197,,3,3,u2414,SID,L427196,u2415,ZACK,But it would still be my kid. That's the point.
+an officer and a gentleman,m154,L427194,L427198,,4,4,u2415,ZACK,L427197,u2414,SID,Do you know that for sure?
+an officer and a gentleman,m154,L427194,L427199,,5,5,u2414,SID,L427198,u2415,ZACK,It's mine.
+an officer and a gentleman,m154,L427200,L427200,,0,0,u2415,ZACK,,,,"Okay, but what if it's like Foley said and she got knocked up, to trap you -- is it still your responsibility?"
+an officer and a gentleman,m154,L427200,L427201,,1,1,u2414,SID,L427200,u2415,ZACK,"No matter how it happened, if she goes ahead and has it"" Zack, there'll be a child in the world that's mine -- and I couldn't go through life knowing that and not knowing its name or where it lived."
+an officer and a gentleman,m154,L427200,L427202,,2,2,u2415,ZACK,L427201,u2414,SID,"Jesus Christ, Sid! Is everything your responsibility?"
+an officer and a gentleman,m154,L427210,L427210,,0,0,u2415,ZACK,,,,"Sid, what happened?"
+an officer and a gentleman,m154,L427210,L427211,,1,1,u2414,SID,L427210,u2415,ZACK,"I don't know... I felt like... like I was suffocating... Christ, Zack... I was so scared... so godddamn scared..."
+an officer and a gentleman,m154,L427214,L427214,,0,0,u2415,ZACK,,,,"You didn't kick him out...? Wait, didn't he tell you what he's been going through?"
+an officer and a gentleman,m154,L427214,L427215,,1,1,u2408,FOLEY,L427214,u2415,ZACK,It doesn't matter what he's going through. That's the whole purpose of this zoo. What matters is he freaked out for some reason at twenty-five thousand feet and that can't ever happen again.
+an officer and a gentleman,m154,L427214,L427216,,2,2,u2415,ZACK,L427215,u2408,FOLEY,"But you don't understand. There's this girl he's gotten pregnant and she's putting him through hell, sir."
+an officer and a gentleman,m154,L427217,L427217,,0,0,u2414,SID,,,,"He's right, Zack. It doesn't matter."
+an officer and a gentleman,m154,L427217,L427218,,1,1,u2415,ZACK,L427217,u2414,SID,"Just like that it's all over? With less than two weeks to go, you're out?"
+an officer and a gentleman,m154,L427221,L427221,,0,0,u2408,FOLEY,,,,"What did you call me, Mayo?"
+an officer and a gentleman,m154,L427221,L427222,,1,1,u2414,SID,L427221,u2408,FOLEY,"Zack, don't!"
+an officer and a gentleman,m154,L427223,L427223,,0,0,u2415,ZACK,,,,I thought the D.I.'s were supposed to help you in this place! What kind of human being are you?
+an officer and a gentleman,m154,L427223,L427224,,1,1,u2408,FOLEY,L427223,u2415,ZACK,"Stop eyeballing me, Mayo, or you're out!"
+an officer and a gentleman,m154,L427225,L427225,,0,0,u2414,SID,,,,"Please, Zack -- go back to the barracks!"
+an officer and a gentleman,m154,L427225,L427226,,1,1,u2415,ZACK,L427225,u2414,SID,I don't get it! He's the best candidate in our class! Ask anyone! The best student! The best leader! The best friend to everybody! Couldn't you bend your goddamn standards just a little?
+an officer and a gentleman,m154,L427225,L427227,,2,2,u2414,SID,L427226,u2415,ZACK,"Zack, it wasn't him! He didn't ask me to D.O.R. I came to him on my own. I'm glad it's over, Zack. I really mean that. He was right. I wasn't doing this for me."
+an officer and a gentleman,m154,L427231,L427231,,0,0,u2415,ZACK,,,,I'm looking for Sid.
+an officer and a gentleman,m154,L427231,L427232,,1,1,u2412,PAULA,L427231,u2415,ZACK,So?
+an officer and a gentleman,m154,L427231,L427233,,2,2,u2415,ZACK,L427232,u2412,PAULA,"Paula, he DORed and nobody's seen him."
+an officer and a gentleman,m154,L427231,L427234,,3,3,u2412,PAULA,L427233,u2415,ZACK,Why'd he do it?
+an officer and a gentleman,m154,L427231,L427235,,4,4,u2415,ZACK,L427234,u2412,PAULA,"Hey! You know goddamn well what happened so let's not play any games, okay?"
+an officer and a gentleman,m154,L427231,L427236,,5,5,u2412,PAULA,L427235,u2415,ZACK,I'm not playing any games! Go look at Lynette's!
+an officer and a gentleman,m154,L427231,L427237,,6,6,u2415,ZACK,L427236,u2412,PAULA,I don't know where that is.
+an officer and a gentleman,m154,L427238,L427238,,0,0,u2414,SID,,,,"Hi, babe. Come on. I've got a couple of things I want to tell you."
+an officer and a gentleman,m154,L427238,L427239,,1,1,u2411,LYNETTE,L427238,u2414,SID,"What're you doing out of uniform, Sid? You don't want to get in trouble."
+an officer and a gentleman,m154,L427238,L427240,,2,2,u2414,SID,L427239,u2411,LYNETTE,Forget that. Come on. Got a little surprise...
+an officer and a gentleman,m154,L427238,L427241,,3,3,u2411,LYNETTE,L427240,u2414,SID,I can't go like this. Can't you wait a few minutes 'til I'm ready?
+an officer and a gentleman,m154,L427238,L427242,,4,4,u2414,SID,L427241,u2411,LYNETTE,"No way. I'm so happy I'm about to bust. Here, honey. This is for you. It cost me my whole savings, but I said what the fuck."
+an officer and a gentleman,m154,L427243,L427243,,0,0,u2411,LYNETTE,,,,"Sid! Oh, it's beautiful! You mean..."
+an officer and a gentleman,m154,L427243,L427244,,1,1,u2414,SID,L427243,u2411,LYNETTE,"That's right. Let's get married, Lynette. Let's find a justice of the peace and just do it!"
+an officer and a gentleman,m154,L427245,L427245,,0,0,u2411,LYNETTE,,,,"Let's go tell Paula! God, I wonder where we'll be stationed first. I hope it'll be Hawaii. I've always wanted to go to Hawaii."
+an officer and a gentleman,m154,L427245,L427246,,1,1,u2414,SID,L427245,u2411,LYNETTE,"We're not gonna be stationed anywhere, baby. I DORed."
+an officer and a gentleman,m154,L427245,L427247,,2,2,u2411,LYNETTE,L427246,u2414,SID,You what?
+an officer and a gentleman,m154,L427245,L427248,,3,3,u2414,SID,L427247,u2411,LYNETTE,"I had to, baby... I'm no aviator. I was faking it, like I was with everything else in my life... up 'til right now."
+an officer and a gentleman,m154,L427245,L427249,,4,4,u2411,LYNETTE,L427248,u2414,SID,But... but what would we do? Where would we go?
+an officer and a gentleman,m154,L427245,L427250,,5,5,u2414,SID,L427249,u2411,LYNETTE,"Oklahoma. I can get my old job back at JC Penney's. In a couple of years, I'll be floor manager. Oh, you're gonna love Oklahoma, Lynette. You and mama'll get along just great. Of course, money will be a little tight for a while, but we'll make it."
+an officer and a gentleman,m154,L427245,L427251,,6,6,u2411,LYNETTE,L427250,u2414,SID,"Sid, there's no baby."
+an officer and a gentleman,m154,L427245,L427252,,7,7,u2414,SID,L427251,u2411,LYNETTE,What?
+an officer and a gentleman,m154,L427245,L427253,,8,8,u2411,LYNETTE,L427252,u2414,SID,"I'm not pregnant. I got my period this morning. There's no baby, Sid."
+an officer and a gentleman,m154,L427245,L427254,,9,9,u2414,SID,L427253,u2411,LYNETTE,"Well, I'll be goddamned."
+an officer and a gentleman,m154,L427259,L427259,,0,0,u2412,PAULA,,,,"Lynette, where's Sid?"
+an officer and a gentleman,m154,L427259,L427260,,1,1,u2411,LYNETTE,L427259,u2412,PAULA,Already come and gone. Can you believe it? He DORed in the twelfth week. How can you win?
+an officer and a gentleman,m154,L427261,L427261,,0,0,u2415,ZACK,,,,What did you tell him about the baby?
+an officer and a gentleman,m154,L427261,L427262,,1,1,u2411,LYNETTE,L427261,u2415,ZACK,"That there isn't one, as of today. I had my period. I couldn't believe it. He still wanted to marry me."
+an officer and a gentleman,m154,L427261,L427263,,2,2,u2415,ZACK,L427262,u2411,LYNETTE,And you turned him down??
+an officer and a gentleman,m154,L427261,L427264,,3,3,u2411,LYNETTE,L427263,u2415,ZACK,Of course. I don't want no Okie from Muscogee. I can get that right here in Port Angeles.
+an officer and a gentleman,m154,L427265,L427265,,0,0,u2415,ZACK,,,,"You little bitch! How could you? Was there ever a baby, Lynette? That's all I want to know! Did you make up that baby, Lynette? Did you??"
+an officer and a gentleman,m154,L427265,L427266,,1,1,u2411,LYNETTE,L427265,u2415,ZACK,"Of course there was a baby. I'd never lie about something like that. Would I, Paula?"
+an officer and a gentleman,m154,L427268,L427268,,0,0,u2412,PAULA,,,,"God help you, Lynette!"
+an officer and a gentleman,m154,L427268,L427269,,1,1,u2411,LYNETTE,L427268,u2412,PAULA,"You're no better than me, Paula! You're just the same!"
+an officer and a gentleman,m154,L427268,L427270,,2,2,u2412,PAULA,L427269,u2411,LYNETTE,No! That's not true!
+an officer and a gentleman,m154,L427271,L427271,,0,0,u2412,PAULA,,,,I'd like to come with you.
+an officer and a gentleman,m154,L427271,L427272,,1,1,u2415,ZACK,L427271,u2412,PAULA,Why?
+an officer and a gentleman,m154,L427271,L427273,,2,2,u2412,PAULA,L427272,u2415,ZACK,"Because he's my friend, too."
+an officer and a gentleman,m154,L427282,L427282,,0,0,u2412,PAULA,,,,"Please stop it. None of that's true. Goddamnit, I love you. I loved you ever since I met you."
+an officer and a gentleman,m154,L427282,L427283,,1,1,u2415,ZACK,L427282,u2412,PAULA,"Come on, Paula! You were looking for a ticket out of here and you didn't care who it was, any more than you cared with the last class of candidates you and Lynette fucked your way through, looking for a husband! Or the class before that!"
+an officer and a gentleman,m154,L427282,L427284,,2,2,u2412,PAULA,L427283,u2415,ZACK,Yeah. You got the whole story just right.
+an officer and a gentleman,m154,L427282,L427285,,3,3,u2415,ZACK,L427284,u2412,PAULA,"Beware of the Puget Debs -- and we all laughed, especially him."
+an officer and a gentleman,m154,L427282,L427286,,4,4,u2412,PAULA,L427285,u2415,ZACK,I'm not a Puget Deb. I hate that goddamn term!
+an officer and a gentleman,m154,L427282,L427287,,5,5,u2415,ZACK,L427286,u2412,PAULA,I bet you do!
+an officer and a gentleman,m154,L427282,L427288,,6,6,u2412,PAULA,L427287,u2415,ZACK,"However you got it figured, I didn't kill Sid and Lynette didn't kill him! He killed himself!"
+an officer and a gentleman,m154,L427282,L427289,,7,7,u2415,ZACK,L427288,u2412,PAULA,That's brilliant.
+an officer and a gentleman,m154,L427282,L427290,,8,8,u2412,PAULA,L427289,u2415,ZACK,"Maybe not, but it is the truth. And Zack, you didn't kill him either."
+an officer and a gentleman,m154,L427293,L427293,,0,0,u2408,FOLEY,,,,"Mayo, the rest of your class knows about candidate Worley, and we're all sorry."
+an officer and a gentleman,m154,L427293,L427294,,1,1,u2415,ZACK,L427293,u2408,FOLEY,"Sir, this officer candidate requests permission to speak to you in private."
+an officer and a gentleman,m154,L427293,L427295,,2,2,u2408,FOLEY,L427294,u2415,ZACK,"I'm busy, Mayo. It'll have to wait."
+an officer and a gentleman,m154,L427293,L427296,,3,3,u2415,ZACK,L427295,u2408,FOLEY,"It's important, sir!"
+an officer and a gentleman,m154,L427293,L427297,,4,4,u2408,FOLEY,L427296,u2415,ZACK,"Mayo, you didn't hear me -- I said I I'm busy! And so are you! Go get cleaned up!"
+an officer and a gentleman,m154,L427293,L427298,,5,5,u2415,ZACK,L427297,u2408,FOLEY,Aw screw it...
+an officer and a gentleman,m154,L427300,L427300,,0,0,u2408,FOLEY,,,,"What're you waiting for, Mayo? Get your scuzzy ass up here."
+an officer and a gentleman,m154,L427300,L427301,,1,1,u2415,ZACK,L427300,u2408,FOLEY,"Yes, sir!"
+an officer and a gentleman,m154,L427305,L427305,,0,0,u2408,FOLEY,,,,You're good.
+an officer and a gentleman,m154,L427305,L427306,,1,1,u2415,ZACK,L427305,u2408,FOLEY,"Get on your feet and find out how good, sir."
+an officer and a gentleman,m154,L427317,L427317,,0,0,u2405,BYRON,,,,I knew you'd make it! Where's your girl? Didn't she come?
+an officer and a gentleman,m154,L427317,L427318,,1,1,u2415,ZACK,L427317,u2405,BYRON,Naw. That's over with.
+an officer and a gentleman,m154,L427323,L427323,,0,0,u2408,FOLEY,,,,"Congratulations, Ensign Mayo, sir!"
+an officer and a gentleman,m154,L427323,L427324,,1,1,u2415,ZACK,L427323,u2408,FOLEY,"I'll never forget you as long as I live, Sergeant."
+an officer and a gentleman,m154,L427323,L427325,,2,2,u2408,FOLEY,L427324,u2415,ZACK,I know.
+an officer and a gentleman,m154,L427323,L427326,,3,3,u2415,ZACK,L427325,u2408,FOLEY,"Well, goodbye."
+an officer and a gentleman,m154,L427327,L427327,,0,0,u2408,FOLEY,,,,"See you in the fleet, sir!"
+an officer and a gentleman,m154,L427327,L427328,,1,1,u2415,ZACK,L427327,u2408,FOLEY,"Yeah. See you in the fleet, Sarge. And thank you."

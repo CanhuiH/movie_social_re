@@ -1,0 +1,1008 @@
+movie_name,movie_idx,conversation_id,utterance_id,timestamp,speaker_id,speaker_name,reply_to,listener_id,listener_name,text
+amadeus,m16,L29991,L29991,,u257,OLD SALIERI,,,,What do you want?
+amadeus,m16,L29991,L29992,,u266,VOGLER,L29991,u257,OLD SALIERI,I am Father Vogler. I am a Chaplain here. I thought you might like to talk to someone.
+amadeus,m16,L29991,L29993,,u257,OLD SALIERI,L29992,u266,VOGLER,About what?
+amadeus,m16,L29991,L29994,,u266,VOGLER,L29993,u257,OLD SALIERI,"You tried to take your life. You do remember that, don't you?"
+amadeus,m16,L29991,L29995,,u257,OLD SALIERI,L29994,u266,VOGLER,So?
+amadeus,m16,L29991,L29996,,u266,VOGLER,L29995,u257,OLD SALIERI,In the sight of God that is a sin.
+amadeus,m16,L29991,L29997,,u257,OLD SALIERI,L29996,u266,VOGLER,What do you want?
+amadeus,m16,L29991,L29998,,u266,VOGLER,L29997,u257,OLD SALIERI,Do you understand that you have sinned? Gravely.
+amadeus,m16,L29991,L29999,,u257,OLD SALIERI,L29998,u266,VOGLER,Leave me alone.
+amadeus,m16,L29991,L30000,,u266,VOGLER,L29999,u257,OLD SALIERI,I cannot leave alone a soul in pain.
+amadeus,m16,L29991,L30001,,u257,OLD SALIERI,L30000,u266,VOGLER,"Do you know who I am? You never heard of me, did you?"
+amadeus,m16,L29991,L30002,,u266,VOGLER,L30001,u257,OLD SALIERI,That makes no difference. All men are equal in God's eyes.
+amadeus,m16,L29991,L30003,,u257,OLD SALIERI,L30002,u266,VOGLER,Are they?
+amadeus,m16,L29991,L30004,,u266,VOGLER,L30003,u257,OLD SALIERI,Offer me your confession. I can offer you God's forgiveness.
+amadeus,m16,L29991,L30005,,u257,OLD SALIERI,L30004,u266,VOGLER,I do not seek forgiveness.
+amadeus,m16,L29991,L30006,,u266,VOGLER,L30005,u257,OLD SALIERI,"My son, there is something dreadful on your soul. Unburden it to me. I'm here only for you. Please talk to me."
+amadeus,m16,L29991,L30007,,u257,OLD SALIERI,L30006,u266,VOGLER,How well are you trained in music?
+amadeus,m16,L29991,L30008,,u266,VOGLER,L30007,u257,OLD SALIERI,I know a little. I studied it in my youth.
+amadeus,m16,L29991,L30009,,u257,OLD SALIERI,L30008,u266,VOGLER,Where?
+amadeus,m16,L29991,L30010,,u266,VOGLER,L30009,u257,OLD SALIERI,Here in Vienna.
+amadeus,m16,L29991,L30011,,u257,OLD SALIERI,L30010,u266,VOGLER,Then you must know this.
+amadeus,m16,L30012,L30012,,u266,VOGLER,,,,I can't say I do. What is it?
+amadeus,m16,L30012,L30013,,u257,OLD SALIERI,L30012,u266,VOGLER,I'm surprised you don't know. It was a very popular tune in its day. I wrote it. How about this?
+amadeus,m16,L30015,L30015,,u257,OLD SALIERI,,,,Well?
+amadeus,m16,L30015,L30016,,u266,VOGLER,L30015,u257,OLD SALIERI,I regret it is not too familiar.
+amadeus,m16,L30015,L30017,,u257,OLD SALIERI,L30016,u266,VOGLER,Can you recall no melody of mine? I was the most famous composer in Europe when you were still a boy. I wrote forty operas alone. What about this little thing?
+amadeus,m16,L30018,L30018,,u266,VOGLER,,,,"Oh, I know that! That's charming! I didn't know you wrote that."
+amadeus,m16,L30018,L30019,,u257,OLD SALIERI,L30018,u266,VOGLER,I didn't. That was Mozart. Wolfgang Amadeus Mozart. You know who that is?
+amadeus,m16,L30018,L30020,,u266,VOGLER,L30019,u257,OLD SALIERI,Of course. The man you accuse yourself of killing.
+amadeus,m16,L30018,L30021,,u257,OLD SALIERI,L30020,u266,VOGLER,Ah - you've heard that?
+amadeus,m16,L30018,L30022,,u266,VOGLER,L30021,u257,OLD SALIERI,All Vienna has heard that.
+amadeus,m16,L30018,L30023,,u257,OLD SALIERI,L30022,u266,VOGLER,And do they believe it?
+amadeus,m16,L30018,L30024,,u266,VOGLER,L30023,u257,OLD SALIERI,Is it true?
+amadeus,m16,L30018,L30025,,u257,OLD SALIERI,L30024,u266,VOGLER,Do you believe it?
+amadeus,m16,L30018,L30026,,u266,VOGLER,L30025,u257,OLD SALIERI,Should I?
+amadeus,m16,L30028,L30028,,u266,VOGLER,,,,Do you hear me?
+amadeus,m16,L30028,L30029,,u257,OLD SALIERI,L30028,u266,VOGLER,"He was murdered, Father! Mozart! Cruelly murdered."
+amadeus,m16,L30049,L30049,,u247,CONSTANZE,,,,Stop it!
+amadeus,m16,L30049,L30050,,u255,MOZART,L30049,u247,CONSTANZE,"I am! I am! I'm stopping it - slowly. You see! Look, I've stopped. Now we are going back."
+amadeus,m16,L30051,L30051,,u247,CONSTANZE,,,,No! No! No!
+amadeus,m16,L30051,L30052,,u255,MOZART,L30051,u247,CONSTANZE,Yes! Back! Back! Listen - don't you know where you are?
+amadeus,m16,L30051,L30053,,u247,CONSTANZE,L30052,u255,MOZART,Where?
+amadeus,m16,L30051,L30054,,u255,MOZART,L30053,u247,CONSTANZE,We are in the Residence of the Fartsbishop of Salzburg.
+amadeus,m16,L30051,L30055,,u247,CONSTANZE,L30054,u255,MOZART,Fartsbishop!
+amadeus,m16,L30056,L30056,,u247,CONSTANZE,,,,"Your Grace, I've got something to tell you. I want to complain about this man."
+amadeus,m16,L30056,L30057,,u255,MOZART,L30056,u247,CONSTANZE,"Go ahead, tell him. Tell them all. They won't understand you anyway."
+amadeus,m16,L30056,L30058,,u247,CONSTANZE,L30057,u255,MOZART,Why not?
+amadeus,m16,L30056,L30059,,u255,MOZART,L30058,u247,CONSTANZE,"Because here everything goes backwards. People walk backwards, dance backwards, sing backwards, and talk backwards."
+amadeus,m16,L30056,L30060,,u247,CONSTANZE,L30059,u255,MOZART,That's stupid.
+amadeus,m16,L30056,L30061,,u255,MOZART,L30060,u247,CONSTANZE,Why? People fart backwards.
+amadeus,m16,L30056,L30062,,u247,CONSTANZE,L30061,u255,MOZART,Do you think that's funny?
+amadeus,m16,L30056,L30063,,u255,MOZART,L30062,u247,CONSTANZE,"Yes, I think it's brilliant. You've been doing it for years."
+amadeus,m16,L30064,L30064,,u247,CONSTANZE,,,,"Oh, ha, ha, ha."
+amadeus,m16,L30064,L30065,,u255,MOZART,L30064,u247,CONSTANZE,Sra-I'm-sick! Sra-I'm sick!
+amadeus,m16,L30064,L30066,,u247,CONSTANZE,L30065,u255,MOZART,"Yes, you are. You're very sick."
+amadeus,m16,L30064,L30067,,u255,MOZART,L30066,u247,CONSTANZE,"No, no. Say it backwards, shit-wit. Sra-I'm-sick Say it backwards!"
+amadeus,m16,L30064,L30068,,u247,CONSTANZE,L30067,u255,MOZART,Sra-I'm-sick. Sick - kiss I'm - my Kiss my! Sra-I'm-sick - Kiss my arse!
+amadeus,m16,L30064,L30069,,u255,MOZART,L30068,u247,CONSTANZE,Em iram! Em iram!
+amadeus,m16,L30064,L30070,,u247,CONSTANZE,L30069,u255,MOZART,"No, I'm not playing this game."
+amadeus,m16,L30064,L30071,,u255,MOZART,L30070,u247,CONSTANZE,"No, this is serious. Say it backwards."
+amadeus,m16,L30064,L30072,,u247,CONSTANZE,L30071,u255,MOZART,No!
+amadeus,m16,L30064,L30073,,u255,MOZART,L30072,u247,CONSTANZE,Just say it - you'll see. It's very serious. Em iram! Em iram!
+amadeus,m16,L30064,L30074,,u247,CONSTANZE,L30073,u255,MOZART,"Iram - marry Em - marry me! No, no! You're a fiend. I'm not going to marry a fiend. A dirty fiend at that."
+amadeus,m16,L30064,L30075,,u255,MOZART,L30074,u247,CONSTANZE,Ui-vol-i-tub!
+amadeus,m16,L30064,L30076,,u247,CONSTANZE,L30075,u255,MOZART,Tub - but i-tub - but I vol - love but I love ui - You. I love you!
+amadeus,m16,L30077,L30077,,u255,MOZART,,,,Tish-I'm tee. What's that?
+amadeus,m16,L30077,L30078,,u247,CONSTANZE,L30077,u255,MOZART,What?
+amadeus,m16,L30077,L30079,,u255,MOZART,L30078,u247,CONSTANZE,Tish-I'm-tee.
+amadeus,m16,L30077,L30080,,u247,CONSTANZE,L30079,u255,MOZART,Eat
+amadeus,m16,L30077,L30081,,u255,MOZART,L30080,u247,CONSTANZE,Yes.
+amadeus,m16,L30077,L30082,,u247,CONSTANZE,L30081,u255,MOZART,Eat my - ah!
+amadeus,m16,L30085,L30085,,u243,ARCO,,,,"Follow me, please. The Archbishop would like a word."
+amadeus,m16,L30085,L30086,,u255,MOZART,L30085,u243,ARCO,Certainly!
+amadeus,m16,L30087,L30087,,u255,MOZART,,,,"Well, I think that went off remarkably well, don't you?"
+amadeus,m16,L30087,L30088,,u243,ARCO,L30087,u255,MOZART,Indeed.
+amadeus,m16,L30087,L30089,,u255,MOZART,L30088,u243,ARCO,These Viennese certainly know good music when they hear it.
+amadeus,m16,L30087,L30090,,u243,ARCO,L30089,u255,MOZART,His Grace is very angry with you.
+amadeus,m16,L30087,L30091,,u255,MOZART,L30090,u243,ARCO,What do you mean?
+amadeus,m16,L30095,L30095,,u255,MOZART,,,,"Why what, sir?"
+amadeus,m16,L30095,L30096,,u245,COLLOREDO,L30095,u255,MOZART,Why do I have to be humiliated in front of my guests by one of my own servants?
+amadeus,m16,L30095,L30097,,u255,MOZART,L30096,u245,COLLOREDO,Humiliated?
+amadeus,m16,L30095,L30098,,u245,COLLOREDO,L30097,u255,MOZART,"How much provocation am I to endure from you? The more license I allow you, the more you take."
+amadeus,m16,L30099,L30099,,u255,MOZART,,,,"If His Grace is not satisfied with me, he can dismiss me."
+amadeus,m16,L30099,L30100,,u245,COLLOREDO,L30099,u255,MOZART,I wish you to return immediately to Salzburg. Your father is waiting for you there patiently. I will speak to you further when I come.
+amadeus,m16,L30099,L30101,,u255,MOZART,L30100,u245,COLLOREDO,"No, Your Grace! I mean with all humility, no. I would rather you dismissed me. It's obvious I don't satisfy."
+amadeus,m16,L30099,L30102,,u245,COLLOREDO,L30101,u255,MOZART,"Then try harder, Mozart. I have no intention of dismissing you. You will remain in my service and learn your place. Go now."
+amadeus,m16,L30113,L30113,,u251,JOSEPH,,,,"Ah-ha. Well then, we should make some effort to acquire him. We could use a good German composer in Vienna, surely?"
+amadeus,m16,L30113,L30114,,u267,VON STRACK,L30113,u251,JOSEPH,"I agree, Majesty, but I'm afraid it's not possible. The young man is still in the pay of the Archbishop."
+amadeus,m16,L30113,L30115,,u251,JOSEPH,L30114,u267,VON STRACK,"Very small pay, I imagine. I'm sure he could be tempted with the right offer. Say, an opera in German for our National Theatre."
+amadeus,m16,L30118,L30118,,u251,JOSEPH,,,,"Ah-ha. What do you say, Chamberlain?"
+amadeus,m16,L30118,L30119,,u267,VON STRACK,L30118,u251,JOSEPH,"In my opinion, it is time we had a piece in our own language, sir. Plain German. For plain people."
+amadeus,m16,L30123,L30123,,u260,SALIERI,,,,"I think it is an interesting notion to keep Mozart in Vienna, Majesty. It should really infuriate the Archbishop beyond measure - if that is your Majesty's intention."
+amadeus,m16,L30123,L30124,,u251,JOSEPH,L30123,u260,SALIERI,"You are cattivo, Court Composer. I want to meet this young man. Chamberlain, arrange a pleasant welcome for him."
+amadeus,m16,L30125,L30125,,u267,VON STRACK,,,,"Yes, sir."
+amadeus,m16,L30125,L30126,,u251,JOSEPH,L30125,u267,VON STRACK,Well. There it is.
+amadeus,m16,L30128,L30128,,u260,SALIERI,,,,"Ah! Here she comes. Fraulein Lorl, good morning."
+amadeus,m16,L30128,L30129,,u253,LORL,L30128,u260,SALIERI,"Good morning, sir."
+amadeus,m16,L30128,L30130,,u260,SALIERI,L30129,u253,LORL,What have you got for me today? Let me see.
+amadeus,m16,L30131,L30131,,u260,SALIERI,,,,Ah-ha! Siena macaroons - my favourites. Give my best thanks to the baker.
+amadeus,m16,L30131,L30132,,u253,LORL,L30131,u260,SALIERI,"I will, sir."
+amadeus,m16,L30133,L30133,,u260,SALIERI,,,,"Thank you. Are you well today, Fraulein Lorl?"
+amadeus,m16,L30133,L30134,,u253,LORL,L30133,u260,SALIERI,"Yes, thank you, sir."
+amadeus,m16,L30133,L30135,,u260,SALIERI,L30134,u253,LORL,Bene! Bene!
+amadeus,m16,L30142,L30142,,u251,JOSEPH,,,,"Well, what do you have for me today?"
+amadeus,m16,L30142,L30143,,u267,VON STRACK,L30142,u251,JOSEPH,"Your Majesty, Herr Mozart -"
+amadeus,m16,L30142,L30144,,u251,JOSEPH,L30143,u267,VON STRACK,"Yes, what about him?"
+amadeus,m16,L30142,L30145,,u267,VON STRACK,L30144,u251,JOSEPH,He's here.
+amadeus,m16,L30142,L30146,,u251,JOSEPH,L30145,u267,VON STRACK,Ah-ha. Well. There it is. Good.
+amadeus,m16,L30148,L30148,,u251,JOSEPH,,,,What a charming idea. May I see?
+amadeus,m16,L30148,L30149,,u260,SALIERI,L30148,u251,JOSEPH,"It's just a trifle, of course."
+amadeus,m16,L30148,L30150,,u251,JOSEPH,L30149,u260,SALIERI,May I try it?
+amadeus,m16,L30148,L30151,,u260,SALIERI,L30150,u251,JOSEPH,Majesty.
+amadeus,m16,L30152,L30152,,u251,JOSEPH,,,,"Delightful, Court Composer. Would you permit me to play it as he comes in?"
+amadeus,m16,L30152,L30153,,u260,SALIERI,L30152,u251,JOSEPH,"You do me too much honour, Sire."
+amadeus,m16,L30152,L30154,,u251,JOSEPH,L30153,u260,SALIERI,"Let's have some fun. Bring in Herr Mozart, please. But slowly, slowly. I need a minute to practice."
+amadeus,m16,L30155,L30155,,u260,SALIERI,,,,"A-flat, Majesty."
+amadeus,m16,L30155,L30156,,u251,JOSEPH,L30155,u260,SALIERI,Ah-ha!
+amadeus,m16,L30158,L30158,,u258,ORSINI-ROSENBERG,,,,"Bravo, Your Majesty!"
+amadeus,m16,L30158,L30159,,u267,VON STRACK,L30158,u258,ORSINI-ROSENBERG,"Well done, Sire!"
+amadeus,m16,L30161,L30161,,u255,MOZART,,,,Your Majesty!
+amadeus,m16,L30161,L30162,,u251,JOSEPH,L30161,u255,MOZART,"No, no, please! It is not a holy relic. You know we have met already? In this very room. Perhaps you won't remember it, you were only six years old. He was giving the most brilliant little concert here. As he got off the stool, he slipped and fell. My sister Antoinette helped him up herself, and do you know what he did? Jumped straight into her arms and said, Will you marry me, yes or no?"
+amadeus,m16,L30166,L30166,,u255,MOZART,,,,"Oh, thank you."
+amadeus,m16,L30166,L30167,,u251,JOSEPH,L30166,u255,MOZART,The Director of our Opera. Count Orsini-Rosenberg.
+amadeus,m16,L30166,L30168,,u255,MOZART,L30167,u251,JOSEPH,"Oh sir, yes! The honour is mine. Absolutely."
+amadeus,m16,L30169,L30169,,u251,JOSEPH,,,,"And here is our illustrious Court Composer, Herr Salieri."
+amadeus,m16,L30169,L30170,,u260,SALIERI,L30169,u251,JOSEPH,Finally! Such an immense joy. Diletto straordinario!
+amadeus,m16,L30171,L30171,,u255,MOZART,,,,"I know your work well, Signore. Do you know I actually composed some variations on a melody of yours?"
+amadeus,m16,L30171,L30172,,u260,SALIERI,L30171,u255,MOZART,Really?
+amadeus,m16,L30171,L30173,,u255,MOZART,L30172,u260,SALIERI,Mio caro Adone.
+amadeus,m16,L30171,L30174,,u260,SALIERI,L30173,u255,MOZART,Ah!
+amadeus,m16,L30171,L30175,,u255,MOZART,L30174,u260,SALIERI,"A funny little tune, but it yielded some good things."
+amadeus,m16,L30176,L30176,,u251,JOSEPH,,,,And now he has returned the compliment. Herr Salieri composed that March of Welcome for you.
+amadeus,m16,L30176,L30177,,u255,MOZART,L30176,u251,JOSEPH,"Really? Oh, grazie, Signore! Sono commosso! E un onore per mo eccezionale. Compositore brilliante e famossissimo!"
+amadeus,m16,L30178,L30178,,u260,SALIERI,,,,My pleasure.
+amadeus,m16,L30178,L30179,,u251,JOSEPH,L30178,u260,SALIERI,"Well, there it is. Now to business. Young man, we are going to commission an opera from you. What do you say?"
+amadeus,m16,L30180,L30180,,u255,MOZART,,,,Majesty!
+amadeus,m16,L30180,L30181,,u251,JOSEPH,L30180,u255,MOZART,Did we vote in the end for German or Italian?
+amadeus,m16,L30182,L30182,,u258,ORSINI-ROSENBERG,,,,"Well, actually, Sire, if you remember, we did finally incline to Italian."
+amadeus,m16,L30182,L30183,,u267,VON STRACK,L30182,u258,ORSINI-ROSENBERG,Did we?
+amadeus,m16,L30184,L30184,,u268,VON SWIETEN,,,,"I don't think it was really decided, Director."
+amadeus,m16,L30184,L30185,,u255,MOZART,L30184,u268,VON SWIETEN,"Oh, German! German! Please let it be German."
+amadeus,m16,L30186,L30186,,u251,JOSEPH,,,,Why so?
+amadeus,m16,L30186,L30187,,u255,MOZART,L30186,u251,JOSEPH,Because I've already found the most wonderful libretto!
+amadeus,m16,L30188,L30188,,u258,ORSINI-ROSENBERG,,,,Oh? Have I seen it?
+amadeus,m16,L30188,L30189,,u255,MOZART,L30188,u258,ORSINI-ROSENBERG,"I - I don't think you have, Herr Director. Not yet. I mean, it's quite n - Of course, I'll show it to you immediately."
+amadeus,m16,L30188,L30190,,u258,ORSINI-ROSENBERG,L30189,u255,MOZART,I think you'd better.
+amadeus,m16,L30191,L30191,,u251,JOSEPH,,,,"Well, what is it about? Tell us the story."
+amadeus,m16,L30191,L30192,,u255,MOZART,L30191,u251,JOSEPH,"It's actually quite amusing, Majesty. It's set - the whole thing is set in a - in a -"
+amadeus,m16,L30193,L30193,,u251,JOSEPH,,,,"Yes, where?"
+amadeus,m16,L30193,L30194,,u255,MOZART,L30193,u251,JOSEPH,"In a Pasha's Harem, Majesty. A Seraglio."
+amadeus,m16,L30193,L30195,,u251,JOSEPH,L30194,u255,MOZART,Ah-ha.
+amadeus,m16,L30196,L30196,,u258,ORSINI-ROSENBERG,,,,You mean in Turkey?
+amadeus,m16,L30196,L30197,,u255,MOZART,L30196,u258,ORSINI-ROSENBERG,Exactly.
+amadeus,m16,L30196,L30198,,u258,ORSINI-ROSENBERG,L30197,u255,MOZART,Then why especially does it have to be in German?
+amadeus,m16,L30196,L30199,,u255,MOZART,L30198,u258,ORSINI-ROSENBERG,"Well not especially. It can be in Turkish, if you really want. I don't care."
+amadeus,m16,L30200,L30200,,u268,VON SWIETEN,,,,"My dear fellow, the language is not finally the point. Do you really think that subject is quite appropriate for a national theatre?"
+amadeus,m16,L30200,L30201,,u255,MOZART,L30200,u268,VON SWIETEN,"Why not? It's charming. I mean, I don't actually show concubines exposing their! their! It's not indecent! It's highly moral, Majesty. It's full of proper German virtues. I swear it. Absolutely!"
+amadeus,m16,L30202,L30202,,u251,JOSEPH,,,,"Well, I'm glad to hear that."
+amadeus,m16,L30202,L30203,,u260,SALIERI,L30202,u251,JOSEPH,"Excuse me, Sire, but what do you think these could be? Being a foreigner, I would love to learn."
+amadeus,m16,L30202,L30204,,u251,JOSEPH,L30203,u260,SALIERI,"Cattivo again, Court Composer. Well, tell him, Mozart. Name us a German virtue."
+amadeus,m16,L30205,L30205,,u255,MOZART,,,,"Love, Sire!"
+amadeus,m16,L30205,L30206,,u260,SALIERI,L30205,u255,MOZART,"Ah, love! Well of course in Italy we know nothing about that."
+amadeus,m16,L30211,L30211,,u255,MOZART,,,,"Keep it, Sire, if you want to. It is already here in my head."
+amadeus,m16,L30211,L30212,,u251,JOSEPH,L30211,u255,MOZART,What? On one hearing only?
+amadeus,m16,L30211,L30213,,u255,MOZART,L30212,u251,JOSEPH,"I think so, Sire, yes."
+amadeus,m16,L30221,L30221,,u253,LORL,,,,"Madame Cavalieri is here for her lesson, sir."
+amadeus,m16,L30221,L30222,,u260,SALIERI,L30221,u253,LORL,Bene.
+amadeus,m16,L30223,L30223,,u244,CAVALIERI,,,,Maestro.
+amadeus,m16,L30223,L30224,,u260,SALIERI,L30223,u244,CAVALIERI,Good morning.
+amadeus,m16,L30223,L30225,,u244,CAVALIERI,L30224,u260,SALIERI,Well? How do you like it? It's Turkish. My hairdresser tells me everything's going to be Turkish this year!
+amadeus,m16,L30223,L30226,,u260,SALIERI,L30225,u244,CAVALIERI,Really? What else did he tell you today? Give me some gossip.
+amadeus,m16,L30223,L30227,,u244,CAVALIERI,L30226,u260,SALIERI,"Well, I heard you met Herr Mozart."
+amadeus,m16,L30223,L30228,,u260,SALIERI,L30227,u244,CAVALIERI,Oh? News travels fast in Vienna.
+amadeus,m16,L30223,L30229,,u244,CAVALIERI,L30228,u260,SALIERI,And he's been commissioned to write an opera. Is it true?
+amadeus,m16,L30223,L30230,,u260,SALIERI,L30229,u244,CAVALIERI,Yes.
+amadeus,m16,L30223,L30231,,u244,CAVALIERI,L30230,u260,SALIERI,Is there a part for me?
+amadeus,m16,L30223,L30232,,u260,SALIERI,L30231,u244,CAVALIERI,No.
+amadeus,m16,L30223,L30233,,u244,CAVALIERI,L30232,u260,SALIERI,How do you know?
+amadeus,m16,L30223,L30234,,u260,SALIERI,L30233,u244,CAVALIERI,"Well even if there is, I don't think you want to get involved with this one."
+amadeus,m16,L30223,L30235,,u244,CAVALIERI,L30234,u260,SALIERI,Why not?
+amadeus,m16,L30223,L30236,,u260,SALIERI,L30235,u244,CAVALIERI,"Well, do you know where it's set, my dear?"
+amadeus,m16,L30223,L30237,,u244,CAVALIERI,L30236,u260,SALIERI,Where?
+amadeus,m16,L30223,L30238,,u260,SALIERI,L30237,u244,CAVALIERI,In a harem.
+amadeus,m16,L30223,L30239,,u244,CAVALIERI,L30238,u260,SALIERI,What's that?
+amadeus,m16,L30223,L30240,,u260,SALIERI,L30239,u244,CAVALIERI,A brothel.
+amadeus,m16,L30223,L30241,,u244,CAVALIERI,L30240,u260,SALIERI,Oh!
+amadeus,m16,L30223,L30242,,u260,SALIERI,L30241,u244,CAVALIERI,A Turkish brothel.
+amadeus,m16,L30223,L30243,,u244,CAVALIERI,L30242,u260,SALIERI,"Turkish? Oh, if it's Turkish, that's different. I want to be in it."
+amadeus,m16,L30223,L30244,,u260,SALIERI,L30243,u244,CAVALIERI,"My dear, it will hardly enhance your reputation to be celebrated throughout Vienna as a singing prostitute for a Turk."
+amadeus,m16,L30245,L30245,,u244,CAVALIERI,,,,Oh. Well perhaps you could introduce us anyway.
+amadeus,m16,L30245,L30246,,u260,SALIERI,L30245,u244,CAVALIERI,Perhaps.
+amadeus,m16,L30247,L30247,,u244,CAVALIERI,,,,What does he look like?
+amadeus,m16,L30247,L30248,,u260,SALIERI,L30247,u244,CAVALIERI,You might be disappointed.
+amadeus,m16,L30247,L30249,,u244,CAVALIERI,L30248,u260,SALIERI,Why?
+amadeus,m16,L30247,L30250,,u260,SALIERI,L30249,u244,CAVALIERI,"Looks and talent don't always go together, Katherina."
+amadeus,m16,L30247,L30251,,u244,CAVALIERI,L30250,u260,SALIERI,"Looks don't concern me, Maestro. Only talent interests a woman of taste."
+amadeus,m16,L30260,L30260,,u254,MADAME WEBER,,,,"Let us pass, please! Let us pass at once! We're with the Emperor."
+amadeus,m16,L30260,L30261,,u249,FLUNKY,L30260,u254,MADAME WEBER,"I am sorry, Madame. It is not permitted."
+amadeus,m16,L30260,L30262,,u254,MADAME WEBER,L30261,u249,FLUNKY,Do you know who I am? This is my daughter. I am Frau Weber. We are favoured guests!
+amadeus,m16,L30260,L30263,,u249,FLUNKY,L30262,u254,MADAME WEBER,"I am sorry, Madame, but I have my orders."
+amadeus,m16,L30260,L30264,,u254,MADAME WEBER,L30263,u249,FLUNKY,Call Herr Mozart! You call Herr Mozart immediately! This is insupportable!
+amadeus,m16,L30267,L30267,,u249,FLUNKY,,,,"I am sorry, Madame, but no! I cannot let anyone pass."
+amadeus,m16,L30267,L30268,,u254,MADAME WEBER,L30267,u249,FLUNKY,"Young man, I am no stranger to theatres. I'm no stranger to insolence!"
+amadeus,m16,L30270,L30270,,u255,MOZART,,,,"It is new, it is, isn't it, Sire?"
+amadeus,m16,L30270,L30271,,u251,JOSEPH,L30270,u255,MOZART,"Yes, indeed."
+amadeus,m16,L30270,L30272,,u255,MOZART,L30271,u251,JOSEPH,And German?
+amadeus,m16,L30270,L30273,,u251,JOSEPH,L30272,u255,MOZART,"Oh, yes. Absolutely. German. Unquestionably!"
+amadeus,m16,L30270,L30274,,u255,MOZART,L30273,u251,JOSEPH,"So then you like it? You really like it, Your Majesty?"
+amadeus,m16,L30270,L30275,,u251,JOSEPH,L30274,u255,MOZART,Of course I do. It's very good. Of course now and then - just now and then - it gets a touch elaborate.
+amadeus,m16,L30270,L30276,,u255,MOZART,L30275,u251,JOSEPH,"What do you mean, Sire?"
+amadeus,m16,L30270,L30277,,u251,JOSEPH,L30276,u255,MOZART,"Well, I mean occasionally it seems to have, how shall one say? How shall one say, Director?"
+amadeus,m16,L30280,L30280,,u255,MOZART,,,,"I don't understand. There are just as many notes, Majesty, as are required. Neither more nor less."
+amadeus,m16,L30280,L30281,,u251,JOSEPH,L30280,u255,MOZART,"My dear fellow, there are in fact only so many notes the ear can hear in the course of an evening. I think I'm right in saying that, aren't I, Court Composer?"
+amadeus,m16,L30282,L30282,,u260,SALIERI,,,,"Yes! yes! er, on the whole, yes, Majesty."
+amadeus,m16,L30282,L30283,,u255,MOZART,L30282,u260,SALIERI,But this is absurd!
+amadeus,m16,L30284,L30284,,u251,JOSEPH,,,,"My dear, young man, don't take it too hard. Your work is ingenious. It's quality work. And there are simply too many notes, that's all. Cut a few and it will be perfect."
+amadeus,m16,L30284,L30285,,u255,MOZART,L30284,u251,JOSEPH,"Which few did you have in mind, Majesty?"
+amadeus,m16,L30289,L30289,,u255,MOZART,,,,"Majesty, this is Madame Weber. She is my landlady."
+amadeus,m16,L30289,L30290,,u251,JOSEPH,L30289,u255,MOZART,"Enchanted, Madame."
+amadeus,m16,L30292,L30292,,u251,JOSEPH,,,,Really? How delightful. May I ask when you marry?
+amadeus,m16,L30292,L30293,,u255,MOZART,L30292,u251,JOSEPH,"Well - Well we haven't quite received my father's consent, Your Majesty. Not entirely. Not altogether."
+amadeus,m16,L30294,L30294,,u251,JOSEPH,,,,"Excuse me, but how old are you?"
+amadeus,m16,L30294,L30295,,u255,MOZART,L30294,u251,JOSEPH,Twenty-six.
+amadeus,m16,L30294,L30296,,u251,JOSEPH,L30295,u255,MOZART,"Well, my advice is to marry this charming young lady and stay with us in Vienna."
+amadeus,m16,L30301,L30301,,u255,MOZART,,,,Katherina! I'll tell you what I'm going to do. I'm going to write another aria for you. Something even more amazing for the second act. I have to get some water. Her mother is lying on the stage.
+amadeus,m16,L30301,L30302,,u244,CAVALIERI,L30301,u255,MOZART,Don't bother!
+amadeus,m16,L30301,L30303,,u255,MOZART,L30302,u244,CAVALIERI,What?
+amadeus,m16,L30301,L30304,,u244,CAVALIERI,L30303,u255,MOZART,Don't bother.
+amadeus,m16,L30301,L30305,,u255,MOZART,L30304,u244,CAVALIERI,I'll be right back.
+amadeus,m16,L30312,L30312,,u244,CAVALIERI,,,,Did you know? Had you heard?
+amadeus,m16,L30312,L30313,,u260,SALIERI,L30312,u244,CAVALIERI,What?
+amadeus,m16,L30312,L30314,,u244,CAVALIERI,L30313,u260,SALIERI,The marriage!
+amadeus,m16,L30312,L30315,,u260,SALIERI,L30314,u244,CAVALIERI,"Well, what does it matter to you?"
+amadeus,m16,L30312,L30316,,u244,CAVALIERI,L30315,u260,SALIERI,Nothing! He can marry who he pleases. I don't give a damn.
+amadeus,m16,L30317,L30317,,u244,CAVALIERI,,,,How was I? Tell me honestly.
+amadeus,m16,L30317,L30318,,u260,SALIERI,L30317,u244,CAVALIERI,You were sublime.
+amadeus,m16,L30317,L30319,,u244,CAVALIERI,L30318,u260,SALIERI,What did you think of the music?
+amadeus,m16,L30317,L30320,,u260,SALIERI,L30319,u244,CAVALIERI,Extremely clever.
+amadeus,m16,L30317,L30321,,u244,CAVALIERI,L30320,u260,SALIERI,Meaning you didn't like it.
+amadeus,m16,L30322,L30322,,u255,MOZART,,,,Oh - excuse me!
+amadeus,m16,L30322,L30323,,u244,CAVALIERI,L30322,u255,MOZART,Is her mother still lying on the floor?
+amadeus,m16,L30322,L30324,,u255,MOZART,L30323,u244,CAVALIERI,"No, she's fine."
+amadeus,m16,L30322,L30325,,u244,CAVALIERI,L30324,u255,MOZART,I'm so relieved.
+amadeus,m16,L30326,L30326,,u260,SALIERI,,,,"Dear Mozart, my sincere congratulations."
+amadeus,m16,L30326,L30327,,u255,MOZART,L30326,u260,SALIERI,"Did you like it, then?"
+amadeus,m16,L30326,L30328,,u260,SALIERI,L30327,u255,MOZART,How could I not?
+amadeus,m16,L30326,L30329,,u255,MOZART,L30328,u260,SALIERI,It really is the best music one can hear in Vienna today. Don't you agree?
+amadeus,m16,L30330,L30330,,u244,CAVALIERI,,,,Is she a good fuck?
+amadeus,m16,L30330,L30331,,u255,MOZART,L30330,u244,CAVALIERI,What??
+amadeus,m16,L30330,L30332,,u244,CAVALIERI,L30331,u255,MOZART,I assume she's the virtuoso in that department. There can't be any other reason you'd marry someone like that.
+amadeus,m16,L30334,L30334,,u247,CONSTANZE,,,,"Excuse me, Wolfi. Mama is not feeling very well. Can we leave now?"
+amadeus,m16,L30334,L30335,,u255,MOZART,L30334,u247,CONSTANZE,Of course.
+amadeus,m16,L30336,L30336,,u244,CAVALIERI,,,,"No, no, no, no. You can't take him away now. This is his night. Won't you introduce us, Wolfgang?"
+amadeus,m16,L30336,L30337,,u255,MOZART,L30336,u244,CAVALIERI,"Excuse us, Fraulein. Good night, Signore."
+amadeus,m16,L30340,L30340,,u257,OLD SALIERI,,,,"It was incomprehensible. What was God up to? Here I was denying all my natural lust in order to deserve God's gift and there was Mozart indulging his in all directions - even though engaged to be married! - and no rebuke at all! Was it possible I was being tested? Was God expecting me to offer forgiveness in the face of every offense, no matter how painful? That was very possible. All the same, why him? Why use Mozart to teach me lessons in humility? My heart was filling up with such hatred for that little man. For the first time in my life I began to know really violent thoughts. I couldn't stop them."
+amadeus,m16,L30340,L30341,,u266,VOGLER,L30340,u257,OLD SALIERI,Did you try?
+amadeus,m16,L30340,L30342,,u257,OLD SALIERI,L30341,u266,VOGLER,Every day. Sometimes for hours I would pray!
+amadeus,m16,L30345,L30345,,u245,COLLOREDO,,,,No! I won't have him back.
+amadeus,m16,L30345,L30346,,u252,LEOPOLD,L30345,u245,COLLOREDO,"But he needs to be here in Salzburg, Your Grace. He needs me and he needs you. Your protection, your understanding."
+amadeus,m16,L30345,L30347,,u245,COLLOREDO,L30346,u252,LEOPOLD,Hardly.
+amadeus,m16,L30345,L30348,,u252,LEOPOLD,L30347,u245,COLLOREDO,"Oh sir, yes! He's about to make the worst mistake of his life. Some little Viennese slut is trying to trick him into marriage. I know my son. He is too simple to see the trap - and there is no one there who really cares for him."
+amadeus,m16,L30345,L30349,,u245,COLLOREDO,L30348,u252,LEOPOLD,I'm not surprised. Money seems to be more important to him than loyalty or friendship. He has sold himself to Vienna. Let Vienna look out for him.
+amadeus,m16,L30345,L30350,,u252,LEOPOLD,L30349,u245,COLLOREDO,Sir -
+amadeus,m16,L30345,L30351,,u245,COLLOREDO,L30350,u252,LEOPOLD,"Your son is an unprincipled, spoiled, conceited brat."
+amadeus,m16,L30345,L30352,,u252,LEOPOLD,L30351,u245,COLLOREDO,"Yes, sir, that's the truth. But don't blame him. The fault is mine. I was too indulgent with him. But not again. Never again, I promise! I implore you - let me bring him back here. I'll make him give his word to serve you faithfully."
+amadeus,m16,L30345,L30353,,u245,COLLOREDO,L30352,u252,LEOPOLD,And how will you make him keep it?
+amadeus,m16,L30345,L30354,,u252,LEOPOLD,L30353,u245,COLLOREDO,"Oh, sir, he's never disobeyed me in anything. Please, Your Grace, give him one more chance."
+amadeus,m16,L30345,L30355,,u245,COLLOREDO,L30354,u252,LEOPOLD,You have leave to try.
+amadeus,m16,L30345,L30356,,u252,LEOPOLD,L30355,u245,COLLOREDO,"Oh, Your Grace - I thank Your Grace! I thank you!"
+amadeus,m16,L30358,L30358,,u252,LEOPOLD,,,,"I write to you with urgent news. I am coming to Vienna. Take no further steps toward marriage until we meet. You are too gullible to see your own danger. As you honour the father who has devoted his entire life to yours, do as I bid, and await my coming."
+amadeus,m16,L30358,L30359,,u255,MOZART,L30358,u252,LEOPOLD,I will.
+amadeus,m16,L30364,L30364,,u251,JOSEPH,,,,"Good morning, Court Composer. This is my niece, the Princess Elizabeth."
+amadeus,m16,L30364,L30365,,u260,SALIERI,L30364,u251,JOSEPH,Your Highness.
+amadeus,m16,L30367,L30367,,u260,SALIERI,,,,"Oh, Your Majesty, it would be such a tremendous honour!"
+amadeus,m16,L30367,L30368,,u251,JOSEPH,L30367,u260,SALIERI,I'm thinking about Herr Mozart. What is your view?
+amadeus,m16,L30369,L30369,,u260,SALIERI,,,,"An interesting idea, Majesty. But -"
+amadeus,m16,L30369,L30370,,u251,JOSEPH,L30369,u260,SALIERI,Yes?
+amadeus,m16,L30369,L30371,,u260,SALIERI,L30370,u251,JOSEPH,You already commissioned an opera from Mozart.
+amadeus,m16,L30369,L30372,,u251,JOSEPH,L30371,u260,SALIERI,And the result satisfies.
+amadeus,m16,L30369,L30373,,u260,SALIERI,L30372,u251,JOSEPH,"Yes, of course. My concern is to protect you from any suspicion of favouritism."
+amadeus,m16,L30369,L30374,,u251,JOSEPH,L30373,u260,SALIERI,Ah-ha. Favouritism. But I so want Mozart.
+amadeus,m16,L30369,L30375,,u260,SALIERI,L30374,u251,JOSEPH,"I'm sure there is a way, Majesty. Some kind of a little contest. I could perhaps put together a small Committee, and I could see to it naturally that it will select according to Your Majesty's wishes."
+amadeus,m16,L30369,L30376,,u251,JOSEPH,L30375,u260,SALIERI,"You please me, Court Composer. A very clever idea."
+amadeus,m16,L30369,L30377,,u260,SALIERI,L30376,u251,JOSEPH,Sire.
+amadeus,m16,L30369,L30378,,u251,JOSEPH,L30377,u260,SALIERI,Well. There it is.
+amadeus,m16,L30379,L30379,,u255,MOZART,,,,"What is this, Herr Chamberlain?"
+amadeus,m16,L30379,L30380,,u267,VON STRACK,L30379,u255,MOZART,What is what?
+amadeus,m16,L30379,L30381,,u255,MOZART,L30380,u267,VON STRACK,Why do I have to submit samples of my work to some stupid committee? Just to teach a sixteen-year-old girl.
+amadeus,m16,L30379,L30382,,u267,VON STRACK,L30381,u255,MOZART,Because His Majesty wishes it.
+amadeus,m16,L30379,L30383,,u255,MOZART,L30382,u267,VON STRACK,Is the Emperor angry with me?
+amadeus,m16,L30379,L30384,,u267,VON STRACK,L30383,u255,MOZART,On the contrary.
+amadeus,m16,L30379,L30385,,u255,MOZART,L30384,u267,VON STRACK,Then why doesn't he simply appoint me to the post?
+amadeus,m16,L30379,L30386,,u267,VON STRACK,L30385,u255,MOZART,"Mozart, you are not the only composer in Vienna."
+amadeus,m16,L30379,L30387,,u255,MOZART,L30386,u267,VON STRACK,"No, but I'm the best."
+amadeus,m16,L30379,L30388,,u267,VON STRACK,L30387,u255,MOZART,A little modesty would suit you better.
+amadeus,m16,L30379,L30389,,u255,MOZART,L30388,u267,VON STRACK,Who is on this committee?
+amadeus,m16,L30379,L30390,,u267,VON STRACK,L30389,u255,MOZART,"Kapellmeister Bonno, Count Orsini- Rosenberg and Court Composer Salieri."
+amadeus,m16,L30379,L30391,,u255,MOZART,L30390,u267,VON STRACK,"Naturally, the Italians! Of course! Always the Italians!"
+amadeus,m16,L30379,L30392,,u267,VON STRACK,L30391,u255,MOZART,Mozart -
+amadeus,m16,L30379,L30393,,u255,MOZART,L30392,u267,VON STRACK,"They hate my music. It terrifies them. The only sound Italians understand is banality. Tonic and dominant, tonic and dominant, from here to Resurrection! Ba-ba! Ba-ba! Ba-ba! Ba-ba! Anything else is morbid."
+amadeus,m16,L30379,L30394,,u267,VON STRACK,L30393,u255,MOZART,Mozart -
+amadeus,m16,L30379,L30395,,u255,MOZART,L30394,u267,VON STRACK,Show them one interesting modulation and they faint. Ohime! Morbidezza! Morbidezza! Italians are musical idiots and you want them to judge my music!
+amadeus,m16,L30379,L30396,,u267,VON STRACK,L30395,u255,MOZART,"Look, young man, the issue is simple. If you want this post, you must submit your stuff in the same way as all your colleagues."
+amadeus,m16,L30379,L30397,,u255,MOZART,L30396,u267,VON STRACK,"Must I? Well, I won't! I tell you straight: I will not!"
+amadeus,m16,L30398,L30398,,u247,CONSTANZE,,,,I think you're mad! You're really mad!
+amadeus,m16,L30398,L30399,,u255,MOZART,L30398,u247,CONSTANZE,"Oh, leave me alone."
+amadeus,m16,L30398,L30400,,u247,CONSTANZE,L30399,u255,MOZART,One royal pupil and the whole of Vienna will come flocking. We'd be set up for life!
+amadeus,m16,L30398,L30401,,u255,MOZART,L30400,u247,CONSTANZE,They'll come anyway. They love me here.
+amadeus,m16,L30398,L30402,,u247,CONSTANZE,L30401,u255,MOZART,"No, they will not. I know how things work in this city."
+amadeus,m16,L30398,L30403,,u255,MOZART,L30402,u247,CONSTANZE,Oh yes? You always know everything.
+amadeus,m16,L30398,L30404,,u247,CONSTANZE,L30403,u255,MOZART,"Well, I'm not borrowing any more money from my mother, and that's that!"
+amadeus,m16,L30398,L30405,,u255,MOZART,L30404,u247,CONSTANZE,You borrowed money from your mother?
+amadeus,m16,L30398,L30406,,u247,CONSTANZE,L30405,u255,MOZART,Yes!
+amadeus,m16,L30398,L30407,,u255,MOZART,L30406,u247,CONSTANZE,"Well, don't do that again!"
+amadeus,m16,L30398,L30408,,u247,CONSTANZE,L30407,u255,MOZART,"How are we going to live, Wolfi? Do you want me to go into the streets and beg?"
+amadeus,m16,L30398,L30409,,u255,MOZART,L30408,u247,CONSTANZE,Don't be stupid.
+amadeus,m16,L30398,L30410,,u247,CONSTANZE,L30409,u255,MOZART,All they want to see is your work. What's wrong with that?
+amadeus,m16,L30398,L30411,,u255,MOZART,L30410,u247,CONSTANZE,Shut up! Just shut up! I don't need them.
+amadeus,m16,L30398,L30412,,u247,CONSTANZE,L30411,u255,MOZART,This isn't pride. It's sheer stupidity!
+amadeus,m16,L30414,L30414,,u264,SERVANT,,,,"Excuse me, sir, there is a lady who insists on talking to you."
+amadeus,m16,L30414,L30415,,u260,SALIERI,L30414,u264,SERVANT,Who is she?
+amadeus,m16,L30414,L30416,,u264,SERVANT,L30415,u260,SALIERI,She didn't say. But she says it's urgent.
+amadeus,m16,L30414,L30417,,u260,SALIERI,L30416,u264,SERVANT,"Excuse me, my dear."
+amadeus,m16,L30418,L30418,,u247,CONSTANZE,,,,Excellency!
+amadeus,m16,L30418,L30419,,u260,SALIERI,L30418,u247,CONSTANZE,Madame. How can I help you?
+amadeus,m16,L30420,L30420,,u260,SALIERI,,,,Frau Mozart?
+amadeus,m16,L30420,L30421,,u247,CONSTANZE,L30420,u260,SALIERI,"That's right, Your Excellency. I've come on behalf of my hus band. I'm - I'm bringing some samples of his work so he can be considered for the royal appointment."
+amadeus,m16,L30420,L30422,,u260,SALIERI,L30421,u247,CONSTANZE,How charming. But why did he not come himself?
+amadeus,m16,L30420,L30423,,u247,CONSTANZE,L30422,u260,SALIERI,"He's terribly busy, sir."
+amadeus,m16,L30420,L30424,,u260,SALIERI,L30423,u247,CONSTANZE,I understand.
+amadeus,m16,L30425,L30425,,u260,SALIERI,,,,"I will look at them, of course, the moment I can. It will be an honour. Please give him my warmest."
+amadeus,m16,L30425,L30426,,u247,CONSTANZE,L30425,u260,SALIERI,"Would it be too much trouble, sir, to ask you to look at them now? While I wait."
+amadeus,m16,L30425,L30427,,u260,SALIERI,L30426,u247,CONSTANZE,I'm afraid I'm not at leisure this very moment. Just leave them with me. I assure you they will be quite safe.
+amadeus,m16,L30425,L30428,,u247,CONSTANZE,L30427,u260,SALIERI,"I - I really cannot do that, Your Excellency. You see, he doesn't know I'm here."
+amadeus,m16,L30425,L30429,,u260,SALIERI,L30428,u247,CONSTANZE,Really?
+amadeus,m16,L30425,L30430,,u247,CONSTANZE,L30429,u260,SALIERI,"My husband is a proud man, sir. He would be furious if he knew I'd come."
+amadeus,m16,L30425,L30431,,u260,SALIERI,L30430,u247,CONSTANZE,Then he didn't send you?
+amadeus,m16,L30425,L30432,,u247,CONSTANZE,L30431,u260,SALIERI,"No, sir. This is my own idea."
+amadeus,m16,L30425,L30433,,u260,SALIERI,L30432,u247,CONSTANZE,I see.
+amadeus,m16,L30425,L30434,,u247,CONSTANZE,L30433,u260,SALIERI,"Sir, we really need this job. We're desperate. My husband spends far more than he can ever earn. I don't mean he's lazy - he's not at all - he works all day long. It's just! he's not practical. Money simply slips through his fingers, it's really ridiculous, Your Excellency. I know you help musicians. You're famous for it. Give him just this one post. We'd be forever indebted!"
+amadeus,m16,L30438,L30438,,u247,CONSTANZE,,,,"Thank you very much, Your Excellency."
+amadeus,m16,L30438,L30439,,u260,SALIERI,L30438,u247,CONSTANZE,"Don't keep calling me that. It puts me at such a distance. I was not born a Court Composer, you know. I'm from a small town, just like your husband."
+amadeus,m16,L30440,L30440,,u260,SALIERI,,,,"Are you sure you can't leave that music, and come back again? I have other things you might like."
+amadeus,m16,L30440,L30441,,u247,CONSTANZE,L30440,u260,SALIERI,"That's very tempting, but it's impossible, I'm afraid. Wolfi would be frantic if he found those were missing. You see, they're all originals."
+amadeus,m16,L30440,L30442,,u260,SALIERI,L30441,u247,CONSTANZE,Originals?
+amadeus,m16,L30440,L30443,,u247,CONSTANZE,L30442,u260,SALIERI,Yes.
+amadeus,m16,L30444,L30444,,u260,SALIERI,,,,These are originals?
+amadeus,m16,L30444,L30445,,u247,CONSTANZE,L30444,u260,SALIERI,"Yes, sir. He doesn't make copies."
+amadeus,m16,L30450,L30450,,u260,SALIERI,,,,It is miraculous.
+amadeus,m16,L30450,L30451,,u247,CONSTANZE,L30450,u260,SALIERI,Oh yes. He's really proud of his work.
+amadeus,m16,L30453,L30453,,u260,SALIERI,,,,Tomorrow night I dine with the Emperor. One word from me and the post is his.
+amadeus,m16,L30453,L30454,,u247,CONSTANZE,L30453,u260,SALIERI,"Oh, thank you, sir!"
+amadeus,m16,L30455,L30455,,u260,SALIERI,,,,Come back tonight.
+amadeus,m16,L30455,L30456,,u247,CONSTANZE,L30455,u260,SALIERI,Tonight?
+amadeus,m16,L30455,L30457,,u260,SALIERI,L30456,u247,CONSTANZE,Alone.
+amadeus,m16,L30455,L30458,,u247,CONSTANZE,L30457,u260,SALIERI,What for?
+amadeus,m16,L30455,L30459,,u260,SALIERI,L30458,u247,CONSTANZE,Some service deserves service in return. No?
+amadeus,m16,L30455,L30460,,u247,CONSTANZE,L30459,u260,SALIERI,What do you mean?
+amadeus,m16,L30455,L30461,,u260,SALIERI,L30460,u247,CONSTANZE,Isn't it obvious?
+amadeus,m16,L30462,L30462,,u260,SALIERI,,,,"It's a post all Vienna seeks. If you want it for your husband, come tonight."
+amadeus,m16,L30462,L30463,,u247,CONSTANZE,L30462,u260,SALIERI,But! I'm a married woman!
+amadeus,m16,L30462,L30464,,u260,SALIERI,L30463,u247,CONSTANZE,"Then don't. It's up to you. Not to be vague, that is the price."
+amadeus,m16,L30466,L30466,,u257,OLD SALIERI,,,,"Yes, Father. Yes! So much for my vow of chastity. What did it matter? Good, patient, hard-working, chaste - what did it matter? Had goodness made me a good composer? I realized it absolutely then - that moment: goodness is nothing in the furnace of art. And I was nothing to God."
+amadeus,m16,L30466,L30467,,u266,VOGLER,L30466,u257,OLD SALIERI,You cannot say that!
+amadeus,m16,L30466,L30468,,u257,OLD SALIERI,L30467,u266,VOGLER,No? Was Mozart a good man?
+amadeus,m16,L30466,L30469,,u266,VOGLER,L30468,u257,OLD SALIERI,God's ways are not yours. And you are not here to question Him. Offer him the salt of penitence. He will give you back the bread of eternal life. He is all merciful. That is all you need to know.
+amadeus,m16,L30466,L30470,,u257,OLD SALIERI,L30469,u266,VOGLER,"All I ever wanted was to sing to Him. That's His doing, isn't it? He gave me that longing - then made me mute. Why? Tell me that. If He didn't want me to serve Him with music, why implant the desire, like a lust in my body, then deny me the talent? Go on, tell me! Speak for Him!"
+amadeus,m16,L30466,L30471,,u266,VOGLER,L30470,u257,OLD SALIERI,"My son, no one can speak for God."
+amadeus,m16,L30466,L30472,,u257,OLD SALIERI,L30471,u266,VOGLER,Oh? I thought you did so every day. So speak now. Answer me!
+amadeus,m16,L30466,L30473,,u266,VOGLER,L30472,u257,OLD SALIERI,I do not claim to unravel the mysteries. I treasure them. As you should.
+amadeus,m16,L30466,L30474,,u257,OLD SALIERI,L30473,u266,VOGLER,"Oh yes, yes, yes, yes, yes! Always the same stale answers! There is no God of Mercy, Father. Just a God of torture."
+amadeus,m16,L30477,L30477,,u264,SERVANT,,,,"That lady is back, sir."
+amadeus,m16,L30477,L30478,,u260,SALIERI,L30477,u264,SERVANT,Show her in. Then go to bed.
+amadeus,m16,L30480,L30480,,u247,CONSTANZE,,,,I do apologize for this afternoon. I behaved like a silly girl. Where shall we go?
+amadeus,m16,L30480,L30481,,u260,SALIERI,L30480,u247,CONSTANZE,What?
+amadeus,m16,L30480,L30482,,u247,CONSTANZE,L30481,u260,SALIERI,Should we stay here? It's a charming room. I love these candlesticks. Were they here earlier? I didn't notice them I suppose I was too nervous.
+amadeus,m16,L30494,L30494,,u255,MOZART,,,,Sssh!
+amadeus,m16,L30494,L30495,,u261,SCHIKANEDER,L30494,u255,MOZART,Stanzi-Manzi-Banzi-Wanzi!
+amadeus,m16,L30494,L30496,,u255,MOZART,L30495,u261,SCHIKANEDER,Sssh! Stay here.
+amadeus,m16,L30501,L30501,,u255,MOZART,,,,Stop it now. Stop it. I've brought some friends to meet you. They're next door waiting. Do we have anything to eat? They're all starving.
+amadeus,m16,L30501,L30502,,u247,CONSTANZE,L30501,u255,MOZART,Tell them to go away. I don't want to see anybody.
+amadeus,m16,L30501,L30503,,u255,MOZART,L30502,u247,CONSTANZE,What's the matter with you?
+amadeus,m16,L30501,L30504,,u247,CONSTANZE,L30503,u255,MOZART,Tell them to go!
+amadeus,m16,L30501,L30505,,u255,MOZART,L30504,u247,CONSTANZE,Sssh. What is it? Tell me.
+amadeus,m16,L30501,L30506,,u247,CONSTANZE,L30505,u255,MOZART,No!
+amadeus,m16,L30501,L30507,,u255,MOZART,L30506,u247,CONSTANZE,Yes!
+amadeus,m16,L30501,L30508,,u247,CONSTANZE,L30507,u255,MOZART,I love you! I love you!
+amadeus,m16,L30510,L30510,,u251,JOSEPH,,,,"I don't think you understand me, Court Composer."
+amadeus,m16,L30510,L30511,,u260,SALIERI,L30510,u251,JOSEPH,"Majesty, I did. Believe me, it was a most agonizing. decision. But finally, I simply could not recommend Herr Mozart."
+amadeus,m16,L30510,L30512,,u251,JOSEPH,L30511,u260,SALIERI,Why not?
+amadeus,m16,L30510,L30513,,u260,SALIERI,L30512,u251,JOSEPH,"Well, Sire, I made some inquiries in a routine way. I was curious to know why he had so few pupils. It is rather alarming."
+amadeus,m16,L30510,L30514,,u251,JOSEPH,L30513,u260,SALIERI,Oh?
+amadeus,m16,L30515,L30515,,u260,SALIERI,,,,"Majesty, I don't like to talk against a fellow musician."
+amadeus,m16,L30515,L30516,,u251,JOSEPH,L30515,u260,SALIERI,Of course not.
+amadeus,m16,L30515,L30517,,u260,SALIERI,L30516,u251,JOSEPH,"I have to tell you, Mozart is not entirely to be trusted alone with young ladies."
+amadeus,m16,L30515,L30518,,u251,JOSEPH,L30517,u260,SALIERI,Really?
+amadeus,m16,L30515,L30519,,u260,SALIERI,L30518,u251,JOSEPH,"As a matter of fact, one of my own pupils - a very young singer - told me she was - er - well!"
+amadeus,m16,L30515,L30520,,u251,JOSEPH,L30519,u260,SALIERI,Yes?
+amadeus,m16,L30515,L30521,,u260,SALIERI,L30520,u251,JOSEPH,"Molested, Majesty. Twice, in the course of the same lesson."
+amadeus,m16,L30524,L30524,,u260,SALIERI,,,,What does he want?
+amadeus,m16,L30524,L30525,,u264,SERVANT,L30524,u260,SALIERI,"He didn't say, sir. I told him I didn't know when you would be back, but he insisted on waiting."
+amadeus,m16,L30524,L30526,,u260,SALIERI,L30525,u264,SERVANT,Come with me. And stay in the room.
+amadeus,m16,L30527,L30527,,u260,SALIERI,,,,"Herr Mozart, what brings you here?"
+amadeus,m16,L30527,L30528,,u255,MOZART,L30527,u260,SALIERI,"Your Excellency, you requested some specimens of my work. Here they are. I don't have to tell you how much I need your help. I truly appreciate your looking at these. I have pressures on me - financial pressures. As you know, I'm a married man now."
+amadeus,m16,L30527,L30529,,u260,SALIERI,L30528,u255,MOZART,So you are. How is your pretty wife?
+amadeus,m16,L30527,L30530,,u255,MOZART,L30529,u260,SALIERI,"She is well. She is - well, actually, I'm about to become a father! She only told me last night. You are the first to know."
+amadeus,m16,L30527,L30531,,u260,SALIERI,L30530,u255,MOZART,"I'm flattered. And congratulations to you, of course."
+amadeus,m16,L30527,L30532,,u255,MOZART,L30531,u260,SALIERI,"So you see, this post is very important to me right now."
+amadeus,m16,L30533,L30533,,u260,SALIERI,,,,"Why didn't you come to me yesterday, Mozart? This is a most painful situation. Yesterday I could have helped you. Today, I can't."
+amadeus,m16,L30533,L30534,,u255,MOZART,L30533,u260,SALIERI,Why? Here is the music. It's here. I am submitting it humbly. Isn't that what you wanted?
+amadeus,m16,L30533,L30535,,u260,SALIERI,L30534,u255,MOZART,I have just come from the palace. The post has been filled.
+amadeus,m16,L30533,L30536,,u255,MOZART,L30535,u260,SALIERI,"Filled? That's impossible! They haven't even seen my work. I need this post. Please, can't you help me? Please!"
+amadeus,m16,L30533,L30537,,u260,SALIERI,L30536,u255,MOZART,"My dear Mozart, there is no one in the world I would rather help, but now it is too late."
+amadeus,m16,L30533,L30538,,u255,MOZART,L30537,u260,SALIERI,Whom did they choose?
+amadeus,m16,L30533,L30539,,u260,SALIERI,L30538,u255,MOZART,Herr Sommer.
+amadeus,m16,L30533,L30540,,u255,MOZART,L30539,u260,SALIERI,Sommer? Herr Sommer? But the man's a fool! He's a total mediocrity.
+amadeus,m16,L30533,L30541,,u260,SALIERI,L30540,u255,MOZART,"No, no, no: he has yet to achieve mediocrity."
+amadeus,m16,L30533,L30542,,u255,MOZART,L30541,u260,SALIERI,"But I can't lose this post, I simply can't! Excellency, please. Let's go to the palace, and you can explain to the Emperor that Herr Sommer is an awful choice. He could actually do musical harm to the Princess!"
+amadeus,m16,L30533,L30543,,u260,SALIERI,L30542,u255,MOZART,"An implausible idea. Between you and me, no one in the world could do musical harm to the Princess Elizabeth."
+amadeus,m16,L30544,L30544,,u255,MOZART,,,,"Look, I must have pupils. Without pupils I can't manage."
+amadeus,m16,L30544,L30545,,u260,SALIERI,L30544,u255,MOZART,You don't mean to tell me you are living in poverty?
+amadeus,m16,L30544,L30546,,u255,MOZART,L30545,u260,SALIERI,"No, but I'm broke. I'm always broke. I don't know why."
+amadeus,m16,L30544,L30547,,u260,SALIERI,L30546,u255,MOZART,"It has been said, my friend, that you are inclined to live somewhat above your means."
+amadeus,m16,L30544,L30548,,u255,MOZART,L30547,u260,SALIERI,"How can anyone say that? We have no cook, no maid. We have no footman. Nothing at all!"
+amadeus,m16,L30544,L30549,,u260,SALIERI,L30548,u255,MOZART,"How is that possible? You give concerts, don't you? I hear they are quite successful."
+amadeus,m16,L30544,L30550,,u255,MOZART,L30549,u260,SALIERI,"They're stupendously successful. You can't get a seat. The only problem is none will hire me. They all want to hear me play, but they won't let me teach their daughters. As if I was some kind of fiend. I'm not a fiend!"
+amadeus,m16,L30544,L30551,,u260,SALIERI,L30550,u255,MOZART,Of course not.
+amadeus,m16,L30544,L30552,,u255,MOZART,L30551,u260,SALIERI,Do you have a daughter?
+amadeus,m16,L30544,L30553,,u260,SALIERI,L30552,u255,MOZART,I'm afraid not.
+amadeus,m16,L30544,L30554,,u255,MOZART,L30553,u260,SALIERI,"Well, could you lend me some money till you have one? Then I'll teach her for free. That's a promise. Oh, I'm sorry. I'm being silly. Papa's right - I should put a padlock on my mouth. Seriously, is there any chance you could manage a loan? Only for six months, eight at most. After that I'll be the richest man in Vienna. I'll pay you back double. Anything. Name your terms. I'm not joking. I'm working on something that's going to explode like a bomb all over Europe!"
+amadeus,m16,L30544,L30555,,u260,SALIERI,L30554,u255,MOZART,"Ah, how exciting! Tell me more."
+amadeus,m16,L30544,L30556,,u255,MOZART,L30555,u260,SALIERI,I'd better not. It's a bit of a secret.
+amadeus,m16,L30544,L30557,,u260,SALIERI,L30556,u255,MOZART,"Come, come, Mozart; I'm interested. Truly."
+amadeus,m16,L30544,L30558,,u255,MOZART,L30557,u260,SALIERI,"Actually, it's a big secret. Oh, this is delicious! What is it?"
+amadeus,m16,L30544,L30559,,u260,SALIERI,L30558,u255,MOZART,Cream cheese mixed with granulated sugar and suffused with rum. Crema al Mascarpone.
+amadeus,m16,L30544,L30560,,u255,MOZART,L30559,u260,SALIERI,Ah. Italian?
+amadeus,m16,L30544,L30561,,u260,SALIERI,L30560,u255,MOZART,Forgive me. We all have patriotic feelings of some kind.
+amadeus,m16,L30544,L30562,,u255,MOZART,L30561,u260,SALIERI,"Two thousand, two hundred florins is all I need A hundred? Fifty?"
+amadeus,m16,L30544,L30563,,u260,SALIERI,L30562,u255,MOZART,What exactly are you working on?
+amadeus,m16,L30544,L30564,,u255,MOZART,L30563,u260,SALIERI,I can't say. Really
+amadeus,m16,L30544,L30565,,u260,SALIERI,L30564,u255,MOZART,"I don't think you should become known in Vienna as a debtor, Mozart. However, I know a very distinguished gentleman I could recommend to you. And he has a daughter. Will that do?"
+amadeus,m16,L30566,L30566,,u262,SCHLUMBERG,,,,"Quiet! Quiet! Quiet! Down there, damn you. Welcome to you. Pay no attention, they're impossible. Stop it, you willful things! Come this way. Just ignore them. They're perfectly harmless, just willful. I treat them just like my own children."
+amadeus,m16,L30566,L30567,,u255,MOZART,L30566,u262,SCHLUMBERG,And which one of them do you want me to teach?
+amadeus,m16,L30566,L30568,,u262,SCHLUMBERG,L30567,u255,MOZART,"What? Ha-ha! That's funny - I like it. Which one, eh? You're a funny fellow. Hannah! Come this way."
+amadeus,m16,L30570,L30570,,u262,SCHLUMBERG,,,,You won't be teaching this one either. She's my wife.
+amadeus,m16,L30570,L30571,,u255,MOZART,L30570,u262,SCHLUMBERG,Madame.
+amadeus,m16,L30570,L30572,,u262,SCHLUMBERG,L30571,u255,MOZART,"This is Herr Mozart, my dear. The young man Herr Salieri recommended to teach our Gertrude. Where is she?"
+amadeus,m16,L30573,L30573,,u250,FRAU SCHLUMBERG,,,,Upstairs.
+amadeus,m16,L30573,L30574,,u262,SCHLUMBERG,L30573,u250,FRAU SCHLUMBERG,Gertrude!
+amadeus,m16,L30573,L30575,,u250,FRAU SCHLUMBERG,L30574,u262,SCHLUMBERG,You can't be Herr Mozart!
+amadeus,m16,L30576,L30576,,u255,MOZART,,,,I'm afraid I am.
+amadeus,m16,L30576,L30577,,u262,SCHLUMBERG,L30576,u255,MOZART,"Of course, it's him. Who do you think it is?"
+amadeus,m16,L30578,L30578,,u250,FRAU SCHLUMBERG,,,,I've heard about you for ages! I thought you must be an old man.
+amadeus,m16,L30578,L30579,,u262,SCHLUMBERG,L30578,u250,FRAU SCHLUMBERG,Gertrude!
+amadeus,m16,L30578,L30580,,u250,FRAU SCHLUMBERG,L30579,u262,SCHLUMBERG,"It's such an honour for us to have you here, Herr Mozart. And for Gertrude."
+amadeus,m16,L30578,L30581,,u262,SCHLUMBERG,L30580,u250,FRAU SCHLUMBERG,"People who know say the girl's got talent. You must judge for yourself. If you think she stinks, say so."
+amadeus,m16,L30578,L30582,,u250,FRAU SCHLUMBERG,L30581,u262,SCHLUMBERG,"Michael, please! I'm sure you will find her most willing, Herr Mozart. She's really very excited. She's been preparing all morning."
+amadeus,m16,L30583,L30583,,u255,MOZART,,,,Really?
+amadeus,m16,L30583,L30584,,u250,FRAU SCHLUMBERG,L30583,u255,MOZART,"Ah, now! Here she comes."
+amadeus,m16,L30585,L30585,,u255,MOZART,,,,"Good morning, Fraulein Schlumberg."
+amadeus,m16,L30585,L30586,,u262,SCHLUMBERG,L30585,u255,MOZART,"Strudel, this is Herr Mozart. Say good morning."
+amadeus,m16,L30587,L30587,,u250,FRAU SCHLUMBERG,,,,"Perhaps a little refreshment first? A little coffee, or a little chocolate?"
+amadeus,m16,L30587,L30588,,u255,MOZART,L30587,u250,FRAU SCHLUMBERG,"I'd like a little wine, if you have it."
+amadeus,m16,L30587,L30589,,u250,FRAU SCHLUMBERG,L30588,u255,MOZART,Wine?
+amadeus,m16,L30597,L30597,,u262,SCHLUMBERG,,,,"Never mind, Strudel. It's part of music, getting used to an audience. Aren't I right, Herr Mozart?"
+amadeus,m16,L30597,L30598,,u255,MOZART,L30597,u262,SCHLUMBERG,"Well, yes! on the whole. I suppose. How long have you been playing, Fraulein?"
+amadeus,m16,L30599,L30599,,u250,FRAU SCHLUMBERG,,,,Just one year.
+amadeus,m16,L30599,L30600,,u255,MOZART,L30599,u250,FRAU SCHLUMBERG,Who was your teacher?
+amadeus,m16,L30599,L30601,,u250,FRAU SCHLUMBERG,L30600,u255,MOZART,I was. But she quite outgrew the little I could show her.
+amadeus,m16,L30599,L30602,,u255,MOZART,L30601,u250,FRAU SCHLUMBERG,"Thank you, Madame. Come on now - courage. Play me something you know."
+amadeus,m16,L30605,L30605,,u262,SCHLUMBERG,,,,I said play!
+amadeus,m16,L30605,L30606,,u250,FRAU SCHLUMBERG,L30605,u262,SCHLUMBERG,Michael!
+amadeus,m16,L30614,L30614,,u262,SCHLUMBERG,,,,"It's a miracle, Herr Mozart!"
+amadeus,m16,L30614,L30615,,u255,MOZART,L30614,u262,SCHLUMBERG,"Well, I'm a good teacher. The next time you wish me to instruct another of your dogs, please let me know. Goodbye, Fraulein, goodbye, Madame! goodbye, Sir!"
+amadeus,m16,L30616,L30616,,u250,FRAU SCHLUMBERG,,,,What a strange young man.
+amadeus,m16,L30616,L30617,,u262,SCHLUMBERG,L30616,u250,FRAU SCHLUMBERG,Yes. He is a little strange.
+amadeus,m16,L30619,L30619,,u255,MOZART,,,,Why are you here?
+amadeus,m16,L30619,L30620,,u252,LEOPOLD,L30619,u255,MOZART,Am I not welcome?
+amadeus,m16,L30619,L30621,,u255,MOZART,L30620,u252,LEOPOLD,"Of course, welcome! Welcome ten thousand times. Papa! my Papa!"
+amadeus,m16,L30623,L30623,,u255,MOZART,,,,"Feed? Well, of course she feeds me. She stuffs me like a goose all day long. She's the best cook in the world. I mean, since Mama. Just wait, you'll see."
+amadeus,m16,L30623,L30624,,u252,LEOPOLD,L30623,u255,MOZART,Is she not here?
+amadeus,m16,L30623,L30625,,u255,MOZART,L30624,u252,LEOPOLD,I don't know. Stanzi? Stanzi!
+amadeus,m16,L30626,L30626,,u252,LEOPOLD,,,,Do you always live like this?
+amadeus,m16,L30626,L30627,,u255,MOZART,L30626,u252,LEOPOLD,"Oh, yes. Oh, I mean no - not exactly like this. I mean today - just today, Stanzi - I remember now. She had to go - yes! She had to help her mother. Yes, she's like that. Her mother's a very sweet woman, you'll see."
+amadeus,m16,L30630,L30630,,u255,MOZART,,,,"She's very tired, poor creature. You know me: I'm a real pig. It's not so easy cleaning up after me."
+amadeus,m16,L30630,L30631,,u252,LEOPOLD,L30630,u255,MOZART,Don't you have a maid?
+amadeus,m16,L30630,L30632,,u255,MOZART,L30631,u252,LEOPOLD,"Oh we could, if we wanted to, but Stanzi won't hear of it. She wants to do everything herself."
+amadeus,m16,L30630,L30633,,u252,LEOPOLD,L30632,u255,MOZART,How is your financial situation?
+amadeus,m16,L30630,L30634,,u255,MOZART,L30633,u252,LEOPOLD,It couldn't be better.
+amadeus,m16,L30630,L30635,,u252,LEOPOLD,L30634,u255,MOZART,That's not what I hear.
+amadeus,m16,L30630,L30636,,u255,MOZART,L30635,u252,LEOPOLD,"What do you mean? It's wonderful. Really, it's - it's marvelous! People love me here."
+amadeus,m16,L30630,L30637,,u252,LEOPOLD,L30636,u255,MOZART,They say you're in debt.
+amadeus,m16,L30630,L30638,,u255,MOZART,L30637,u252,LEOPOLD,Who? Who says that? Now that's a malicious lie!
+amadeus,m16,L30630,L30639,,u252,LEOPOLD,L30638,u255,MOZART,How many pupils do you have?
+amadeus,m16,L30630,L30640,,u255,MOZART,L30639,u252,LEOPOLD,Pupils?
+amadeus,m16,L30630,L30641,,u252,LEOPOLD,L30640,u255,MOZART,Yes.
+amadeus,m16,L30630,L30642,,u255,MOZART,L30641,u252,LEOPOLD,Yes.
+amadeus,m16,L30630,L30643,,u252,LEOPOLD,L30642,u255,MOZART,How many?
+amadeus,m16,L30630,L30644,,u255,MOZART,L30643,u252,LEOPOLD,"I don't know. It's not important. I mean, I don't want pupils. They get in the way. I've got to have time for composition."
+amadeus,m16,L30630,L30645,,u252,LEOPOLD,L30644,u255,MOZART,Composition doesn't pay. You know that.
+amadeus,m16,L30630,L30646,,u255,MOZART,L30645,u252,LEOPOLD,This one will.
+amadeus,m16,L30647,L30647,,u252,LEOPOLD,,,,What's that?
+amadeus,m16,L30647,L30648,,u255,MOZART,L30647,u252,LEOPOLD,"Oh, let's not talk about it."
+amadeus,m16,L30647,L30649,,u252,LEOPOLD,L30648,u255,MOZART,Why not?
+amadeus,m16,L30647,L30650,,u255,MOZART,L30649,u252,LEOPOLD,It's a secret.
+amadeus,m16,L30647,L30651,,u252,LEOPOLD,L30650,u255,MOZART,You don't have secrets from me.
+amadeus,m16,L30647,L30652,,u255,MOZART,L30651,u252,LEOPOLD,"It's too dangerous, Papa. But they're going to love it. Ah, there she is!"
+amadeus,m16,L30653,L30653,,u255,MOZART,,,,"My Stanzi - look at her! Isn't she beautiful? Come on now, confess, Papa. Could you want a prettier girl for a daughter?"
+amadeus,m16,L30653,L30654,,u247,CONSTANZE,L30653,u255,MOZART,"Stop it, Wolfi. I look dreadful. Welcome to our house, Herr Mozart."
+amadeus,m16,L30653,L30655,,u255,MOZART,L30654,u247,CONSTANZE,He's not Herr Mozart. Call him Papa.
+amadeus,m16,L30656,L30656,,u252,LEOPOLD,,,,I see that you're expecting.
+amadeus,m16,L30656,L30657,,u247,CONSTANZE,L30656,u252,LEOPOLD,"Oh, yes."
+amadeus,m16,L30656,L30658,,u252,LEOPOLD,L30657,u247,CONSTANZE,"When, may I ask?"
+amadeus,m16,L30656,L30659,,u247,CONSTANZE,L30658,u252,LEOPOLD,In three months! Papa.
+amadeus,m16,L30660,L30660,,u255,MOZART,,,,Isn't that marvelous? We're delighted.
+amadeus,m16,L30660,L30661,,u252,LEOPOLD,L30660,u255,MOZART,Why didn't you mention it in your letters?
+amadeus,m16,L30660,L30662,,u255,MOZART,L30661,u252,LEOPOLD,Didn't I? I thought I did. I'm sure I did.
+amadeus,m16,L30663,L30663,,u247,CONSTANZE,,,,"May I offer you some tea, Herr Mozart?"
+amadeus,m16,L30663,L30664,,u255,MOZART,L30663,u247,CONSTANZE,"Tea? Who wants tea? Let's go out! This calls for a feast. You don't want tea, Papa. Let's go dancing. Papa loves parties, don't you?"
+amadeus,m16,L30663,L30665,,u247,CONSTANZE,L30664,u255,MOZART,Wolfi!
+amadeus,m16,L30663,L30666,,u255,MOZART,L30665,u247,CONSTANZE,What? How can you be so boring? Tea!
+amadeus,m16,L30663,L30667,,u247,CONSTANZE,L30666,u255,MOZART,"Wolfi, I think your father's tired. I'll cook us something here."
+amadeus,m16,L30668,L30668,,u252,LEOPOLD,,,,Thank you. That'll be fine. Don't spend any money on me.
+amadeus,m16,L30668,L30669,,u255,MOZART,L30668,u252,LEOPOLD,"Why not? Oh, come, Papa! What better way could I spend it than on you? My kissable, missable, suddenly visible Papa!"
+amadeus,m16,L30672,L30672,,u252,LEOPOLD,,,,"No, really!"
+amadeus,m16,L30672,L30673,,u255,MOZART,L30672,u252,LEOPOLD,"This is just a game, Papa."
+amadeus,m16,L30678,L30678,,u255,MOZART,,,,"Yes, Papa, name it. Name it. I'll do anything you say!"
+amadeus,m16,L30678,L30679,,u252,LEOPOLD,L30678,u255,MOZART,"I want you to come back with me to Salzburg, my son."
+amadeus,m16,L30680,L30680,,u261,SCHIKANEDER,,,,What did he say? What did he say?
+amadeus,m16,L30680,L30681,,u255,MOZART,L30680,u261,SCHIKANEDER,"Papa, the rule is you can only give penalties that can be performed in the room."
+amadeus,m16,L30682,L30682,,u252,LEOPOLD,,,,I'm tired of this game. Please play without me.
+amadeus,m16,L30682,L30683,,u255,MOZART,L30682,u252,LEOPOLD,But my penalty. I've got to have a penalty.
+amadeus,m16,L30697,L30697,,u247,CONSTANZE,,,,There's a young girl to see you.
+amadeus,m16,L30697,L30698,,u255,MOZART,L30697,u247,CONSTANZE,What does she want?
+amadeus,m16,L30697,L30699,,u247,CONSTANZE,L30698,u255,MOZART,I don't know.
+amadeus,m16,L30697,L30700,,u255,MOZART,L30699,u247,CONSTANZE,"Well, ask her!"
+amadeus,m16,L30697,L30701,,u247,CONSTANZE,L30700,u255,MOZART,She won't talk to me. She says she has to speak to you.
+amadeus,m16,L30697,L30702,,u255,MOZART,L30701,u247,CONSTANZE,"Oh, damn!"
+amadeus,m16,L30703,L30703,,u255,MOZART,,,,Yes?
+amadeus,m16,L30703,L30704,,u253,LORL,L30703,u255,MOZART,Are you Herr Mozart?
+amadeus,m16,L30703,L30705,,u255,MOZART,L30704,u253,LORL,That's right.
+amadeus,m16,L30703,L30706,,u253,LORL,L30705,u255,MOZART,"My name is Lorl, sir. I'm a maidservant. I was asked to come here and offer my services to you."
+amadeus,m16,L30703,L30707,,u255,MOZART,L30706,u253,LORL,What?
+amadeus,m16,L30703,L30708,,u253,LORL,L30707,u255,MOZART,They'll be paid for by a great admirer or yours who wishes to remain anon - anonymous.
+amadeus,m16,L30711,L30711,,u255,MOZART,,,,Are you saying that someone is paying you to be our maid and doesn't want us to know who he is?
+amadeus,m16,L30711,L30712,,u253,LORL,L30711,u255,MOZART,Yes. I can live in or out just as you wish.
+amadeus,m16,L30713,L30713,,u255,MOZART,,,,"Papa, is this your idea?"
+amadeus,m16,L30713,L30714,,u252,LEOPOLD,L30713,u255,MOZART,Mine?
+amadeus,m16,L30715,L30715,,u255,MOZART,,,,Are you playing a trick on me?
+amadeus,m16,L30715,L30716,,u252,LEOPOLD,L30715,u255,MOZART,I never saw this girl in my life. Is this a kind of joke?
+amadeus,m16,L30721,L30721,,u247,CONSTANZE,,,,What is ridiculous? Wolfi has many admirers in Vienna. They love him here. People send us gifts all the time.
+amadeus,m16,L30721,L30722,,u252,LEOPOLD,L30721,u247,CONSTANZE,But you can't take her without reference. It's unheard of!
+amadeus,m16,L30721,L30723,,u247,CONSTANZE,L30722,u252,LEOPOLD,"Well, this is none of your business. Whoever sent you is going to pay, no?"
+amadeus,m16,L30728,L30728,,u247,CONSTANZE,,,,"Look, old man, you stay out of this. We spend a fortune on you, more than we can possibly afford, and all you do is criticize, morning to night. And then you think you can -"
+amadeus,m16,L30728,L30729,,u255,MOZART,L30728,u247,CONSTANZE,Stanzi!
+amadeus,m16,L30728,L30730,,u247,CONSTANZE,L30729,u255,MOZART,"No, it's right he should hear. I'm sick to death of it. We can't do anything right for you, can we?"
+amadeus,m16,L30731,L30731,,u252,LEOPOLD,,,,Never mind. You won't have to do anything for me ever again. I'm leaving!
+amadeus,m16,L30731,L30732,,u255,MOZART,L30731,u252,LEOPOLD,Papa!
+amadeus,m16,L30731,L30733,,u252,LEOPOLD,L30732,u255,MOZART,"Don't worry, I'm not staying here to be a burden."
+amadeus,m16,L30731,L30734,,u255,MOZART,L30733,u252,LEOPOLD,No one calls you that.
+amadeus,m16,L30731,L30735,,u252,LEOPOLD,L30734,u255,MOZART,She does. She says I sleep all day.
+amadeus,m16,L30736,L30736,,u247,CONSTANZE,,,,And so you do! The only time you come out is to eat.
+amadeus,m16,L30736,L30737,,u252,LEOPOLD,L30736,u247,CONSTANZE,And what do you expect? Who wants to walk out into a mess like this every day?
+amadeus,m16,L30736,L30738,,u247,CONSTANZE,L30737,u252,LEOPOLD,"Oh, now I'm a bad housekeeper!"
+amadeus,m16,L30736,L30739,,u252,LEOPOLD,L30738,u247,CONSTANZE,So you are! The place is a pigsty all the time.
+amadeus,m16,L30736,L30740,,u247,CONSTANZE,L30739,u252,LEOPOLD,Do you hear him? Do you?
+amadeus,m16,L30747,L30747,,u253,LORL,,,,"Oh, thank you, sir."
+amadeus,m16,L30747,L30748,,u260,SALIERI,L30747,u253,LORL,Do any pupils come to the house?
+amadeus,m16,L30747,L30749,,u253,LORL,L30748,u260,SALIERI,Not that I've seen.
+amadeus,m16,L30747,L30750,,u260,SALIERI,L30749,u253,LORL,Then how does he pay for all this? Does he work at all?
+amadeus,m16,L30747,L30751,,u253,LORL,L30750,u260,SALIERI,"Oh, yes, sir, all day long. He never leaves the house until evening. He just sits there, writing and writing. He doesn't even eat."
+amadeus,m16,L30747,L30752,,u260,SALIERI,L30751,u253,LORL,Really? What is it he's writing?
+amadeus,m16,L30747,L30753,,u253,LORL,L30752,u260,SALIERI,"Oh, I wouldn't know that, sir."
+amadeus,m16,L30747,L30754,,u260,SALIERI,L30753,u253,LORL,"Of course not. You're a good girl. You're very kind to do this. Next time you're sure they'll be out of the house, let me know, will you?"
+amadeus,m16,L30756,L30756,,u253,LORL,,,,"I think I've found out about the money, sir."
+amadeus,m16,L30756,L30757,,u260,SALIERI,L30756,u253,LORL,Yes what?
+amadeus,m16,L30759,L30759,,u260,SALIERI,,,,Where does he work?
+amadeus,m16,L30759,L30760,,u253,LORL,L30759,u260,SALIERI,"In there, sir."
+amadeus,m16,L30761,L30761,,u251,JOSEPH,,,,"Bravo, Mozart. Most charming. Yes, indeed. Clever man."
+amadeus,m16,L30761,L30762,,u255,MOZART,L30761,u251,JOSEPH,"Thank you, Sire!"
+amadeus,m16,L30763,L30763,,u268,VON SWIETEN,,,,"Well done, Mozart. Really quite fine."
+amadeus,m16,L30763,L30764,,u255,MOZART,L30763,u268,VON SWIETEN,Baron!
+amadeus,m16,L30765,L30765,,u255,MOZART,,,,"Majesty, may I ask you to do me the greatest favour?"
+amadeus,m16,L30765,L30766,,u251,JOSEPH,L30765,u255,MOZART,What is it?
+amadeus,m16,L30765,L30767,,u255,MOZART,L30766,u251,JOSEPH,May I introduce my father? He is on a short visit here and returning very soon to Salzburg. He would so much like to kiss your hand. It would make his whole stay so memorable for him.
+amadeus,m16,L30765,L30768,,u251,JOSEPH,L30767,u255,MOZART,Ah! By all means.
+amadeus,m16,L30774,L30774,,u255,MOZART,,,,Father -
+amadeus,m16,L30774,L30775,,u252,LEOPOLD,L30774,u255,MOZART,"Hush! I'm talking to His Majesty. Your Majesty, I wish to express only one thing - that you who are the Father of us all, could teach our children the gratitude they owe to fathers. It is not for nothing that the Fifth Commandment tells us: 'Honour your Father and Mother, that your days may be long upon the earth.'"
+amadeus,m16,L30777,L30777,,u260,SALIERI,,,,"I've just learned something that might be of interest to you, Herr Director."
+amadeus,m16,L30777,L30778,,u258,ORSINI-ROSENBERG,L30777,u260,SALIERI,Yes?
+amadeus,m16,L30777,L30779,,u260,SALIERI,L30778,u258,ORSINI-ROSENBERG,Mozart is writing a new opera. An Italian opera.
+amadeus,m16,L30777,L30780,,u258,ORSINI-ROSENBERG,L30779,u260,SALIERI,Italian?
+amadeus,m16,L30783,L30783,,u258,ORSINI-ROSENBERG,,,,You mean that play?
+amadeus,m16,L30783,L30784,,u260,SALIERI,L30783,u258,ORSINI-ROSENBERG,Exactly.
+amadeus,m16,L30783,L30785,,u258,ORSINI-ROSENBERG,L30784,u260,SALIERI,He's setting that play to music?
+amadeus,m16,L30783,L30786,,u260,SALIERI,L30785,u258,ORSINI-ROSENBERG,Yes.
+amadeus,m16,L30783,L30787,,u258,ORSINI-ROSENBERG,L30786,u260,SALIERI,You must be mad.
+amadeus,m16,L30791,L30791,,u258,ORSINI-ROSENBERG,,,,Are you absolutely sure?
+amadeus,m16,L30791,L30792,,u260,SALIERI,L30791,u258,ORSINI-ROSENBERG,I've seen the manuscript.
+amadeus,m16,L30791,L30793,,u258,ORSINI-ROSENBERG,L30792,u260,SALIERI,Where?
+amadeus,m16,L30791,L30794,,u260,SALIERI,L30793,u258,ORSINI-ROSENBERG,Never mind.
+amadeus,m16,L30795,L30795,,u267,VON STRACK,,,,"I know we banned this play, but frankly I can't remember why. Can you refresh my memory, Herr Director?"
+amadeus,m16,L30795,L30796,,u258,ORSINI-ROSENBERG,L30795,u267,VON STRACK,"For the same reason, Herr Chamberlain, that it was banned in France."
+amadeus,m16,L30795,L30797,,u267,VON STRACK,L30796,u258,ORSINI-ROSENBERG,"Oh yes, yes. And that was?"
+amadeus,m16,L30795,L30798,,u258,ORSINI-ROSENBERG,L30797,u267,VON STRACK,"Well, the play makes a hero out of a valet. He outwits his noble master and exposes him as a lecher. Do you see the implications? This would be, in a grander situation, as if a Chamberlain were to expose an Emperor."
+amadeus,m16,L30795,L30799,,u267,VON STRACK,L30798,u258,ORSINI-ROSENBERG,Ah.
+amadeus,m16,L30802,L30802,,u251,JOSEPH,,,,"Mozart, are you aware I have declared the French play of Figaro unsuitable for our theatre?"
+amadeus,m16,L30802,L30803,,u255,MOZART,L30802,u251,JOSEPH,"Yes, Sire."
+amadeus,m16,L30802,L30804,,u251,JOSEPH,L30803,u255,MOZART,Yet we hear you are making an opera from it. Is this true?
+amadeus,m16,L30802,L30805,,u255,MOZART,L30804,u251,JOSEPH,"Who told you this, Majesty?"
+amadeus,m16,L30802,L30806,,u251,JOSEPH,L30805,u255,MOZART,It is not your place to ask questions. Is it true?
+amadeus,m16,L30802,L30807,,u255,MOZART,L30806,u251,JOSEPH,"Well, yes, I admit it is."
+amadeus,m16,L30802,L30808,,u251,JOSEPH,L30807,u255,MOZART,Would you tell me why?
+amadeus,m16,L30802,L30809,,u255,MOZART,L30808,u251,JOSEPH,"Well, Majesty, it is only a comedy."
+amadeus,m16,L30810,L30810,,u258,ORSINI-ROSENBERG,,,,"What you think, Mozart, is scarcely the point. It is what His Majesty thinks that counts."
+amadeus,m16,L30810,L30811,,u255,MOZART,L30810,u258,ORSINI-ROSENBERG,"But, Your Majesty -"
+amadeus,m16,L30812,L30812,,u251,JOSEPH,,,,"Mozart, I am a tolerant man. I do not censor things lightly. When I do, I have good reason. Figaro is a bad play. It stirs up hatred between the classes. In France it has caused nothing but bitterness. My own dear sister Antoinette writes me that she is beginning to be frightened of her own people. I do not wish to see the same fears starting here."
+amadeus,m16,L30812,L30813,,u255,MOZART,L30812,u251,JOSEPH,"Sire, I swear to Your Majesty, there's nothing like that in the story. I have taken out everything that could give offense. I hate politics."
+amadeus,m16,L30812,L30814,,u251,JOSEPH,L30813,u255,MOZART,"I think you are rather innocent, my friend. In these dangerous times I cannot afford to provoke our nobles or our people simply over a theatre piece."
+amadeus,m16,L30815,L30815,,u255,MOZART,,,,"But, Majesty, this is just a frolic. It's a piece about love."
+amadeus,m16,L30815,L30816,,u251,JOSEPH,L30815,u255,MOZART,"Ah, love again."
+amadeus,m16,L30815,L30817,,u255,MOZART,L30816,u251,JOSEPH,"But it's new, it's entirely new. It's so new, people will go mad for it. For example, I have a scene in the second act - it starts as a duet, just a man and wife quarreling. Suddenly the wife's scheming little maid comes in unexpectedly - a very funny situation. Duet turns into trio. Then the husband's equally screaming valet comes in. Trio turns into quartet. Then a stupid old gardener - quartet becomes quintet, and so on. On and on, sextet, septet, octet! How long do you think I can sustain that?"
+amadeus,m16,L30815,L30818,,u251,JOSEPH,L30817,u255,MOZART,I have no idea.
+amadeus,m16,L30815,L30819,,u255,MOZART,L30818,u251,JOSEPH,"Guess! Guess, Majesty. Imagine the longest time such a thing could last, then double it."
+amadeus,m16,L30815,L30820,,u251,JOSEPH,L30819,u255,MOZART,"Well, six or seven minutes! maybe eight!"
+amadeus,m16,L30815,L30821,,u255,MOZART,L30820,u251,JOSEPH,"Twenty, sire! How about twenty? Twenty minutes of continuous music. No recitatives."
+amadeus,m16,L30822,L30822,,u268,VON SWIETEN,,,,Mozart -
+amadeus,m16,L30822,L30823,,u255,MOZART,L30822,u268,VON SWIETEN,"Sire, only opera can do this. In a play, if more than one person speaks at the same time, it's just noise. No one can understand a word. But with music, with music you can have twenty individuals all talking at once, and it's not noise - it's a perfect harmony. Isn't that marvelous?"
+amadeus,m16,L30822,L30824,,u268,VON SWIETEN,L30823,u255,MOZART,"Mozart, music is not the issue here. No one doubts your talent. It is your judgment of literature that's in question. Even with the politics taken out, this thing would still remain a vulgar farce. Why waste your spirit on such rubbish? Surely you can choose more elevated themes?"
+amadeus,m16,L30822,L30825,,u255,MOZART,L30824,u268,VON SWIETEN,"Elevated? What does that mean? Elevated! The only thing a man should elevate is - oh, excuse me. I'm sorry. I'm stupid. But I am fed up to the teeth with elevated things! Old dead legends! How can we go on forever writing about gods and legends?"
+amadeus,m16,L30822,L30826,,u268,VON SWIETEN,L30825,u255,MOZART,"Because they do. They go on forever - at least what they represent. The eternal in us, not the ephemeral. Opera is here to ennoble us. You and me, just as much as His Majesty."
+amadeus,m16,L30831,L30831,,u255,MOZART,,,,"Forgive me, Majesty. I'm a vulgar man. But I assure you, my music is not."
+amadeus,m16,L30831,L30832,,u251,JOSEPH,L30831,u255,MOZART,"You are passionate, Mozart! But you do not persuade."
+amadeus,m16,L30831,L30833,,u255,MOZART,L30832,u251,JOSEPH,"Sire, the whole opera is finished. Do you know how much work went into it?"
+amadeus,m16,L30836,L30836,,u258,ORSINI-ROSENBERG,,,,"That will do, Herr Mozart!"
+amadeus,m16,L30836,L30837,,u255,MOZART,L30836,u258,ORSINI-ROSENBERG,Just let me tell you how it begins.
+amadeus,m16,L30838,L30838,,u267,VON STRACK,,,,Herr Mozart -
+amadeus,m16,L30838,L30839,,u255,MOZART,L30838,u267,VON STRACK,"May I just do that, Majesty? Show you how it begins? Just that?"
+amadeus,m16,L30842,L30842,,u258,ORSINI-ROSENBERG,,,,"Well, Mozart is already rehearsing."
+amadeus,m16,L30842,L30843,,u260,SALIERI,L30842,u258,ORSINI-ROSENBERG,Incredible.
+amadeus,m16,L30842,L30844,,u258,ORSINI-ROSENBERG,L30843,u260,SALIERI,The Emperor has given him permission.
+amadeus,m16,L30847,L30847,,u258,ORSINI-ROSENBERG,,,,What anger?
+amadeus,m16,L30847,L30848,,u260,SALIERI,L30847,u258,ORSINI-ROSENBERG,About the ballet.
+amadeus,m16,L30847,L30849,,u258,ORSINI-ROSENBERG,L30848,u260,SALIERI,Ballet? What ballet?
+amadeus,m16,L30847,L30850,,u260,SALIERI,L30849,u258,ORSINI-ROSENBERG,Excuse me - didn't His Majesty specifically forbid ballet in his opera?
+amadeus,m16,L30847,L30851,,u258,ORSINI-ROSENBERG,L30850,u260,SALIERI,"Yes, absolutely. Is there a ballet in Figaro?"
+amadeus,m16,L30847,L30852,,u260,SALIERI,L30851,u258,ORSINI-ROSENBERG,"Yes, in the third act."
+amadeus,m16,L30853,L30853,,u258,ORSINI-ROSENBERG,,,,"Mozart! Herr Mozart, may I have a word with you please. Right away."
+amadeus,m16,L30853,L30854,,u255,MOZART,L30853,u258,ORSINI-ROSENBERG,"Certainly, Herr Director."
+amadeus,m16,L30856,L30856,,u258,ORSINI-ROSENBERG,,,,Did you not know that His Majesty has expressly forbidden ballet in his operas?
+amadeus,m16,L30856,L30857,,u255,MOZART,L30856,u258,ORSINI-ROSENBERG,"Yes, but this is not a ballet. This is a dance at Figaro's wedding."
+amadeus,m16,L30856,L30858,,u258,ORSINI-ROSENBERG,L30857,u255,MOZART,Exactly. A dance.
+amadeus,m16,L30856,L30859,,u255,MOZART,L30858,u258,ORSINI-ROSENBERG,But surely the Emperor didn't mean to prohibit dancing when it's part of the story.
+amadeus,m16,L30856,L30860,,u258,ORSINI-ROSENBERG,L30859,u255,MOZART,"It is dangerous for you to interpret His Majesty's edicts. Give me your score, please."
+amadeus,m16,L30863,L30863,,u255,MOZART,,,,"What are you doing, Herr Director?"
+amadeus,m16,L30863,L30864,,u258,ORSINI-ROSENBERG,L30863,u255,MOZART,Taking out what you should never have put in.
+amadeus,m16,L30867,L30867,,u260,SALIERI,,,,"Wolfgang, what is it? Sta calmo, per favore. What's the matter?"
+amadeus,m16,L30867,L30868,,u255,MOZART,L30867,u260,SALIERI,It's unbelievable! The Director has actually ripped out a huge section of my music. Pages of it.
+amadeus,m16,L30867,L30869,,u260,SALIERI,L30868,u255,MOZART,Really? Why?
+amadeus,m16,L30867,L30870,,u255,MOZART,L30869,u260,SALIERI,"I don't know. They say I've got to re-write the opera, but it's perfect as it is. I can't rewrite what's perfect. Can't you talk to him?"
+amadeus,m16,L30867,L30871,,u260,SALIERI,L30870,u255,MOZART,Why bother with Orsini-Rosenberg? He's obviously no friend of yours.
+amadeus,m16,L30867,L30872,,u255,MOZART,L30871,u260,SALIERI,"Oh, I could kill him! I mean really kill him. I actually threw the entire opera on the fire, he made me so angry!"
+amadeus,m16,L30867,L30873,,u260,SALIERI,L30872,u255,MOZART,You burned the score?
+amadeus,m16,L30867,L30874,,u255,MOZART,L30873,u260,SALIERI,Oh no! My wife took it out in time.
+amadeus,m16,L30867,L30875,,u260,SALIERI,L30874,u255,MOZART,How fortunate.
+amadeus,m16,L30867,L30876,,u255,MOZART,L30875,u260,SALIERI,It's not fair that a man like that has power over our work.
+amadeus,m16,L30867,L30877,,u260,SALIERI,L30876,u255,MOZART,But there are those who have power over him. I think I'll take this up with the Emperor.
+amadeus,m16,L30867,L30878,,u255,MOZART,L30877,u260,SALIERI,"Oh, Excellency, would you?"
+amadeus,m16,L30867,L30879,,u260,SALIERI,L30878,u255,MOZART,"With all my heart, Mozart."
+amadeus,m16,L30867,L30880,,u255,MOZART,L30879,u260,SALIERI,"Thank you! Oh, thank you."
+amadeus,m16,L30887,L30887,,u251,JOSEPH,,,,"Do you like this, Salieri?"
+amadeus,m16,L30887,L30888,,u260,SALIERI,L30887,u251,JOSEPH,"It is not a question of liking, Your Majesty. Your own law decrees it, I'm afraid."
+amadeus,m16,L30887,L30889,,u251,JOSEPH,L30888,u260,SALIERI,"Well, look at them."
+amadeus,m16,L30894,L30894,,u258,ORSINI-ROSENBERG,,,,"Can we see the scene with the music back, please?"
+amadeus,m16,L30894,L30895,,u255,MOZART,L30894,u258,ORSINI-ROSENBERG,"Oh yes, certainly. Certainly, Herr Director!"
+amadeus,m16,L30903,L30903,,u255,MOZART,,,,Nine performances! Nine! That's all it's had - and withdrawn.
+amadeus,m16,L30903,L30904,,u260,SALIERI,L30903,u255,MOZART,"I know; it's outrageous. Still, if the public doesn't like one's work one has to accept the fact gracefully."
+amadeus,m16,L30903,L30905,,u255,MOZART,L30904,u260,SALIERI,But what is it they don't like?
+amadeus,m16,L30903,L30906,,u260,SALIERI,L30905,u255,MOZART,"Well, I can speak for the Emperor. You made too many demands on the royal ear. The poor man can't concentrate for more than an hour and you gave him four."
+amadeus,m16,L30903,L30907,,u255,MOZART,L30906,u260,SALIERI,What did you think of it yourself? Did you like it at all?
+amadeus,m16,L30903,L30908,,u260,SALIERI,L30907,u255,MOZART,I think it's marvelous. Truly.
+amadeus,m16,L30903,L30909,,u255,MOZART,L30908,u260,SALIERI,It's the best opera yet written. I know it! Why didn't they come?
+amadeus,m16,L30903,L30910,,u260,SALIERI,L30909,u255,MOZART,"I think you overestimate our dear Viennese, my friend. Do you know you didn't even give them a good bang at the end of songs so they knew when to clap?"
+amadeus,m16,L30903,L30911,,u255,MOZART,L30910,u260,SALIERI,"I know, I know. Perhaps you should give me some lessons in that."
+amadeus,m16,L30903,L30912,,u260,SALIERI,L30911,u255,MOZART,"I wouldn't presume. All the same, if it wouldn't be imposing, I would like you to see my new piece. It would be a tremendous honour for me."
+amadeus,m16,L30903,L30913,,u255,MOZART,L30912,u260,SALIERI,"Oh no, the honour would be all mine."
+amadeus,m16,L30903,L30914,,u260,SALIERI,L30913,u255,MOZART,"Grazie, mio caro, Wolfgang!"
+amadeus,m16,L30903,L30915,,u255,MOZART,L30914,u260,SALIERI,"Grazie, a lei, Signor Antonio!"
+amadeus,m16,L30918,L30918,,u255,MOZART,,,,Well?
+amadeus,m16,L30918,L30919,,u261,SCHIKANEDER,L30918,u255,MOZART,Sublime! Utterly sublime!
+amadeus,m16,L30918,L30920,,u255,MOZART,L30919,u261,SCHIKANEDER,That kind of music should be punishable by death.
+amadeus,m16,L30922,L30922,,u260,SALIERI,,,,Mozart. It was good of you to come.
+amadeus,m16,L30922,L30923,,u255,MOZART,L30922,u260,SALIERI,How could I not?
+amadeus,m16,L30922,L30924,,u260,SALIERI,L30923,u255,MOZART,Did my work please you?
+amadeus,m16,L30922,L30925,,u255,MOZART,L30924,u260,SALIERI,"How could it not, Excellency?"
+amadeus,m16,L30922,L30926,,u260,SALIERI,L30925,u255,MOZART,Yes?
+amadeus,m16,L30922,L30927,,u255,MOZART,L30926,u260,SALIERI,I never knew that music like that was possible.
+amadeus,m16,L30922,L30928,,u260,SALIERI,L30927,u255,MOZART,You flatter me.
+amadeus,m16,L30922,L30929,,u255,MOZART,L30928,u260,SALIERI,"Oh no! One hears such sounds and what can one say, but - Salieri!"
+amadeus,m16,L30931,L30931,,u255,MOZART,,,,We'll have a little party. Come in. Come in. You know Herr Schikaneder? This is! a very nice girl.
+amadeus,m16,L30931,L30932,,u247,CONSTANZE,L30931,u255,MOZART,Wolfi.
+amadeus,m16,L30931,L30933,,u255,MOZART,L30932,u247,CONSTANZE,"Yes, my love?"
+amadeus,m16,L30931,L30934,,u247,CONSTANZE,L30933,u255,MOZART,These gentlemen are from Salzburg.
+amadeus,m16,L30931,L30935,,u255,MOZART,L30934,u247,CONSTANZE,"Salzburg. We were just talking about Salzburg. If you've come from my friend the Fartsbishop, you've arrived at just the right moment. Because I've got good news for him. I'm done with Vienna. It's over, finished, done with! Done with! Done with!"
+amadeus,m16,L30931,L30936,,u247,CONSTANZE,L30935,u255,MOZART,Wolfi! Your father is dead.
+amadeus,m16,L30931,L30937,,u255,MOZART,L30936,u247,CONSTANZE,What?
+amadeus,m16,L30931,L30938,,u247,CONSTANZE,L30937,u255,MOZART,Your father is dead.
+amadeus,m16,L30950,L30950,,u246,COMMENDATORE,,,,Don Giovannnnnnnni!
+amadeus,m16,L30950,L30951,,u261,SCHIKANEDER,L30950,u246,COMMENDATORE,Who the devil are you? What do you want?
+amadeus,m16,L30950,L30952,,u246,COMMENDATORE,L30951,u261,SCHIKANEDER,I've come to dinnnnnner!
+amadeus,m16,L30950,L30953,,u261,SCHIKANEDER,L30952,u246,COMMENDATORE,Dinner? How dare you? I am a nobleman. I only dine with people of my own height.
+amadeus,m16,L30950,L30954,,u246,COMMENDATORE,L30953,u261,SCHIKANEDER,Are you drunk? You invited me. And my horse. Here he is. Ottavio!
+amadeus,m16,L30956,L30956,,u248,FIRST LADY,,,,Be careful!
+amadeus,m16,L30956,L30957,,u263,SECOND LADY,L30956,u248,FIRST LADY,Be careful!
+amadeus,m16,L30962,L30962,,u248,FIRST LADY,,,,He's adorable!
+amadeus,m16,L30962,L30963,,u263,SECOND LADY,L30962,u248,FIRST LADY,Adorable!
+amadeus,m16,L30975,L30975,,u248,FIRST LADY,,,,Behold!
+amadeus,m16,L30975,L30976,,u263,SECOND LADY,L30975,u248,FIRST LADY,Behold!
+amadeus,m16,L30982,L30982,,u261,SCHIKANEDER,,,,"In the pot, I have got a good dinner. Not a sausage or stew, but a singer. Not a sausage or stew but a singer. Is the treat that I'll eat for my meat!"
+amadeus,m16,L30982,L30983,,u246,COMMENDATORE,L30982,u261,SCHIKANEDER,Oh shut up. I'm sick to death of that tune.
+amadeus,m16,L30990,L30990,,u248,FIRST LADY,,,,Hey!
+amadeus,m16,L30990,L30991,,u263,SECOND LADY,L30990,u248,FIRST LADY,Hey!
+amadeus,m16,L30997,L30997,,u248,FIRST LADY,,,,Behold!
+amadeus,m16,L30997,L30998,,u263,SECOND LADY,L30997,u248,FIRST LADY,Behold!
+amadeus,m16,L31003,L31003,,u255,MOZART,,,,"Wonderful! He liked the monkey, didn't you?"
+amadeus,m16,L31003,L31004,,u261,SCHIKANEDER,L31003,u255,MOZART,"Yes, well, it's all good fun."
+amadeus,m16,L31003,L31005,,u255,MOZART,L31004,u261,SCHIKANEDER,I liked the horse.
+amadeus,m16,L31006,L31006,,u261,SCHIKANEDER,,,,"Isn't he marvelous? He cost me a bundle, that horse, but he's worth it. I tell you, if you'd played Don Giovanni here it would have been a great success. I'm not joking. These people aren't fools. You could do something marvelous for them."
+amadeus,m16,L31006,L31007,,u255,MOZART,L31006,u261,SCHIKANEDER,I'd like to try them someday. I'm not sure I'd be much good at it.
+amadeus,m16,L31006,L31008,,u261,SCHIKANEDER,L31007,u255,MOZART,"'Course you would. You belong here, my boy, not the snobby Court. You could do anything you felt like here - the more fantastic the better! That's what people want, you know: fantasy. You do a big production, fill it with beautiful magic tricks and you'll be absolutely free to do anything you want. Of course, you'd have to put a fire in it, because I've got the best fire machine in the city and a big flood - I can do you the finest water effects you ever saw in your life. Oh, and a few trick animals. You'd have to use those."
+amadeus,m16,L31006,L31009,,u255,MOZART,L31008,u261,SCHIKANEDER,Animals?
+amadeus,m16,L31006,L31010,,u261,SCHIKANEDER,L31009,u255,MOZART,"I tell you I picked up a snake in Dresden last week - twelve foot long - folds up to six inches, just like a paper fan. It's a miracle."
+amadeus,m16,L31011,L31011,,u261,SCHIKANEDER,,,,"I'm serious. You write a proper part for me with a couple of catchy songs, I'll guarantee you'll have a triumph- de-luxe. Mind you, it'll have to be in German."
+amadeus,m16,L31011,L31012,,u255,MOZART,L31011,u261,SCHIKANEDER,German!
+amadeus,m16,L31011,L31013,,u261,SCHIKANEDER,L31012,u255,MOZART,Of course! What else do you think they speak here?
+amadeus,m16,L31011,L31014,,u255,MOZART,L31013,u261,SCHIKANEDER,"No, no, I love that. I'd want it to be in German. I haven't done anything in German since Seraglio."
+amadeus,m16,L31011,L31015,,u261,SCHIKANEDER,L31014,u255,MOZART,So there you are. What do you say?
+amadeus,m16,L31016,L31016,,u247,CONSTANZE,,,,How much will you pay him?
+amadeus,m16,L31016,L31017,,u261,SCHIKANEDER,L31016,u247,CONSTANZE,"Ah. Well. Ah, I see you've got your manager with you. Well, Madame, how about half the receipts?"
+amadeus,m16,L31018,L31018,,u255,MOZART,,,,Half the receipts! Stanzi!
+amadeus,m16,L31018,L31019,,u247,CONSTANZE,L31018,u255,MOZART,I'm talking about now. How much will you give him now? Down payment?
+amadeus,m16,L31022,L31022,,u247,CONSTANZE,,,,You're not going to do this?
+amadeus,m16,L31022,L31023,,u255,MOZART,L31022,u247,CONSTANZE,Why not? Half the house!
+amadeus,m16,L31022,L31024,,u247,CONSTANZE,L31023,u255,MOZART,"When? We need money now. Either he pays now, or you don't do it."
+amadeus,m16,L31022,L31025,,u255,MOZART,L31024,u247,CONSTANZE,"Oh, Stanzi."
+amadeus,m16,L31022,L31026,,u247,CONSTANZE,L31025,u255,MOZART,I don't trust this man. And I didn't like what he did with your opera. It was common.
+amadeus,m16,L31022,L31027,,u255,MOZART,L31026,u247,CONSTANZE,"Well, you liked it, didn't you? Monkey-flunki-punki."
+amadeus,m16,L31022,L31028,,u247,CONSTANZE,L31027,u255,MOZART,"Half the house! You'll never see a penny. I want it here, in my hand."
+amadeus,m16,L31022,L31029,,u255,MOZART,L31028,u247,CONSTANZE,"Stanzi-manzi, I'll put it in your hand!"
+amadeus,m16,L31022,L31030,,u247,CONSTANZE,L31029,u255,MOZART,Shut up! I'll not let you put anything in my hand until I see some money.
+amadeus,m16,L31031,L31031,,u262,SCHLUMBERG,,,,Herr Mozart. What a surprise. What can I do for you?
+amadeus,m16,L31031,L31032,,u255,MOZART,L31031,u262,SCHLUMBERG,Is my pupil still anxious to learn the art of music?
+amadeus,m16,L31031,L31033,,u262,SCHLUMBERG,L31032,u255,MOZART,"Well, your pupil is married and living in Mannheim, young man."
+amadeus,m16,L31031,L31034,,u255,MOZART,L31033,u262,SCHLUMBERG,Really? Perhaps your dear wife might care to profit from my instruction?
+amadeus,m16,L31031,L31035,,u262,SCHLUMBERG,L31034,u255,MOZART,"What is this, Mozart? What's the matter with you?"
+amadeus,m16,L31031,L31036,,u255,MOZART,L31035,u262,SCHLUMBERG,"Well. Since it appears nobody is eager to hire my services, could you favour me with a little money instead?"
+amadeus,m16,L31031,L31037,,u262,SCHLUMBERG,L31036,u255,MOZART,What for?
+amadeus,m16,L31031,L31038,,u255,MOZART,L31037,u262,SCHLUMBERG,"If a man cannot earn, he must borrow."
+amadeus,m16,L31031,L31039,,u262,SCHLUMBERG,L31038,u255,MOZART,"Well, this is hardly the way to go about it."
+amadeus,m16,L31031,L31040,,u255,MOZART,L31039,u262,SCHLUMBERG,"No doubt, sir. But I am endowed with talent, and you with money. If I offer mine, you should offer yours."
+amadeus,m16,L31041,L31041,,u262,SCHLUMBERG,,,,I'm sorry. No.
+amadeus,m16,L31041,L31042,,u255,MOZART,L31041,u262,SCHLUMBERG,"Please. I'll give it back, I promise. Please, sir."
+amadeus,m16,L31041,L31043,,u262,SCHLUMBERG,L31042,u255,MOZART,"My answer is no, Mozart."
+amadeus,m16,L31045,L31045,,u268,VON SWIETEN,,,,"This is embarrassing, you know. You introduced Mozart to some of my friends and he's begging from practically all of them. It has to stop."
+amadeus,m16,L31045,L31046,,u260,SALIERI,L31045,u268,VON SWIETEN,"I agree, Baron."
+amadeus,m16,L31045,L31047,,u268,VON SWIETEN,L31046,u260,SALIERI,Can't you think of anyone who might commission some work from him? I've done my best. I got him to arrange some Bach for my Sunday concerts. He got a fee - what I could afford. Can't you think of anyone who might do something for him?
+amadeus,m16,L31045,L31048,,u260,SALIERI,L31047,u268,VON SWIETEN,"No, Baron, no. I'm afraid Mozart is a lost cause. He has managed to alienate practically the whole of Vienna. He is constantly drunk. He never pays his debts. I can't think of one person to whom I dare recommend him."
+amadeus,m16,L31045,L31049,,u268,VON SWIETEN,L31048,u260,SALIERI,"How sad. It's tragic, isn't it? Such a talent."
+amadeus,m16,L31045,L31050,,u260,SALIERI,L31049,u268,VON SWIETEN,Indeed. Just a moment - as a matter of fact I think I do know someone who could commission a work from him. A very appropriate person to do so. Yes.
+amadeus,m16,L31052,L31052,,u260,SALIERI,,,,I have come to commission work from you.
+amadeus,m16,L31052,L31053,,u255,MOZART,L31052,u260,SALIERI,What work?
+amadeus,m16,L31052,L31054,,u260,SALIERI,L31053,u255,MOZART,A Mass for the dead.
+amadeus,m16,L31052,L31055,,u255,MOZART,L31054,u260,SALIERI,What dead? Who is dead?
+amadeus,m16,L31052,L31056,,u260,SALIERI,L31055,u255,MOZART,A man who deserved a Requiem Mass and never got one.
+amadeus,m16,L31052,L31057,,u255,MOZART,L31056,u260,SALIERI,Who are you?
+amadeus,m16,L31052,L31058,,u260,SALIERI,L31057,u255,MOZART,I am only a messenger. Do you accept? You will be paid well.
+amadeus,m16,L31052,L31059,,u255,MOZART,L31058,u260,SALIERI,How much?
+amadeus,m16,L31061,L31061,,u255,MOZART,,,,How long will you give me?
+amadeus,m16,L31061,L31062,,u260,SALIERI,L31061,u255,MOZART,Work fast. And be sure to tell no one what you do. You will see me again soon.
+amadeus,m16,L31064,L31064,,u247,CONSTANZE,,,,Who was that?
+amadeus,m16,L31064,L31065,,u255,MOZART,L31064,u247,CONSTANZE,No one.
+amadeus,m16,L31064,L31066,,u247,CONSTANZE,L31065,u255,MOZART,I heard voices.
+amadeus,m16,L31068,L31068,,u247,CONSTANZE,,,,"What's that? Oh! Who gave you this? How much is it? Wolfi, who gave you this?"
+amadeus,m16,L31068,L31069,,u255,MOZART,L31068,u247,CONSTANZE,I'm not telling you.
+amadeus,m16,L31068,L31070,,u247,CONSTANZE,L31069,u255,MOZART,Why not?
+amadeus,m16,L31068,L31071,,u255,MOZART,L31070,u247,CONSTANZE,You'd think I was mad.
+amadeus,m16,L31073,L31073,,u266,VOGLER,,,,What?
+amadeus,m16,L31073,L31074,,u257,OLD SALIERI,L31073,u266,VOGLER,"His funeral - imagine it! The Cathedral, all Vienna sitting there. His coffin, Mozart's little coffin in the middle. And suddenly in that silence, music. A divine music bursts out over them all, a great Mass of Death: Requiem Mass for Wolfgang Mozart, composed by his devoted friend Antonio Salieri. What sublimity! What depth! What passion in the music! Salieri has been touched by God at last. And God, forced to listen. Powerless - powerless to stop it. I at the end, for once, laughing at Him. Do you understand? Do you?"
+amadeus,m16,L31073,L31075,,u266,VOGLER,L31074,u257,OLD SALIERI,Yes.
+amadeus,m16,L31073,L31076,,u257,OLD SALIERI,L31075,u266,VOGLER,"The only thing that worried me was the actual killing. How does one do that? How does one kill a man? It's one thing to dream about it. It's very different when you have to do it, with your own hands."
+amadeus,m16,L31078,L31078,,u255,MOZART,,,,No. Don't answer it!
+amadeus,m16,L31078,L31079,,u247,CONSTANZE,L31078,u255,MOZART,Why?
+amadeus,m16,L31081,L31081,,u261,SCHIKANEDER,,,,Am I interrupting something?
+amadeus,m16,L31081,L31082,,u247,CONSTANZE,L31081,u261,SCHIKANEDER,Not at all.
+amadeus,m16,L31081,L31083,,u261,SCHIKANEDER,L31082,u247,CONSTANZE,Where's our friend?
+amadeus,m16,L31081,L31084,,u247,CONSTANZE,L31083,u261,SCHIKANEDER,He's not in. But he's working on it. He said to tell you.
+amadeus,m16,L31081,L31085,,u261,SCHIKANEDER,L31084,u247,CONSTANZE,I hope so. I need it immediately.
+amadeus,m16,L31089,L31089,,u255,MOZART,,,,Leave that alone!
+amadeus,m16,L31089,L31090,,u261,SCHIKANEDER,L31089,u255,MOZART,Wolfi!
+amadeus,m16,L31089,L31091,,u255,MOZART,L31090,u261,SCHIKANEDER,Put it down!
+amadeus,m16,L31089,L31092,,u261,SCHIKANEDER,L31091,u255,MOZART,What is this?
+amadeus,m16,L31089,L31093,,u255,MOZART,L31092,u261,SCHIKANEDER,"Put it down, I said! It's nothing for you."
+amadeus,m16,L31089,L31094,,u261,SCHIKANEDER,L31093,u255,MOZART,Oh! I'm sorry! I'm sorry! What have you got for me? Is it finished?
+amadeus,m16,L31089,L31095,,u255,MOZART,L31094,u261,SCHIKANEDER,What?
+amadeus,m16,L31089,L31096,,u261,SCHIKANEDER,L31095,u255,MOZART,"What? The vaudeville, what'd you think?"
+amadeus,m16,L31089,L31097,,u255,MOZART,L31096,u261,SCHIKANEDER,Yes.
+amadeus,m16,L31089,L31098,,u261,SCHIKANEDER,L31097,u255,MOZART,Can I see it?
+amadeus,m16,L31089,L31099,,u255,MOZART,L31098,u261,SCHIKANEDER,No.
+amadeus,m16,L31089,L31100,,u261,SCHIKANEDER,L31099,u255,MOZART,Why not?
+amadeus,m16,L31089,L31101,,u255,MOZART,L31100,u261,SCHIKANEDER,Because there's nothing to see.
+amadeus,m16,L31102,L31102,,u261,SCHIKANEDER,,,,"Look, I asked you if we could start rehearsal next week and you said yes."
+amadeus,m16,L31102,L31103,,u255,MOZART,L31102,u261,SCHIKANEDER,"Well, we can."
+amadeus,m16,L31102,L31104,,u261,SCHIKANEDER,L31103,u255,MOZART,So let me see it. Where is it?
+amadeus,m16,L31106,L31106,,u261,SCHIKANEDER,,,,"Look, you little clown, do you know how many people I've hired for you? Do you know how many people are waiting?"
+amadeus,m16,L31106,L31107,,u247,CONSTANZE,L31106,u261,SCHIKANEDER,Leave him alone!
+amadeus,m16,L31106,L31108,,u261,SCHIKANEDER,L31107,u247,CONSTANZE,I'm paying these people. Do you realize that?
+amadeus,m16,L31106,L31109,,u247,CONSTANZE,L31108,u261,SCHIKANEDER,He's doing his best.
+amadeus,m16,L31106,L31110,,u261,SCHIKANEDER,L31109,u247,CONSTANZE,I'm paying people just to wait for you. It's ridiculous!
+amadeus,m16,L31106,L31111,,u247,CONSTANZE,L31110,u261,SCHIKANEDER,"You know what's ridiculous? Your libretto, that's what's ridiculous. Only an idiot would ask Wolfi to work on that stuff!"
+amadeus,m16,L31106,L31112,,u261,SCHIKANEDER,L31111,u247,CONSTANZE,Oh yes? And what's so intelligent about writing a Requiem?
+amadeus,m16,L31106,L31113,,u247,CONSTANZE,L31112,u261,SCHIKANEDER,Money! Money!
+amadeus,m16,L31106,L31114,,u261,SCHIKANEDER,L31113,u247,CONSTANZE,"You're mad! She's mad, Wolfi."
+amadeus,m16,L31106,L31115,,u247,CONSTANZE,L31114,u261,SCHIKANEDER,"Oh yes, and who are you? He's worked for Kings. For the Emperor. Who are you?"
+amadeus,m16,L31117,L31117,,u260,SALIERI,,,,Now calm yourself. Calm. What's the matter with you?
+amadeus,m16,L31117,L31118,,u253,LORL,L31117,u260,SALIERI,I'm leaving. I'm not working there anymore. I'm scared!
+amadeus,m16,L31117,L31119,,u260,SALIERI,L31118,u253,LORL,Why? What has happened?
+amadeus,m16,L31117,L31120,,u253,LORL,L31119,u260,SALIERI,"You don't know what it's like. Herr Mozart frightens me. He drinks all day, then takes all that medicine and it makes him worse."
+amadeus,m16,L31117,L31121,,u260,SALIERI,L31120,u253,LORL,What medicine?
+amadeus,m16,L31117,L31122,,u253,LORL,L31121,u260,SALIERI,I don't know. He has pains.
+amadeus,m16,L31117,L31123,,u260,SALIERI,L31122,u253,LORL,Where?
+amadeus,m16,L31117,L31124,,u253,LORL,L31123,u260,SALIERI,"Here, in his stomach. They bend him right over."
+amadeus,m16,L31117,L31125,,u260,SALIERI,L31124,u253,LORL,Is he working?
+amadeus,m16,L31117,L31126,,u253,LORL,L31125,u260,SALIERI,"I'm frightened, sir. Really! When he speaks, he doesn't make any sense. You know he said he saw - he said he saw his father. And his father's dead."
+amadeus,m16,L31117,L31127,,u260,SALIERI,L31126,u253,LORL,Is he working?
+amadeus,m16,L31117,L31128,,u253,LORL,L31127,u260,SALIERI,"I suppose so. He sits there all he time, doing some silly opera."
+amadeus,m16,L31117,L31129,,u260,SALIERI,L31128,u253,LORL,Opera? Opera!
+amadeus,m16,L31117,L31130,,u253,LORL,L31129,u260,SALIERI,"Please don't ask me to go back again. I'm frightened! I'm very, very frightened."
+amadeus,m16,L31117,L31131,,u260,SALIERI,L31130,u253,LORL,Are you sure it's an opera?
+amadeus,m16,L31132,L31132,,u255,MOZART,,,,"I don't have it yet. It's not finished. I'm sorry, but I need more time."
+amadeus,m16,L31132,L31133,,u260,SALIERI,L31132,u255,MOZART,Are you neglecting my request?
+amadeus,m16,L31132,L31134,,u255,MOZART,L31133,u260,SALIERI,"No, no! I promise you, I'll give you a wonderful piece - the best I ever can!"
+amadeus,m16,L31135,L31135,,u255,MOZART,,,,"This is my wife, Stanzi. I've been sick, but I'm all right now. Aren't I?"
+amadeus,m16,L31135,L31136,,u247,CONSTANZE,L31135,u255,MOZART,"Oh yes, sir. He's all right. And he's working on it very hard."
+amadeus,m16,L31135,L31137,,u255,MOZART,L31136,u247,CONSTANZE,Give me two more weeks. Please.
+amadeus,m16,L31140,L31140,,u247,CONSTANZE,,,,Give me one reason I can understand.
+amadeus,m16,L31140,L31141,,u255,MOZART,L31140,u247,CONSTANZE,I can't write it!
+amadeus,m16,L31140,L31142,,u247,CONSTANZE,L31141,u255,MOZART,Why not?
+amadeus,m16,L31140,L31143,,u255,MOZART,L31142,u247,CONSTANZE,It's killing me.
+amadeus,m16,L31146,L31146,,u255,MOZART,,,,Go back to bed.
+amadeus,m16,L31146,L31147,,u247,CONSTANZE,L31146,u255,MOZART,"Please! Let me sit here. Let me stay here with you. I promise I won't say all word. I'll just be here, so you know no one's going to hurt you. Please, please!"
+amadeus,m16,L31162,L31162,,u242,ANDANTE,,,,"A sweetheart or a pretty little wife is Papageno's wish. A willing, billing, lovey dovey Would be My most tasty little dish. Be my most tasty little dish! Be my most tasty little dish!"
+amadeus,m16,L31162,L31163,,u241,ALLEGRO,L31162,u242,ANDANTE,Then that would be eating and drinking I'd live like a Prince without thinking. The wisdom of old would be mine - A woman's much better than wine! Then that would be eating and drinking! The wisdom of old would be mine - A woman's much better than wine. She's much better than wine! She's much better than wine!
+amadeus,m16,L31162,L31164,,u242,ANDANTE,L31163,u241,ALLEGRO,"A sweetheart or a pretty little wife is Papageno's wish. A willing, billing, lovey dovey Would be My most tasty little dish."
+amadeus,m16,L31162,L31165,,u241,ALLEGRO,L31164,u242,ANDANTE,"I need to net one birdie only And I will stop feeling so lonely. But if she won't fly to my aid, Then into a ghost I must fade. I need to net one birdie only But if she won't fly to my aid, Then into a ghost I must fade. To a ghost I must fade! To a ghost I must fade!"
+amadeus,m16,L31162,L31166,,u242,ANDANTE,L31165,u241,ALLEGRO,"A sweetheart or a pretty little wife is Papageno's wish. A willing, billing, lovey dovey Would be My most tasty little dish."
+amadeus,m16,L31162,L31167,,u241,ALLEGRO,L31166,u242,ANDANTE,"At present the girls only peck me. Their cruelty surely will wreck me. But one little beak in my own, And I'll up to heaven be flown! At present the girls only peck me. But one little beak in my own, And I'll up to heaven be flown. Up to heaven be flown! Up to heaven be flown!"
+amadeus,m16,L31170,L31170,,u265,UGLY OLD WOMAN,,,,"Here I am, my angel."
+amadeus,m16,L31170,L31171,,u259,PAPAGENO,L31170,u265,UGLY OLD WOMAN,What? Who the devil are you?
+amadeus,m16,L31170,L31172,,u265,UGLY OLD WOMAN,L31171,u259,PAPAGENO,"I've taken pity on you, my angel. I heard your wish."
+amadeus,m16,L31170,L31173,,u259,PAPAGENO,L31172,u265,UGLY OLD WOMAN,"Oh. Well, thank you! How wonderful. Some people get all the luck."
+amadeus,m16,L31174,L31174,,u265,UGLY OLD WOMAN,,,,Now you've got to promise me faithfully you'll remain true to me forever. Then you'll see how tenderly your little birdie will love you.
+amadeus,m16,L31174,L31175,,u259,PAPAGENO,L31174,u265,UGLY OLD WOMAN,I can't wait.
+amadeus,m16,L31174,L31176,,u265,UGLY OLD WOMAN,L31175,u259,PAPAGENO,"Well, promise then."
+amadeus,m16,L31174,L31177,,u259,PAPAGENO,L31176,u265,UGLY OLD WOMAN,What do you mean - now?
+amadeus,m16,L31174,L31178,,u265,UGLY OLD WOMAN,L31177,u259,PAPAGENO,"Of course now. Right away, before I get any older."
+amadeus,m16,L31179,L31179,,u259,PAPAGENO,,,,"Well, I don't know! I mean you're a delicious, delightful, delectable little bird, but don't you think you might be just a little tough?"
+amadeus,m16,L31179,L31180,,u265,UGLY OLD WOMAN,L31179,u259,PAPAGENO,"Oh, I'm tender enough for you, my boy. I'm tender enough for you."
+amadeus,m16,L31181,L31181,,u255,MOZART,,,,What happened? Is it over?
+amadeus,m16,L31181,L31182,,u260,SALIERI,L31181,u255,MOZART,I'm taking you home. You're not well.
+amadeus,m16,L31181,L31183,,u255,MOZART,L31182,u260,SALIERI,"No, no. I have to get back. I have -"
+amadeus,m16,L31187,L31187,,u260,SALIERI,,,,Where is your wife?
+amadeus,m16,L31187,L31188,,u255,MOZART,L31187,u260,SALIERI,"Not here! She's not well, either. She went to the Spa."
+amadeus,m16,L31187,L31189,,u260,SALIERI,L31188,u255,MOZART,You mean she's not coming back?
+amadeus,m16,L31187,L31190,,u255,MOZART,L31189,u260,SALIERI,You're so good to me. Truly. Thank you.
+amadeus,m16,L31187,L31191,,u260,SALIERI,L31190,u255,MOZART,"No, please."
+amadeus,m16,L31187,L31192,,u255,MOZART,L31191,u260,SALIERI,I mean to come to my opera. You are the only colleague who did.
+amadeus,m16,L31193,L31193,,u260,SALIERI,,,,I would never miss anything that you had written. You must know that.
+amadeus,m16,L31193,L31194,,u255,MOZART,L31193,u260,SALIERI,This is only a vaudeville.
+amadeus,m16,L31193,L31195,,u260,SALIERI,L31194,u255,MOZART,"Oh no. It is a sublime piece. The grandest operone. I tell you, you are the greatest composer known to me."
+amadeus,m16,L31193,L31196,,u255,MOZART,L31195,u260,SALIERI,Do you mean that?
+amadeus,m16,L31193,L31197,,u260,SALIERI,L31196,u255,MOZART,I do.
+amadeus,m16,L31193,L31198,,u255,MOZART,L31197,u260,SALIERI,"I have bad fancies. I don't sleep well anymore. Then I drink too much, and think stupid things."
+amadeus,m16,L31193,L31199,,u260,SALIERI,L31198,u255,MOZART,Are you ill?
+amadeus,m16,L31193,L31200,,u255,MOZART,L31199,u260,SALIERI,The doctor thinks I am. But -
+amadeus,m16,L31193,L31201,,u260,SALIERI,L31200,u255,MOZART,What?
+amadeus,m16,L31193,L31202,,u255,MOZART,L31201,u260,SALIERI,I'm too young to be so sick.
+amadeus,m16,L31203,L31203,,u260,SALIERI,,,,Shall I answer it?
+amadeus,m16,L31203,L31204,,u255,MOZART,L31203,u260,SALIERI,"No! No, it's him!"
+amadeus,m16,L31203,L31205,,u260,SALIERI,L31204,u255,MOZART,Who?
+amadeus,m16,L31203,L31206,,u255,MOZART,L31205,u260,SALIERI,The man. He's here.
+amadeus,m16,L31203,L31207,,u260,SALIERI,L31206,u255,MOZART,What man?
+amadeus,m16,L31209,L31209,,u255,MOZART,,,,"Wait! Ask him if he'd give me some money now. Tell him if he would, that would help me finish it."
+amadeus,m16,L31209,L31210,,u260,SALIERI,L31209,u255,MOZART,Finish what?
+amadeus,m16,L31209,L31211,,u255,MOZART,L31210,u260,SALIERI,He knows. He knows!
+amadeus,m16,L31212,L31212,,u261,SCHIKANEDER,,,,Herr Salieri.
+amadeus,m16,L31212,L31213,,u260,SALIERI,L31212,u261,SCHIKANEDER,"Yes, I am looking after him."
+amadeus,m16,L31212,L31214,,u261,SCHIKANEDER,L31213,u260,SALIERI,Can we come in?
+amadeus,m16,L31212,L31215,,u260,SALIERI,L31214,u261,SCHIKANEDER,"Well, he's sleeping now. Better not."
+amadeus,m16,L31212,L31216,,u261,SCHIKANEDER,L31215,u260,SALIERI,But he's all right?
+amadeus,m16,L31212,L31217,,u260,SALIERI,L31216,u261,SCHIKANEDER,"Oh, yes. He's just exhausted. He became dizzy, that's all. We should let him rest."
+amadeus,m16,L31212,L31218,,u261,SCHIKANEDER,L31217,u260,SALIERI,"Well, tell him we were here, won't you?"
+amadeus,m16,L31212,L31219,,u260,SALIERI,L31218,u261,SCHIKANEDER,Of course.
+amadeus,m16,L31212,L31220,,u261,SCHIKANEDER,L31219,u260,SALIERI,And say everything went wonderfully. A triumph-de-luxe - say that! Tell him the audience shouted his name a hundred times.
+amadeus,m16,L31212,L31221,,u260,SALIERI,L31220,u261,SCHIKANEDER,Bene.
+amadeus,m16,L31212,L31222,,u261,SCHIKANEDER,L31221,u260,SALIERI,I'll call tomorrow.
+amadeus,m16,L31212,L31223,,u260,SALIERI,L31222,u261,SCHIKANEDER,Yes. And congratulations to all of you. It was superb.
+amadeus,m16,L31225,L31225,,u261,SCHIKANEDER,,,,"Oh, by the way, give him this. This is his share. That should cheer him up, eh?"
+amadeus,m16,L31225,L31226,,u260,SALIERI,L31225,u261,SCHIKANEDER,"Yes, indeed. Goodnight to you all now. It was perfection - truly!"
+amadeus,m16,L31230,L31230,,u255,MOZART,,,,Another? But that's too soon! Tomorrow night? It's impossible! Did he say a hundred?
+amadeus,m16,L31230,L31231,,u260,SALIERI,L31230,u255,MOZART,"Yes. Can I - could I help you, in any way?"
+amadeus,m16,L31230,L31232,,u255,MOZART,L31231,u260,SALIERI,"Would you? Actually, you could."
+amadeus,m16,L31230,L31233,,u260,SALIERI,L31232,u255,MOZART,"My dear friend, it would be my greatest pleasure."
+amadeus,m16,L31230,L31234,,u255,MOZART,L31233,u260,SALIERI,But you'd have to swear not to tell a soul. I'm not allowed.
+amadeus,m16,L31230,L31235,,u260,SALIERI,L31234,u255,MOZART,Of course.
+amadeus,m16,L31230,L31236,,u255,MOZART,L31235,u260,SALIERI,"You know, it's all here in my head. It's just ready to be set down. But when I'm dizzy like this my eyes won't focus. I can't write."
+amadeus,m16,L31230,L31237,,u260,SALIERI,L31236,u255,MOZART,"Then, let us try together. I'd regard it as such an honour. Tell me, what is this work?"
+amadeus,m16,L31230,L31238,,u255,MOZART,L31237,u260,SALIERI,A Mass. A Mass for the Dead.
+amadeus,m16,L31239,L31239,,u256,OFFICER,,,,What is it?
+amadeus,m16,L31239,L31240,,u247,CONSTANZE,L31239,u256,OFFICER,I want to go!
+amadeus,m16,L31239,L31241,,u256,OFFICER,L31240,u247,CONSTANZE,Where?
+amadeus,m16,L31239,L31242,,u247,CONSTANZE,L31241,u256,OFFICER,I want to go back to Vienna.
+amadeus,m16,L31239,L31243,,u256,OFFICER,L31242,u247,CONSTANZE,Now?
+amadeus,m16,L31239,L31244,,u247,CONSTANZE,L31243,u256,OFFICER,Yes!
+amadeus,m16,L31239,L31245,,u256,OFFICER,L31244,u247,CONSTANZE,Why?
+amadeus,m16,L31239,L31246,,u247,CONSTANZE,L31245,u256,OFFICER,I feel wrong. I feel wrong being here.
+amadeus,m16,L31239,L31247,,u256,OFFICER,L31246,u247,CONSTANZE,What are you talking about?
+amadeus,m16,L31248,L31248,,u255,MOZART,,,,Where did I stop?
+amadeus,m16,L31248,L31249,,u260,SALIERI,L31248,u255,MOZART,The end of the Recordare - Statuens in parte dextra.
+amadeus,m16,L31248,L31250,,u255,MOZART,L31249,u260,SALIERI,So now the Confutatis. Confutatis Maledictis. When the wicked are confounded. Flammis acribus addictis. How would you translate that?
+amadeus,m16,L31248,L31251,,u260,SALIERI,L31250,u255,MOZART,Consigned to flames of woe.
+amadeus,m16,L31248,L31252,,u255,MOZART,L31251,u260,SALIERI,Do you believe in it?
+amadeus,m16,L31248,L31253,,u260,SALIERI,L31252,u255,MOZART,What?
+amadeus,m16,L31248,L31254,,u255,MOZART,L31253,u260,SALIERI,A fire which never dies. Burning one forever?
+amadeus,m16,L31248,L31255,,u260,SALIERI,L31254,u255,MOZART,"Oh, yes."
+amadeus,m16,L31248,L31256,,u255,MOZART,L31255,u260,SALIERI,Strange!
+amadeus,m16,L31248,L31257,,u260,SALIERI,L31256,u255,MOZART,Come. Let's begin.
+amadeus,m16,L31258,L31258,,u260,SALIERI,,,,Confutatis Maledictis.
+amadeus,m16,L31258,L31259,,u255,MOZART,L31258,u260,SALIERI,We ended in F Major?
+amadeus,m16,L31258,L31260,,u260,SALIERI,L31259,u255,MOZART,Yes.
+amadeus,m16,L31258,L31261,,u255,MOZART,L31260,u260,SALIERI,So now - A minor. Suddenly.
+amadeus,m16,L31262,L31262,,u255,MOZART,,,,The Fire.
+amadeus,m16,L31262,L31263,,u260,SALIERI,L31262,u255,MOZART,What time?
+amadeus,m16,L31262,L31264,,u255,MOZART,L31263,u260,SALIERI,Common time.
+amadeus,m16,L31265,L31265,,u255,MOZART,,,,"Start with the voices. Basses first. Second beat of the first measure - A. Con-fu-ta-tis. Second measure, second beat. Ma-le-dic-tis. G-sharp, of course."
+amadeus,m16,L31265,L31266,,u260,SALIERI,L31265,u255,MOZART,Yes.
+amadeus,m16,L31265,L31267,,u255,MOZART,L31266,u260,SALIERI,"Third measure, second beat starting on E. Flam-mis a-cri-bus ad-dic-tis. And fourth measure, fourth beat - D. Ma-le-dic-tis, flam-mis a-cri-bus ad- dic-tis. Do you have that?"
+amadeus,m16,L31265,L31268,,u260,SALIERI,L31267,u255,MOZART,I think so.
+amadeus,m16,L31265,L31269,,u255,MOZART,L31268,u260,SALIERI,Sing it back.
+amadeus,m16,L31270,L31270,,u255,MOZART,,,,"Good. Now the tenors. Fourth beat of the first measure - C. Con-fu-ta-tis. Second measure, fourth beat on D. Ma-le-dic-tis. All right?"
+amadeus,m16,L31270,L31271,,u260,SALIERI,L31270,u255,MOZART,Yes.
+amadeus,m16,L31270,L31272,,u255,MOZART,L31271,u260,SALIERI,"Fourth measure, second beat - F. Flam-mis a-cri-bus ad-dic-tis, flam- mis a-cri-bus ad-dic-tis."
+amadeus,m16,L31273,L31273,,u255,MOZART,,,,Now the orchestra. Second bassoon and bass trombone with the basses. Identical notes and rhythm. The first bassoon and tenor trombone -
+amadeus,m16,L31273,L31274,,u260,SALIERI,L31273,u255,MOZART,Please! Just one moment.
+amadeus,m16,L31275,L31275,,u255,MOZART,,,,It couldn't be simpler.
+amadeus,m16,L31275,L31276,,u260,SALIERI,L31275,u255,MOZART,First bassoon and tenor trombone - what?
+amadeus,m16,L31275,L31277,,u255,MOZART,L31276,u260,SALIERI,With the tenors.
+amadeus,m16,L31275,L31278,,u260,SALIERI,L31277,u255,MOZART,Also identical?
+amadeus,m16,L31275,L31279,,u255,MOZART,L31278,u260,SALIERI,"Exactly. The instruments to go with the voices. Trumpets and timpani, tonic and dominant."
+amadeus,m16,L31280,L31280,,u260,SALIERI,,,,And that's all?
+amadeus,m16,L31280,L31281,,u255,MOZART,L31280,u260,SALIERI,Oh no. Now for the Fire. Strings in unison - ostinato on all - like this.
+amadeus,m16,L31283,L31283,,u255,MOZART,,,,Do you have me?
+amadeus,m16,L31283,L31284,,u260,SALIERI,L31283,u255,MOZART,I think so.
+amadeus,m16,L31283,L31285,,u255,MOZART,L31284,u260,SALIERI,Show me.
+amadeus,m16,L31287,L31287,,u260,SALIERI,,,,That's wonderful!
+amadeus,m16,L31287,L31288,,u255,MOZART,L31287,u260,SALIERI,"Yes, yes - go on. The Voca Me. Suddenly sotto voce. Write that down: sotto voce, pianissimo. Voca me cum benedictis. Call me among the blessed."
+amadeus,m16,L31289,L31289,,u255,MOZART,,,,"C Major. Sopranos and altos in thirds. Altos on C. Sopranos above. Vo-ca, vo-ca me, vo-ca me cum be-ne- dic-tis."
+amadeus,m16,L31289,L31290,,u260,SALIERI,L31289,u255,MOZART,Sopranos up to F on the second 'Voca'?
+amadeus,m16,L31289,L31291,,u255,MOZART,L31290,u260,SALIERI,"Yes, and on 'dictis'."
+amadeus,m16,L31289,L31292,,u260,SALIERI,L31291,u255,MOZART,Yes!
+amadeus,m16,L31295,L31295,,u255,MOZART,,,,And that's it. Do you have it?
+amadeus,m16,L31295,L31296,,u260,SALIERI,L31295,u255,MOZART,You go fast!
+amadeus,m16,L31295,L31297,,u255,MOZART,L31296,u260,SALIERI,Do you have it?
+amadeus,m16,L31295,L31298,,u260,SALIERI,L31297,u255,MOZART,Yes.
+amadeus,m16,L31295,L31299,,u255,MOZART,L31298,u260,SALIERI,Then let me hear it. All of it. The whole thing from the beginning - now!
+amadeus,m16,L31300,L31300,,u255,MOZART,,,,Do you want to rest a bit?
+amadeus,m16,L31300,L31301,,u260,SALIERI,L31300,u255,MOZART,Oh no. I'm not tired at all.
+amadeus,m16,L31300,L31302,,u255,MOZART,L31301,u260,SALIERI,We'll stop for just a moment. Then we'll do the Lacrimosa.
+amadeus,m16,L31300,L31303,,u260,SALIERI,L31302,u255,MOZART,"I can keep going, I assure you. Shall we try?"
+amadeus,m16,L31300,L31304,,u255,MOZART,L31303,u260,SALIERI,Would you stay with me while I sleep a little?
+amadeus,m16,L31300,L31305,,u260,SALIERI,L31304,u255,MOZART,I'm not leaving you.
+amadeus,m16,L31300,L31306,,u255,MOZART,L31305,u260,SALIERI,I am so ashamed.
+amadeus,m16,L31300,L31307,,u260,SALIERI,L31306,u255,MOZART,What for?
+amadeus,m16,L31300,L31308,,u255,MOZART,L31307,u260,SALIERI,I was foolish. I thought you did not care for my work - or me. Forgive me. Forgive me!
+amadeus,m16,L31309,L31309,,u247,CONSTANZE,,,,What are you doing here?
+amadeus,m16,L31309,L31310,,u260,SALIERI,L31309,u247,CONSTANZE,"Your husband is ill, ma'am. He took sick. I brought him home."
+amadeus,m16,L31309,L31311,,u247,CONSTANZE,L31310,u260,SALIERI,Why you?
+amadeus,m16,L31309,L31312,,u260,SALIERI,L31311,u247,CONSTANZE,I was at hand.
+amadeus,m16,L31309,L31313,,u247,CONSTANZE,L31312,u260,SALIERI,"Well, thank you very much. You can go now."
+amadeus,m16,L31309,L31314,,u260,SALIERI,L31313,u247,CONSTANZE,"He needs me, ma'am."
+amadeus,m16,L31309,L31315,,u247,CONSTANZE,L31314,u260,SALIERI,"No, he doesn't. And I don't want you here. Just go, please."
+amadeus,m16,L31309,L31316,,u260,SALIERI,L31315,u247,CONSTANZE,He asked me to stay.
+amadeus,m16,L31309,L31317,,u247,CONSTANZE,L31316,u260,SALIERI,And I'm asking you -
+amadeus,m16,L31322,L31322,,u247,CONSTANZE,,,,This is not his handwriting.
+amadeus,m16,L31322,L31323,,u260,SALIERI,L31322,u247,CONSTANZE,No. I was assisting him. He asked me.
+amadeus,m16,L31322,L31324,,u247,CONSTANZE,L31323,u260,SALIERI,He's not going to work on this anymore. It is making him ill. Please.
+amadeus,m16,L31329,L31329,,u247,CONSTANZE,,,,"I regret we have no servants to show you out, Herr Salieri. Respect my wish and go."
+amadeus,m16,L31329,L31330,,u260,SALIERI,L31329,u247,CONSTANZE,"Madame, I will respect his. He asked me to stay here."
+amadeus,m16,L31332,L31332,,u266,VOGLER,,,,Why? Why? Why? Why add to your misery by confessing to murder? You didn't kill him.
+amadeus,m16,L31332,L31333,,u257,OLD SALIERI,L31332,u266,VOGLER,I did.
+amadeus,m16,L31332,L31334,,u266,VOGLER,L31333,u257,OLD SALIERI,"No, you didn't!"
+amadeus,m16,L31332,L31335,,u257,OLD SALIERI,L31334,u266,VOGLER,I poisoned his life.
+amadeus,m16,L31332,L31336,,u266,VOGLER,L31335,u257,OLD SALIERI,But not his body.
+amadeus,m16,L31332,L31337,,u257,OLD SALIERI,L31336,u266,VOGLER,What difference does that make?
+amadeus,m16,L31332,L31338,,u266,VOGLER,L31337,u257,OLD SALIERI,"My son, why should you want all Vienna to believe you a murderer? Is that your penance? Is it?"
+amadeus,m16,L31332,L31339,,u257,OLD SALIERI,L31338,u266,VOGLER,"No, Father. From now on no one will be able to speak of Mozart without thinking of me. Whenever they say Mozart with love, they'll have to say Salieri with loathing. And that's my immortality - at last! Our names will be tied together for eternity - his in fame and mine in infamy. At least it's better than the total oblivion he'd planned for me, your merciful God!"
+amadeus,m16,L31332,L31340,,u266,VOGLER,L31339,u257,OLD SALIERI,"Oh my son, my poor son!"
+amadeus,m16,L31332,L31341,,u257,OLD SALIERI,L31340,u266,VOGLER,"Don't pity me. Pity yourself. You serve a wicked God. He killed Mozart, not I. Took him, snatched him away, without pity. He destroyed His beloved rather than let a mediocrity like me get the smallest share in his glory. He doesn't care. Understand that. God cares nothing for the man He denies and nothing either for the man He uses. He broke Mozart in half when He'd finished with him, and threw him away. Like an old, worn out flute."

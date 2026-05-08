@@ -1,0 +1,492 @@
+movie_name,movie_idx,conversation_id,utterance_id,timestamp,speaker_id,speaker_name,reply_to,listener_id,listener_name,text
+dead poets society,m318,L157213,L157213,,u4786,NOLAN,,,,"Welcome. back, Mr. Dalton. How's your father?"
+dead poets society,m318,L157213,L157214,,u4776,CHARLIE,L157213,u4786,NOLAN,"Doing fine, sir."
+dead poets society,m318,L157213,L157215,,u4786,NOLAN,L157214,u4776,CHARLIE,"Your family move into that new house, Mr. Overstreet?"
+dead poets society,m318,L157225,L157225,,u4785,NEIL,,,,I hear we're going to be roommates. Neil Perry.
+dead poets society,m318,L157225,L157226,,u4788,TODD,L157225,u4785,NEIL,Todd Anderson.
+dead poets society,m318,L157227,L157227,,u4785,NEIL,,,,Why'd you leave Balincrest?
+dead poets society,m318,L157227,L157228,,u4788,TODD,L157227,u4785,NEIL,My brother went here.
+dead poets society,m318,L157227,L157229,,u4785,NEIL,L157228,u4788,TODD,"Oh, so you're that Anderson."
+dead poets society,m318,L157230,L157230,,u4788,TODD,,,,My parents wanted me here all along but my grades weren't good enough. I had to go to Balincrest to pull them up.
+dead poets society,m318,L157230,L157231,,u4785,NEIL,L157230,u4788,TODD,"Well, you've won the booby prize. Don't expect to like it here."
+dead poets society,m318,L157230,L157232,,u4788,TODD,L157231,u4785,NEIL,I don't.
+dead poets society,m318,L157235,L157235,,u4776,CHARLIE,,,,"Hey, I heard you went to summer school?"
+dead poets society,m318,L157235,L157236,,u4785,NEIL,L157235,u4776,CHARLIE,"Yeah, chemistry. My father thought I should get ahead."
+dead poets society,m318,L157235,L157237,,u4776,CHARLIE,L157236,u4785,NEIL,"Well, Meeks aced Latin and I didn't quite flunk English so if you want, we've got our study group."
+dead poets society,m318,L157235,L157238,,u4785,NEIL,L157237,u4776,CHARLIE,"Sure, but Cameron asked me too. Anybody mind including him?"
+dead poets society,m318,L157235,L157239,,u4776,CHARLIE,L157238,u4785,NEIL,"What's his specialty, brown-nosing?"
+dead poets society,m318,L157240,L157240,,u4785,NEIL,,,,"Hey, he's your roommate."
+dead poets society,m318,L157240,L157241,,u4776,CHARLIE,L157240,u4785,NEIL,That's not my fault.
+dead poets society,m318,L157244,L157244,,u4776,CHARLIE,,,,Charlie Dalton.
+dead poets society,m318,L157244,L157245,,u4782,KNOX,L157244,u4776,CHARLIE,Knox Overstreet.
+dead poets society,m318,L157246,L157246,,u4785,NEIL,,,,Todd's brother is Jeffrey Anderson.
+dead poets society,m318,L157246,L157247,,u4776,CHARLIE,L157246,u4785,NEIL,"Oh yeah. Sure. Valedictorian, National Merit Scholar"
+dead poets society,m318,L157248,L157248,,u4783,MEEKS,,,,"Well, welcome to ""Hell""ton."
+dead poets society,m318,L157248,L157249,,u4776,CHARLIE,L157248,u4783,MEEKS,It's every bit as hard as they say. Unless you're a genius like Meeks.
+dead poets society,m318,L157248,L157250,,u4783,MEEKS,L157249,u4776,CHARLIE,He flatters me so I'll help him with Latin.
+dead poets society,m318,L157248,L157251,,u4776,CHARLIE,L157250,u4783,MEEKS,"And English, and trig"
+dead poets society,m318,L157258,L157258,,u4785,NEIL,,,,"But father, I'm assistant editor."
+dead poets society,m318,L157258,L157259,,u4784,MR. PERRY,L157258,u4785,NEIL,"I'm sorry, Neil."
+dead poets society,m318,L157258,L157260,,u4785,NEIL,L157259,u4784,MR. PERRY,"But father, it's not fair."
+dead poets society,m318,L157258,L157261,,u4784,MR. PERRY,L157260,u4785,NEIL,"Fellows, would you excuse us a minute?"
+dead poets society,m318,L157262,L157262,,u4784,MR. PERRY,,,,"I will not be disputed in public, do you understand me?"
+dead poets society,m318,L157262,L157263,,u4785,NEIL,L157262,u4784,MR. PERRY,"Father, I wasn't disputing you."
+dead poets society,m318,L157262,L157264,,u4784,MR. PERRY,L157263,u4785,NEIL,"When you've finished medical school and you're on your own, you can do as you please. Until then, you will listen to me."
+dead poets society,m318,L157262,L157265,,u4785,NEIL,L157264,u4784,MR. PERRY,Yes sir. I'm sorry.
+dead poets society,m318,L157262,L157266,,u4784,MR. PERRY,L157265,u4785,NEIL,"You know what this means to your mother, don't you?"
+dead poets society,m318,L157262,L157267,,u4785,NEIL,L157266,u4784,MR. PERRY,Yes sir.
+dead poets society,m318,L157268,L157268,,u4785,NEIL,,,,"You know me, always taking on too much."
+dead poets society,m318,L157268,L157269,,u4784,MR. PERRY,L157268,u4785,NEIL,Good boy. Call us if you need anything.
+dead poets society,m318,L157270,L157270,,u4776,CHARLIE,,,,Why doesn't he let you do what you want?
+dead poets society,m318,L157270,L157271,,u4782,KNOX,L157270,u4776,CHARLIE,Yeah! Tell him off! It couldn't get any worse.
+dead poets society,m318,L157273,L157273,,u4782,KNOX,,,,Wait a minute. I don't let my parents walk on me.
+dead poets society,m318,L157273,L157274,,u4785,NEIL,L157273,u4782,KNOX,"Yeah, you just do everything they say! You'll be in daddy's law firm as sure as I'm standing here. And you'll be approving loans till you croak."
+dead poets society,m318,L157275,L157275,,u4776,CHARLIE,,,,"Okay, so I don't like it any more than you do. I'm just saying"
+dead poets society,m318,L157275,L157276,,u4785,NEIL,L157275,u4776,CHARLIE,Then don't tell me how to talk to my father when you're the same way. All right?!
+dead poets society,m318,L157277,L157277,,u4782,KNOX,,,,"All right. Jesus, what are you gonna do?"
+dead poets society,m318,L157277,L157278,,u4785,NEIL,L157277,u4782,KNOX,What I have to do. Screw the annual.
+dead poets society,m318,L157279,L157279,,u4783,MEEKS,,,,I certainly wouldn't lose any sleep over it. It's just a bunch of people trying to impress Nolan.
+dead poets society,m318,L157279,L157280,,u4785,NEIL,L157279,u4783,MEEKS,Screw it all. I don't give a damn about any of it.
+dead poets society,m318,L157281,L157281,,u4776,CHARLIE,,,,"I don't know about anyone else, but I could use a refresher in Latin. Eight o'clock in my room?"
+dead poets society,m318,L157281,L157282,,u4785,NEIL,L157281,u4776,CHARLIE,Sure.
+dead poets society,m318,L157281,L157283,,u4776,CHARLIE,L157282,u4785,NEIL,"You're welcome to join us, Todd."
+dead poets society,m318,L157286,L157286,,u4785,NEIL,,,,So what do you think of my father?
+dead poets society,m318,L157286,L157287,,u4788,TODD,L157286,u4785,NEIL,I'll take him over mine.
+dead poets society,m318,L157286,L157288,,u4785,NEIL,L157287,u4788,TODD,What?
+dead poets society,m318,L157286,L157289,,u4788,TODD,L157288,u4785,NEIL,Nothing.
+dead poets society,m318,L157286,L157290,,u4785,NEIL,L157289,u4788,TODD,"Todd, if you're gonna make it around here, you've gotta speak up. The meek might inherit the earth but they don't get into Harvard. know what I mean?"
+dead poets society,m318,L157306,L157306,,u4781,KEATING,,,,"Gather ye rosebuds while ye may. The Latin term for that sentiment is ""Carpe Diem."" Anyone know what that means?"
+dead poets society,m318,L157306,L157307,,u4783,MEEKS,L157306,u4781,KEATING,Carpe Diem... seize the day.
+dead poets society,m318,L157306,L157308,,u4781,KEATING,L157307,u4783,MEEKS,"Very good, Mr._?"
+dead poets society,m318,L157306,L157309,,u4783,MEEKS,L157308,u4781,KEATING,Meeks.
+dead poets society,m318,L157306,L157310,,u4781,KEATING,L157309,u4783,MEEKS,"Seize the day while you're young, see that you make use of your time. Why does the poet write these lines?"
+dead poets society,m318,L157315,L157315,,u4787,PITTS,,,,Weird.
+dead poets society,m318,L157315,L157316,,u4785,NEIL,L157315,u4787,PITTS,But different.
+dead poets society,m318,L157319,L157319,,u4776,CHARLIE,,,,"Oh come on, Cameron, don't you get anything?"
+dead poets society,m318,L157319,L157320,,u4783,MEEKS,L157319,u4776,CHARLIE,How about a trig study group? Right after dinner.
+dead poets society,m318,L157325,L157325,,u4782,KNOX,,,,They're friends of my dad. Probably in their nineties or something.
+dead poets society,m318,L157325,L157326,,u4785,NEIL,L157325,u4782,KNOX,"Listen, anything's, better than mystery meat."
+dead poets society,m318,L157328,L157328,,u4785,NEIL,,,,Want to come to the study group?
+dead poets society,m318,L157328,L157329,,u4788,TODD,L157328,u4785,NEIL,Thanks but I'd better do history.
+dead poets society,m318,L157341,L157341,,u4778,CHRIS,,,,Pleased to meet you.
+dead poets society,m318,L157341,L157342,,u4782,KNOX,L157341,u4778,CHRIS,The pleasure is mine.
+dead poets society,m318,L157346,L157346,,u4778,CHRIS,,,,"It's all right, Chet."
+dead poets society,m318,L157346,L157347,,u4777,CHET,L157346,u4778,CHRIS,"It's not all right. Come on, Dad"
+dead poets society,m318,L157349,L157349,,u4782,KNOX,,,,"So, uh, where are you in school?"
+dead poets society,m318,L157349,L157350,,u4778,CHRIS,L157349,u4782,KNOX,"Ridgeway High. How's Henley Hall, Gin?"
+dead poets society,m318,L157351,L157351,,u4778,CHRIS,,,,"That's your sister school, right?"
+dead poets society,m318,L157351,L157352,,u4782,KNOX,L157351,u4778,CHRIS,Sort of.
+dead poets society,m318,L157351,L157353,,u4778,CHRIS,L157352,u4782,KNOX,"You going out for the Henley Hall play? They're doing ""A Midsummer Night's Dream."""
+dead poets society,m318,L157357,L157357,,u4777,CHET,,,,Chris. We got it. Let's go.
+dead poets society,m318,L157357,L157358,,u4778,CHRIS,L157357,u4777,CHET,"Nice meeting you, Knox. Bye, Gin."
+dead poets society,m318,L157364,L157364,,u4776,CHARLIE,,,,How was dinner?
+dead poets society,m318,L157364,L157365,,u4782,KNOX,L157364,u4776,CHARLIE,Terrible. Awful! I met the most beautiful girl I've ever seen in my life!
+dead poets society,m318,L157366,L157366,,u4785,NEIL,,,,Are you crazy? What's wrong with that?
+dead poets society,m318,L157366,L157367,,u4782,KNOX,L157366,u4785,NEIL,She's practically engaged to Chet Danburry. Mr. Mondo Jocko himself.
+dead poets society,m318,L157368,L157368,,u4787,PITTS,,,,Too bad.
+dead poets society,m318,L157368,L157369,,u4782,KNOX,L157368,u4787,PITTS,It's not too bad. It's a tragedy! Why does she have to be in love with a jerk?!
+dead poets society,m318,L157368,L157370,,u4787,PITTS,L157369,u4782,KNOX,"All the good ones go for jerks, you know that. Forget her. Take out your trig book and figure out problem twelve."
+dead poets society,m318,L157368,L157371,,u4782,KNOX,L157370,u4787,PITTS,"I can't just forget her, Pitts. And I certainly can't think about math!"
+dead poets society,m318,L157375,L157375,,u4782,KNOX,,,,You really think I should forget her?
+dead poets society,m318,L157375,L157376,,u4787,PITTS,L157375,u4782,KNOX,You have another choice.
+dead poets society,m318,L157384,L157384,,u4783,MEEKS,,,,The hoi polloi. Doesn't it mean the herd?
+dead poets society,m318,L157384,L157385,,u4781,KEATING,L157384,u4783,MEEKS,"Precisely, Meeks. Greek for the herd. However, be warned that, when you say ""the hoi polloi"" you are actually saying the the herd. Indicating that you too are ""hoi polloi."""
+dead poets society,m318,L157394,L157394,,u4776,CHARLIE,,,,"Thigh man? Mr. ""K"" was a hell raiser."
+dead poets society,m318,L157394,L157395,,u4782,KNOX,L157394,u4776,CHARLIE,What is the Dead Poets Society?
+dead poets society,m318,L157396,L157396,,u4783,MEEKS,,,,Any group pictures in the annual?
+dead poets society,m318,L157396,L157397,,u4785,NEIL,L157396,u4783,MEEKS,Nothing. No mention of it.
+dead poets society,m318,L157402,L157402,,u4776,CHARLIE,,,,Yes sir. We were just talking about that.
+dead poets society,m318,L157402,L157403,,u4786,NOLAN,L157402,u4776,CHARLIE,"Good. We're very excited about him. He was a Rhodes Scholar, you know."
+dead poets society,m318,L157404,L157404,,u4785,NEIL,,,,Mr. Keating? Sir? Oh Captain My Captain. What was the Dead Poets Society?
+dead poets society,m318,L157404,L157405,,u4781,KEATING,L157404,u4785,NEIL,"Ah, so you boy's have been snooping."
+dead poets society,m318,L157404,L157406,,u4785,NEIL,L157405,u4781,KEATING,I was just looking in an old annual and...
+dead poets society,m318,L157404,L157407,,u4781,KEATING,L157406,u4785,NEIL,Nothing wrong with research.
+dead poets society,m318,L157413,L157413,,u4785,NEIL,,,,What did the name mean. Did you only read dead poets.
+dead poets society,m318,L157413,L157414,,u4781,KEATING,L157413,u4785,NEIL,"All poetry was acceptable. The name simply referred to the fact, that to join the organization, you had to be dead."
+dead poets society,m318,L157418,L157418,,u4785,NEIL,,,,I say we go tonight. Everybody in?
+dead poets society,m318,L157418,L157419,,u4787,PITTS,L157418,u4785,NEIL,Where is this cave he's talking about?
+dead poets society,m318,L157418,L157420,,u4785,NEIL,L157419,u4787,PITTS,Beyond the stream. I think I know.
+dead poets society,m318,L157418,L157421,,u4787,PITTS,L157420,u4785,NEIL,That's miles.
+dead poets society,m318,L157422,L157422,,u4775,CAMERON,,,,Sounds boring to me.
+dead poets society,m318,L157422,L157423,,u4776,CHARLIE,L157422,u4775,CAMERON,Don't come.
+dead poets society,m318,L157422,L157424,,u4775,CAMERON,L157423,u4776,CHARLIE,You know how many demerits we're talking?
+dead poets society,m318,L157422,L157425,,u4776,CHARLIE,L157424,u4775,CAMERON,So don't goddam come! Please.
+dead poets society,m318,L157422,L157426,,u4775,CAMERON,L157425,u4776,CHARLIE,All I'm saying is we have to be careful. We can't get caught.
+dead poets society,m318,L157422,L157427,,u4776,CHARLIE,L157426,u4775,CAMERON,"Well, no shit, Sherlock"
+dead poets society,m318,L157428,L157428,,u4785,NEIL,,,,Who's in?
+dead poets society,m318,L157428,L157429,,u4776,CHARLIE,L157428,u4785,NEIL,I'm in.
+dead poets society,m318,L157430,L157430,,u4787,PITTS,,,,Well...
+dead poets society,m318,L157430,L157431,,u4776,CHARLIE,L157430,u4787,PITTS,"Oh come on, Pitts..."
+dead poets society,m318,L157432,L157432,,u4783,MEEKS,,,,"His grades are hurting, Charlie."
+dead poets society,m318,L157432,L157433,,u4785,NEIL,L157432,u4783,MEEKS,Then you can help him.
+dead poets society,m318,L157434,L157434,,u4787,PITTS,,,,"What is this, a midnight study group?"
+dead poets society,m318,L157434,L157435,,u4785,NEIL,L157434,u4787,PITTS,"Forget it, Pitts, you're coming. Meeks, your grades hurting too?"
+dead poets society,m318,L157436,L157436,,u4783,MEEKS,,,,All right. I'll try anything once.
+dead poets society,m318,L157436,L157437,,u4776,CHARLIE,L157436,u4783,MEEKS,Except sex.
+dead poets society,m318,L157438,L157438,,u4775,CAMERON,,,,I'm in as long as we're careful.
+dead poets society,m318,L157438,L157439,,u4776,CHARLIE,L157438,u4775,CAMERON,Knox?
+dead poets society,m318,L157440,L157440,,u4782,KNOX,,,,I don't know. I don't get it.
+dead poets society,m318,L157440,L157441,,u4776,CHARLIE,L157440,u4782,KNOX,Come on. It'll help you get Chris.
+dead poets society,m318,L157440,L157442,,u4782,KNOX,L157441,u4776,CHARLIE,It will? How do you figure?
+dead poets society,m318,L157440,L157443,,u4776,CHARLIE,L157442,u4782,KNOX,Women swoon!
+dead poets society,m318,L157440,L157444,,u4782,KNOX,L157443,u4776,CHARLIE,But why?
+dead poets society,m318,L157447,L157447,,u4785,NEIL,,,,What is it then?
+dead poets society,m318,L157447,L157448,,u4788,TODD,L157447,u4785,NEIL,I... I just don't want to come.
+dead poets society,m318,L157447,L157449,,u4785,NEIL,L157448,u4788,TODD,But why? Don't you understand what Keating is saying? Don't you want to do something about it?
+dead poets society,m318,L157447,L157450,,u4788,TODD,L157449,u4785,NEIL,Yes. But
+dead poets society,m318,L157447,L157451,,u4785,NEIL,L157450,u4788,TODD,"Put what? Goddamn it, tell me."
+dead poets society,m318,L157447,L157452,,u4788,TODD,L157451,u4785,NEIL,I don't want to read.
+dead poets society,m318,L157447,L157453,,u4785,NEIL,L157452,u4788,TODD,What?
+dead poets society,m318,L157447,L157454,,u4788,TODD,L157453,u4785,NEIL,Keating said everybody took turns reading. I don't want to do it.
+dead poets society,m318,L157447,L157455,,u4785,NEIL,L157454,u4788,TODD,"God, you really have a problem, don't you? How can it hurt you to read? I mean isn't that what this is all about? Expressing yourself?"
+dead poets society,m318,L157456,L157456,,u4776,CHARLIE,,,,"Yaa, I'm a dead poet!"
+dead poets society,m318,L157456,L157457,,u4783,MEEKS,L157456,u4776,CHARLIE,"Ahh! Eat it, Dalton!"
+dead poets society,m318,L157456,L157458,,u4776,CHARLIE,L157457,u4783,MEEKS,This is it.
+dead poets society,m318,L157461,L157461,,u4785,NEIL,,,,"I went to the woods because I wanted to live deliberately."" I wanted to live deep and suck out all the marrow of life!"""
+dead poets society,m318,L157461,L157462,,u4776,CHARLIE,L157461,u4785,NEIL,All right. I'll second that.
+dead poets society,m318,L157461,L157463,,u4785,NEIL,L157462,u4776,CHARLIE,"To put the rout all that was not life. And not, when I came to die, discover that I had not lived. Pledge Overstreet."
+dead poets society,m318,L157464,L157464,,u4782,KNOX,,,,"The millions are awake enough for Physical labor; but only one in a million is awake enough for effective intellectual exertion, only one in a hundred millions to a poetic or divine life. To be awake is to be alive."
+dead poets society,m318,L157464,L157465,,u4776,CHARLIE,L157464,u4782,KNOX,"Hey, this is great."
+dead poets society,m318,L157468,L157468,,u4783,MEEKS,,,,"If you have built castles in the air, your work need not be lost. That is where they should be. Now put foundations under them."
+dead poets society,m318,L157468,L157469,,u4785,NEIL,L157468,u4783,MEEKS,"God, I want to do everything! I'm going to explode."
+dead poets society,m318,L157471,L157471,,u4776,CHARLIE,,,,I here and now commit myself to daring!
+dead poets society,m318,L157471,L157472,,u4781,KEATING,L157471,u4776,CHARLIE,"So avoid using the word 'very' because it's lazy. A man is not very tired, he is exhausted. Don't use very sad, use morose. Language was invented for one reason, boys--to woo women--and, in that endeavor, laziness will not do. It also won't do in your essays."
+dead poets society,m318,L157479,L157479,,u4785,NEIL,,,,I've found it.
+dead poets society,m318,L157479,L157480,,u4788,TODD,L157479,u4785,NEIL,Found what?
+dead poets society,m318,L157479,L157481,,u4785,NEIL,L157480,u4788,TODD,What I want to do! Right now. What is really inside of me.
+dead poets society,m318,L157482,L157482,,u4788,TODD,,,,A Midsummer Night's Dream. What is it?
+dead poets society,m318,L157482,L157483,,u4785,NEIL,L157482,u4788,TODD,"A play, dummy."
+dead poets society,m318,L157482,L157484,,u4788,TODD,L157483,u4785,NEIL,I know that. What's it got to do with you?
+dead poets society,m318,L157482,L157485,,u4785,NEIL,L157484,u4788,TODD,"They're putting it on at Henley Hall. See, open try-outs."
+dead poets society,m318,L157482,L157486,,u4788,TODD,L157485,u4785,NEIL,So?
+dead poets society,m318,L157482,L157487,,u4785,NEIL,L157486,u4788,TODD,So I'm gonna act! Ever since I can remember I've wanted to try it. Last summer I even tried to go to summer stock auditions but of course my father wouldn't let me.
+dead poets society,m318,L157482,L157488,,u4788,TODD,L157487,u4785,NEIL,And now he will?
+dead poets society,m318,L157482,L157489,,u4785,NEIL,L157488,u4788,TODD,"Hell no, but that's not the point. The point is for the first time in my whole goddamned life, I know what I want, and for the first time I'm gonna do it whether my father wants me to or not! Carpe diem, goddamn it!"
+dead poets society,m318,L157490,L157490,,u4788,TODD,,,,"Neil, how are you gonna be in a play if your father won't let you?"
+dead poets society,m318,L157490,L157491,,u4785,NEIL,L157490,u4788,TODD,"First I gotta get the part, then I'll worry about that."
+dead poets society,m318,L157490,L157492,,u4788,TODD,L157491,u4785,NEIL,Won't he kill you if you don't let him know you're auditioning?
+dead poets society,m318,L157490,L157493,,u4785,NEIL,L157492,u4788,TODD,"As far as I'm concerned, he won't have to know about any of it."
+dead poets society,m318,L157490,L157494,,u4788,TODD,L157493,u4785,NEIL,"Come on, that's impossible."
+dead poets society,m318,L157490,L157495,,u4785,NEIL,L157494,u4788,TODD,Horseshit. Nothing's impossible.
+dead poets society,m318,L157490,L157496,,u4788,TODD,L157495,u4785,NEIL,Why don't you ask him first? Maybe he'll say yes.
+dead poets society,m318,L157490,L157497,,u4785,NEIL,L157496,u4788,TODD,"That's a laugh. If I don't ask, at least I won't be disobeying him."
+dead poets society,m318,L157490,L157498,,u4788,TODD,L157497,u4785,NEIL,But if he said no before then...
+dead poets society,m318,L157490,L157499,,u4785,NEIL,L157498,u4788,TODD,"Jesus Christ, whose side are you on? I haven't even gotten the part yet. Can't I enjoy the idea even for a little while?"
+dead poets society,m318,L157500,L157500,,u4785,NEIL,,,,"By the way, there's a meeting this afternoon. You coming?"
+dead poets society,m318,L157500,L157501,,u4788,TODD,L157500,u4785,NEIL,I guess.
+dead poets society,m318,L157502,L157502,,u4785,NEIL,,,,"None of what Mr. Keating has to say means shit to you, does it?"
+dead poets society,m318,L157502,L157503,,u4788,TODD,L157502,u4785,NEIL,What is that supposed to mean?
+dead poets society,m318,L157502,L157504,,u4785,NEIL,L157503,u4788,TODD,Being in the club means being stirred up by things. You look about as stirred up as a cesspool.
+dead poets society,m318,L157502,L157505,,u4788,TODD,L157504,u4785,NEIL,You want me out... is that what you're saying?
+dead poets society,m318,L157502,L157506,,u4785,NEIL,L157505,u4788,TODD,"No, I want you in. But being in means you gotta do something. Not just say you're in."
+dead poets society,m318,L157502,L157507,,u4788,TODD,L157506,u4785,NEIL,"Listen Neil, I appreciate your interest in me but I'm not like you. When you say things, people pay attention. People follow you. I'm not like that."
+dead poets society,m318,L157502,L157508,,u4785,NEIL,L157507,u4788,TODD,Why not? Don't you think you could be?
+dead poets society,m318,L157502,L157509,,u4788,TODD,L157508,u4785,NEIL,"No! I don't know, I'll probably never know. The point is, there's nothing you can do about it so butt out, all right? I can take care of myself just fine. All right?"
+dead poets society,m318,L157502,L157510,,u4785,NEIL,L157509,u4788,TODD,Er No.
+dead poets society,m318,L157502,L157511,,u4788,TODD,L157510,u4785,NEIL,No? What do you mean 'no'?
+dead poets society,m318,L157502,L157512,,u4785,NEIL,L157511,u4788,TODD,No.
+dead poets society,m318,L157514,L157514,,u4785,NEIL,,,,You know what the dead poets would say: Gather ye rosebuds while ye may...
+dead poets society,m318,L157514,L157515,,u4782,KNOX,L157514,u4785,NEIL,But she's in love with: the moron son of my father's best friend. What would the dead poets say about that?
+dead poets society,m318,L157516,L157516,,u4776,CHARLIE,,,,"I feel like I've never been alive. For years I've been risking nothing. I have no idea what I am or what I want to do! Neil, you know you want to act. Knox wants Chris."
+dead poets society,m318,L157516,L157517,,u4782,KNOX,L157516,u4776,CHARLIE,Needs Chris! Must have Chris!
+dead poets society,m318,L157516,L157518,,u4776,CHARLIE,L157517,u4782,KNOX,"Meeks, you're the brain here. What do the dead poets say about somebody like me?"
+dead poets society,m318,L157521,L157521,,u4776,CHARLIE,,,,"I hereby declare this the Charles Dalton Cave for Passionate Experimentation. In the future, anyone wishing entry must have permission from me."
+dead poets society,m318,L157521,L157522,,u4787,PITTS,L157521,u4776,CHARLIE,"Wait a minute, Charlie. This should belong to the club."
+dead poets society,m318,L157521,L157523,,u4776,CHARLIE,L157522,u4787,PITTS,"It should, but I found it and now I claim it. carpe cavern, guys. Seize the cave."
+dead poets society,m318,L157524,L157524,,u4785,NEIL,,,,I gotta get to the tryouts. Wish me luck.
+dead poets society,m318,L157524,L157525,,u4783,MEEKS,L157524,u4785,NEIL,Good luck.
+dead poets society,m318,L157547,L157547,,u4788,TODD,,,,"Neil, how are you gonna do this?"
+dead poets society,m318,L157547,L157548,,u4785,NEIL,L157547,u4788,TODD,Sssh. That's what I'm taking care of. They need a letter of permission.
+dead poets society,m318,L157547,L157549,,u4788,TODD,L157548,u4785,NEIL,From you?
+dead poets society,m318,L157547,L157550,,u4785,NEIL,L157549,u4788,TODD,From my father and Nolan.
+dead poets society,m318,L157547,L157551,,u4788,TODD,L157550,u4785,NEIL,"Neil, you're not gonna..."
+dead poets society,m318,L157547,L157552,,u4785,NEIL,L157551,u4788,TODD,Quiet. I have to think.
+dead poets society,m318,L157556,L157556,,u4781,KEATING,,,,"And don't limit poetry to the word. Poetry can be found in a work of art, music, a photograph, in the way a meal is prepared--anything with the stuff of revelation in it. It can exist in the most everyday things but it must never, never be ordinary By all means, write about the sky or a girl's smile but when you do, let your poetry conjure up salvation day, doomsday, any day, I don't care, as long as it enlightens us, thrills us and--if it's inspired--makes us feel a bit immortal."
+dead poets society,m318,L157556,L157557,,u4783,MEEKS,L157556,u4781,KEATING,"Oh, Captain, My Captain. Is there poetry in math?"
+dead poets society,m318,L157565,L157565,,u4788,TODD,,,,A yawp?
+dead poets society,m318,L157565,L157566,,u4781,KEATING,L157565,u4788,TODD,A barbaric yawp.
+dead poets society,m318,L157567,L157567,,u4781,KEATING,,,,"Good god, boy! Yell!"
+dead poets society,m318,L157567,L157568,,u4788,TODD,L157567,u4781,KEATING,Yawp!
+dead poets society,m318,L157567,L157569,,u4781,KEATING,L157568,u4788,TODD,Again! Louder!
+dead poets society,m318,L157567,L157570,,u4788,TODD,L157569,u4781,KEATING,YAWP!
+dead poets society,m318,L157567,L157571,,u4781,KEATING,L157570,u4788,TODD,LOUDER!
+dead poets society,m318,L157567,L157572,,u4788,TODD,L157571,u4781,KEATING,AHHHHHH!
+dead poets society,m318,L157567,L157573,,u4781,KEATING,L157572,u4788,TODD,All right! Very good! There's a barbarian in there after all!
+dead poets society,m318,L157574,L157574,,u4781,KEATING,,,,"Todd, there's a picture of Whitman over the door. What does he remind you Of? Quickly, Anderson, don't think about it."
+dead poets society,m318,L157574,L157575,,u4788,TODD,L157574,u4781,KEATING,A madman.
+dead poets society,m318,L157574,L157576,,u4781,KEATING,L157575,u4788,TODD,A madman. Perhaps he was. What kind of madman? Don't think! Answer.
+dead poets society,m318,L157574,L157577,,u4788,TODD,L157576,u4781,KEATING,A crazy madman.
+dead poets society,m318,L157574,L157578,,u4781,KEATING,L157577,u4788,TODD,"Use your imagination! First thing that pops to your mind, even if it's gibberish!"
+dead poets society,m318,L157574,L157579,,u4788,TODD,L157578,u4781,KEATING,A... A sweaty-toothed madman.
+dead poets society,m318,L157574,L157580,,u4781,KEATING,L157579,u4788,TODD,Now there's the poet speaking! Close your eyes and think of the picture. Describe what you see. NOW!
+dead poets society,m318,L157574,L157581,,u4788,TODD,L157580,u4781,KEATING,I... I close my eyes. His image floats beside me.
+dead poets society,m318,L157574,L157582,,u4781,KEATING,L157581,u4788,TODD,A sweaty-toothed madman
+dead poets society,m318,L157574,L157583,,u4788,TODD,L157582,u4781,KEATING,A sweaty-toothed madman with a stare that pounds my brain.
+dead poets society,m318,L157574,L157584,,u4781,KEATING,L157583,u4788,TODD,Excellent! Have him act. Give it rhythm!
+dead poets society,m318,L157574,L157585,,u4788,TODD,L157584,u4781,KEATING,His hands reach out and choke me All the time he mumbles slowly. Truth... Truth is like a blanket that always leaves your feet cold.
+dead poets society,m318,L157587,L157587,,u4788,TODD,,,,"Stretch it, pull it, it will never cover any of us. Kick at it, beat at it, it will never be enough-"
+dead poets society,m318,L157587,L157588,,u4781,KEATING,L157587,u4788,TODD,Don't stop!
+dead poets society,m318,L157587,L157589,,u4788,TODD,L157588,u4781,KEATING,"From the moment we enter crying to the moment we leave dying, It will cover just your head as you wail and cry and scream!"
+dead poets society,m318,L157591,L157591,,u4785,NEIL,,,,Look at this.
+dead poets society,m318,L157591,L157592,,u4787,PITTS,L157591,u4785,NEIL,What is it?
+dead poets society,m318,L157591,L157593,,u4785,NEIL,L157592,u4787,PITTS,The god of the cave.
+dead poets society,m318,L157597,L157597,,u4785,NEIL,,,,"Charlie, That was great! Where did you learn to play like that?"
+dead poets society,m318,L157597,L157598,,u4776,CHARLIE,L157597,u4785,NEIL,My parents made me take clarinet but I hated it. The sax is more sonorous.
+dead poets society,m318,L157599,L157599,,u4782,KNOX,,,,"God, I can't take it anymore! If I don't have Chris, I'll kill myself."
+dead poets society,m318,L157599,L157600,,u4776,CHARLIE,L157599,u4782,KNOX,"Knox, you gotta calm down."
+dead poets society,m318,L157599,L157601,,u4782,KNOX,L157600,u4776,CHARLIE,"No, I've been calm all my life! If I don't do something, it's gonna kill me."
+dead poets society,m318,L157602,L157602,,u4785,NEIL,,,,Where are you going?
+dead poets society,m318,L157602,L157603,,u4782,KNOX,L157602,u4785,NEIL,I'm calling her!
+dead poets society,m318,L157607,L157607,,u4778,CHRIS,,,,Hello?
+dead poets society,m318,L157607,L157608,,u4782,KNOX,L157607,u4778,CHRIS,"Hello Chris, this is Knox Overstress."
+dead poets society,m318,L157607,L157609,,u4778,CHRIS,L157608,u4782,KNOX,"Knox. Oh yes, Knox. I'm glad you called."
+dead poets society,m318,L157607,L157610,,u4782,KNOX,L157609,u4778,CHRIS,You are? She's glad I called!
+dead poets society,m318,L157611,L157611,,u4782,KNOX,,,,"Well, sure!"
+dead poets society,m318,L157611,L157612,,u4778,CHRIS,L157611,u4782,KNOX,"Chet's parents don't know about it, so please keep it quiet. But you can bring someone if you like."
+dead poets society,m318,L157611,L157613,,u4782,KNOX,L157612,u4778,CHRIS,"I'll be there. The Danburrys. Friday night. Thank you, Chris."
+dead poets society,m318,L157614,L157614,,u4782,KNOX,,,,Can you believe it? She was gonna call me! She invited me to a party with her!
+dead poets society,m318,L157614,L157615,,u4776,CHARLIE,L157614,u4782,KNOX,At Chet Danburry's house.
+dead poets society,m318,L157614,L157616,,u4782,KNOX,L157615,u4776,CHARLIE,Yeah.
+dead poets society,m318,L157614,L157617,,u4776,CHARLIE,L157616,u4782,KNOX,Well?
+dead poets society,m318,L157614,L157618,,u4782,KNOX,L157617,u4776,CHARLIE,So?
+dead poets society,m318,L157614,L157619,,u4776,CHARLIE,L157618,u4782,KNOX,So you really think she means you're going with her?
+dead poets society,m318,L157614,L157620,,u4782,KNOX,L157619,u4776,CHARLIE,"Well hell no, Charlie, but that's not the point. That's not the point at all!"
+dead poets society,m318,L157614,L157621,,u4776,CHARLIE,L157620,u4782,KNOX,What is the point?
+dead poets society,m318,L157614,L157622,,u4782,KNOX,L157621,u4776,CHARLIE,"The point is she was thinking about me! I've only met her once and already she's thinking about me. Damn it, it's gonna happen! I feel it. She's going to be mine!"
+dead poets society,m318,L157630,L157630,,u4785,NEIL,,,,"Todd, what's the matter?"
+dead poets society,m318,L157630,L157631,,u4788,TODD,L157630,u4785,NEIL,It's my birthday.
+dead poets society,m318,L157630,L157632,,u4785,NEIL,L157631,u4788,TODD,It is? Happy Birthday. You get anything?
+dead poets society,m318,L157633,L157633,,u4785,NEIL,,,,This is your desk set. I don't get it.
+dead poets society,m318,L157633,L157634,,u4788,TODD,L157633,u4785,NEIL,They gave me the exact same thing as last year!
+dead poets society,m318,L157633,L157635,,u4785,NEIL,L157634,u4788,TODD,Oh..
+dead poets society,m318,L157633,L157636,,u4788,TODD,L157635,u4785,NEIL,Oh.
+dead poets society,m318,L157637,L157637,,u4785,NEIL,,,,"Well, maybe they thought you'd need another one. Maybe they thought..."
+dead poets society,m318,L157637,L157638,,u4788,TODD,L157637,u4785,NEIL,"Maybe they don't think at all unless it's about my brother! His birthday's always a big to-do. The stupid thing is, I didn't even like the first one."
+dead poets society,m318,L157639,L157639,,u4785,NEIL,,,,"Look, Todd, you're obviously under- estimating the value of this desk set."
+dead poets society,m318,L157639,L157640,,u4788,TODD,L157639,u4785,NEIL,what?
+dead poets society,m318,L157639,L157641,,u4785,NEIL,L157640,u4788,TODD,"I mean, this is one special gift! Who would want a football or a baseball bat or a car when they could get a desk set as wonderful as this one!"
+dead poets society,m318,L157639,L157642,,u4788,TODD,L157641,u4785,NEIL,Yeah! And just look at this ruler!
+dead poets society,m318,L157659,L157659,,u4779,GLORIA,,,,It's such a strange name! Won't you tell us what it means?
+dead poets society,m318,L157659,L157660,,u4776,CHARLIE,L157659,u4779,GLORIA,"I told you, that's a secret."
+dead poets society,m318,L157659,L157661,,u4779,GLORIA,L157660,u4776,CHARLIE,Isn't he precious?
+dead poets society,m318,L157667,L157667,,u4778,CHRIS,,,,"Oh, hi. I'm glad you made it. Did you bring anybody?"
+dead poets society,m318,L157667,L157668,,u4782,KNOX,L157667,u4778,CHRIS,No.
+dead poets society,m318,L157667,L157669,,u4778,CHRIS,L157668,u4782,KNOX,Ginny Danburry's here. Look for her.
+dead poets society,m318,L157667,L157670,,u4782,KNOX,L157669,u4778,CHRIS,"But, Chris..."
+dead poets society,m318,L157667,L157671,,u4778,CHRIS,L157670,u4782,KNOX,I gotta find Chet. Make yourself at home.
+dead poets society,m318,L157672,L157672,,u4785,NEIL,,,,Charlie...
+dead poets society,m318,L157672,L157673,,u4776,CHARLIE,L157672,u4785,NEIL,It's Nuwanda.
+dead poets society,m318,L157672,L157674,,u4785,NEIL,L157673,u4776,CHARLIE,"Nuwanda, what is going on?"
+dead poets society,m318,L157672,L157675,,u4776,CHARLIE,L157674,u4785,NEIL,"Nothing, unless you object to having girls here."
+dead poets society,m318,L157676,L157676,,u4787,PITTS,,,,"Well, of course not. It's just that... You could have warned us."
+dead poets society,m318,L157676,L157677,,u4776,CHARLIE,L157676,u4787,PITTS,"I thought I'd be spontaneous. I mean, that's the point of this whole thing, isn't it?"
+dead poets society,m318,L157678,L157678,,u4785,NEIL,,,,Where'd you find them?
+dead poets society,m318,L157678,L157679,,u4776,CHARLIE,L157678,u4785,NEIL,They were walking along the fence past the soccer field. Said they were curious about the school so I invited them to the meeting.
+dead poets society,m318,L157680,L157680,,u4775,CAMERON,,,,Do they go to Henley Hall?
+dead poets society,m318,L157680,L157681,,u4776,CHARLIE,L157680,u4775,CAMERON,I don't think they're in school.
+dead poets society,m318,L157680,L157682,,u4775,CAMERON,L157681,u4776,CHARLIE,They're townies?!
+dead poets society,m318,L157680,L157683,,u4776,CHARLIE,L157682,u4775,CAMERON,"Cameron, what is the matter with you. You act like they're your mother or something. You afraid of them?"
+dead poets society,m318,L157680,L157684,,u4775,CAMERON,L157683,u4776,CHARLIE,"Hell no, I'm not afraid of them just, if we get caught with them, we're dead."
+dead poets society,m318,L157693,L157693,,u4782,KNOX,,,,No relation. Never heard of him. Sorry.
+dead poets society,m318,L157693,L157694,,u4774,BUBBA,L157693,u4782,KNOX,"Say Steve, where's your manners? Here's Mutt's brother and you don't offer him a drink? Want some bourbon?"
+dead poets society,m318,L157693,L157695,,u4782,KNOX,L157694,u4774,BUBBA,Actually I don't
+dead poets society,m318,L157699,L157699,,u4774,BUBBA,,,,So what the hell's Mutt been up to?
+dead poets society,m318,L157699,L157700,,u4782,KNOX,L157699,u4774,BUBBA,Actually I don't really know Mutt.
+dead poets society,m318,L157699,L157701,,u4774,BUBBA,L157700,u4782,KNOX,To fucking Mutt.
+dead poets society,m318,L157704,L157704,,u4774,BUBBA,,,,"Well, I'd better find Patsy. Say hello to Mutt for me."
+dead poets society,m318,L157704,L157705,,u4782,KNOX,L157704,u4774,BUBBA,Will do.
+dead poets society,m318,L157708,L157708,,u4779,GLORIA,,,,Yeah! Don't you guys miss having girls here?
+dead poets society,m318,L157708,L157709,,u4776,CHARLIE,L157708,u4779,GLORIA,"Miss it? It drives us crazy. That's part of what this club is about. In fact, I'd like to announce that I've published an article in the school paper, in the name of the Dead Poets society, demanding girls be admitted to Welton, so we can all stop beating off."
+dead poets society,m318,L157710,L157710,,u4785,NEIL,,,,You what?! How did you do that?
+dead poets society,m318,L157710,L157711,,u4776,CHARLIE,L157710,u4785,NEIL,I'm one of the proofers. I slipped the article in.
+dead poets society,m318,L157712,L157712,,u4787,PITTS,,,,"Oh God, it's over now!"
+dead poets society,m318,L157712,L157713,,u4776,CHARLIE,L157712,u4787,PITTS,Why? Nobody knows who we are.
+dead poets society,m318,L157712,L157714,,u4787,PITTS,L157713,u4776,CHARLIE,"Don't you think they'll figure out who did it?! Don't you know they'll come to you and demand to know what the Dead Poets Society is? Charlie, you had no right to do something like that!"
+dead poets society,m318,L157712,L157715,,u4776,CHARLIE,L157714,u4787,PITTS,"It's Nuwanda, Cameron."
+dead poets society,m318,L157716,L157716,,u4779,GLORIA,,,,"That's right, it's Nuwanda."
+dead poets society,m318,L157716,L157717,,u4776,CHARLIE,L157716,u4779,GLORIA,"And are we just playing around out here or do we mean what we say? If all we do is come and read a bunch of poems to each other, what the hell are we doing?"
+dead poets society,m318,L157718,L157718,,u4785,NEIL,,,,"You still shouldn't have done it, Charlie. You don't speak for the club."
+dead poets society,m318,L157718,L157719,,u4776,CHARLIE,L157718,u4785,NEIL,"Hey, would you not worry about your precious little necks? If they catch me, I'll tell them I made it up. All your asses are safe. Look, Gloria and Tina didn't come here to listen to us argue. Are we gonna have a meeting or what?"
+dead poets society,m318,L157735,L157735,,u4782,KNOX,,,,carpe breastum. Seize the breast.
+dead poets society,m318,L157735,L157736,,u4778,CHRIS,L157735,u4782,KNOX,Huh?
+dead poets society,m318,L157738,L157738,,u4778,CHRIS,,,,"Oh Chet, that feels fabulous,"
+dead poets society,m318,L157738,L157739,,u4777,CHET,L157738,u4778,CHRIS,It does? What?
+dead poets society,m318,L157738,L157740,,u4778,CHRIS,L157739,u4777,CHET,"You know,"
+dead poets society,m318,L157741,L157741,,u4778,CHRIS,,,,Don't stop.
+dead poets society,m318,L157741,L157742,,u4777,CHET,L157741,u4778,CHRIS,Stop what?
+dead poets society,m318,L157741,L157743,,u4778,CHRIS,L157742,u4777,CHET,Chet...
+dead poets society,m318,L157745,L157745,,u4777,CHET,,,,What are you doing?!
+dead poets society,m318,L157745,L157746,,u4778,CHRIS,L157745,u4777,CHET,Knox?!
+dead poets society,m318,L157749,L157749,,u4777,CHET,,,,You fucked up little prick!
+dead poets society,m318,L157749,L157750,,u4778,CHRIS,L157749,u4777,CHET,"Chet, you don't have to hurt him."
+dead poets society,m318,L157757,L157757,,u4776,CHARLIE,,,,"Hey guys, why don't you show Tina the Dead Poets garden?"
+dead poets society,m318,L157757,L157758,,u4783,MEEKS,L157757,u4776,CHARLIE,Garden?
+dead poets society,m318,L157765,L157765,,u4779,GLORIA,,,,I think he's sweet.
+dead poets society,m318,L157765,L157766,,u4776,CHARLIE,L157765,u4779,GLORIA,I think you're sweet.
+dead poets society,m318,L157767,L157767,,u4779,GLORIA,,,,You know what really excites me about you?
+dead poets society,m318,L157767,L157768,,u4776,CHARLIE,L157767,u4779,GLORIA,What?
+dead poets society,m318,L157767,L157769,,u4779,GLORIA,L157768,u4776,CHARLIE,Every guy that I meet wants me for one thing my body. You're not like that.
+dead poets society,m318,L157767,L157770,,u4776,CHARLIE,L157769,u4779,GLORIA,I'm not?
+dead poets society,m318,L157767,L157771,,u4779,GLORIA,L157770,u4776,CHARLIE,No! Anybody else would have jumped my bones by now but you're after my soul. Make me up some more poetry.
+dead poets society,m318,L157767,L157772,,u4776,CHARLIE,L157771,u4779,GLORIA,But...
+dead poets society,m318,L157767,L157773,,u4779,GLORIA,L157772,u4776,CHARLIE,Please! It's so wonderful to be appreciated for my mind!
+dead poets society,m318,L157774,L157774,,u4779,GLORIA,,,,Nuwanda? Please?
+dead poets society,m318,L157774,L157775,,u4776,CHARLIE,L157774,u4779,GLORIA,"All right! I'm thinking! ""Let me not to the marriage of true minds Admit impediments; love is not love Which alters when it alteration finds Or bends with the remover to remove."""
+dead poets society,m318,L157776,L157776,,u4779,GLORIA,,,,Don't stop.
+dead poets society,m318,L157776,L157777,,u4776,CHARLIE,L157776,u4779,GLORIA,"""O, no, it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wandering bark whose worth's unknown, although his height be taken."""
+dead poets society,m318,L157776,L157778,,u4779,GLORIA,L157777,u4776,CHARLIE,This is better than sex any day. This is romance!
+dead poets society,m318,L157781,L157781,,u4776,CHARLIE,,,,"Welton Academy, hello? Yes, he is, just a moment. Mr. Nolan, it's for you."
+dead poets society,m318,L157781,L157782,,u4786,NOLAN,L157781,u4776,CHARLIE,what?!
+dead poets society,m318,L157785,L157785,,u4786,NOLAN,,,,Who else was involved in this?
+dead poets society,m318,L157785,L157786,,u4776,CHARLIE,L157785,u4786,NOLAN,"No one, sir. It was just me. I did the proofing so I inserted my article in place of Rob Crane's."
+dead poets society,m318,L157785,L157787,,u4786,NOLAN,L157786,u4776,CHARLIE,"Mr. Dalton, if you think you're the first to try to get thrown out of this school, think again. Others have had similar actions and they have failed just as surely as you will fail. Bend over and grab your shins."
+dead poets society,m318,L157791,L157791,,u4786,NOLAN,,,,Do you still insist that this was your idea and your idea alone?
+dead poets society,m318,L157791,L157792,,u4776,CHARLIE,L157791,u4786,NOLAN,Yes... sir.
+dead poets society,m318,L157791,L157793,,u4786,NOLAN,L157792,u4776,CHARLIE,"What is this ""Dead Potts Society""? I want names."
+dead poets society,m318,L157791,L157794,,u4776,CHARLIE,L157793,u4786,NOLAN,"It's only me, Mr. Nolan. I swear. I made it up."
+dead poets society,m318,L157791,L157795,,u4786,NOLAN,L157794,u4776,CHARLIE,"If I find that there are others, Mr. Dalton, they will be expelled and you will remain enrolled. Stand up."
+dead poets society,m318,L157797,L157797,,u4785,NEIL,,,,What happened? Were you kicked out?
+dead poets society,m318,L157797,L157798,,u4776,CHARLIE,L157797,u4785,NEIL,No.
+dead poets society,m318,L157797,L157799,,u4785,NEIL,L157798,u4776,CHARLIE,What happened?
+dead poets society,m318,L157797,L157800,,u4776,CHARLIE,L157799,u4785,NEIL,"I'm supposed to turn everybody in, apologize to the school and all will be forgiven."
+dead poets society,m318,L157801,L157801,,u4785,NEIL,,,,What are you going to do? - Charlie?
+dead poets society,m318,L157801,L157802,,u4776,CHARLIE,L157801,u4785,NEIL,"Damn it, Neil, the name is Nuwanda."
+dead poets society,m318,L157804,L157804,,u4786,NOLAN,,,,"This was my first classroom, John, did you know that? My first desk."
+dead poets society,m318,L157804,L157805,,u4781,KEATING,L157804,u4786,NOLAN,I didn't know you taught.
+dead poets society,m318,L157804,L157806,,u4786,NOLAN,L157805,u4781,KEATING,"English. Way before your time. It was hard giving it up, I'll tell you. I'm hearing rumors, John, of some unusual teaching methods in your classroom. I'm not saying they have anything to do with the Dalton boy's outburst, but I don't think I have to warn you that boys his age are very impressionable."
+dead poets society,m318,L157804,L157807,,u4781,KEATING,L157806,u4786,NOLAN,Your reprimand made quite an impression I'm sure.
+dead poets society,m318,L157804,L157808,,u4786,NOLAN,L157807,u4781,KEATING,What was going on in the courtyard the other day?
+dead poets society,m318,L157804,L157809,,u4781,KEATING,L157808,u4786,NOLAN,Courtyard?
+dead poets society,m318,L157804,L157810,,u4786,NOLAN,L157809,u4781,KEATING,Boys marching. Clapping in unison.
+dead poets society,m318,L157804,L157811,,u4781,KEATING,L157810,u4786,NOLAN,Oh that. That was an exercise to prove a point. About the evils of conformity.
+dead poets society,m318,L157804,L157812,,u4786,NOLAN,L157811,u4781,KEATING,"John, the curriculum here is set. It's proven. It works. If you question it, what's to prevent them from doing the same?"
+dead poets society,m318,L157804,L157813,,u4781,KEATING,L157812,u4786,NOLAN,I always thought education was learning to think for yourself.
+dead poets society,m318,L157804,L157814,,u4786,NOLAN,L157813,u4781,KEATING,"At these boys' age? Not on your life! Tradition, John. Discipline. Prepare them for college, and the rest will take care of itself."
+dead poets society,m318,L157817,L157817,,u4776,CHARLIE,,,,Mr. Keating!
+dead poets society,m318,L157817,L157818,,u4781,KEATING,L157817,u4776,CHARLIE,"I don't know what misguided impulse caused you to pull that ridiculous stunt, Mr. Dalton, but, whatever it was, I hope you've learned your lesson."
+dead poets society,m318,L157817,L157819,,u4776,CHARLIE,L157818,u4781,KEATING,You're siding with Mr. Nolan?! What about carpe diem and sucking all the marrow out of life and all that?
+dead poets society,m318,L157817,L157820,,u4781,KEATING,L157819,u4776,CHARLIE,"Sucking out the marrow doesn't mean getting the bone stuck in your throat, Charles. You still have responsibilities to yourself and those who care about you."
+dead poets society,m318,L157817,L157821,,u4776,CHARLIE,L157820,u4781,KEATING,But I thought-
+dead poets society,m318,L157822,L157822,,u4776,CHARLIE,,,,Yeah? Like what?
+dead poets society,m318,L157822,L157823,,u4781,KEATING,L157822,u4776,CHARLIE,"Like, if nothing else, the opportunity to attend my classes, understand?"
+dead poets society,m318,L157822,L157824,,u4776,CHARLIE,L157823,u4781,KEATING,Yes sir.
+dead poets society,m318,L157822,L157825,,u4781,KEATING,L157824,u4776,CHARLIE,So keep your head about you--the lot of you--understood?
+dead poets society,m318,L157832,L157832,,u4783,MEEKS,,,,"Oh Captain, My Captain. What if we don't know anything about someone like Rahesh Non?"
+dead poets society,m318,L157832,L157833,,u4781,KEATING,L157832,u4783,MEEKS,"Rahesh Non never existed, Mr. Meeks. You make him or someone like him up. No self important college professor such as this one would dare admit ignorance of such an obviously important figure and you will probably receive a comment similar to the one I received:"
+dead poets society,m318,L157838,L157838,,u4785,NEIL,,,,"Here, villain, draw and ready. where art thou?"
+dead poets society,m318,L157838,L157839,,u4788,TODD,L157838,u4785,NEIL,I will be with thee straight.
+dead poets society,m318,L157838,L157840,,u4785,NEIL,L157839,u4788,TODD,"Follow me then to plainer ground. God, I love this!"
+dead poets society,m318,L157838,L157841,,u4788,TODD,L157840,u4785,NEIL,This play?
+dead poets society,m318,L157838,L157842,,u4785,NEIL,L157841,u4788,TODD,"Yes, and acting! It's got to be one of the most wonderful things in the world. Most people, if they're lucky, live about half an exciting life! If I could get the parts, I could live dozens of lives."
+dead poets society,m318,L157844,L157844,,u4785,NEIL,,,,You should come to rehearsals. I know they need people to work the lights and stuff.
+dead poets society,m318,L157844,L157845,,u4788,TODD,L157844,u4785,NEIL,No thanks.
+dead poets society,m318,L157844,L157846,,u4785,NEIL,L157845,u4788,TODD,Lots of girls. The girl who plays Hermia is incredible.
+dead poets society,m318,L157844,L157847,,u4788,TODD,L157846,u4785,NEIL,I'll come to the performance.
+dead poets society,m318,L157844,L157848,,u4785,NEIL,L157847,u4788,TODD,Chicken shit. Where were we?
+dead poets society,m318,L157844,L157849,,u4788,TODD,L157848,u4785,NEIL,"Yea, art thou there?"
+dead poets society,m318,L157844,L157850,,u4785,NEIL,L157849,u4788,TODD,Put more into it!
+dead poets society,m318,L157844,L157851,,u4788,TODD,L157850,u4785,NEIL,"YEA, ART THOU THERE?!"
+dead poets society,m318,L157844,L157852,,u4785,NEIL,L157851,u4788,TODD,"That's it! ""Follow my voice. We'll try no manhood here."" See you at dinner."
+dead poets society,m318,L157853,L157853,,u4785,NEIL,,,,Father!
+dead poets society,m318,L157853,L157854,,u4784,MR. PERRY,L157853,u4785,NEIL,"Neil, you are going to quit this ridiculous play immediately."
+dead poets society,m318,L157853,L157855,,u4785,NEIL,L157854,u4784,MR. PERRY,"Father, I--"
+dead poets society,m318,L157856,L157856,,u4784,MR. PERRY,,,,Don't you dare talk back to me! It's bad enough that you've wasted your time with this absurd acting business. But you deliberately deceived me! Who put this in your head? How did you expect to get away with it? Answer me!
+dead poets society,m318,L157856,L157857,,u4785,NEIL,L157856,u4784,MR. PERRY,Nobody- I thought I'd surprise you. I've got all As and-
+dead poets society,m318,L157856,L157858,,u4784,MR. PERRY,L157857,u4785,NEIL,"Did you really think I wouldn't find out?! ""My niece is in a play with your son,"" Mrs. Marks says. ""You must be mistaken,"" I say. ""My son isn't in a play."" You made a liar out of me, Neil! Now you will go tomorrow and tell them you are quitting."
+dead poets society,m318,L157856,L157859,,u4785,NEIL,L157858,u4784,MR. PERRY,"Father, I have the main part. The performance is tomorrow night. Father, please."
+dead poets society,m318,L157856,L157860,,u4784,MR. PERRY,L157859,u4785,NEIL,"I don't care if the world is coming to an end tomorrow night, you are through with that play! Is that clear? Is that clear!"
+dead poets society,m318,L157856,L157861,,u4785,NEIL,L157860,u4784,MR. PERRY,Yes sir.
+dead poets society,m318,L157867,L157867,,u4782,KNOX,,,,"We thought it would be good to break old habits, sir."
+dead poets society,m318,L157867,L157868,,u4780,HAGER,L157867,u4782,KNOX,"What is wrong with old habits, Mr. Overstreet?"
+dead poets society,m318,L157867,L157869,,u4782,KNOX,L157868,u4780,HAGER,"They perpetuate mechanical living, sir. They limit your mind."
+dead poets society,m318,L157867,L157870,,u4780,HAGER,L157869,u4782,KNOX,"Mr. Overstreet, I suggest you worry less about breaking old habits and more about developing good study habits. Do you understand?"
+dead poets society,m318,L157867,L157871,,u4782,KNOX,L157870,u4780,HAGER,Yes sir.
+dead poets society,m318,L157867,L157872,,u4780,HAGER,L157871,u4782,KNOX,That goes for all of you. Now eat with your correct hands.
+dead poets society,m318,L157873,L157873,,u4785,NEIL,,,,Visit from my father.
+dead poets society,m318,L157873,L157874,,u4788,TODD,L157873,u4785,NEIL,Do you have to quit the play?
+dead poets society,m318,L157873,L157875,,u4785,NEIL,L157874,u4788,TODD,I don't know.
+dead poets society,m318,L157876,L157876,,u4776,CHARLIE,,,,Why don't you talk to Mr. Keating about it?
+dead poets society,m318,L157876,L157877,,u4785,NEIL,L157876,u4776,CHARLIE,What good will that do?
+dead poets society,m318,L157876,L157878,,u4776,CHARLIE,L157877,u4785,NEIL,Maybe he'll have some advice. Maybe he'll even talk to your father.
+dead poets society,m318,L157876,L157879,,u4785,NEIL,L157878,u4776,CHARLIE,Are you kidding? Don't be ridiculous.
+dead poets society,m318,L157880,L157880,,u4785,NEIL,,,,This is stupid.
+dead poets society,m318,L157880,L157881,,u4776,CHARLIE,L157880,u4785,NEIL,It's better than doing nothing.
+dead poets society,m318,L157889,L157889,,u4781,KEATING,,,,"Anything else you'd care to rifle through, Mr. Dalton?"
+dead poets society,m318,L157889,L157890,,u4776,CHARLIE,L157889,u4781,KEATING,"I'm sorry. I, we"
+dead poets society,m318,L157891,L157891,,u4785,NEIL,,,,"Oh Captain, My Captain, we came here so I could talk to you about something."
+dead poets society,m318,L157891,L157892,,u4781,KEATING,L157891,u4785,NEIL,Okay.
+dead poets society,m318,L157891,L157893,,u4785,NEIL,L157892,u4781,KEATING,"Actually, I'd like to talk to you alone."
+dead poets society,m318,L157898,L157898,,u4787,PITTS,,,,"Damn it, Nuwanda. You idiot."
+dead poets society,m318,L157898,L157899,,u4776,CHARLIE,L157898,u4787,PITTS,I couldn't stop myself.
+dead poets society,m318,L157900,L157900,,u4785,NEIL,,,,"Gosh, they don't give you much room around here, do they?"
+dead poets society,m318,L157900,L157901,,u4781,KEATING,L157900,u4785,NEIL,Maybe they don't want worldly things distracting me from my teaching.
+dead poets society,m318,L157900,L157902,,u4785,NEIL,L157901,u4781,KEATING,"Why do you do it? I mean, with all this seize-the-day business, I'd have thought you'd be out seeing the world or something?"
+dead poets society,m318,L157900,L157903,,u4781,KEATING,L157902,u4785,NEIL,"Ah, but I am seeing the world, Neil. The new world. Seeing a student like you take root and bloom. It's worth everything. That's why I came back here. A place like this needs at least one teacher like me. Did you come here to talk about my teaching?"
+dead poets society,m318,L157900,L157904,,u4785,NEIL,L157903,u4781,KEATING,"Mr. Keating, my father is making me quit the play at Henley Hall. When I think about carpe diem and all that, I feel like I'm in prison! I mean, I can see his point. We're not a rich family like Charlie's. But he's planned the rest of my life for me and he's never even asked me what I want!"
+dead poets society,m318,L157900,L157905,,u4781,KEATING,L157904,u4785,NEIL,"You can't live a life for someone else, Neil. You can only live for yourself. Have you told your father what you just told me? Have you shown him your passion about acting?"
+dead poets society,m318,L157900,L157906,,u4785,NEIL,L157905,u4781,KEATING,Are you kidding? He'd kill me!
+dead poets society,m318,L157900,L157907,,u4781,KEATING,L157906,u4785,NEIL,"Then you're playing a part for him too, aren't you? A dangerously self- destructive one."
+dead poets society,m318,L157908,L157908,,u4781,KEATING,,,,"Neil, I know this seems impossible but you have to go to your father and show him what you're feeling. You have to let him see who you are- It's your only chance."
+dead poets society,m318,L157908,L157909,,u4785,NEIL,L157908,u4781,KEATING,"I know what he'll say. He'll say that acting is just a whim and that it's frivolous and that I should forget about it. He'll tell me how they're counting on me and to put it out of my mind ""for my own good."""
+dead poets society,m318,L157908,L157910,,u4781,KEATING,L157909,u4785,NEIL,"Well, if it's more than a whim, then you'll have to prove that to him. You'll have to show him with your passion and commitment that it's what you really want to do. If that doesn't work, at least by then you'll be eighteen and able to do what you want."
+dead poets society,m318,L157908,L157911,,u4785,NEIL,L157910,u4781,KEATING,Eighteen! That's two years! What about the play? The performance is tomorrow night!
+dead poets society,m318,L157908,L157912,,u4781,KEATING,L157911,u4785,NEIL,Give your father the benefit of the doubt. Talk to him. Let him see who you are.
+dead poets society,m318,L157908,L157913,,u4785,NEIL,L157912,u4781,KEATING,Isn't there an easier way?
+dead poets society,m318,L157908,L157914,,u4781,KEATING,L157913,u4785,NEIL,Not if you're going to stay true to yourself.
+dead poets society,m318,L157920,L157920,,u4782,KNOX,,,,Damn. Damn! If I could just get Chris to read this poem!
+dead poets society,m318,L157920,L157921,,u4787,PITTS,L157920,u4782,KNOX,Why don't you read it to her? It worked for Nuwanda.
+dead poets society,m318,L157920,L157922,,u4782,KNOX,L157921,u4787,PITTS,"She won't even see me, Pitts."
+dead poets society,m318,L157920,L157923,,u4787,PITTS,L157922,u4782,KNOX,"Nuwanda recited poetry to Gloria and she jumped all over him... right, Nuwanda?"
+dead poets society,m318,L157926,L157926,,u4782,KNOX,,,,Chris!
+dead poets society,m318,L157926,L157927,,u4778,CHRIS,L157926,u4782,KNOX,Knox! what are you doing here?
+dead poets society,m318,L157929,L157929,,u4778,CHRIS,,,,"If Chet sees you, he'll kill you, don't you know that?"
+dead poets society,m318,L157929,L157930,,u4782,KNOX,L157929,u4778,CHRIS,"I don't care. I love you, Chris. You deserve better than Chet and I'm it. Please accept these."
+dead poets society,m318,L157929,L157931,,u4778,CHRIS,L157930,u4782,KNOX,"Knox, you're crazy."
+dead poets society,m318,L157934,L157934,,u4778,CHRIS,,,,"Knox, I don't believe this!"
+dead poets society,m318,L157934,L157935,,u4782,KNOX,L157934,u4778,CHRIS,"All I'm asking you to do is listen. ""The heavens made a girl named Chris, With hair and skin of gold To touch her would be paradise To kiss her glory untold."""
+dead poets society,m318,L157938,L157938,,u4776,CHARLIE,,,,How'd it go? Did you read it to her?
+dead poets society,m318,L157938,L157939,,u4782,KNOX,L157938,u4776,CHARLIE,Yep.
+dead poets society,m318,L157940,L157940,,u4787,PITTS,,,,All right! What'd she say?
+dead poets society,m318,L157940,L157941,,u4782,KNOX,L157940,u4787,PITTS,I don't know.
+dead poets society,m318,L157942,L157942,,u4776,CHARLIE,,,,What do you mean you don't know?
+dead poets society,m318,L157942,L157943,,u4782,KNOX,L157942,u4776,CHARLIE,I'll tell you later.
+dead poets society,m318,L157945,L157945,,u4781,KEATING,,,,What did your father say? Did you talk to him?
+dead poets society,m318,L157945,L157946,,u4785,NEIL,L157945,u4781,KEATING,Yeah.
+dead poets society,m318,L157945,L157947,,u4781,KEATING,L157946,u4785,NEIL,Really? You told your father what you told me? You let him see your passion for acting?
+dead poets society,m318,L157945,L157948,,u4785,NEIL,L157947,u4781,KEATING,"Yeah. He didn't like it one bit but at least he's letting me stay in the play. Of course, he won't be able to come. He'll be in Chicago on business. But I think he's gonna let me stay with acting. As long as I keep my grades up."
+dead poets society,m318,L157956,L157956,,u4787,PITTS,,,,"But what if they see it, Nuwanda?"
+dead poets society,m318,L157956,L157957,,u4776,CHARLIE,L157956,u4787,PITTS,So much the better.
+dead poets society,m318,L157958,L157958,,u4782,KNOX,,,,Chris!
+dead poets society,m318,L157958,L157959,,u4778,CHRIS,L157958,u4782,KNOX,"Knox, why are you doing this to me?"
+dead poets society,m318,L157958,L157960,,u4782,KNOX,L157959,u4778,CHRIS,You can't be in here.
+dead poets society,m318,L157961,L157961,,u4782,KNOX,,,,"If they catch you here, we'll both be in big trouble."
+dead poets society,m318,L157961,L157962,,u4778,CHRIS,L157961,u4782,KNOX,"Oh, but it's fine for you to come barging into my school and make a complete fool out of me?"
+dead poets society,m318,L157961,L157963,,u4782,KNOX,L157962,u4778,CHRIS,I didn't mean to make a fool of you.
+dead poets society,m318,L157961,L157964,,u4778,CHRIS,L157963,u4782,KNOX,"Well, you did! Chet found out and he's nuts. It took everything I could do to keep him from coming here and killing you. You have to stop this stuff, Knox."
+dead poets society,m318,L157961,L157965,,u4782,KNOX,L157964,u4778,CHRIS,But I love you.
+dead poets society,m318,L157961,L157966,,u4778,CHRIS,L157965,u4782,KNOX,You say that over and over but you don't even know me!
+dead poets society,m318,L157968,L157968,,u4782,KNOX,,,,"Of course I know you! From the first time I saw you, I knew you had a wonderful soul."
+dead poets society,m318,L157968,L157969,,u4778,CHRIS,L157968,u4782,KNOX,Just like that?! You just knew?
+dead poets society,m318,L157968,L157970,,u4782,KNOX,L157969,u4778,CHRIS,Of course just like that. That's how you always know when it's right.
+dead poets society,m318,L157968,L157971,,u4778,CHRIS,L157970,u4782,KNOX,And if it so happens that you're wrong? If it just so happens that I could care less About you?
+dead poets society,m318,L157968,L157972,,u4782,KNOX,L157971,u4778,CHRIS,Then you wouldn't be here warning me about Chet.
+dead poets society,m318,L157973,L157973,,u4778,CHRIS,,,,"Look, I've got to go. I'm gonna be late for the play."
+dead poets society,m318,L157973,L157974,,u4782,KNOX,L157973,u4778,CHRIS,Are you going with Chet?
+dead poets society,m318,L157973,L157975,,u4778,CHRIS,L157974,u4782,KNOX,Chet? To a play? Are you kidding?
+dead poets society,m318,L157973,L157976,,u4782,KNOX,L157975,u4778,CHRIS,Then come with me.
+dead poets society,m318,L157973,L157977,,u4778,CHRIS,L157976,u4782,KNOX,"Knox, you are so infuriating!"
+dead poets society,m318,L157973,L157978,,u4782,KNOX,L157977,u4778,CHRIS,"Just give me one chance. If you don't like me after tonight, I'll stay away forever."
+dead poets society,m318,L157973,L157979,,u4778,CHRIS,L157978,u4782,KNOX,Uh-huh.
+dead poets society,m318,L157973,L157980,,u4782,KNOX,L157979,u4778,CHRIS,"I promise. Dead Poets honor. Come with me tonight, then if you don't want to see me again, I swear I'll bow out."
+dead poets society,m318,L157973,L157981,,u4778,CHRIS,L157980,u4782,KNOX,"God, if Chet found out he'd..."
+dead poets society,m318,L157973,L157982,,u4782,KNOX,L157981,u4778,CHRIS,Chet won't know anything. We'll sit in back and sneak away as soon as it's over.
+dead poets society,m318,L157973,L157983,,u4778,CHRIS,L157982,u4782,KNOX,"Knox, if you promise that this will be the end of it-"
+dead poets society,m318,L157973,L157984,,u4782,KNOX,L157983,u4778,CHRIS,Dead Poets honor.
+dead poets society,m318,L157973,L157985,,u4778,CHRIS,L157984,u4782,KNOX,What is that?
+dead poets society,m318,L157973,L157986,,u4782,KNOX,L157985,u4778,CHRIS,My Word
+dead poets society,m318,L158004,L158004,,u4778,CHRIS,,,,I have to go home. Chet might call.
+dead poets society,m318,L158004,L158005,,u4782,KNOX,L158004,u4778,CHRIS,It's just for a little while. You promised.
+dead poets society,m318,L158006,L158006,,u4781,KEATING,,,,We used to meet here on special occasions. Who would like to convene the meeting?
+dead poets society,m318,L158006,L158007,,u4783,MEEKS,L158006,u4781,KEATING,"""We went to the woods because we wanted to suck all the marrow out of life."" Anybody want to read?"
+dead poets society,m318,L158008,L158008,,u4781,KEATING,,,,"Come on boys, don't be shy."
+dead poets society,m318,L158008,L158009,,u4788,TODD,L158008,u4781,KEATING,I have something.
