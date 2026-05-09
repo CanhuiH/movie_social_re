@@ -130,6 +130,7 @@ movie_social_re/
 │   ├── translate_social_labels_only.txt
 │   └── translate_graph_guided.txt
 ├── scripts/
+│   ├── run_all.py
 │   ├── 01_data.py
 │   ├── 02_run_all_movies_re.py
 │   ├── 03_prepare_modeling_data.py
