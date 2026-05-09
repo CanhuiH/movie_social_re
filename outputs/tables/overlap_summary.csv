@@ -1,0 +1,9 @@
+movie_name,gold_rows,target_risk_rows,overlap_rows,overlap_rate_vs_gold,overlap_rate_vs_target_risk,_risk_social_overlap_rows,_risk_social_target_risk_rows,_risk_pragmatic_overlap_rows,_risk_pragmatic_target_risk_rows,_risk_register_overlap_rows,_risk_register_target_risk_rows,_risk_ambiguity_overlap_rows,_risk_ambiguity_target_risk_rows,movies_configured,movies_with_risk_file,movies_with_re_file
+titanic,181,133,55,0.30386740331491713,0.41353383458646614,13,40,20,40,10,20,20,56,,,
+the godfather,247,127,50,0.20242914979757085,0.3937007874015748,15,27,11,29,16,42,15,44,,,
+dead poets society,300,191,116,0.38666666666666666,0.6073298429319371,35,50,35,65,23,43,52,76,,,
+amadeus,511,344,158,0.30919765166340507,0.45930232558139533,56,111,50,104,17,36,69,151,,,
+gladiator,189,114,42,0.2222222222222222,0.3684210526315789,19,48,10,23,8,26,10,36,,,
+an officer and a gentleman,296,216,130,0.4391891891891892,0.6018518518518519,37,74,25,52,48,77,42,65,,,
+mrs brown,193,115,48,0.24870466321243523,0.41739130434782606,13,24,10,25,7,15,25,67,,,
+__total__,1917,1240,599,0.3124673969744392,0.4830645161290323,188,374,161,338,129,259,233,495,7.0,7.0,7.0

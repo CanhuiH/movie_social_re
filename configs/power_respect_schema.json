@@ -1,0 +1,118 @@
+
+
+{
+  "task_name": "power_respect_classification",
+  "description": "Schema definitions for predicting speaker-listener power dynamic and speaker respect level from local movie dialogue context.",
+  "power_dynamic": {
+    "target_column": "final_power_dynamic",
+    "labels": [
+      "speaker_higher_power",
+      "listener_higher_power",
+      "roughly_equal_power",
+      "unclear"
+    ],
+    "definitions": {
+      "speaker_higher_power": "The speaker appears to have higher authority, status, social power, control, or leverage over the listener in the local dialogue context.",
+      "listener_higher_power": "The listener appears to have higher authority, status, social power, control, or leverage over the speaker in the local dialogue context.",
+      "roughly_equal_power": "The speaker and listener appear to have similar social standing or neither side clearly holds more power in the local dialogue context.",
+      "unclear": "There is not enough local evidence to determine the power relationship between the speaker and listener."
+    },
+    "decision_rules": [
+      "Judge power direction from the current speaker to the listener for the target turn.",
+      "Use the current turn as the main evidence and previous context turns as supporting evidence.",
+      "Power can come from institutional role, rank, age, class, wealth, family authority, professional authority, coercion, control over resources, or situational leverage.",
+      "Do not rely on outside movie knowledge unless it is explicitly supported by the provided local dialogue context.",
+      "Use roughly_equal_power when the dialogue suggests peer-like interaction or no clear power asymmetry.",
+      "Use unclear when the local evidence is too weak or ambiguous."
+    ],
+    "examples": [
+      {
+        "label": "speaker_higher_power",
+        "cue": "Commands, orders, evaluations, threats, or role-based control from the speaker toward the listener.",
+        "example": "You will do exactly as I say."
+      },
+      {
+        "label": "listener_higher_power",
+        "cue": "The speaker shows deference, asks permission, obeys, apologizes, or addresses the listener as someone with authority.",
+        "example": "Yes, sir. I understand."
+      },
+      {
+        "label": "roughly_equal_power",
+        "cue": "The speaker and listener interact as peers, friends, partners, rivals of similar standing, or casual acquaintances without clear hierarchy.",
+        "example": "What do you think we should do next?"
+      },
+      {
+        "label": "unclear",
+        "cue": "The line is too short, too context-dependent, or does not reveal power relation.",
+        "example": "Maybe later."
+      }
+    ]
+  },
+  "respect_level": {
+    "target_column": "final_respect_level",
+    "labels": [
+      "high_respect",
+      "neutral_respect",
+      "low_respect",
+      "unclear"
+    ],
+    "definitions": {
+      "high_respect": "The speaker uses clearly polite, deferential, formal, considerate, apologetic, admiring, or respectful language toward the listener.",
+      "neutral_respect": "The speaker's language is neither clearly respectful nor clearly disrespectful; the tone is ordinary, factual, casual, or emotionally neutral.",
+      "low_respect": "The speaker uses rude, hostile, mocking, dismissive, contemptuous, threatening, insulting, coercive, or disrespectful language toward the listener.",
+      "unclear": "There is not enough local evidence to determine the speaker's respect level toward the listener."
+    },
+    "decision_rules": [
+      "Judge respect from the current speaker toward the listener for the target turn.",
+      "Use tone, wording, address terms, politeness markers, hostility, threats, sarcasm, insults, and dismissiveness as evidence.",
+      "Respect level is not the same as power dynamic: a lower-power speaker can show low respect, and a higher-power speaker can show high respect.",
+      "Do not infer respect from outside movie knowledge unless it is supported by the provided local dialogue context.",
+      "Use neutral_respect when the utterance is ordinary, informational, casual, or not strongly marked for respect or disrespect.",
+      "Use unclear when the utterance is too short or the listener-directed tone cannot be determined."
+    ],
+    "examples": [
+      {
+        "label": "high_respect",
+        "cue": "Polite address, deference, apology, gratitude, concern, admiration, or careful wording.",
+        "example": "I am sorry, sir. Thank you for your help."
+      },
+      {
+        "label": "neutral_respect",
+        "cue": "Plain statement, ordinary question, or casual dialogue without strong politeness or hostility.",
+        "example": "I will meet you outside."
+      },
+      {
+        "label": "low_respect",
+        "cue": "Insult, command with contempt, threat, mockery, dismissal, or aggressive wording.",
+        "example": "Get out of my face."
+      },
+      {
+        "label": "unclear",
+        "cue": "The line does not provide enough evidence about speaker attitude toward the listener.",
+        "example": "Okay."
+      }
+    ]
+  },
+  "label_normalization": {
+    "case": "lowercase_snake_case",
+    "missing_label": "unclear",
+    "accepted_power_dynamic_labels": [
+      "speaker_higher_power",
+      "listener_higher_power",
+      "roughly_equal_power",
+      "unclear"
+    ],
+    "accepted_respect_level_labels": [
+      "high_respect",
+      "neutral_respect",
+      "low_respect",
+      "unclear"
+    ]
+  },
+  "modeling_notes": [
+    "The modeling baseline should use text only: context_6_turns plus current_text.",
+    "Relationship type is intentionally not used as an input feature in the initial BERT embedding plus Logistic Regression model.",
+    "Macro-F1 should be emphasized because class distributions may be imbalanced.",
+    "Unclear labels can be dropped or retained according to configs/modeling_config.json."
+  ]
+}

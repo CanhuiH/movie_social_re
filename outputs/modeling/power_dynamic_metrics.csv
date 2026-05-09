@@ -1,0 +1,9 @@
+target,split,label,accuracy,precision,recall,f1,macro_f1,weighted_f1,support
+final_power_dynamic,val,__overall__,0.675392670157068,,,0.5797695262483995,0.5797695262483995,0.663416705213033,191
+final_power_dynamic,val,listener_higher_power,,0.4375,0.3684210526315789,0.4,,,38
+final_power_dynamic,val,roughly_equal_power,,0.8125,0.900990099009901,0.8544600938967136,,,101
+final_power_dynamic,val,speaker_higher_power,,0.5106382978723404,0.46153846153846156,0.48484848484848486,,,52
+final_power_dynamic,test,__overall__,0.7253886010362695,,,0.6397534858679399,0.6397534858679399,0.7157475266286872,193
+final_power_dynamic,test,listener_higher_power,,0.5,0.4358974358974359,0.4657534246575342,,,39
+final_power_dynamic,test,roughly_equal_power,,0.8482142857142857,0.9313725490196079,0.8878504672897196,,,102
+final_power_dynamic,test,speaker_higher_power,,0.5957446808510638,0.5384615384615384,0.5656565656565656,,,52

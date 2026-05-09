@@ -1,0 +1,13 @@
+{
+  "provider": "gemini",
+  "model": "gemini-3-flash-preview",
+  "api_key_env": "GEMINI_API_KEY",
+  "sleep_seconds": 0.0,
+  "translation_conditions": {
+    "context_only": "prompts/translate_context_only.txt",
+    "power_respect_only": "prompts/translate_power_respect_only.txt",
+    "relationship_only": "prompts/translate_relationship_only.txt",
+    "social_labels_only": "prompts/translate_social_labels_only.txt",
+    "graph_guided": "prompts/translate_graph_guided.txt"
+  }
+}

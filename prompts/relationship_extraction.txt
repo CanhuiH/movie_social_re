@@ -151,3 +151,124 @@ Previous turns:
 
 Current turn:
 {current_turn}
+You are a careful information extraction assistant.
+
+Your task is to identify the relationship type between the current speaker and listener for the current turn in a movie dialogue.
+
+Use only the provided local dialogue context and the current turn.
+Do not use outside movie knowledge.
+Do not invent facts not supported by the provided text.
+If the evidence is insufficient, return "unclear".
+
+Movie:
+{movie_name}
+
+Schema focus for this movie:
+{schema_focus}
+
+Allowed relationship labels:
+{relationship_labels}
+
+Relationship label definitions:
+{relationship_definitions}
+
+Priority rules:
+{priority_rules}
+
+Decision rules:
+- Choose exactly one relationship_type from the allowed labels.
+- The relationship is directional: infer the relationship from Speaker to Listener for the current turn.
+- Use the current turn as the target and the previous turns only as supporting context.
+- If multiple labels seem possible, choose the one most directly supported by the provided text.
+- Prefer the movie-specific label definition and priority rules over generic intuition.
+- Do not infer long-term plot facts unless they are clearly expressed in the provided text.
+- If there is not enough local evidence, return "unclear".
+- Confidence must be a number between 0 and 1.
+- Evidence must be brief and grounded in the provided text.
+- Return valid JSON only.
+- Do not include markdown.
+- Do not include any explanation outside the JSON object.
+
+Required JSON format:
+{{
+  "relationship_type": "...",
+  "confidence": 0.0,
+  "evidence": "..."
+}}
+
+General examples:
+
+Example 1
+Speaker: Character A
+Listener: Character B
+
+Previous turns:
+Character B: You are expected to marry me.
+Character A: I do not want this life.
+Character B: Your family has already agreed.
+
+Current turn:
+Character A: I cannot be your wife.
+
+Output:
+{{
+  "relationship_type": "formal_engagement",
+  "confidence": 0.9,
+  "evidence": "The dialogue explicitly frames the speaker and listener through an expected marriage bond."
+}}
+
+Example 2
+Speaker: Character A
+Listener: Character B
+
+Previous turns:
+Character B: Step back. That is an order.
+Character A: Please, I need to get through.
+Character B: I said step back.
+
+Current turn:
+Character B: Move aside now.
+
+Output:
+{{
+  "relationship_type": "authority",
+  "confidence": 0.88,
+  "evidence": "The listener is being commanded, indicating a role-based authority relation."
+}}
+
+Example 3
+Speaker: Character A
+Listener: Character B
+
+Previous turns:
+Character A: I will help you.
+Character B: Why would you do that for me?
+Character A: Because you should not face this alone.
+
+Current turn:
+Character A: Stay close to me.
+
+Output:
+{{
+  "relationship_type": "ally",
+  "confidence": 0.86,
+  "evidence": "The speaker offers help and protection, indicating active support."
+}}
+
+Important note about examples:
+- The examples illustrate the format and reasoning style.
+- If an example label is not in the allowed labels for this movie, do not use that label.
+- Always choose from the allowed labels listed above.
+
+Now perform the task on the following target turn.
+
+Conversation ID: {conversation_id}
+Utterance ID: {utterance_id}
+Speaker: {speaker_name}
+Listener: {listener_name}
+
+Previous turns:
+{context_text}
+
+Current turn:
+{current_turn}

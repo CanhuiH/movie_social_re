@@ -1,0 +1,9 @@
+movie_name,edge_state_rows,unique_edges,unique_speakers,unique_listeners,avg_edge_observation_count,max_edge_observation_count
+amadeus,158,47,18,17,3.7531645569620253,15
+an officer and a gentleman,130,28,11,10,4.107692307692307,17
+dead poets society,116,40,12,16,2.9741379310344827,12
+gladiator,42,22,9,11,2.0238095238095237,6
+mrs brown,48,27,12,10,2.3125,10
+the godfather,50,30,14,14,2.04,8
+titanic,55,23,14,13,4.290909090909091,17
+__total__,599,217,90,91,3.348914858096828,17

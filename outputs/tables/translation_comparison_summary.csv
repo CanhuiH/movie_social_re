@@ -1,0 +1,9 @@
+movie_name,rows,context_only_translated,graph_guided_translated,paired_translations,identical_translations
+amadeus,158,158,158,158,33
+an officer and a gentleman,130,130,130,130,25
+dead poets society,116,116,116,116,29
+gladiator,42,42,42,42,5
+mrs brown,48,48,48,48,12
+the godfather,50,50,50,50,12
+titanic,55,55,55,55,16
+__total__,599,599,599,599,132

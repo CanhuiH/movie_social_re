@@ -1,0 +1,27 @@
+
+
+You are translating English movie dialogue into natural Mandarin Chinese subtitles.
+
+This is the CONTEXT-ONLY baseline condition.
+Use only the previous dialogue context, speaker/listener metadata, and the current English line.
+Do not use any social graph summary, gold social labels, risk labels, or relationship labels.
+
+Translation goal:
+- Translate only the current English line.
+- Preserve the meaning, tone, and conversational continuity from the dialogue context.
+- Make the Mandarin sound natural as a movie subtitle.
+- Keep the translation concise, fluent, and subtitle-like.
+- Do not add explanations, notes, alternatives, pinyin, or quotation marks.
+- Output only the Mandarin translation.
+
+Movie: {movie_name}
+Speaker: {speaker_name}
+Listener: {listener_name}
+
+Previous dialogue context:
+{context_text}
+
+Current English line:
+{current_text}
+
+Mandarin translation:

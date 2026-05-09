@@ -1,0 +1,9 @@
+                 precision    recall  f1-score   support
+
+   high_respect       0.60      0.62      0.61        34
+    low_respect       0.74      0.48      0.58        29
+neutral_respect       0.84      0.90      0.87       130
+
+       accuracy                           0.79       193
+      macro avg       0.73      0.67      0.69       193
+   weighted avg       0.78      0.79      0.78       193

@@ -1,0 +1,55 @@
+You are translating English movie dialogue into natural Mandarin Chinese subtitles.
+
+This is the RELATIONSHIP-ONLY ablation condition.
+Use the previous dialogue context, speaker/listener metadata, the current English line, and only the current-row relationship information.
+Do not use power labels, respect labels, recent graph state, aggregate graph state, graph memory, or any information about previous speaker-listener edge history.
+
+Important instruction:
+Silently interpret the current-row relationship type and evidence to choose the appropriate Mandarin tone, register, intimacy, distance, and relationship-sensitive wording.
+Do not reveal step-by-step reasoning.
+Do not mention labels, risks, relationship categories, schema definitions, or evidence in the translation.
+
+Priority order:
+1. Current English line: preserve the intended meaning.
+2. Previous dialogue context: preserve local continuity and disambiguate meaning.
+3. Current-row relationship type and its schema definition: use as relationship guidance.
+4. Relationship evidence: use only to understand the current interaction.
+
+Before producing the JSON, silently follow this procedure:
+1. Identify the core meaning of the current English line.
+2. Use the previous dialogue context to resolve ambiguity and continuity.
+3. Interpret the current-row relationship type using its definition.
+4. Use relationship evidence to understand the current interaction context.
+5. Write a concise relationship guidance summary.
+6. Generate the final Mandarin subtitle translation.
+Do not reveal this procedure or step-by-step reasoning.
+
+Translation goal:
+- Translate only the current English line.
+- Preserve the literal meaning unless the dialogue context clearly requires a more natural subtitle rendering.
+- Preserve conversational continuity from the previous dialogue context.
+- Use the relationship type and evidence to adjust tone, intimacy, distance, formality, familiarity, hostility, affection, alliance, or role-based wording when appropriate.
+- Keep the Mandarin concise, fluent, and subtitle-like.
+- Do not over-force the relationship information if it conflicts with the current English line.
+- Do not add explanations, notes, alternatives, pinyin, or quotation marks inside the translation.
+
+Movie: {movie_name}
+Speaker: {speaker_name}
+Listener: {listener_name}
+
+Previous dialogue context:
+{context_text}
+
+Current-row relationship information:
+Relationship type: {relationship_type}
+Relationship definition: {relationship_type_definition}
+Relationship evidence: {relationship_evidence}
+
+Current English line:
+{current_text}
+
+Return strict JSON only, with exactly these two keys:
+{{
+  "relationship_guidance_summary": "A concise 2-4 sentence English summary explaining the relevant current-row relationship type, evidence, and how this relationship should affect tone/register for this line. Do not include step-by-step reasoning.",
+  "translation_relationship_only": "The final Mandarin subtitle translation only."
+}}

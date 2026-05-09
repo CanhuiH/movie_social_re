@@ -1,0 +1,9 @@
+movie_name,rows,rows_with_graph_state,unique_relationship_types,unique_recent_relationship_types,unique_aggregate_relationship_types
+amadeus,158,158,8,8,7
+an officer and a gentleman,130,130,6,6,6
+dead poets society,116,116,6,6,6
+gladiator,42,42,7,6,6
+mrs brown,48,48,6,6,6
+the godfather,50,50,8,8,8
+titanic,55,55,8,8,8
+__total__,599,599,32,31,30
