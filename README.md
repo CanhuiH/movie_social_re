@@ -8,7 +8,7 @@ The project focuses on dialogue lines where social context may affect translatio
 
 The goal is to evaluate whether adding structured social context helps an LLM produce more sociopragmatically appropriate Mandarin translations.
 
-The pipeline compares two translation settings:
+The main pipeline compares two translation settings:
 
 1. **Context-only translation**
    - Uses the current English line, speaker/listener metadata, and previous dialogue context.
@@ -17,6 +17,17 @@ The pipeline compares two translation settings:
 2. **Graph-guided translation**
    - Uses the same context as the baseline.
    - Adds structured social guidance, including power dynamic, respect level, relationship type, evidence, recent graph state, and aggregate graph state.
+
+
+The project also includes an optional ablation study with five translation conditions:
+
+```text
+A0: Context-only baseline
+A1: Power/respect-only guidance
+A2: Relationship-only guidance
+A3: Local social-label guidance
+A4: Full graph-guided translation
+```
 
 
 In the final translation experiment, the power dynamic and respect level are **gold human annotation labels**, not model predictions. The power/respect classifier is still included in the project as a modeling experiment, but its predicted labels are not used as the final social guidance for translation.
@@ -79,8 +90,12 @@ movie_social_re/
 │   │   └── social_graph_edges.csv
 │   └── translation_eval/
 │       ├── translation_context_only.csv
+│       ├── translation_power_respect_only.csv
+│       ├── translation_relationship_only.csv
+│       ├── translation_social_labels_only.csv
 │       ├── translation_graph_guided.csv
-│       └── translation_comparison.csv
+│       ├── translation_comparison.csv
+│       └── translation_ablation_comparison.csv
 ├── models/
 │   ├── embeddings/
 │   │   ├── train_bert_embeddings.npy
@@ -110,6 +125,9 @@ movie_social_re/
 │   ├── graph_summary_generation.txt
 │   ├── relationship_extraction.txt
 │   ├── translate_context_only.txt
+│   ├── translate_power_respect_only.txt
+│   ├── translate_relationship_only.txt
+│   ├── translate_social_labels_only.txt
 │   └── translate_graph_guided.txt
 ├── scripts/
 │   ├── 01_data.py
@@ -122,7 +140,11 @@ movie_social_re/
 │   ├── 08_prepare_translation_input.py
 │   ├── 09_translate_context_only.py
 │   ├── 10_translate_graph_guided.py
-│   └── 11_merge_translation_outputs.py
+│   ├── 11_merge_translation_outputs.py
+│   ├── 12_translate_social_labels_only.py
+│   ├── 13_merge_ablation_outputs.py
+│   ├── 14_translate_power_respect_only.py
+│   └── 15_translate_relationship_only.py
 └── src/
     ├── config.py
     ├── data/
@@ -142,9 +164,13 @@ movie_social_re/
     │   ├── postprocess.py
     │   └── schema.py
     ├── translation/
+    │   ├── merge_ablation_outputs.py
     │   ├── merge_translation_outputs.py
     │   ├── prepare_translation_input.py
     │   ├── translate_context_only.py
+    │   ├── translate_power_respect_only.py
+    │   ├── translate_relationship_only.py
+    │   ├── translate_social_labels_only.py
     │   └── translate_graph_guided.py
     └── utils/
         ├── io.py
@@ -166,7 +192,11 @@ The full project is organized as numbered scripts in `scripts/`.
 08     Prepare translation input
 09     Generate context-only translations
 10     Generate graph-guided translations
-11     Merge translation outputs for comparison
+11     Merge main translation outputs for comparison
+12     Generate local social-label-guided ablation translations
+13     Merge ablation translation outputs
+14     Generate power/respect-only ablation translations
+15     Generate relationship-only ablation translations
 ```
 
 Steps 3-5 are the modeling part of the project. They are useful for exploring whether power dynamic and respect level can be predicted automatically. However, the final translation comparison uses **human-labeled gold power/respect annotations** from `data/labeled/power_respect_labels.csv`, rather than classifier predictions.
@@ -187,6 +217,10 @@ python scripts/08_prepare_translation_input.py
 python scripts/09_translate_context_only.py
 python scripts/10_translate_graph_guided.py
 python scripts/11_merge_translation_outputs.py
+python scripts/12_translate_social_labels_only.py
+python scripts/14_translate_power_respect_only.py
+python scripts/15_translate_relationship_only.py
+python scripts/13_merge_ablation_outputs.py
 ```
 
 ## Recommended Translation Pipeline
@@ -203,6 +237,44 @@ python scripts/11_merge_translation_outputs.py
 ```
 
 Steps 9 and 10 support resume behavior. If translation output files already exist, the scripts skip rows that have already been translated unless `--overwrite` is used.
+
+## Optional Ablation Study Pipeline
+
+The ablation study separates different sources of social guidance to test which information changes translation behavior.
+
+```text
+A0: Context-only baseline
+A1: Power/respect-only guidance
+A2: Relationship-only guidance
+A3: Local social-label guidance
+A4: Full graph-guided translation
+```
+
+Run the ablation translations after Step 8 has created `data/interim/translation_input.csv`:
+
+```bash
+python scripts/12_translate_social_labels_only.py
+python scripts/14_translate_power_respect_only.py
+python scripts/15_translate_relationship_only.py
+python scripts/13_merge_ablation_outputs.py
+```
+
+The ablation output is saved to:
+
+```text
+data/translation_eval/translation_ablation_comparison.csv
+outputs/tables/translation_ablation_summary.csv
+```
+
+The ablation comparison includes these translation columns:
+
+```text
+translation_context_only
+translation_power_respect_only
+translation_relationship_only
+translation_social_labels_only
+translation_graph_guided
+```
 
 ## Modeling Part: Power and Respect Classification
 
@@ -429,6 +501,9 @@ Translation prompts are stored in `prompts/`.
 
 ```text
 prompts/translate_context_only.txt
+prompts/translate_power_respect_only.txt
+prompts/translate_relationship_only.txt
+prompts/translate_social_labels_only.txt
 prompts/translate_graph_guided.txt
 ```
 
@@ -453,6 +528,15 @@ The graph-guided prompt asks the model to silently interpret the social guidance
   "social_guidance_summary": "...",
   "translation_graph_guided": "..."
 }
+```
+
+The ablation prompts use restricted subsets of the social information:
+
+```text
+translate_power_respect_only.txt   -> power and respect labels only
+translate_relationship_only.txt    -> relationship type and evidence only
+translate_social_labels_only.txt   -> power, respect, relationship type, and evidence
+translate_graph_guided.txt         -> local social labels plus recent/aggregate graph state
 ```
 
 ## Configuration Files
@@ -518,6 +602,30 @@ Merge final comparison output:
 python scripts/11_merge_translation_outputs.py
 ```
 
+Dry run social-label-guided ablation translation:
+
+```bash
+python scripts/12_translate_social_labels_only.py --max-rows 3 --dry-run --overwrite
+```
+
+Dry run power/respect-only ablation translation:
+
+```bash
+python scripts/14_translate_power_respect_only.py --max-rows 3 --dry-run --overwrite
+```
+
+Dry run relationship-only ablation translation:
+
+```bash
+python scripts/15_translate_relationship_only.py --max-rows 3 --dry-run --overwrite
+```
+
+Merge ablation comparison output:
+
+```bash
+python scripts/13_merge_ablation_outputs.py
+```
+
 ## When to Restart the Pipeline
 
 If you update `power_respect_labels.csv`, restart the translation pipeline from Step 6:
@@ -549,7 +657,7 @@ The current pipeline produces the final translation comparison dataset:
 data/translation_eval/translation_comparison.csv
 ```
 
-The next teammate can continue from this file and focus on the evaluation and report-writing stages.
+The next teammate can continue from this file, or from `data/translation_eval/translation_ablation_comparison.csv` if using the ablation study, and focus on the evaluation and report-writing stages.
 
 Suggested next tasks:
 
@@ -558,9 +666,10 @@ Suggested next tasks:
 2. Evaluate whether graph guidance improves tone, politeness, register, relationship faithfulness, and subtitle naturalness.
 3. Add human or LLM-based judging for translation quality comparison.
 4. Analyze cases where graph-guided translation improves, hurts, or does not change the output.
-5. Summarize quantitative results from the 599-row comparison dataset.
-6. Select representative qualitative examples for the final report.
-7. Write the final project report, including motivation, data, methodology, experiments, results, limitations, and future work.
+5. Evaluate the ablation conditions to separate the effects of power/respect labels, relationship labels, local social labels, and full graph guidance.
+6. Summarize quantitative results from the 599-row comparison dataset.
+7. Select representative qualitative examples for the final report.
+8. Write the final project report, including motivation, data, methodology, experiments, results, limitations, and future work.
 ```
 
 The modeling outputs in `outputs/modeling/` can be discussed as an exploratory component, but the final translation evaluation should use the human-labeled gold power/respect annotations included in `translation_comparison.csv`.
@@ -573,4 +682,5 @@ The modeling outputs in `outputs/modeling/` can be discussed as an exploratory c
 - Step 6 also removes rows with missing, blank, or `unclear` relationship type.
 - Steps 9 and 10 can resume from existing translation outputs.
 - Use `--overwrite` only when you want to regenerate existing translations.
+- The ablation study is optional, but it can help identify whether improvements come from power/respect labels, relationship labels, local social labels, or graph history.
 - The final comparison file is designed for manual and automatic evaluation of whether graph guidance changes translation quality, tone, and sociopragmatic faithfulness.
