@@ -1,0 +1,4 @@
+final_power_dynamic,n,context_only_wins,graph_guided_wins,ties,decided,context_only_win_rate_all,graph_guided_win_rate_all,graph_guided_win_rate_decided,net_preference_graph_guided_minus_context_only,issue_focus_observed_rate,graph_guided_win_rate_all_ci_low,graph_guided_win_rate_all_ci_high,net_preference_graph_guided_minus_context_only_ci_low,net_preference_graph_guided_minus_context_only_ci_high
+roughly_equal_power,238,59,173,6,232,0.24789915966386555,0.726890756302521,0.7456896551724138,0.4789915966386555,1.0,0.6680672268907563,0.7815126050420168,0.3697478991596639,0.5840336134453782
+speaker_higher_power,139,28,110,1,138,0.2014388489208633,0.7913669064748201,0.7971014492753623,0.5899280575539568,1.0,0.7266187050359713,0.8561151079136691,0.460431654676259,0.7194244604316546
+listener_higher_power,90,20,68,2,88,0.2222222222222222,0.7555555555555555,0.7727272727272727,0.5333333333333333,1.0,0.6666666666666666,0.8444444444444444,0.35555555555555557,0.7

@@ -1,0 +1,3 @@
+final_respect_level,n,social_labels_only_wins,graph_guided_wins,ties,decided,social_labels_only_win_rate_all,graph_guided_win_rate_all,graph_guided_win_rate_decided,net_preference_graph_guided_minus_social_labels_only,issue_focus_observed_rate,graph_guided_win_rate_all_ci_low,graph_guided_win_rate_all_ci_high,net_preference_graph_guided_minus_social_labels_only_ci_low,net_preference_graph_guided_minus_social_labels_only_ci_high
+neutral_respect,2,0,2,0,2,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+high_respect,1,0,1,0,1,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

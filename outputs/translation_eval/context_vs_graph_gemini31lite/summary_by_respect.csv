@@ -1,0 +1,4 @@
+final_respect_level,n,context_only_wins,graph_guided_wins,ties,decided,context_only_win_rate_all,graph_guided_win_rate_all,graph_guided_win_rate_decided,net_preference_graph_guided_minus_context_only,issue_focus_observed_rate,graph_guided_win_rate_all_ci_low,graph_guided_win_rate_all_ci_high,net_preference_graph_guided_minus_context_only_ci_low,net_preference_graph_guided_minus_context_only_ci_high
+neutral_respect,250,65,178,7,243,0.26,0.712,0.7325102880658436,0.452,1.0,0.652,0.768,0.34,0.556
+high_respect,109,18,89,2,107,0.1651376146788991,0.8165137614678899,0.8317757009345794,0.6513761467889908,1.0,0.7431192660550459,0.8899082568807339,0.5045871559633027,0.7889908256880734
+low_respect,108,24,84,0,108,0.2222222222222222,0.7777777777777778,0.7777777777777778,0.5555555555555556,1.0,0.6944444444444444,0.8518518518518519,0.3888888888888889,0.7037037037037037

@@ -1,0 +1,2 @@
+relationship_type,n,context_only_wins,graph_guided_wins,ties,decided,context_only_win_rate_all,graph_guided_win_rate_all,graph_guided_win_rate_decided,net_preference_graph_guided_minus_context_only,issue_focus_observed_rate,graph_guided_win_rate_all_ci_low,graph_guided_win_rate_all_ci_high,net_preference_graph_guided_minus_context_only_ci_low,net_preference_graph_guided_minus_context_only_ci_high
+court_authority,3,0,3,0,3,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

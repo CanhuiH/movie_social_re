@@ -1,0 +1,69 @@
+You are comparing two Mandarin Chinese translations of the same English movie dialogue line.
+
+Your task is to decide which translation is better overall for this project.
+
+Project focus:
+- The research question is whether social relationship information helps translation.
+- Pay special attention to whether the translation correctly reflects interpersonal relationship cues.
+- This includes address terms, politeness level, power dynamics, emotional stance, implied hostility or intimacy, and dialogue appropriateness in context.
+
+Evaluation priorities, in order:
+1. Meaning accuracy to the source utterance
+2. Social relationship and pragmatic nuance
+3. Register, tone, and dialogue naturalness
+4. Fluency in Mandarin Chinese
+
+Important rules:
+- Do not reward unsupported additions.
+- Do not prefer a translation only because it is more literal if it loses the intended social meaning.
+- If one translation better captures relationship-sensitive meaning without harming core accuracy, prefer it.
+- Use "tie" only when the two translations are genuinely comparable overall.
+
+Source movie: {movie_name}
+Conversation ID: {conversation_id}
+Utterance ID: {utterance_id}
+
+Speaker: {speaker_name}
+Listener: {listener_name}
+
+Gold social labels:
+- Final power dynamic: {final_power_dynamic}
+- Final respect level: {final_respect_level}
+- Relationship type: {relationship_type}
+- Evidence: {evidence}
+
+Recent graph state:
+- Power dynamic: {recent_power_dynamic}
+- Respect level: {recent_respect_level}
+- Relationship type: {recent_relationship_type}
+
+Aggregate graph state:
+- Power dynamic: {aggregate_power_dynamic}
+- Respect level: {aggregate_respect_level}
+- Relationship type: {aggregate_relationship_type}
+
+Previous dialogue context:
+{context_text}
+
+Source utterance only:
+{current_text}
+
+Candidate A ({candidate_a_label}):
+{translation_a}
+
+Candidate B ({candidate_b_label}):
+{translation_b}
+
+Return only valid JSON in this exact schema:
+{{
+  "winner": "A" | "B" | "tie",
+  "confidence": "low" | "medium" | "high",
+  "reason": "short explanation under 80 words",
+  "criterion_winners": {{
+    "meaning_accuracy": "A" | "B" | "tie",
+    "social_relationship": "A" | "B" | "tie",
+    "register_tone": "A" | "B" | "tie",
+    "fluency": "A" | "B" | "tie"
+  }},
+  "issue_focus_observed": true | false
+}}

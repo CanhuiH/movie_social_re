@@ -10,8 +10,6 @@ from typing import Any
 
 import numpy as np
 import pandas as pd
-from dotenv import load_dotenv
-from openai import OpenAI
 from tqdm import tqdm
 
 from src.config import DEFAULT_MOVIE_NAME, OPENAI_API_KEY_ENV, PROMPTS_DIR, ensure_project_dirs
@@ -24,6 +22,7 @@ DEFAULT_BOOTSTRAP_SAMPLES = 2000
 DEFAULT_RANDOM_SEED = 7
 DEFAULT_MAX_RETRIES = 3
 DEFAULT_PROMPT_PATH = PROMPTS_DIR / "translation_pairwise_judge.txt"
+DEFAULT_GEMINI_API_KEY_ENV = "GEMINI_API_KEY"
 
 SYSTEM_PROMPT = """You are a careful bilingual evaluator for movie dialogue translation.
 You compare two candidate Chinese translations against the English source and return only strict JSON.
@@ -101,7 +100,20 @@ def parse_args() -> argparse.Namespace:
         "--model",
         type=str,
         default=DEFAULT_EVAL_MODEL,
-        help=f'OpenAI model name used as the judge. Default: "{DEFAULT_EVAL_MODEL}".',
+        help=f'Judge model name. Default: "{DEFAULT_EVAL_MODEL}".',
+    )
+    parser.add_argument(
+        "--provider",
+        type=str,
+        default="openai",
+        choices=["openai", "gemini"],
+        help='LLM provider used as the judge. Default: "openai".',
+    )
+    parser.add_argument(
+        "--api-key-env",
+        type=str,
+        default=None,
+        help="Optional environment variable name containing the selected provider API key.",
     )
     parser.add_argument(
         "--max-rows",
@@ -209,15 +221,45 @@ def load_eval_dataframe(path: Path, max_rows: int | None = None) -> pd.DataFrame
     return filtered_df.reset_index(drop=True)
 
 
-def load_openai_client() -> OpenAI:
-    load_dotenv()
-    api_key = os.getenv(OPENAI_API_KEY_ENV)
+def load_llm_client(provider: str, api_key_env: str | None = None) -> Any:
+    try:
+        from dotenv import load_dotenv
+    except ImportError:
+        load_dotenv = None
+
+    if load_dotenv is not None:
+        load_dotenv()
+
+    provider_name = provider.strip().lower()
+    resolved_api_key_env = (
+        api_key_env or (OPENAI_API_KEY_ENV if provider_name == "openai" else DEFAULT_GEMINI_API_KEY_ENV)
+    )
+    api_key = os.getenv(resolved_api_key_env)
     if not api_key:
         raise EnvironmentError(
-            f"Missing required environment variable: {OPENAI_API_KEY_ENV}. "
+            f"Missing required environment variable: {resolved_api_key_env}. "
             "Set it in your shell or .env file before running evaluation."
         )
-    return OpenAI(api_key=api_key)
+
+    if provider_name == "openai":
+        try:
+            from openai import OpenAI
+        except ImportError as exc:
+            raise ImportError(
+                "The `openai` package is required to run OpenAI evaluation. Install project dependencies first."
+            ) from exc
+        return OpenAI(api_key=api_key)
+
+    if provider_name == "gemini":
+        try:
+            from google import genai
+        except ImportError as exc:
+            raise ImportError(
+                "The `google-genai` package is required to run Gemini evaluation. Install project dependencies first."
+            ) from exc
+        return genai.Client(api_key=api_key)
+
+    raise ValueError(f"Unsupported provider: {provider}")
 
 
 def load_prompt_template(prompt_file: str | None) -> str:
@@ -340,7 +382,8 @@ def parse_judge_response(response_text: str) -> dict[str, Any]:
 
 
 def call_judge_model(
-    client: OpenAI,
+    client: Any,
+    provider: str,
     model: str,
     system_prompt: str,
     user_prompt: str,
@@ -351,14 +394,26 @@ def call_judge_model(
 
     for attempt in range(1, total_attempts + 1):
         try:
-            response = client.responses.create(
-                model=model,
-                input=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt},
-                ],
-            )
-            return parse_judge_response(response.output_text)
+            provider_name = provider.strip().lower()
+            if provider_name == "openai":
+                response = client.responses.create(
+                    model=model,
+                    input=[
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": user_prompt},
+                    ],
+                )
+                raw_text = response.output_text
+            elif provider_name == "gemini":
+                response = client.models.generate_content(
+                    model=model,
+                    contents=f"{system_prompt.strip()}\n\n{user_prompt.strip()}",
+                )
+                raw_text = getattr(response, "text", None) or ""
+            else:
+                raise ValueError(f"Unsupported provider: {provider}")
+
+            return parse_judge_response(raw_text)
         except Exception as exc:
             last_error = exc
             if attempt == total_attempts:
@@ -440,7 +495,8 @@ def build_judgment_record(
 
 def run_pairwise_evaluation(
     df: pd.DataFrame,
-    client: OpenAI,
+    client: Any,
+    provider: str,
     model: str,
     prompt_template: str,
     seed: int,
@@ -474,6 +530,7 @@ def run_pairwise_evaluation(
         )
         judge_result = call_judge_model(
             client=client,
+            provider=provider,
             model=model,
             system_prompt=SYSTEM_PROMPT,
             user_prompt=user_prompt,
@@ -618,6 +675,7 @@ def build_summary_payload(
             "input_file": str(input_path),
             "output_dir": str(output_dir),
             "judge_model": model,
+            "judge_provider": provider,
             "seed": seed,
             "bootstrap_samples": bootstrap_samples,
             "evaluated_rows": evaluated_rows,
@@ -660,10 +718,11 @@ def main() -> None:
     prompt_template = load_prompt_template(args.prompt_file)
     eval_paths.prompt_snapshot.write_text(prompt_template, encoding="utf-8")
 
-    client = load_openai_client()
+    client = load_llm_client(args.provider, api_key_env=args.api_key_env)
     judgments = run_pairwise_evaluation(
         df=eval_df,
         client=client,
+        provider=args.provider,
         model=args.model,
         prompt_template=prompt_template,
         seed=args.seed,

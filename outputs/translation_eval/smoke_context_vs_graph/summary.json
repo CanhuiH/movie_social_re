@@ -1,0 +1,155 @@
+{
+  "configuration": {
+    "input_file": "C:\\Users\\jackyfirst\\Downloads\\Natural Language Processing\\movie_social_re\\data\\translation_eval\\translation_ablation_comparison.csv",
+    "output_dir": "outputs\\translation_eval\\smoke_context_vs_graph",
+    "judge_model": "gemini-2.5-flash-lite",
+    "judge_provider": "gemini",
+    "seed": 7,
+    "bootstrap_samples": 2000,
+    "evaluated_rows": 2,
+    "skipped_rows_due_to_missing_fields": 597,
+    "candidate_1_label": "context_only",
+    "candidate_2_label": "graph_guided"
+  },
+  "headline": {
+    "n": 2.0,
+    "context_only_wins": 1.0,
+    "graph_guided_wins": 1.0,
+    "ties": 0.0,
+    "decided": 2.0,
+    "context_only_win_rate_all": 0.5,
+    "graph_guided_win_rate_all": 0.5,
+    "graph_guided_win_rate_decided": 0.5,
+    "net_preference_graph_guided_minus_context_only": 0.0,
+    "issue_focus_observed_rate": 1.0,
+    "graph_guided_win_rate_all_ci_low": 0.0,
+    "graph_guided_win_rate_all_ci_high": 1.0,
+    "net_preference_graph_guided_minus_context_only_ci_low": -1.0,
+    "net_preference_graph_guided_minus_context_only_ci_high": 1.0
+  },
+  "overall_summary": [
+    {
+      "n": 2,
+      "context_only_wins": 1,
+      "graph_guided_wins": 1,
+      "ties": 0,
+      "decided": 2,
+      "context_only_win_rate_all": 0.5,
+      "graph_guided_win_rate_all": 0.5,
+      "graph_guided_win_rate_decided": 0.5,
+      "net_preference_graph_guided_minus_context_only": 0.0,
+      "issue_focus_observed_rate": 1.0,
+      "graph_guided_win_rate_all_ci_low": 0.0,
+      "graph_guided_win_rate_all_ci_high": 1.0,
+      "net_preference_graph_guided_minus_context_only_ci_low": -1.0,
+      "net_preference_graph_guided_minus_context_only_ci_high": 1.0
+    }
+  ],
+  "relationship_summary": [
+    {
+      "relationship_type": "court_authority",
+      "n": 2,
+      "context_only_wins": 1,
+      "graph_guided_wins": 1,
+      "ties": 0,
+      "decided": 2,
+      "context_only_win_rate_all": 0.5,
+      "graph_guided_win_rate_all": 0.5,
+      "graph_guided_win_rate_decided": 0.5,
+      "net_preference_graph_guided_minus_context_only": 0.0,
+      "issue_focus_observed_rate": 1.0,
+      "graph_guided_win_rate_all_ci_low": 0.0,
+      "graph_guided_win_rate_all_ci_high": 1.0,
+      "net_preference_graph_guided_minus_context_only_ci_low": -1.0,
+      "net_preference_graph_guided_minus_context_only_ci_high": 1.0
+    }
+  ],
+  "power_summary": [
+    {
+      "final_power_dynamic": "speaker_higher_power",
+      "n": 2,
+      "context_only_wins": 1,
+      "graph_guided_wins": 1,
+      "ties": 0,
+      "decided": 2,
+      "context_only_win_rate_all": 0.5,
+      "graph_guided_win_rate_all": 0.5,
+      "graph_guided_win_rate_decided": 0.5,
+      "net_preference_graph_guided_minus_context_only": 0.0,
+      "issue_focus_observed_rate": 1.0,
+      "graph_guided_win_rate_all_ci_low": 0.0,
+      "graph_guided_win_rate_all_ci_high": 1.0,
+      "net_preference_graph_guided_minus_context_only_ci_low": -1.0,
+      "net_preference_graph_guided_minus_context_only_ci_high": 1.0
+    }
+  ],
+  "respect_summary": [
+    {
+      "final_respect_level": "neutral_respect",
+      "n": 2,
+      "context_only_wins": 1,
+      "graph_guided_wins": 1,
+      "ties": 0,
+      "decided": 2,
+      "context_only_win_rate_all": 0.5,
+      "graph_guided_win_rate_all": 0.5,
+      "graph_guided_win_rate_decided": 0.5,
+      "net_preference_graph_guided_minus_context_only": 0.0,
+      "issue_focus_observed_rate": 1.0,
+      "graph_guided_win_rate_all_ci_low": 0.0,
+      "graph_guided_win_rate_all_ci_high": 1.0,
+      "net_preference_graph_guided_minus_context_only_ci_low": -1.0,
+      "net_preference_graph_guided_minus_context_only_ci_high": 1.0
+    }
+  ],
+  "criterion_summary": [
+    {
+      "criterion": "meaning_accuracy",
+      "n": 2,
+      "context_only_wins": 0,
+      "graph_guided_wins": 0,
+      "ties": 2,
+      "decided": 0,
+      "context_only_win_rate_all": 0.0,
+      "graph_guided_win_rate_all": 0.0,
+      "graph_guided_win_rate_decided": null,
+      "net_preference_graph_guided_minus_context_only": 0.0
+    },
+    {
+      "criterion": "social_relationship",
+      "n": 2,
+      "context_only_wins": 1,
+      "graph_guided_wins": 1,
+      "ties": 0,
+      "decided": 2,
+      "context_only_win_rate_all": 0.5,
+      "graph_guided_win_rate_all": 0.5,
+      "graph_guided_win_rate_decided": 0.5,
+      "net_preference_graph_guided_minus_context_only": 0.0
+    },
+    {
+      "criterion": "register_tone",
+      "n": 2,
+      "context_only_wins": 1,
+      "graph_guided_wins": 1,
+      "ties": 0,
+      "decided": 2,
+      "context_only_win_rate_all": 0.5,
+      "graph_guided_win_rate_all": 0.5,
+      "graph_guided_win_rate_decided": 0.5,
+      "net_preference_graph_guided_minus_context_only": 0.0
+    },
+    {
+      "criterion": "fluency",
+      "n": 2,
+      "context_only_wins": 0,
+      "graph_guided_wins": 0,
+      "ties": 2,
+      "decided": 0,
+      "context_only_win_rate_all": 0.0,
+      "graph_guided_win_rate_all": 0.0,
+      "graph_guided_win_rate_decided": null,
+      "net_preference_graph_guided_minus_context_only": 0.0
+    }
+  ]
+}
