@@ -1,0 +1,61 @@
+
+
+You are translating English movie dialogue into natural Mandarin Chinese subtitles.
+
+This is the SOCIAL-LABEL-GUIDED ablation condition.
+Use the previous dialogue context, speaker/listener metadata, the current English line, and only the current-row social labels.
+Do not use recent graph state, aggregate graph state, graph memory, or any information about previous speaker-listener edge history.
+
+Important instruction:
+Silently interpret the current-row social labels to choose the appropriate Mandarin tone, register, respect level, and relationship-sensitive wording.
+Do not reveal step-by-step reasoning.
+Do not mention labels, risks, power, respect, relationship categories, schema definitions, or evidence in the translation.
+
+Priority order:
+1. Current English line: preserve the intended meaning.
+2. Previous dialogue context: preserve local continuity and disambiguate meaning.
+3. Current-row social labels and their schema definitions: use as tone/register guidance.
+4. Relationship evidence: use only to understand the current interaction.
+
+Before producing the JSON, silently follow this procedure:
+1. Identify the core meaning of the current English line.
+2. Use the previous dialogue context to resolve ambiguity and continuity.
+3. Interpret the current-row power, respect, and relationship labels using their definitions.
+4. Use relationship evidence to understand the current interaction context.
+5. Write a concise social guidance summary.
+6. Generate the final Mandarin subtitle translation.
+Do not reveal this procedure or step-by-step reasoning.
+
+Translation goal:
+- Translate only the current English line.
+- Preserve the literal meaning unless the dialogue context clearly requires a more natural subtitle rendering.
+- Preserve conversational continuity from the previous dialogue context.
+- Use the current-row social labels to adjust tone, politeness, formality, intimacy, distance, resistance, sarcasm, deference, or hostility when appropriate.
+- Keep the Mandarin concise, fluent, and subtitle-like.
+- Do not over-force the social labels if they conflict with the current English line.
+- Do not add explanations, notes, alternatives, pinyin, or quotation marks inside the translation.
+
+Movie: {movie_name}
+Speaker: {speaker_name}
+Listener: {listener_name}
+
+Previous dialogue context:
+{context_text}
+
+Current-row social labels:
+Power dynamic: {final_power_dynamic}
+Power definition: {final_power_dynamic_definition}
+Respect level: {final_respect_level}
+Respect definition: {final_respect_level_definition}
+Relationship type: {relationship_type}
+Relationship definition: {relationship_type_definition}
+Relationship evidence: {relationship_evidence}
+
+Current English line:
+{current_text}
+
+Return strict JSON only, with exactly these two keys:
+{{
+  "social_guidance_summary": "A concise 2-4 sentence English summary explaining the relevant current-row power dynamic, respect level, relationship type, evidence, and how these labels should affect tone/register for this line. Do not include step-by-step reasoning.",
+  "translation_social_labels_only": "The final Mandarin subtitle translation only."
+}}

@@ -50,9 +50,9 @@
   },
   "split": {
     "split_strategy": "fixed_size",
-    "train_size": 1200,
-    "val_size": 224,
-    "test_size": 300,
+    "train_size": 1533,
+    "val_size": 191,
+    "test_size": 193,
     "translation_eval_size": 0,
     "translation_eval_file": "data/modeling/translation_eval.csv",
     "random_state": 42,
@@ -76,12 +76,12 @@
       "linear_svm",
       "ridge_classifier"
     ],
-    "class_weight": "balanced",
+    "class_weight": "none",
     "random_state": 42,
     "logistic_regression": {
       "max_iter": 2000,
       "solver": "lbfgs",
-      "C": 1.0
+      "C": 3.0
     },
     "linear_svm": {
       "max_iter": 5000,

@@ -12974,3 +12974,1602 @@ You teach them!",SELENE,NARCISSUS,roughly_equal_power,roughly_equal_power,neutra
 
 Current turn:
 That's what I'm going to do.  That's what I'm going to do...",NARCISSUS,SELENE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1724,mrs brown,L396379,L396379,,"The Royal Family and senior members of the household, ma'am.",listener_higher_power,high_respect,"Current turn:
+The Royal Family and senior members of the household, ma'am.",LADY ELY,,listener_higher_power,listener_higher_power,high_respect,high_respect
+1725,mrs brown,L396379,L396381,"1. LADY ELY: The Royal Family and senior members of the household, ma'am.
+2. VICTORIA to LADY ELY: Just them?","Yes, ma'am.",listener_higher_power,high_respect,"Context:
+1. LADY ELY: The Royal Family and senior members of the household, ma'am.
+2. VICTORIA to LADY ELY: Just them?
+
+Current turn:
+Yes, ma'am.",LADY ELY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1726,mrs brown,L396382,L396382,,"We're expecting Brown this afternoon, ma'am.",listener_higher_power,high_respect,"Current turn:
+We're expecting Brown this afternoon, ma'am.",JENNER,,listener_higher_power,listener_higher_power,high_respect,high_respect
+1727,mrs brown,L396382,L396383,"1. JENNER: We're expecting Brown this afternoon, ma'am.",Whom?,speaker_higher_power,neutral_respect,"Context:
+1. JENNER: We're expecting Brown this afternoon, ma'am.
+
+Current turn:
+Whom?",VICTORIA,JENNER,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1728,mrs brown,L396384,L396385,"1. VICTORIA: That's a very pretty shawl you are wearing, Alex.  Silk suits you well.  But you are not eating enough.  One must not let vanity overrule one's appetite.","Yes, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: That's a very pretty shawl you are wearing, Alex.  Silk suits you well.  But you are not eating enough.  One must not let vanity overrule one's appetite.
+
+Current turn:
+Yes, ma'am.",PRINCESS ALEXANDRA,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1729,mrs brown,L396387,L396387,,"Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.",speaker_higher_power,neutral_respect,"Current turn:
+Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.",PONSONBY,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1730,mrs brown,L396387,L396388,"1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.",How will I know?,listener_higher_power,neutral_respect,"Context:
+1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.
+
+Current turn:
+How will I know?",BROWN,PONSONBY,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1731,mrs brown,L396387,L396389,"1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.
+2. BROWN to PONSONBY: How will I know?",I'm sorry?,speaker_higher_power,neutral_respect,"Context:
+1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.
+2. BROWN to PONSONBY: How will I know?
+
+Current turn:
+I'm sorry?",PONSONBY,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1732,mrs brown,L396387,L396390,"1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.
+2. BROWN to PONSONBY: How will I know?
+3. PONSONBY to BROWN: I'm sorry?",How will I know what she requires?,listener_higher_power,neutral_respect,"Context:
+1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.
+2. BROWN to PONSONBY: How will I know?
+3. PONSONBY to BROWN: I'm sorry?
+
+Current turn:
+How will I know what she requires?",BROWN,PONSONBY,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1733,mrs brown,L396387,L396391,"1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.
+2. BROWN to PONSONBY: How will I know?
+3. PONSONBY to BROWN: I'm sorry?
+4. BROWN to PONSONBY: How will I know what she requires?",You'll be sent a message.,speaker_higher_power,neutral_respect,"Context:
+1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.
+2. BROWN to PONSONBY: How will I know?
+3. PONSONBY to BROWN: I'm sorry?
+4. BROWN to PONSONBY: How will I know what she requires?
+
+Current turn:
+You'll be sent a message.",PONSONBY,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1734,mrs brown,L396387,L396392,"1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.
+2. BROWN to PONSONBY: How will I know?
+3. PONSONBY to BROWN: I'm sorry?
+4. BROWN to PONSONBY: How will I know what she requires?
+5. PONSONBY to BROWN: You'll be sent a message.",Who'll bring it to me?,listener_higher_power,neutral_respect,"Context:
+1. PONSONBY: Her Majesty's routine at Osborne House is not as you will remember it.  The Household remains in full mourning and no-one is permitted to raise their voice under any circumstances whatsoever.  As for the Queen's routine, she breakfasts at nine thirty, lunches at two,takes tea at five thirty and dinner at eight forty five.  No one is allowed to leave the building while the Queen is at home. On the rare occasions when she is out, you may ask permission to leave, but only with my consent. You're to be ready to walk the pony at any time after ten o'clock.  You'll clean her outdoor things and do any odd jobs as and when she requires.
+2. BROWN to PONSONBY: How will I know?
+3. PONSONBY to BROWN: I'm sorry?
+4. BROWN to PONSONBY: How will I know what she requires?
+5. PONSONBY to BROWN: You'll be sent a message.
+
+Current turn:
+Who'll bring it to me?",BROWN,PONSONBY,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1735,mrs brown,L396387,L396394,"1. BROWN to PONSONBY: How will I know?
+2. PONSONBY to BROWN: I'm sorry?
+3. BROWN to PONSONBY: How will I know what she requires?
+4. PONSONBY to BROWN: You'll be sent a message.
+5. BROWN to PONSONBY: Who'll bring it to me?
+6. PONSONBY to BROWN: Her Highness' Equerry.",I need a man who knows where I am.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN to PONSONBY: How will I know?
+2. PONSONBY to BROWN: I'm sorry?
+3. BROWN to PONSONBY: How will I know what she requires?
+4. PONSONBY to BROWN: You'll be sent a message.
+5. BROWN to PONSONBY: Who'll bring it to me?
+6. PONSONBY to BROWN: Her Highness' Equerry.
+
+Current turn:
+I need a man who knows where I am.",BROWN,PONSONBY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1736,mrs brown,L396387,L396396,"1. BROWN to PONSONBY: How will I know what she requires?
+2. PONSONBY to BROWN: You'll be sent a message.
+3. BROWN to PONSONBY: Who'll bring it to me?
+4. PONSONBY to BROWN: Her Highness' Equerry.
+5. BROWN to PONSONBY: I need a man who knows where I am.
+6. PONSONBY to BROWN: I'm sure it won't be difficult to find you.",That's not good enough.,speaker_higher_power,low_respect,"Context:
+1. BROWN to PONSONBY: How will I know what she requires?
+2. PONSONBY to BROWN: You'll be sent a message.
+3. BROWN to PONSONBY: Who'll bring it to me?
+4. PONSONBY to BROWN: Her Highness' Equerry.
+5. BROWN to PONSONBY: I need a man who knows where I am.
+6. PONSONBY to BROWN: I'm sure it won't be difficult to find you.
+
+Current turn:
+That's not good enough.",BROWN,PONSONBY,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1737,mrs brown,L396397,L396398,1. PONSONBY: Then we'll have to see what can be arranged.,"Aye, do.",roughly_equal_power,neutral_respect,"Context:
+1. PONSONBY: Then we'll have to see what can be arranged.
+
+Current turn:
+Aye, do.",BROWN,PONSONBY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1738,mrs brown,L396399,L396399,,There is to be no communication with other members of the household on matters concerning the court except through myself or one of the Equerries.  No plans must be altered unless you are given prior authority by myself or a senior member of the household.,speaker_higher_power,neutral_respect,"Current turn:
+There is to be no communication with other members of the household on matters concerning the court except through myself or one of the Equerries.  No plans must be altered unless you are given prior authority by myself or a senior member of the household.",PONSONBY,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1739,mrs brown,L396399,L396401,"1. PONSONBY: There is to be no communication with other members of the household on matters concerning the court except through myself or one of the Equerries.  No plans must be altered unless you are given prior authority by myself or a senior member of the household.
+2. BROWN to PONSONBY: I came down at the Queen's request. I'll take my orders from her.","In matters concerning the Household, I act on her behalf.",speaker_higher_power,neutral_respect,"Context:
+1. PONSONBY: There is to be no communication with other members of the household on matters concerning the court except through myself or one of the Equerries.  No plans must be altered unless you are given prior authority by myself or a senior member of the household.
+2. BROWN to PONSONBY: I came down at the Queen's request. I'll take my orders from her.
+
+Current turn:
+In matters concerning the Household, I act on her behalf.",PONSONBY,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1740,mrs brown,L396407,L396410,"1. VICTORIA: Mr Brown.
+2. BROWN to VICTORIA: Ma'am.
+3. VICTORIA to BROWN: You are here safely.","Aye, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Mr Brown.
+2. BROWN to VICTORIA: Ma'am.
+3. VICTORIA to BROWN: You are here safely.
+
+Current turn:
+Aye, ma'am.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1741,mrs brown,L396407,L396413,"1. VICTORIA: Mr Brown.
+2. BROWN to VICTORIA: Ma'am.
+3. VICTORIA to BROWN: You are here safely.
+4. BROWN to VICTORIA: Aye, ma'am.
+5. VICTORIA to BROWN: You are well?
+6. BROWN to VICTORIA: I am.",And the pony?,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: Mr Brown.
+2. BROWN to VICTORIA: Ma'am.
+3. VICTORIA to BROWN: You are here safely.
+4. BROWN to VICTORIA: Aye, ma'am.
+5. VICTORIA to BROWN: You are well?
+6. BROWN to VICTORIA: I am.
+
+Current turn:
+And the pony?",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1742,mrs brown,L396407,L396414,"1. BROWN to VICTORIA: Ma'am.
+2. VICTORIA to BROWN: You are here safely.
+3. BROWN to VICTORIA: Aye, ma'am.
+4. VICTORIA to BROWN: You are well?
+5. BROWN to VICTORIA: I am.
+6. VICTORIA to BROWN: And the pony?","She's well, too.",listener_higher_power,high_respect,"Context:
+1. BROWN to VICTORIA: Ma'am.
+2. VICTORIA to BROWN: You are here safely.
+3. BROWN to VICTORIA: Aye, ma'am.
+4. VICTORIA to BROWN: You are well?
+5. BROWN to VICTORIA: I am.
+6. VICTORIA to BROWN: And the pony?
+
+Current turn:
+She's well, too.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1743,mrs brown,L396417,L396419,"1. VICTORIA: My husband was always very complimentary in speaking of you.  He would have approved, I am sure, of my calling on you in this way.  I trust it does not inconvenience you too much.
+2. BROWN to VICTORIA: I've no family, ma'am, apart from my brothers and sisters.","Yes.  You have a brother in service here, do you not?  I forget his name.",speaker_higher_power,high_respect,"Context:
+1. VICTORIA: My husband was always very complimentary in speaking of you.  He would have approved, I am sure, of my calling on you in this way.  I trust it does not inconvenience you too much.
+2. BROWN to VICTORIA: I've no family, ma'am, apart from my brothers and sisters.
+
+Current turn:
+Yes.  You have a brother in service here, do you not?  I forget his name.",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+1744,mrs brown,L396417,L396421,"1. VICTORIA: My husband was always very complimentary in speaking of you.  He would have approved, I am sure, of my calling on you in this way.  I trust it does not inconvenience you too much.
+2. BROWN to VICTORIA: I've no family, ma'am, apart from my brothers and sisters.
+3. VICTORIA to BROWN: Yes.  You have a brother in service here, do you not?  I forget his name.
+4. BROWN to VICTORIA: Archie.",Yes.  That will be company for you.,speaker_higher_power,high_respect,"Context:
+1. VICTORIA: My husband was always very complimentary in speaking of you.  He would have approved, I am sure, of my calling on you in this way.  I trust it does not inconvenience you too much.
+2. BROWN to VICTORIA: I've no family, ma'am, apart from my brothers and sisters.
+3. VICTORIA to BROWN: Yes.  You have a brother in service here, do you not?  I forget his name.
+4. BROWN to VICTORIA: Archie.
+
+Current turn:
+Yes.  That will be company for you.",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+1745,mrs brown,L396417,L396422,"1. VICTORIA: My husband was always very complimentary in speaking of you.  He would have approved, I am sure, of my calling on you in this way.  I trust it does not inconvenience you too much.
+2. BROWN to VICTORIA: I've no family, ma'am, apart from my brothers and sisters.
+3. VICTORIA to BROWN: Yes.  You have a brother in service here, do you not?  I forget his name.
+4. BROWN to VICTORIA: Archie.
+5. VICTORIA to BROWN: Yes.  That will be company for you.","Yes, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: My husband was always very complimentary in speaking of you.  He would have approved, I am sure, of my calling on you in this way.  I trust it does not inconvenience you too much.
+2. BROWN to VICTORIA: I've no family, ma'am, apart from my brothers and sisters.
+3. VICTORIA to BROWN: Yes.  You have a brother in service here, do you not?  I forget his name.
+4. BROWN to VICTORIA: Archie.
+5. VICTORIA to BROWN: Yes.  That will be company for you.
+
+Current turn:
+Yes, ma'am.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1746,mrs brown,L396426,L396427,1. BROWN: So?,"So, there are rules.  Things you do and things you don't do.",speaker_higher_power,neutral_respect,"Context:
+1. BROWN: So?
+
+Current turn:
+So, there are rules.  Things you do and things you don't do.",ARCHIE,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1747,mrs brown,L396426,L396429,"1. BROWN: So?
+2. ARCHIE to BROWN: So, there are rules.  Things you do and things you don't do.
+3. BROWN to ARCHIE: I was just telling the woman how I feel, for God's sake.",You don't tell Her Majesty how you feel.,speaker_higher_power,neutral_respect,"Context:
+1. BROWN: So?
+2. ARCHIE to BROWN: So, there are rules.  Things you do and things you don't do.
+3. BROWN to ARCHIE: I was just telling the woman how I feel, for God's sake.
+
+Current turn:
+You don't tell Her Majesty how you feel.",ARCHIE,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1748,mrs brown,L396426,L396430,"1. BROWN: So?
+2. ARCHIE to BROWN: So, there are rules.  Things you do and things you don't do.
+3. BROWN to ARCHIE: I was just telling the woman how I feel, for God's sake.
+4. ARCHIE to BROWN: You don't tell Her Majesty how you feel.","I speak as I find, Archie.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN: So?
+2. ARCHIE to BROWN: So, there are rules.  Things you do and things you don't do.
+3. BROWN to ARCHIE: I was just telling the woman how I feel, for God's sake.
+4. ARCHIE to BROWN: You don't tell Her Majesty how you feel.
+
+Current turn:
+I speak as I find, Archie.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1749,mrs brown,L396432,L396433,1. ARCHIE: So what did Ponsonby do when she started shouting?,I think he nearly ruptured his truss.,roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: So what did Ponsonby do when she started shouting?
+
+Current turn:
+I think he nearly ruptured his truss.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1750,mrs brown,L396434,L396435,1. BROWN: How much?,Seventy a year.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: How much?
+
+Current turn:
+Seventy a year.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1751,mrs brown,L396434,L396436,"1. BROWN: How much?
+2. ARCHIE to BROWN: Seventy a year.","Not bad, not bad.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN: How much?
+2. ARCHIE to BROWN: Seventy a year.
+
+Current turn:
+Not bad, not bad.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1752,mrs brown,L396434,L396437,"1. BROWN: How much?
+2. ARCHIE to BROWN: Seventy a year.
+3. BROWN to ARCHIE: Not bad, not bad.",How about yourself?,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: How much?
+2. ARCHIE to BROWN: Seventy a year.
+3. BROWN to ARCHIE: Not bad, not bad.
+
+Current turn:
+How about yourself?",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1753,mrs brown,L396434,L396438,"1. BROWN: How much?
+2. ARCHIE to BROWN: Seventy a year.
+3. BROWN to ARCHIE: Not bad, not bad.
+4. ARCHIE to BROWN: How about yourself?",Sixty.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: How much?
+2. ARCHIE to BROWN: Seventy a year.
+3. BROWN to ARCHIE: Not bad, not bad.
+4. ARCHIE to BROWN: How about yourself?
+
+Current turn:
+Sixty.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1754,mrs brown,L396434,L396439,"1. BROWN: How much?
+2. ARCHIE to BROWN: Seventy a year.
+3. BROWN to ARCHIE: Not bad, not bad.
+4. ARCHIE to BROWN: How about yourself?
+5. BROWN to ARCHIE: Sixty.",That's pretty good for a ghillie.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: How much?
+2. ARCHIE to BROWN: Seventy a year.
+3. BROWN to ARCHIE: Not bad, not bad.
+4. ARCHIE to BROWN: How about yourself?
+5. BROWN to ARCHIE: Sixty.
+
+Current turn:
+That's pretty good for a ghillie.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1755,mrs brown,L396440,L396444,"1. BROWN: Prince Leopold?  Is he the one who bleeds all day?  So what does his valet do?  Wash his poultices for him?
+2. ARCHIE to BROWN: It's better than shovelling horse shit.
+3. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+4. ARCHIE to BROWN: She's hardly a full hamper herself.",It's only grief makes her like she is.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: Prince Leopold?  Is he the one who bleeds all day?  So what does his valet do?  Wash his poultices for him?
+2. ARCHIE to BROWN: It's better than shovelling horse shit.
+3. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+4. ARCHIE to BROWN: She's hardly a full hamper herself.
+
+Current turn:
+It's only grief makes her like she is.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1756,mrs brown,L396440,L396445,"1. BROWN: Prince Leopold?  Is he the one who bleeds all day?  So what does his valet do?  Wash his poultices for him?
+2. ARCHIE to BROWN: It's better than shovelling horse shit.
+3. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+4. ARCHIE to BROWN: She's hardly a full hamper herself.
+5. BROWN to ARCHIE: It's only grief makes her like she is.","Three years, John.  Is that not a bit long to be grieving?",roughly_equal_power,neutral_respect,"Context:
+1. BROWN: Prince Leopold?  Is he the one who bleeds all day?  So what does his valet do?  Wash his poultices for him?
+2. ARCHIE to BROWN: It's better than shovelling horse shit.
+3. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+4. ARCHIE to BROWN: She's hardly a full hamper herself.
+5. BROWN to ARCHIE: It's only grief makes her like she is.
+
+Current turn:
+Three years, John.  Is that not a bit long to be grieving?",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1757,mrs brown,L396440,L396446,"1. BROWN: Prince Leopold?  Is he the one who bleeds all day?  So what does his valet do?  Wash his poultices for him?
+2. ARCHIE to BROWN: It's better than shovelling horse shit.
+3. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+4. ARCHIE to BROWN: She's hardly a full hamper herself.
+5. BROWN to ARCHIE: It's only grief makes her like she is.
+6. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?",She loved him.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: Prince Leopold?  Is he the one who bleeds all day?  So what does his valet do?  Wash his poultices for him?
+2. ARCHIE to BROWN: It's better than shovelling horse shit.
+3. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+4. ARCHIE to BROWN: She's hardly a full hamper herself.
+5. BROWN to ARCHIE: It's only grief makes her like she is.
+6. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+
+Current turn:
+She loved him.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1758,mrs brown,L396440,L396447,"1. ARCHIE to BROWN: It's better than shovelling horse shit.
+2. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+3. ARCHIE to BROWN: She's hardly a full hamper herself.
+4. BROWN to ARCHIE: It's only grief makes her like she is.
+5. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+6. BROWN to ARCHIE: She loved him.","Come on, man.  There's love and there's ...",roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE to BROWN: It's better than shovelling horse shit.
+2. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+3. ARCHIE to BROWN: She's hardly a full hamper herself.
+4. BROWN to ARCHIE: It's only grief makes her like she is.
+5. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+6. BROWN to ARCHIE: She loved him.
+
+Current turn:
+Come on, man.  There's love and there's ...",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1759,mrs brown,L396440,L396448,"1. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+2. ARCHIE to BROWN: She's hardly a full hamper herself.
+3. BROWN to ARCHIE: It's only grief makes her like she is.
+4. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+5. BROWN to ARCHIE: She loved him.
+6. ARCHIE to BROWN: Come on, man.  There's love and there's ...",What?,roughly_equal_power,neutral_respect,"Context:
+1. BROWN to ARCHIE: If you were looking for promotion, you should have picked one of the healthier ones.
+2. ARCHIE to BROWN: She's hardly a full hamper herself.
+3. BROWN to ARCHIE: It's only grief makes her like she is.
+4. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+5. BROWN to ARCHIE: She loved him.
+6. ARCHIE to BROWN: Come on, man.  There's love and there's ...
+
+Current turn:
+What?",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1760,mrs brown,L396440,L396449,"1. ARCHIE to BROWN: She's hardly a full hamper herself.
+2. BROWN to ARCHIE: It's only grief makes her like she is.
+3. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+4. BROWN to ARCHIE: She loved him.
+5. ARCHIE to BROWN: Come on, man.  There's love and there's ...
+6. BROWN to ARCHIE: What?",You know what I mean.,roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE to BROWN: She's hardly a full hamper herself.
+2. BROWN to ARCHIE: It's only grief makes her like she is.
+3. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+4. BROWN to ARCHIE: She loved him.
+5. ARCHIE to BROWN: Come on, man.  There's love and there's ...
+6. BROWN to ARCHIE: What?
+
+Current turn:
+You know what I mean.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1761,mrs brown,L396440,L396450,"1. BROWN to ARCHIE: It's only grief makes her like she is.
+2. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+3. BROWN to ARCHIE: She loved him.
+4. ARCHIE to BROWN: Come on, man.  There's love and there's ...
+5. BROWN to ARCHIE: What?
+6. ARCHIE to BROWN: You know what I mean.","I'm not sure I do, Archie.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN to ARCHIE: It's only grief makes her like she is.
+2. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+3. BROWN to ARCHIE: She loved him.
+4. ARCHIE to BROWN: Come on, man.  There's love and there's ...
+5. BROWN to ARCHIE: What?
+6. ARCHIE to BROWN: You know what I mean.
+
+Current turn:
+I'm not sure I do, Archie.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1762,mrs brown,L396440,L396451,"1. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+2. BROWN to ARCHIE: She loved him.
+3. ARCHIE to BROWN: Come on, man.  There's love and there's ...
+4. BROWN to ARCHIE: What?
+5. ARCHIE to BROWN: You know what I mean.
+6. BROWN to ARCHIE: I'm not sure I do, Archie.",There's love and there's behaving like you do because there's nobody to tell you not to.,roughly_equal_power,low_respect,"Context:
+1. ARCHIE to BROWN: Three years, John.  Is that not a bit long to be grieving?
+2. BROWN to ARCHIE: She loved him.
+3. ARCHIE to BROWN: Come on, man.  There's love and there's ...
+4. BROWN to ARCHIE: What?
+5. ARCHIE to BROWN: You know what I mean.
+6. BROWN to ARCHIE: I'm not sure I do, Archie.
+
+Current turn:
+There's love and there's behaving like you do because there's nobody to tell you not to.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+1763,mrs brown,L396452,L396454,"1. BROWN: Which one of us is she flirting with?
+2. ARCHIE to BROWN: The good-looking one.",Aye?  Then she's obviously not got enough to do.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: Which one of us is she flirting with?
+2. ARCHIE to BROWN: The good-looking one.
+
+Current turn:
+Aye?  Then she's obviously not got enough to do.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1764,mrs brown,L396452,L396455,"1. BROWN: Which one of us is she flirting with?
+2. ARCHIE to BROWN: The good-looking one.
+3. BROWN to ARCHIE: Aye?  Then she's obviously not got enough to do.","You work the system right, you could ask her yourself.  Just be thankful you're not working for Household.  The Queen never lets them out of her sight.  But wee spats like us can slip through the net, easy.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN: Which one of us is she flirting with?
+2. ARCHIE to BROWN: The good-looking one.
+3. BROWN to ARCHIE: Aye?  Then she's obviously not got enough to do.
+
+Current turn:
+You work the system right, you could ask her yourself.  Just be thankful you're not working for Household.  The Queen never lets them out of her sight.  But wee spats like us can slip through the net, easy.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1765,mrs brown,L396458,L396460,"1. LADY ELY: It's Mr Brown, ma'am.
+2. VICTORIA to LADY ELY: What is he doing there?",He appears to be ... standing by his horse.,listener_higher_power,high_respect,"Context:
+1. LADY ELY: It's Mr Brown, ma'am.
+2. VICTORIA to LADY ELY: What is he doing there?
+
+Current turn:
+He appears to be ... standing by his horse.",LADY ELY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1766,mrs brown,L396458,L396461,"1. LADY ELY: It's Mr Brown, ma'am.
+2. VICTORIA to LADY ELY: What is he doing there?
+3. LADY ELY to VICTORIA: He appears to be ... standing by his horse.",I made no request to go out riding today.  How long has he been there?,speaker_higher_power,neutral_respect,"Context:
+1. LADY ELY: It's Mr Brown, ma'am.
+2. VICTORIA to LADY ELY: What is he doing there?
+3. LADY ELY to VICTORIA: He appears to be ... standing by his horse.
+
+Current turn:
+I made no request to go out riding today.  How long has he been there?",VICTORIA,LADY ELY,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1767,mrs brown,L396458,L396462,"1. LADY ELY: It's Mr Brown, ma'am.
+2. VICTORIA to LADY ELY: What is he doing there?
+3. LADY ELY to VICTORIA: He appears to be ... standing by his horse.
+4. VICTORIA to LADY ELY: I made no request to go out riding today.  How long has he been there?","I don't know, ma'am.  He was observed earlier, I believe.",listener_higher_power,high_respect,"Context:
+1. LADY ELY: It's Mr Brown, ma'am.
+2. VICTORIA to LADY ELY: What is he doing there?
+3. LADY ELY to VICTORIA: He appears to be ... standing by his horse.
+4. VICTORIA to LADY ELY: I made no request to go out riding today.  How long has he been there?
+
+Current turn:
+I don't know, ma'am.  He was observed earlier, I believe.",LADY ELY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1768,mrs brown,L396463,L396464,"1. VICTORIA: Sir Henry, Mr Brown is standing in the courtyard.  I have no wish to go riding.","I'm very sorry, ma'am.  I can't imagine -- he was certainly given no instructions.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Sir Henry, Mr Brown is standing in the courtyard.  I have no wish to go riding.
+
+Current turn:
+I'm very sorry, ma'am.  I can't imagine -- he was certainly given no instructions.",PONSONBY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1769,mrs brown,L396463,L396465,"1. VICTORIA: Sir Henry, Mr Brown is standing in the courtyard.  I have no wish to go riding.
+2. PONSONBY to VICTORIA: I'm very sorry, ma'am.  I can't imagine -- he was certainly given no instructions.",Please make sure it does not happen again.,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: Sir Henry, Mr Brown is standing in the courtyard.  I have no wish to go riding.
+2. PONSONBY to VICTORIA: I'm very sorry, ma'am.  I can't imagine -- he was certainly given no instructions.
+
+Current turn:
+Please make sure it does not happen again.",VICTORIA,PONSONBY,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1770,mrs brown,L396463,L396466,"1. VICTORIA: Sir Henry, Mr Brown is standing in the courtyard.  I have no wish to go riding.
+2. PONSONBY to VICTORIA: I'm very sorry, ma'am.  I can't imagine -- he was certainly given no instructions.
+3. VICTORIA to PONSONBY: Please make sure it does not happen again.","Of course, at once.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Sir Henry, Mr Brown is standing in the courtyard.  I have no wish to go riding.
+2. PONSONBY to VICTORIA: I'm very sorry, ma'am.  I can't imagine -- he was certainly given no instructions.
+3. VICTORIA to PONSONBY: Please make sure it does not happen again.
+
+Current turn:
+Of course, at once.",PONSONBY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1771,mrs brown,L396468,L396470,"1. BROWN: Awaiting my orders.
+2. PONSONBY to BROWN: You do not report for duty unless the Queen requests it.  You know that very well.",I didn't come all this way to sit on my arse.,listener_higher_power,low_respect,"Context:
+1. BROWN: Awaiting my orders.
+2. PONSONBY to BROWN: You do not report for duty unless the Queen requests it.  You know that very well.
+
+Current turn:
+I didn't come all this way to sit on my arse.",BROWN,PONSONBY,listener_higher_power,listener_higher_power,low_respect,low_respect
+1772,mrs brown,L396468,L396471,"1. BROWN: Awaiting my orders.
+2. PONSONBY to BROWN: You do not report for duty unless the Queen requests it.  You know that very well.
+3. BROWN to PONSONBY: I didn't come all this way to sit on my arse.",You will await your orders like everyone else.  Unless you prefer a repeat of yesterday's little excitement.,speaker_higher_power,low_respect,"Context:
+1. BROWN: Awaiting my orders.
+2. PONSONBY to BROWN: You do not report for duty unless the Queen requests it.  You know that very well.
+3. BROWN to PONSONBY: I didn't come all this way to sit on my arse.
+
+Current turn:
+You will await your orders like everyone else.  Unless you prefer a repeat of yesterday's little excitement.",PONSONBY,BROWN,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1773,mrs brown,L396468,L396473,"1. BROWN: Awaiting my orders.
+2. PONSONBY to BROWN: You do not report for duty unless the Queen requests it.  You know that very well.
+3. BROWN to PONSONBY: I didn't come all this way to sit on my arse.
+4. PONSONBY to BROWN: You will await your orders like everyone else.  Unless you prefer a repeat of yesterday's little excitement.
+5. BROWN to PONSONBY: No.",I beg your pardon?,speaker_higher_power,neutral_respect,"Context:
+1. BROWN: Awaiting my orders.
+2. PONSONBY to BROWN: You do not report for duty unless the Queen requests it.  You know that very well.
+3. BROWN to PONSONBY: I didn't come all this way to sit on my arse.
+4. PONSONBY to BROWN: You will await your orders like everyone else.  Unless you prefer a repeat of yesterday's little excitement.
+5. BROWN to PONSONBY: No.
+
+Current turn:
+I beg your pardon?",PONSONBY,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1774,mrs brown,L396474,L396474,,I thought I made myself perfectly clear.  You do not leave your room until Her Majesty requests it.,speaker_higher_power,low_respect,"Current turn:
+I thought I made myself perfectly clear.  You do not leave your room until Her Majesty requests it.",PONSONBY,,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1775,mrs brown,L396476,L396478,"1. PONSONBY: Go inside at once.
+2. BROWN to PONSONBY: Is that the Queen's request?","Yes, it most certainly is!",speaker_higher_power,neutral_respect,"Context:
+1. PONSONBY: Go inside at once.
+2. BROWN to PONSONBY: Is that the Queen's request?
+
+Current turn:
+Yes, it most certainly is!",PONSONBY,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1776,mrs brown,L396479,L396480,1. VICTORIA: Mr Brown.,"Yes, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Mr Brown.
+
+Current turn:
+Yes, ma'am.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1777,mrs brown,L396479,L396482,"1. VICTORIA: Mr Brown.
+2. BROWN to VICTORIA: Yes, ma'am.
+3. VICTORIA to BROWN: You have been told repeatedly not to stand in the courtyard unless requested to do so.","Yes, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Mr Brown.
+2. BROWN to VICTORIA: Yes, ma'am.
+3. VICTORIA to BROWN: You have been told repeatedly not to stand in the courtyard unless requested to do so.
+
+Current turn:
+Yes, ma'am.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1778,mrs brown,L396479,L396483,"1. VICTORIA: Mr Brown.
+2. BROWN to VICTORIA: Yes, ma'am.
+3. VICTORIA to BROWN: You have been told repeatedly not to stand in the courtyard unless requested to do so.
+4. BROWN to VICTORIA: Yes, ma'am.",Then why do you persist in doing it?,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: Mr Brown.
+2. BROWN to VICTORIA: Yes, ma'am.
+3. VICTORIA to BROWN: You have been told repeatedly not to stand in the courtyard unless requested to do so.
+4. BROWN to VICTORIA: Yes, ma'am.
+
+Current turn:
+Then why do you persist in doing it?",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1779,mrs brown,L396485,L396485,,The Queen will ride out if and when she chooses.,speaker_higher_power,neutral_respect,"Current turn:
+The Queen will ride out if and when she chooses.",VICTORIA,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1780,mrs brown,L396487,L396488,1. VICTORIA: Prince Albert was going to build a bench here.  He thought it one of the best views in Osborne.,"It's a fine spot, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Prince Albert was going to build a bench here.  He thought it one of the best views in Osborne.
+
+Current turn:
+It's a fine spot, ma'am.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1781,mrs brown,L396493,L396494,"1. VICTORIA: It is a fine spot for a bench, is it not?","Aye, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: It is a fine spot for a bench, is it not?
+
+Current turn:
+Aye, ma'am.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1782,mrs brown,L396493,L396495,"1. VICTORIA: It is a fine spot for a bench, is it not?
+2. BROWN to VICTORIA: Aye, ma'am.",Yes.,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: It is a fine spot for a bench, is it not?
+2. BROWN to VICTORIA: Aye, ma'am.
+
+Current turn:
+Yes.",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1783,mrs brown,L396499,L396500,"1. BERTIE'S VALET: Mr. Carter, the Head Butler, sits there.",Not now he doesn't.  This is my place.,speaker_higher_power,low_respect,"Context:
+1. BERTIE'S VALET: Mr. Carter, the Head Butler, sits there.
+
+Current turn:
+Not now he doesn't.  This is my place.",BROWN,BERTIE'S VALET,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1784,mrs brown,L396499,L396501,"1. BERTIE'S VALET: Mr. Carter, the Head Butler, sits there.
+2. BROWN to BERTIE'S VALET: Not now he doesn't.  This is my place.",By whose authority?,roughly_equal_power,neutral_respect,"Context:
+1. BERTIE'S VALET: Mr. Carter, the Head Butler, sits there.
+2. BROWN to BERTIE'S VALET: Not now he doesn't.  This is my place.
+
+Current turn:
+By whose authority?",BERTIE'S VALET,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1785,mrs brown,L396507,L396508,1. BROWN: What's your name?,"Mary Taylor, sir.",listener_higher_power,high_respect,"Context:
+1. BROWN: What's your name?
+
+Current turn:
+Mary Taylor, sir.",ASSISTANT DRESSER,BROWN,listener_higher_power,listener_higher_power,high_respect,high_respect
+1786,mrs brown,L396514,L396514,,"Lord Clarendon arrives, by invitation, at eleven o'clock, followed at twelve by a picnic in the grounds to celebrate Princess Alice's birthday. Dispatches, as usual, at two.  The Chancellor writes to say that, by happy coincidence, he will be in Cowes for the weekend.  He asks if Your Majesty might grant him an audience.",listener_higher_power,high_respect,"Current turn:
+Lord Clarendon arrives, by invitation, at eleven o'clock, followed at twelve by a picnic in the grounds to celebrate Princess Alice's birthday. Dispatches, as usual, at two.  The Chancellor writes to say that, by happy coincidence, he will be in Cowes for the weekend.  He asks if Your Majesty might grant him an audience.",PONSONBY,,listener_higher_power,listener_higher_power,high_respect,high_respect
+1787,mrs brown,L396514,L396515,"1. PONSONBY: Lord Clarendon arrives, by invitation, at eleven o'clock, followed at twelve by a picnic in the grounds to celebrate Princess Alice's birthday. Dispatches, as usual, at two.  The Chancellor writes to say that, by happy coincidence, he will be in Cowes for the weekend.  He asks if Your Majesty might grant him an audience.",Why?,speaker_higher_power,neutral_respect,"Context:
+1. PONSONBY: Lord Clarendon arrives, by invitation, at eleven o'clock, followed at twelve by a picnic in the grounds to celebrate Princess Alice's birthday. Dispatches, as usual, at two.  The Chancellor writes to say that, by happy coincidence, he will be in Cowes for the weekend.  He asks if Your Majesty might grant him an audience.
+
+Current turn:
+Why?",VICTORIA,PONSONBY,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1788,mrs brown,L396514,L396516,"1. PONSONBY: Lord Clarendon arrives, by invitation, at eleven o'clock, followed at twelve by a picnic in the grounds to celebrate Princess Alice's birthday. Dispatches, as usual, at two.  The Chancellor writes to say that, by happy coincidence, he will be in Cowes for the weekend.  He asks if Your Majesty might grant him an audience.
+2. VICTORIA to PONSONBY: Why?","He thought, perhaps, Your Majesty might wish to be informed of the latest developments in government.",listener_higher_power,high_respect,"Context:
+1. PONSONBY: Lord Clarendon arrives, by invitation, at eleven o'clock, followed at twelve by a picnic in the grounds to celebrate Princess Alice's birthday. Dispatches, as usual, at two.  The Chancellor writes to say that, by happy coincidence, he will be in Cowes for the weekend.  He asks if Your Majesty might grant him an audience.
+2. VICTORIA to PONSONBY: Why?
+
+Current turn:
+He thought, perhaps, Your Majesty might wish to be informed of the latest developments in government.",PONSONBY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1789,mrs brown,L396514,L396517,"1. PONSONBY: Lord Clarendon arrives, by invitation, at eleven o'clock, followed at twelve by a picnic in the grounds to celebrate Princess Alice's birthday. Dispatches, as usual, at two.  The Chancellor writes to say that, by happy coincidence, he will be in Cowes for the weekend.  He asks if Your Majesty might grant him an audience.
+2. VICTORIA to PONSONBY: Why?
+3. PONSONBY to VICTORIA: He thought, perhaps, Your Majesty might wish to be informed of the latest developments in government.",No.  I shall be out walking.,speaker_higher_power,neutral_respect,"Context:
+1. PONSONBY: Lord Clarendon arrives, by invitation, at eleven o'clock, followed at twelve by a picnic in the grounds to celebrate Princess Alice's birthday. Dispatches, as usual, at two.  The Chancellor writes to say that, by happy coincidence, he will be in Cowes for the weekend.  He asks if Your Majesty might grant him an audience.
+2. VICTORIA to PONSONBY: Why?
+3. PONSONBY to VICTORIA: He thought, perhaps, Your Majesty might wish to be informed of the latest developments in government.
+
+Current turn:
+No.  I shall be out walking.",VICTORIA,PONSONBY,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1790,mrs brown,L396522,L396524,"1. VICTORIA: Gesture?
+2. BERTIE to VICTORIA: I thought, a dinner for our ambassadors perhaps?","No dinners, Bertie.  Why are you dressed for outdoors?",speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: Gesture?
+2. BERTIE to VICTORIA: I thought, a dinner for our ambassadors perhaps?
+
+Current turn:
+No dinners, Bertie.  Why are you dressed for outdoors?",VICTORIA,BERTIE,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1791,mrs brown,L396522,L396525,"1. VICTORIA: Gesture?
+2. BERTIE to VICTORIA: I thought, a dinner for our ambassadors perhaps?
+3. VICTORIA to BERTIE: No dinners, Bertie.  Why are you dressed for outdoors?",It's so infernally cold in here.,listener_higher_power,neutral_respect,"Context:
+1. VICTORIA: Gesture?
+2. BERTIE to VICTORIA: I thought, a dinner for our ambassadors perhaps?
+3. VICTORIA to BERTIE: No dinners, Bertie.  Why are you dressed for outdoors?
+
+Current turn:
+It's so infernally cold in here.",BERTIE,VICTORIA,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1792,mrs brown,L396522,L396526,"1. VICTORIA: Gesture?
+2. BERTIE to VICTORIA: I thought, a dinner for our ambassadors perhaps?
+3. VICTORIA to BERTIE: No dinners, Bertie.  Why are you dressed for outdoors?
+4. BERTIE to VICTORIA: It's so infernally cold in here.","Cold is good--  Is that not so, Dr. Jenner?!",speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: Gesture?
+2. BERTIE to VICTORIA: I thought, a dinner for our ambassadors perhaps?
+3. VICTORIA to BERTIE: No dinners, Bertie.  Why are you dressed for outdoors?
+4. BERTIE to VICTORIA: It's so infernally cold in here.
+
+Current turn:
+Cold is good--  Is that not so, Dr. Jenner?!",VICTORIA,BERTIE,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1793,mrs brown,L396527,L396528,"1. JENNER: I'm sorry, ma'am?",Cold is good!,speaker_higher_power,neutral_respect,"Context:
+1. JENNER: I'm sorry, ma'am?
+
+Current turn:
+Cold is good!",VICTORIA,JENNER,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1794,mrs brown,L396527,L396529,"1. JENNER: I'm sorry, ma'am?
+2. VICTORIA to JENNER: Cold is good!","Excellent, ma'am, excellent.  But perhaps if her Majesty were to consider accompanying her new-found physical vigor with the benefits of mental activity...",listener_higher_power,high_respect,"Context:
+1. JENNER: I'm sorry, ma'am?
+2. VICTORIA to JENNER: Cold is good!
+
+Current turn:
+Excellent, ma'am, excellent.  But perhaps if her Majesty were to consider accompanying her new-found physical vigor with the benefits of mental activity...",JENNER,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1795,mrs brown,L396527,L396530,"1. JENNER: I'm sorry, ma'am?
+2. VICTORIA to JENNER: Cold is good!
+3. JENNER to VICTORIA: Excellent, ma'am, excellent.  But perhaps if her Majesty were to consider accompanying her new-found physical vigor with the benefits of mental activity...",Why am I being lectured in this way?!,speaker_higher_power,low_respect,"Context:
+1. JENNER: I'm sorry, ma'am?
+2. VICTORIA to JENNER: Cold is good!
+3. JENNER to VICTORIA: Excellent, ma'am, excellent.  But perhaps if her Majesty were to consider accompanying her new-found physical vigor with the benefits of mental activity...
+
+Current turn:
+Why am I being lectured in this way?!",VICTORIA,JENNER,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1796,mrs brown,L396527,L396531,"1. JENNER: I'm sorry, ma'am?
+2. VICTORIA to JENNER: Cold is good!
+3. JENNER to VICTORIA: Excellent, ma'am, excellent.  But perhaps if her Majesty were to consider accompanying her new-found physical vigor with the benefits of mental activity...
+4. VICTORIA to JENNER: Why am I being lectured in this way?!","Forgive me, Your Majesty.  In no way did I wish to suggest--",listener_higher_power,high_respect,"Context:
+1. JENNER: I'm sorry, ma'am?
+2. VICTORIA to JENNER: Cold is good!
+3. JENNER to VICTORIA: Excellent, ma'am, excellent.  But perhaps if her Majesty were to consider accompanying her new-found physical vigor with the benefits of mental activity...
+4. VICTORIA to JENNER: Why am I being lectured in this way?!
+
+Current turn:
+Forgive me, Your Majesty.  In no way did I wish to suggest--",JENNER,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1797,mrs brown,L396527,L396532,"1. JENNER: I'm sorry, ma'am?
+2. VICTORIA to JENNER: Cold is good!
+3. JENNER to VICTORIA: Excellent, ma'am, excellent.  But perhaps if her Majesty were to consider accompanying her new-found physical vigor with the benefits of mental activity...
+4. VICTORIA to JENNER: Why am I being lectured in this way?!
+5. JENNER to VICTORIA: Forgive me, Your Majesty.  In no way did I wish to suggest--",I will not tolerate anybody lecturing me about the responsibility of the monarchy....,speaker_higher_power,low_respect,"Context:
+1. JENNER: I'm sorry, ma'am?
+2. VICTORIA to JENNER: Cold is good!
+3. JENNER to VICTORIA: Excellent, ma'am, excellent.  But perhaps if her Majesty were to consider accompanying her new-found physical vigor with the benefits of mental activity...
+4. VICTORIA to JENNER: Why am I being lectured in this way?!
+5. JENNER to VICTORIA: Forgive me, Your Majesty.  In no way did I wish to suggest--
+
+Current turn:
+I will not tolerate anybody lecturing me about the responsibility of the monarchy....",VICTORIA,JENNER,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1798,mrs brown,L396533,L396534,1. BERTIE: Mother....,... Least of all my son.  It was his irresponsibility that drove my husband to his grave.,speaker_higher_power,low_respect,"Context:
+1. BERTIE: Mother....
+
+Current turn:
+... Least of all my son.  It was his irresponsibility that drove my husband to his grave.",VICTORIA,BERTIE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1799,mrs brown,L396535,L396536,"1. BERTIE: If it is inconvenient to Her Majesty, then perhaps she might consider allowing the Prince of Wales to host--",I do believe they send so many boxes to taunt me. Doctor Jenner writes to them to say that my nerves are in an extremely fragile state and yet they continue to hound me with box after box after box after box after box!,speaker_higher_power,neutral_respect,"Context:
+1. BERTIE: If it is inconvenient to Her Majesty, then perhaps she might consider allowing the Prince of Wales to host--
+
+Current turn:
+I do believe they send so many boxes to taunt me. Doctor Jenner writes to them to say that my nerves are in an extremely fragile state and yet they continue to hound me with box after box after box after box after box!",VICTORIA,BERTIE,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1800,mrs brown,L396546,L396547,1. STANLEY: Should we take it seriously?,The cartoon or Her Majesty's absenteeism?,roughly_equal_power,neutral_respect,"Context:
+1. STANLEY: Should we take it seriously?
+
+Current turn:
+The cartoon or Her Majesty's absenteeism?",DISRAELI,STANLEY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1801,mrs brown,L396546,L396548,"1. STANLEY: Should we take it seriously?
+2. DISRAELI to STANLEY: The cartoon or Her Majesty's absenteeism?","Well, both.",roughly_equal_power,neutral_respect,"Context:
+1. STANLEY: Should we take it seriously?
+2. DISRAELI to STANLEY: The cartoon or Her Majesty's absenteeism?
+
+Current turn:
+Well, both.",STANLEY,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1802,mrs brown,L396546,L396549,"1. STANLEY: Should we take it seriously?
+2. DISRAELI to STANLEY: The cartoon or Her Majesty's absenteeism?
+3. STANLEY to DISRAELI: Well, both.","The question is, do we need her?",roughly_equal_power,neutral_respect,"Context:
+1. STANLEY: Should we take it seriously?
+2. DISRAELI to STANLEY: The cartoon or Her Majesty's absenteeism?
+3. STANLEY to DISRAELI: Well, both.
+
+Current turn:
+The question is, do we need her?",DISRAELI,STANLEY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1803,mrs brown,L396546,L396550,"1. STANLEY: Should we take it seriously?
+2. DISRAELI to STANLEY: The cartoon or Her Majesty's absenteeism?
+3. STANLEY to DISRAELI: Well, both.
+4. DISRAELI to STANLEY: The question is, do we need her?","Surely, you're not suggesting we dispense--",roughly_equal_power,neutral_respect,"Context:
+1. STANLEY: Should we take it seriously?
+2. DISRAELI to STANLEY: The cartoon or Her Majesty's absenteeism?
+3. STANLEY to DISRAELI: Well, both.
+4. DISRAELI to STANLEY: The question is, do we need her?
+
+Current turn:
+Surely, you're not suggesting we dispense--",STANLEY,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1804,mrs brown,L396552,L396553,"1. DISRAELI: Gossip counts.  Lord Aberdeen was right.  This country is not governed by wisdom but by talk.  Granted, it wouldn't take much to winkle the old girl out of mourning, but if public opinion is against her, then it doesn't do to appear too close.",So?,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI: Gossip counts.  Lord Aberdeen was right.  This country is not governed by wisdom but by talk.  Granted, it wouldn't take much to winkle the old girl out of mourning, but if public opinion is against her, then it doesn't do to appear too close.
+
+Current turn:
+So?",STANLEY,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1805,mrs brown,L396552,L396554,"1. DISRAELI: Gossip counts.  Lord Aberdeen was right.  This country is not governed by wisdom but by talk.  Granted, it wouldn't take much to winkle the old girl out of mourning, but if public opinion is against her, then it doesn't do to appear too close.
+2. STANLEY to DISRAELI: So?",We'll see which way the wind blows.,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI: Gossip counts.  Lord Aberdeen was right.  This country is not governed by wisdom but by talk.  Granted, it wouldn't take much to winkle the old girl out of mourning, but if public opinion is against her, then it doesn't do to appear too close.
+2. STANLEY to DISRAELI: So?
+
+Current turn:
+We'll see which way the wind blows.",DISRAELI,STANLEY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1806,mrs brown,L396556,L396557,"1. BROWN: One box of biscuits, one box of drop tablets, one box of pralines, sixteen chocolate sponges.  It's the same order every week, but does anybody bother to check it?  Now she has to travel all the way to Balmoral without the few luxuries she actually enjoys.",So?  Someone'll send it on ahead.,roughly_equal_power,low_respect,"Context:
+1. BROWN: One box of biscuits, one box of drop tablets, one box of pralines, sixteen chocolate sponges.  It's the same order every week, but does anybody bother to check it?  Now she has to travel all the way to Balmoral without the few luxuries she actually enjoys.
+
+Current turn:
+So?  Someone'll send it on ahead.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+1807,mrs brown,L396556,L396558,"1. BROWN: One box of biscuits, one box of drop tablets, one box of pralines, sixteen chocolate sponges.  It's the same order every week, but does anybody bother to check it?  Now she has to travel all the way to Balmoral without the few luxuries she actually enjoys.
+2. ARCHIE to BROWN: So?  Someone'll send it on ahead.","Aye, but will they?",roughly_equal_power,neutral_respect,"Context:
+1. BROWN: One box of biscuits, one box of drop tablets, one box of pralines, sixteen chocolate sponges.  It's the same order every week, but does anybody bother to check it?  Now she has to travel all the way to Balmoral without the few luxuries she actually enjoys.
+2. ARCHIE to BROWN: So?  Someone'll send it on ahead.
+
+Current turn:
+Aye, but will they?",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1808,mrs brown,L396561,L396562,1. ARCHIE: She's got an army of people to get her up and out.,But I'm the only one she trusts.,roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: She's got an army of people to get her up and out.
+
+Current turn:
+But I'm the only one she trusts.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1809,mrs brown,L396563,L396563,,"She'll blow hot and cold on you, John, she always does.  You want to be careful.",roughly_equal_power,neutral_respect,"Current turn:
+She'll blow hot and cold on you, John, she always does.  You want to be careful.",ARCHIE,,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1810,mrs brown,L396571,L396579,"1. VICTORIA to BROWN: I am told so.
+2. BROWN to VICTORIA: Who by?
+3. VICTORIA to BROWN: Sir Henry Ponsonby tells me they are charming.
+4. BROWN to VICTORIA: What does he know about the Highlands?
+5. VICTORIA to BROWN: He has been attending at Balmoral for many years.
+6. BROWN to VICTORIA: That doesn't make him an expert.","His remarks were directed at the quality of the writing, not its subject.",speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA to BROWN: I am told so.
+2. BROWN to VICTORIA: Who by?
+3. VICTORIA to BROWN: Sir Henry Ponsonby tells me they are charming.
+4. BROWN to VICTORIA: What does he know about the Highlands?
+5. VICTORIA to BROWN: He has been attending at Balmoral for many years.
+6. BROWN to VICTORIA: That doesn't make him an expert.
+
+Current turn:
+His remarks were directed at the quality of the writing, not its subject.",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1811,mrs brown,L396589,L396589,,She'll be away on Friday between eight o'clock and six in the evening to visit the Grants in Glasalt.  If she's to make the journey there and back in the day she's to have no distractions the night before.  She'll take a light supper alone in her private drawing room and retire early.,speaker_higher_power,neutral_respect,"Current turn:
+She'll be away on Friday between eight o'clock and six in the evening to visit the Grants in Glasalt.  If she's to make the journey there and back in the day she's to have no distractions the night before.  She'll take a light supper alone in her private drawing room and retire early.",BROWN,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1812,mrs brown,L396596,L396599,"1. BERTIE: Surely it is for the gentlemen to decide when to stop...
+2. VICTORIA to BERTIE: It is a disgusting habit, Bertie.  It should be discouraged.
+3. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?",It is quite late enough.,speaker_higher_power,neutral_respect,"Context:
+1. BERTIE: Surely it is for the gentlemen to decide when to stop...
+2. VICTORIA to BERTIE: It is a disgusting habit, Bertie.  It should be discouraged.
+3. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?
+
+Current turn:
+It is quite late enough.",VICTORIA,BERTIE,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1813,mrs brown,L396596,L396601,"1. BERTIE: Surely it is for the gentlemen to decide when to stop...
+2. VICTORIA to BERTIE: It is a disgusting habit, Bertie.  It should be discouraged.
+3. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?
+4. VICTORIA to BERTIE: It is quite late enough.
+5. BERTIE to VICTORIA: But mama, the room was built expressly for that purpose.  It has been a smoking-room by tradition ever since father --",Brown's responsibilities are onerous enough already.  He has far too much to do without having to stay up all night waiting for you to go to bed. The smoking-room will be closed and the lights put out at twelve o'clock.,speaker_higher_power,neutral_respect,"Context:
+1. BERTIE: Surely it is for the gentlemen to decide when to stop...
+2. VICTORIA to BERTIE: It is a disgusting habit, Bertie.  It should be discouraged.
+3. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?
+4. VICTORIA to BERTIE: It is quite late enough.
+5. BERTIE to VICTORIA: But mama, the room was built expressly for that purpose.  It has been a smoking-room by tradition ever since father --
+
+Current turn:
+Brown's responsibilities are onerous enough already.  He has far too much to do without having to stay up all night waiting for you to go to bed. The smoking-room will be closed and the lights put out at twelve o'clock.",VICTORIA,BERTIE,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1814,mrs brown,L396596,L396602,"1. BERTIE: Surely it is for the gentlemen to decide when to stop...
+2. VICTORIA to BERTIE: It is a disgusting habit, Bertie.  It should be discouraged.
+3. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?
+4. VICTORIA to BERTIE: It is quite late enough.
+5. BERTIE to VICTORIA: But mama, the room was built expressly for that purpose.  It has been a smoking-room by tradition ever since father --
+6. VICTORIA to BERTIE: Brown's responsibilities are onerous enough already.  He has far too much to do without having to stay up all night waiting for you to go to bed. The smoking-room will be closed and the lights put out at twelve o'clock.",Mama...,listener_higher_power,high_respect,"Context:
+1. BERTIE: Surely it is for the gentlemen to decide when to stop...
+2. VICTORIA to BERTIE: It is a disgusting habit, Bertie.  It should be discouraged.
+3. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?
+4. VICTORIA to BERTIE: It is quite late enough.
+5. BERTIE to VICTORIA: But mama, the room was built expressly for that purpose.  It has been a smoking-room by tradition ever since father --
+6. VICTORIA to BERTIE: Brown's responsibilities are onerous enough already.  He has far too much to do without having to stay up all night waiting for you to go to bed. The smoking-room will be closed and the lights put out at twelve o'clock.
+
+Current turn:
+Mama...",BERTIE,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1815,mrs brown,L396596,L396603,"1. VICTORIA to BERTIE: It is a disgusting habit, Bertie.  It should be discouraged.
+2. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?
+3. VICTORIA to BERTIE: It is quite late enough.
+4. BERTIE to VICTORIA: But mama, the room was built expressly for that purpose.  It has been a smoking-room by tradition ever since father --
+5. VICTORIA to BERTIE: Brown's responsibilities are onerous enough already.  He has far too much to do without having to stay up all night waiting for you to go to bed. The smoking-room will be closed and the lights put out at twelve o'clock.
+6. BERTIE to VICTORIA: Mama...",And that is my last word on the matter.,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA to BERTIE: It is a disgusting habit, Bertie.  It should be discouraged.
+2. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?
+3. VICTORIA to BERTIE: It is quite late enough.
+4. BERTIE to VICTORIA: But mama, the room was built expressly for that purpose.  It has been a smoking-room by tradition ever since father --
+5. VICTORIA to BERTIE: Brown's responsibilities are onerous enough already.  He has far too much to do without having to stay up all night waiting for you to go to bed. The smoking-room will be closed and the lights put out at twelve o'clock.
+6. BERTIE to VICTORIA: Mama...
+
+Current turn:
+And that is my last word on the matter.",VICTORIA,BERTIE,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1816,mrs brown,L396596,L396604,"1. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?
+2. VICTORIA to BERTIE: It is quite late enough.
+3. BERTIE to VICTORIA: But mama, the room was built expressly for that purpose.  It has been a smoking-room by tradition ever since father --
+4. VICTORIA to BERTIE: Brown's responsibilities are onerous enough already.  He has far too much to do without having to stay up all night waiting for you to go to bed. The smoking-room will be closed and the lights put out at twelve o'clock.
+5. BERTIE to VICTORIA: Mama...
+6. VICTORIA to BERTIE: And that is my last word on the matter.","Well, I'm sorry, but I really do think it's too much that the gentlemen of the house should be dictated to by a servant.",listener_higher_power,neutral_respect,"Context:
+1. BERTIE to VICTORIA: Yes, but isn't midnight a little excessive?
+2. VICTORIA to BERTIE: It is quite late enough.
+3. BERTIE to VICTORIA: But mama, the room was built expressly for that purpose.  It has been a smoking-room by tradition ever since father --
+4. VICTORIA to BERTIE: Brown's responsibilities are onerous enough already.  He has far too much to do without having to stay up all night waiting for you to go to bed. The smoking-room will be closed and the lights put out at twelve o'clock.
+5. BERTIE to VICTORIA: Mama...
+6. VICTORIA to BERTIE: And that is my last word on the matter.
+
+Current turn:
+Well, I'm sorry, but I really do think it's too much that the gentlemen of the house should be dictated to by a servant.",BERTIE,VICTORIA,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1817,mrs brown,L396644,L396645,1. BERTIE: Mr Disraeli.  Ma'am.,Your Royal Highness.  What a pleasure to see you here.,listener_higher_power,high_respect,"Context:
+1. BERTIE: Mr Disraeli.  Ma'am.
+
+Current turn:
+Your Royal Highness.  What a pleasure to see you here.",DISRAELI,BERTIE,listener_higher_power,listener_higher_power,high_respect,high_respect
+1818,mrs brown,L396644,L396646,"1. BERTIE: Mr Disraeli.  Ma'am.
+2. DISRAELI to BERTIE: Your Royal Highness.  What a pleasure to see you here.",Have you met Mr Lyle?  He's in sugar...?,speaker_higher_power,neutral_respect,"Context:
+1. BERTIE: Mr Disraeli.  Ma'am.
+2. DISRAELI to BERTIE: Your Royal Highness.  What a pleasure to see you here.
+
+Current turn:
+Have you met Mr Lyle?  He's in sugar...?",BERTIE,DISRAELI,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1819,mrs brown,L396644,L396647,"1. BERTIE: Mr Disraeli.  Ma'am.
+2. DISRAELI to BERTIE: Your Royal Highness.  What a pleasure to see you here.
+3. BERTIE to DISRAELI: Have you met Mr Lyle?  He's in sugar...?",I don't think I've had that pleasure.,listener_higher_power,high_respect,"Context:
+1. BERTIE: Mr Disraeli.  Ma'am.
+2. DISRAELI to BERTIE: Your Royal Highness.  What a pleasure to see you here.
+3. BERTIE to DISRAELI: Have you met Mr Lyle?  He's in sugar...?
+
+Current turn:
+I don't think I've had that pleasure.",DISRAELI,BERTIE,listener_higher_power,listener_higher_power,high_respect,high_respect
+1820,mrs brown,L396648,L396649,1. BERTIE: No doubt you've heard the rumors.,"I take no account of gossip, Your Highness.",listener_higher_power,high_respect,"Context:
+1. BERTIE: No doubt you've heard the rumors.
+
+Current turn:
+I take no account of gossip, Your Highness.",DISRAELI,BERTIE,listener_higher_power,listener_higher_power,high_respect,high_respect
+1821,mrs brown,L396648,L396651,"1. BERTIE: No doubt you've heard the rumors.
+2. DISRAELI to BERTIE: I take no account of gossip, Your Highness.
+3. BERTIE to DISRAELI: My concern is for the reputation of the Monarchy.",Of course.,listener_higher_power,high_respect,"Context:
+1. BERTIE: No doubt you've heard the rumors.
+2. DISRAELI to BERTIE: I take no account of gossip, Your Highness.
+3. BERTIE to DISRAELI: My concern is for the reputation of the Monarchy.
+
+Current turn:
+Of course.",DISRAELI,BERTIE,listener_higher_power,listener_higher_power,high_respect,high_respect
+1822,mrs brown,L396648,L396658,"1. BERTIE to DISRAELI: I fear the influence he has on her. The man's word is not to be credited. He is an arriviste of the very lowest water.  She's having a bust cast of him.  In Nero Marquino marble.
+2. DISRAELI to BERTIE: I see.
+3. BERTIE to DISRAELI: I would talk to her myself, but she won't listen to me.  She must be persuaded, by someone she respects, to abandon this ridiculous favoritism before a situation develops.
+4. DISRAELI to BERTIE: A situation?
+5. BERTIE to DISRAELI: I don't imagine you frequent the Republican Clubs.  But the fact that neither you nor I are members should not blind us to the significance of their existence.  The Tory Party has always been our party.
+6. DISRAELI to BERTIE: I'm flattered you think so.","I tell you, if we don't stick together on this, you could find yourself First President's Opposition.  Du Royaum Uni.",roughly_equal_power,neutral_respect,"Context:
+1. BERTIE to DISRAELI: I fear the influence he has on her. The man's word is not to be credited. He is an arriviste of the very lowest water.  She's having a bust cast of him.  In Nero Marquino marble.
+2. DISRAELI to BERTIE: I see.
+3. BERTIE to DISRAELI: I would talk to her myself, but she won't listen to me.  She must be persuaded, by someone she respects, to abandon this ridiculous favoritism before a situation develops.
+4. DISRAELI to BERTIE: A situation?
+5. BERTIE to DISRAELI: I don't imagine you frequent the Republican Clubs.  But the fact that neither you nor I are members should not blind us to the significance of their existence.  The Tory Party has always been our party.
+6. DISRAELI to BERTIE: I'm flattered you think so.
+
+Current turn:
+I tell you, if we don't stick together on this, you could find yourself First President's Opposition.  Du Royaum Uni.",BERTIE,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1823,mrs brown,L396648,L396659,"1. DISRAELI to BERTIE: I see.
+2. BERTIE to DISRAELI: I would talk to her myself, but she won't listen to me.  She must be persuaded, by someone she respects, to abandon this ridiculous favoritism before a situation develops.
+3. DISRAELI to BERTIE: A situation?
+4. BERTIE to DISRAELI: I don't imagine you frequent the Republican Clubs.  But the fact that neither you nor I are members should not blind us to the significance of their existence.  The Tory Party has always been our party.
+5. DISRAELI to BERTIE: I'm flattered you think so.
+6. BERTIE to DISRAELI: I tell you, if we don't stick together on this, you could find yourself First President's Opposition.  Du Royaum Uni.",Quite.,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI to BERTIE: I see.
+2. BERTIE to DISRAELI: I would talk to her myself, but she won't listen to me.  She must be persuaded, by someone she respects, to abandon this ridiculous favoritism before a situation develops.
+3. DISRAELI to BERTIE: A situation?
+4. BERTIE to DISRAELI: I don't imagine you frequent the Republican Clubs.  But the fact that neither you nor I are members should not blind us to the significance of their existence.  The Tory Party has always been our party.
+5. DISRAELI to BERTIE: I'm flattered you think so.
+6. BERTIE to DISRAELI: I tell you, if we don't stick together on this, you could find yourself First President's Opposition.  Du Royaum Uni.
+
+Current turn:
+Quite.",DISRAELI,BERTIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1824,mrs brown,L396661,L396662,1. STANLEY: What did he want?,To know when he'll be king.,roughly_equal_power,neutral_respect,"Context:
+1. STANLEY: What did he want?
+
+Current turn:
+To know when he'll be king.",DISRAELI,STANLEY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1825,mrs brown,L396674,L396675,"1. JENNER: A distinct flushing around the cheeks. She was drunk, I tell you.","No, she wasn't.",roughly_equal_power,neutral_respect,"Context:
+1. JENNER: A distinct flushing around the cheeks. She was drunk, I tell you.
+
+Current turn:
+No, she wasn't.",PONSONBY,JENNER,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1826,mrs brown,L396688,L396690,"1. BROWN: What happens to John Brown is his business, but the Queen's security will never be compromised!
+2. BERTIE'S VALET to BROWN: We --",You'll talk when I'm finished!,speaker_higher_power,low_respect,"Context:
+1. BROWN: What happens to John Brown is his business, but the Queen's security will never be compromised!
+2. BERTIE'S VALET to BROWN: We --
+
+Current turn:
+You'll talk when I'm finished!",BROWN,BERTIE'S VALET,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1827,mrs brown,L396695,L396695,,"If I find out that you had anything to do with this, I will have you sacked.",speaker_higher_power,low_respect,"Current turn:
+If I find out that you had anything to do with this, I will have you sacked.",BROWN,,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1828,mrs brown,L396695,L396697,"1. BROWN: If I find out that you had anything to do with this, I will have you sacked.
+2. PONSONBY to BROWN: I believe that decision rests with Her Majesty.",Don't think I can't persuade her.,speaker_higher_power,low_respect,"Context:
+1. BROWN: If I find out that you had anything to do with this, I will have you sacked.
+2. PONSONBY to BROWN: I believe that decision rests with Her Majesty.
+
+Current turn:
+Don't think I can't persuade her.",BROWN,PONSONBY,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1829,mrs brown,L396695,L396701,"1. BROWN: If I find out that you had anything to do with this, I will have you sacked.
+2. PONSONBY to BROWN: I believe that decision rests with Her Majesty.
+3. BROWN to PONSONBY: Don't think I can't persuade her.
+4. PONSONBY to BROWN: I don't doubt that the Queen was highly amused.  She has always had a very healthy sense of humor.
+5. BROWN to PONSONBY: This is a slur on her good name.
+6. PONSONBY to BROWN: In as much as the article is about yourself, I think you must now accept that the public has a right to its interest in you.",Nobody has any rights over me.,speaker_higher_power,low_respect,"Context:
+1. BROWN: If I find out that you had anything to do with this, I will have you sacked.
+2. PONSONBY to BROWN: I believe that decision rests with Her Majesty.
+3. BROWN to PONSONBY: Don't think I can't persuade her.
+4. PONSONBY to BROWN: I don't doubt that the Queen was highly amused.  She has always had a very healthy sense of humor.
+5. BROWN to PONSONBY: This is a slur on her good name.
+6. PONSONBY to BROWN: In as much as the article is about yourself, I think you must now accept that the public has a right to its interest in you.
+
+Current turn:
+Nobody has any rights over me.",BROWN,PONSONBY,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1830,mrs brown,L396710,L396711,1. DISRAELI: We're going to lose.,You can't know that for sure.,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI: We're going to lose.
+
+Current turn:
+You can't know that for sure.",STANLEY,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1831,mrs brown,L396710,L396712,"1. DISRAELI: We're going to lose.
+2. STANLEY to DISRAELI: You can't know that for sure.",Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI: We're going to lose.
+2. STANLEY to DISRAELI: You can't know that for sure.
+
+Current turn:
+Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?",DISRAELI,STANLEY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1832,mrs brown,L396710,L396713,"1. DISRAELI: We're going to lose.
+2. STANLEY to DISRAELI: You can't know that for sure.
+3. DISRAELI to STANLEY: Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?",Who?,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI: We're going to lose.
+2. STANLEY to DISRAELI: You can't know that for sure.
+3. DISRAELI to STANLEY: Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?
+
+Current turn:
+Who?",STANLEY,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1833,mrs brown,L396710,L396714,"1. DISRAELI: We're going to lose.
+2. STANLEY to DISRAELI: You can't know that for sure.
+3. DISRAELI to STANLEY: Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?
+4. STANLEY to DISRAELI: Who?",Mrs Brown.,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI: We're going to lose.
+2. STANLEY to DISRAELI: You can't know that for sure.
+3. DISRAELI to STANLEY: Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?
+4. STANLEY to DISRAELI: Who?
+
+Current turn:
+Mrs Brown.",DISRAELI,STANLEY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1834,mrs brown,L396710,L396715,"1. DISRAELI: We're going to lose.
+2. STANLEY to DISRAELI: You can't know that for sure.
+3. DISRAELI to STANLEY: Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?
+4. STANLEY to DISRAELI: Who?
+5. DISRAELI to STANLEY: Mrs Brown.",It's questionable whether there's any advantage to be had from that direction.  She's never been less popular.,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI: We're going to lose.
+2. STANLEY to DISRAELI: You can't know that for sure.
+3. DISRAELI to STANLEY: Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?
+4. STANLEY to DISRAELI: Who?
+5. DISRAELI to STANLEY: Mrs Brown.
+
+Current turn:
+It's questionable whether there's any advantage to be had from that direction.  She's never been less popular.",STANLEY,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1835,mrs brown,L396710,L396717,"1. STANLEY to DISRAELI: You can't know that for sure.
+2. DISRAELI to STANLEY: Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?
+3. STANLEY to DISRAELI: Who?
+4. DISRAELI to STANLEY: Mrs Brown.
+5. STANLEY to DISRAELI: It's questionable whether there's any advantage to be had from that direction.  She's never been less popular.
+6. DISRAELI to STANLEY: In the press, perhaps.  But she's sold more copies of her Highland Journal in three months than Punch will ever sell in a year.  Time to wheel her out.",She's refusing to leave Balmoral.,roughly_equal_power,neutral_respect,"Context:
+1. STANLEY to DISRAELI: You can't know that for sure.
+2. DISRAELI to STANLEY: Gladstone's got his party facing the same way for the first time in years. We need help.  Where is the old girl?
+3. STANLEY to DISRAELI: Who?
+4. DISRAELI to STANLEY: Mrs Brown.
+5. STANLEY to DISRAELI: It's questionable whether there's any advantage to be had from that direction.  She's never been less popular.
+6. DISRAELI to STANLEY: In the press, perhaps.  But she's sold more copies of her Highland Journal in three months than Punch will ever sell in a year.  Time to wheel her out.
+
+Current turn:
+She's refusing to leave Balmoral.",STANLEY,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1836,mrs brown,L396710,L396719,"1. STANLEY to DISRAELI: Who?
+2. DISRAELI to STANLEY: Mrs Brown.
+3. STANLEY to DISRAELI: It's questionable whether there's any advantage to be had from that direction.  She's never been less popular.
+4. DISRAELI to STANLEY: In the press, perhaps.  But she's sold more copies of her Highland Journal in three months than Punch will ever sell in a year.  Time to wheel her out.
+5. STANLEY to DISRAELI: She's refusing to leave Balmoral.
+6. DISRAELI to STANLEY: What's her excuse this time?","The Princess Louisa is too ill to move.  Frankly, the Queen's rather upset at the recent spate of bad publicity.  You're smiling.",roughly_equal_power,neutral_respect,"Context:
+1. STANLEY to DISRAELI: Who?
+2. DISRAELI to STANLEY: Mrs Brown.
+3. STANLEY to DISRAELI: It's questionable whether there's any advantage to be had from that direction.  She's never been less popular.
+4. DISRAELI to STANLEY: In the press, perhaps.  But she's sold more copies of her Highland Journal in three months than Punch will ever sell in a year.  Time to wheel her out.
+5. STANLEY to DISRAELI: She's refusing to leave Balmoral.
+6. DISRAELI to STANLEY: What's her excuse this time?
+
+Current turn:
+The Princess Louisa is too ill to move.  Frankly, the Queen's rather upset at the recent spate of bad publicity.  You're smiling.",STANLEY,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1837,mrs brown,L396721,L396723,"1. DEAN WELLSELLY: Forgive me, gentlemen.  I'm late.
+2. DISRAELI to DEAN WELLSELLY: Not at all, Dean.  Good of you to spare the time.",I came as quickly as I could.,listener_higher_power,high_respect,"Context:
+1. DEAN WELLSELLY: Forgive me, gentlemen.  I'm late.
+2. DISRAELI to DEAN WELLSELLY: Not at all, Dean.  Good of you to spare the time.
+
+Current turn:
+I came as quickly as I could.",DEAN WELLSELLY,DISRAELI,listener_higher_power,listener_higher_power,high_respect,high_respect
+1838,mrs brown,L396721,L396724,"1. DEAN WELLSELLY: Forgive me, gentlemen.  I'm late.
+2. DISRAELI to DEAN WELLSELLY: Not at all, Dean.  Good of you to spare the time.
+3. DEAN WELLSELLY to DISRAELI: I came as quickly as I could.","You've seen the latest cartoon in Punch, I take it?",speaker_higher_power,neutral_respect,"Context:
+1. DEAN WELLSELLY: Forgive me, gentlemen.  I'm late.
+2. DISRAELI to DEAN WELLSELLY: Not at all, Dean.  Good of you to spare the time.
+3. DEAN WELLSELLY to DISRAELI: I came as quickly as I could.
+
+Current turn:
+You've seen the latest cartoon in Punch, I take it?",DISRAELI,DEAN WELLSELLY,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1839,mrs brown,L396738,L396741,"1. VICTORIA: Who told them that?
+2. PONSONBY to VICTORIA: I have no idea.
+3. VICTORIA to PONSONBY: Why not?","I -- forgive me, ma'am, I am no wiser than yourself.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Who told them that?
+2. PONSONBY to VICTORIA: I have no idea.
+3. VICTORIA to PONSONBY: Why not?
+
+Current turn:
+I -- forgive me, ma'am, I am no wiser than yourself.",PONSONBY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1840,mrs brown,L396742,L396742,,"No-one should think themselves wiser than me!  It is not for any of the Queen's subjects to presume to tell Her Majesty when and where She should come out of mourning.  It is the Queen's sorrow that keeps her secluded!  It is Her overwhelming amount of work and responsibility, work which She feels will soon wear her out entirely!",speaker_higher_power,low_respect,"Current turn:
+No-one should think themselves wiser than me!  It is not for any of the Queen's subjects to presume to tell Her Majesty when and where She should come out of mourning.  It is the Queen's sorrow that keeps her secluded!  It is Her overwhelming amount of work and responsibility, work which She feels will soon wear her out entirely!",VICTORIA,,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1841,mrs brown,L396742,L396743,"1. VICTORIA: No-one should think themselves wiser than me!  It is not for any of the Queen's subjects to presume to tell Her Majesty when and where She should come out of mourning.  It is the Queen's sorrow that keeps her secluded!  It is Her overwhelming amount of work and responsibility, work which She feels will soon wear her out entirely!",Your Majesty --,listener_higher_power,high_respect,"Context:
+1. VICTORIA: No-one should think themselves wiser than me!  It is not for any of the Queen's subjects to presume to tell Her Majesty when and where She should come out of mourning.  It is the Queen's sorrow that keeps her secluded!  It is Her overwhelming amount of work and responsibility, work which She feels will soon wear her out entirely!
+
+Current turn:
+Your Majesty --",PONSONBY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1842,mrs brown,L396742,L396744,"1. VICTORIA: No-one should think themselves wiser than me!  It is not for any of the Queen's subjects to presume to tell Her Majesty when and where She should come out of mourning.  It is the Queen's sorrow that keeps her secluded!  It is Her overwhelming amount of work and responsibility, work which She feels will soon wear her out entirely!
+2. PONSONBY to VICTORIA: Your Majesty --",Is it not enough that She is uncheered and unguided that she should also have to suffer these malicious rumors?!  I am not a fool.  I know there are those in the establishment too afraid to attack me and so they attack my dearest friends. Sometimes -- I feel that Brown is all I have left of Albert.  And now they attack Brown too.,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: No-one should think themselves wiser than me!  It is not for any of the Queen's subjects to presume to tell Her Majesty when and where She should come out of mourning.  It is the Queen's sorrow that keeps her secluded!  It is Her overwhelming amount of work and responsibility, work which She feels will soon wear her out entirely!
+2. PONSONBY to VICTORIA: Your Majesty --
+
+Current turn:
+Is it not enough that She is uncheered and unguided that she should also have to suffer these malicious rumors?!  I am not a fool.  I know there are those in the establishment too afraid to attack me and so they attack my dearest friends. Sometimes -- I feel that Brown is all I have left of Albert.  And now they attack Brown too.",VICTORIA,PONSONBY,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1843,mrs brown,L396746,L396751,"1. BERTIE: I wish to see my mother.
+2. BROWN to BERTIE: She's busy.
+3. BERTIE to BROWN: Convey her a message.
+4. BROWN to BERTIE: She's away to Windsor tomorrow.  Talk to her there.
+5. BERTIE to BROWN: Tell her the Prince of Wales wishes to speak with her urgently about matters concerning the press.",Are you deaf as well as stupid?,speaker_higher_power,low_respect,"Context:
+1. BERTIE: I wish to see my mother.
+2. BROWN to BERTIE: She's busy.
+3. BERTIE to BROWN: Convey her a message.
+4. BROWN to BERTIE: She's away to Windsor tomorrow.  Talk to her there.
+5. BERTIE to BROWN: Tell her the Prince of Wales wishes to speak with her urgently about matters concerning the press.
+
+Current turn:
+Are you deaf as well as stupid?",BROWN,BERTIE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1844,mrs brown,L396752,L396756,"1. BERTIE: What did you say?
+2. BROWN to BERTIE: I said, are you deaf as well as stupid?
+3. BERTIE to BROWN: Do you know who you address, sir?
+4. BROWN to BERTIE: Whom you address.",The future King!,speaker_higher_power,neutral_respect,"Context:
+1. BERTIE: What did you say?
+2. BROWN to BERTIE: I said, are you deaf as well as stupid?
+3. BERTIE to BROWN: Do you know who you address, sir?
+4. BROWN to BERTIE: Whom you address.
+
+Current turn:
+The future King!",BERTIE,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1845,mrs brown,L396757,L396758,"1. BROWN: Well, everyone's entitled to their opinion.",Out of my way!,speaker_higher_power,low_respect,"Context:
+1. BROWN: Well, everyone's entitled to their opinion.
+
+Current turn:
+Out of my way!",BERTIE,BROWN,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1846,mrs brown,L396766,L396769,"1. VICTORIA: Am I not safe enough with you, John?
+2. BROWN to VICTORIA: Aye.  But there are Fenians reported on the mainland.
+3. VICTORIA to BROWN: The threat from the Irish is greatly exaggerated, I'm sure.",I'll decide when it's exaggerated.,speaker_higher_power,low_respect,"Context:
+1. VICTORIA: Am I not safe enough with you, John?
+2. BROWN to VICTORIA: Aye.  But there are Fenians reported on the mainland.
+3. VICTORIA to BROWN: The threat from the Irish is greatly exaggerated, I'm sure.
+
+Current turn:
+I'll decide when it's exaggerated.",BROWN,VICTORIA,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1847,mrs brown,L396772,L396773,"1. BROWN: Hey, Barney.","Mr Brown, sir --",listener_higher_power,high_respect,"Context:
+1. BROWN: Hey, Barney.
+
+Current turn:
+Mr Brown, sir --",BARNEY,BROWN,listener_higher_power,listener_higher_power,high_respect,high_respect
+1848,mrs brown,L396775,L396776,"1. BROWN: Yeah, there's a good girl.  Have you had a look at this hoof?  She was limping badly.  I think there might be a stone in it.","Yeah, yeah, I did.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN: Yeah, there's a good girl.  Have you had a look at this hoof?  She was limping badly.  I think there might be a stone in it.
+
+Current turn:
+Yeah, yeah, I did.",BARNEY,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1849,mrs brown,L396783,L396789,"1. VICTORIA: Well?
+2. LADY ELY to VICTORIA: Mr Brown is unable to attend today.
+3. VICTORIA to LADY ELY: Why?
+4. LADY ELY to VICTORIA: I believe he is unwell, ma'am.
+5. VICTORIA to LADY ELY: Unwell?
+6. LADY ELY to VICTORIA: I understand he was in a fight.",Has he been hurt?,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: Well?
+2. LADY ELY to VICTORIA: Mr Brown is unable to attend today.
+3. VICTORIA to LADY ELY: Why?
+4. LADY ELY to VICTORIA: I believe he is unwell, ma'am.
+5. VICTORIA to LADY ELY: Unwell?
+6. LADY ELY to VICTORIA: I understand he was in a fight.
+
+Current turn:
+Has he been hurt?",VICTORIA,LADY ELY,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1850,mrs brown,L396792,L396794,"1. BROWN: And she sent no word down?
+2. ARCHIE to BROWN: They said you were drunk.  Why don't you tell her the truth?",She'll think it's her fault for keeping me.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: And she sent no word down?
+2. ARCHIE to BROWN: They said you were drunk.  Why don't you tell her the truth?
+
+Current turn:
+She'll think it's her fault for keeping me.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1851,mrs brown,L396795,L396797,"1. ARCHIE: What are you doing?!
+2. BROWN to ARCHIE: I'm getting dressed.","You've got three broken ribs, man!",roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: What are you doing?!
+2. BROWN to ARCHIE: I'm getting dressed.
+
+Current turn:
+You've got three broken ribs, man!",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1852,mrs brown,L396795,L396798,"1. ARCHIE: What are you doing?!
+2. BROWN to ARCHIE: I'm getting dressed.
+3. ARCHIE to BROWN: You've got three broken ribs, man!",I've got my duties to attend to.,roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: What are you doing?!
+2. BROWN to ARCHIE: I'm getting dressed.
+3. ARCHIE to BROWN: You've got three broken ribs, man!
+
+Current turn:
+I've got my duties to attend to.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1853,mrs brown,L396795,L396800,"1. ARCHIE: What are you doing?!
+2. BROWN to ARCHIE: I'm getting dressed.
+3. ARCHIE to BROWN: You've got three broken ribs, man!
+4. BROWN to ARCHIE: I've got my duties to attend to.
+5. ARCHIE to BROWN: Don't be an idiot!  You're in no fit state to go anywhere.",She'll be worried about me.,roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: What are you doing?!
+2. BROWN to ARCHIE: I'm getting dressed.
+3. ARCHIE to BROWN: You've got three broken ribs, man!
+4. BROWN to ARCHIE: I've got my duties to attend to.
+5. ARCHIE to BROWN: Don't be an idiot!  You're in no fit state to go anywhere.
+
+Current turn:
+She'll be worried about me.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1854,mrs brown,L396795,L396802,"1. BROWN to ARCHIE: I'm getting dressed.
+2. ARCHIE to BROWN: You've got three broken ribs, man!
+3. BROWN to ARCHIE: I've got my duties to attend to.
+4. ARCHIE to BROWN: Don't be an idiot!  You're in no fit state to go anywhere.
+5. BROWN to ARCHIE: She'll be worried about me.
+6. ARCHIE to BROWN: She'll get over it.","I can't let her down now, Archie.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN to ARCHIE: I'm getting dressed.
+2. ARCHIE to BROWN: You've got three broken ribs, man!
+3. BROWN to ARCHIE: I've got my duties to attend to.
+4. ARCHIE to BROWN: Don't be an idiot!  You're in no fit state to go anywhere.
+5. BROWN to ARCHIE: She'll be worried about me.
+6. ARCHIE to BROWN: She'll get over it.
+
+Current turn:
+I can't let her down now, Archie.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1855,mrs brown,L396795,L396804,"1. BROWN to ARCHIE: I've got my duties to attend to.
+2. ARCHIE to BROWN: Don't be an idiot!  You're in no fit state to go anywhere.
+3. BROWN to ARCHIE: She'll be worried about me.
+4. ARCHIE to BROWN: She'll get over it.
+5. BROWN to ARCHIE: I can't let her down now, Archie.
+6. ARCHIE to BROWN: And when was the last time she put herself out for you?  Look, John, whatever she says to you now, in the end you're still a servant.","Oh, I'm much more than that.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN to ARCHIE: I've got my duties to attend to.
+2. ARCHIE to BROWN: Don't be an idiot!  You're in no fit state to go anywhere.
+3. BROWN to ARCHIE: She'll be worried about me.
+4. ARCHIE to BROWN: She'll get over it.
+5. BROWN to ARCHIE: I can't let her down now, Archie.
+6. ARCHIE to BROWN: And when was the last time she put herself out for you?  Look, John, whatever she says to you now, in the end you're still a servant.
+
+Current turn:
+Oh, I'm much more than that.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1856,mrs brown,L396795,L396807,"1. ARCHIE to BROWN: She'll get over it.
+2. BROWN to ARCHIE: I can't let her down now, Archie.
+3. ARCHIE to BROWN: And when was the last time she put herself out for you?  Look, John, whatever she says to you now, in the end you're still a servant.
+4. BROWN to ARCHIE: Oh, I'm much more than that.
+5. ARCHIE to BROWN: Aye, she may say that to you, but the woman can say what she wants.
+6. BROWN to ARCHIE: You watch your tongue.","Come on, man, I'm telling you what you already know.",roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE to BROWN: She'll get over it.
+2. BROWN to ARCHIE: I can't let her down now, Archie.
+3. ARCHIE to BROWN: And when was the last time she put herself out for you?  Look, John, whatever she says to you now, in the end you're still a servant.
+4. BROWN to ARCHIE: Oh, I'm much more than that.
+5. ARCHIE to BROWN: Aye, she may say that to you, but the woman can say what she wants.
+6. BROWN to ARCHIE: You watch your tongue.
+
+Current turn:
+Come on, man, I'm telling you what you already know.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1857,mrs brown,L396795,L396808,"1. BROWN to ARCHIE: I can't let her down now, Archie.
+2. ARCHIE to BROWN: And when was the last time she put herself out for you?  Look, John, whatever she says to you now, in the end you're still a servant.
+3. BROWN to ARCHIE: Oh, I'm much more than that.
+4. ARCHIE to BROWN: Aye, she may say that to you, but the woman can say what she wants.
+5. BROWN to ARCHIE: You watch your tongue.
+6. ARCHIE to BROWN: Come on, man, I'm telling you what you already know.",You know nothing about her!,roughly_equal_power,low_respect,"Context:
+1. BROWN to ARCHIE: I can't let her down now, Archie.
+2. ARCHIE to BROWN: And when was the last time she put herself out for you?  Look, John, whatever she says to you now, in the end you're still a servant.
+3. BROWN to ARCHIE: Oh, I'm much more than that.
+4. ARCHIE to BROWN: Aye, she may say that to you, but the woman can say what she wants.
+5. BROWN to ARCHIE: You watch your tongue.
+6. ARCHIE to BROWN: Come on, man, I'm telling you what you already know.
+
+Current turn:
+You know nothing about her!",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+1858,mrs brown,L396795,L396809,"1. ARCHIE to BROWN: And when was the last time she put herself out for you?  Look, John, whatever she says to you now, in the end you're still a servant.
+2. BROWN to ARCHIE: Oh, I'm much more than that.
+3. ARCHIE to BROWN: Aye, she may say that to you, but the woman can say what she wants.
+4. BROWN to ARCHIE: You watch your tongue.
+5. ARCHIE to BROWN: Come on, man, I'm telling you what you already know.
+6. BROWN to ARCHIE: You know nothing about her!","When are you gonna see it, John?  She doesn't give a damn about you.",roughly_equal_power,low_respect,"Context:
+1. ARCHIE to BROWN: And when was the last time she put herself out for you?  Look, John, whatever she says to you now, in the end you're still a servant.
+2. BROWN to ARCHIE: Oh, I'm much more than that.
+3. ARCHIE to BROWN: Aye, she may say that to you, but the woman can say what she wants.
+4. BROWN to ARCHIE: You watch your tongue.
+5. ARCHIE to BROWN: Come on, man, I'm telling you what you already know.
+6. BROWN to ARCHIE: You know nothing about her!
+
+Current turn:
+When are you gonna see it, John?  She doesn't give a damn about you.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,low_respect,low_respect
+1859,mrs brown,L396811,L396812,"1. BROWN: My lips may give a message better of Christmas love than e'en this letter.  To my best friend, J.B. from his best friend, V.R.  Best friend!",Aye.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: My lips may give a message better of Christmas love than e'en this letter.  To my best friend, J.B. from his best friend, V.R.  Best friend!
+
+Current turn:
+Aye.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1860,mrs brown,L396811,L396813,"1. BROWN: My lips may give a message better of Christmas love than e'en this letter.  To my best friend, J.B. from his best friend, V.R.  Best friend!
+2. ARCHIE to BROWN: Aye.",She means it.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: My lips may give a message better of Christmas love than e'en this letter.  To my best friend, J.B. from his best friend, V.R.  Best friend!
+2. ARCHIE to BROWN: Aye.
+
+Current turn:
+She means it.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1861,mrs brown,L396814,L396815,"1. ARCHIE: She'll drop you.  When she's done with you, she'll drop you.",Get out.  Out!,speaker_higher_power,low_respect,"Context:
+1. ARCHIE: She'll drop you.  When she's done with you, she'll drop you.
+
+Current turn:
+Get out.  Out!",BROWN,ARCHIE,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1862,mrs brown,L396819,L396823,"1. PONSONBY: There is one other matter.
+2. VICTORIA to PONSONBY: What is it?
+3. PONSONBY to VICTORIA: I have a letter, ma'am.
+4. VICTORIA to PONSONBY: From whom?",From Princess Helena and other members of your family.,listener_higher_power,high_respect,"Context:
+1. PONSONBY: There is one other matter.
+2. VICTORIA to PONSONBY: What is it?
+3. PONSONBY to VICTORIA: I have a letter, ma'am.
+4. VICTORIA to PONSONBY: From whom?
+
+Current turn:
+From Princess Helena and other members of your family.",PONSONBY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1863,mrs brown,L396819,L396824,"1. PONSONBY: There is one other matter.
+2. VICTORIA to PONSONBY: What is it?
+3. PONSONBY to VICTORIA: I have a letter, ma'am.
+4. VICTORIA to PONSONBY: From whom?
+5. PONSONBY to VICTORIA: From Princess Helena and other members of your family.",My family is quite capable of communicating with the Queen in person.,speaker_higher_power,low_respect,"Context:
+1. PONSONBY: There is one other matter.
+2. VICTORIA to PONSONBY: What is it?
+3. PONSONBY to VICTORIA: I have a letter, ma'am.
+4. VICTORIA to PONSONBY: From whom?
+5. PONSONBY to VICTORIA: From Princess Helena and other members of your family.
+
+Current turn:
+My family is quite capable of communicating with the Queen in person.",VICTORIA,PONSONBY,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1864,mrs brown,L396825,L396826,1. VICTORIA: What do they want?,They are demanding the dismissal of John Brown on grounds of drunkeness.,listener_higher_power,neutral_respect,"Context:
+1. VICTORIA: What do they want?
+
+Current turn:
+They are demanding the dismissal of John Brown on grounds of drunkeness.",PONSONBY,VICTORIA,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1865,mrs brown,L396831,L396832,1. PONSONBY: Ma'am?,"Please tell the Princess, and other signatories to this letter, that the Queen will not be dictated to, or made to alter, in any way, what she has found to answer for her comfort.  Do I make myself clear?",speaker_higher_power,neutral_respect,"Context:
+1. PONSONBY: Ma'am?
+
+Current turn:
+Please tell the Princess, and other signatories to this letter, that the Queen will not be dictated to, or made to alter, in any way, what she has found to answer for her comfort.  Do I make myself clear?",VICTORIA,PONSONBY,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1866,mrs brown,L396831,L396833,"1. PONSONBY: Ma'am?
+2. VICTORIA to PONSONBY: Please tell the Princess, and other signatories to this letter, that the Queen will not be dictated to, or made to alter, in any way, what she has found to answer for her comfort.  Do I make myself clear?",Ma'am.,listener_higher_power,high_respect,"Context:
+1. PONSONBY: Ma'am?
+2. VICTORIA to PONSONBY: Please tell the Princess, and other signatories to this letter, that the Queen will not be dictated to, or made to alter, in any way, what she has found to answer for her comfort.  Do I make myself clear?
+
+Current turn:
+Ma'am.",PONSONBY,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1867,mrs brown,L396836,L396837,1. VICTORIA: John?,"Yes, ma'am?",listener_higher_power,high_respect,"Context:
+1. VICTORIA: John?
+
+Current turn:
+Yes, ma'am?",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1868,mrs brown,L396836,L396838,"1. VICTORIA: John?
+2. BROWN to VICTORIA: Yes, ma'am?",I was told you were in a fight.,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: John?
+2. BROWN to VICTORIA: Yes, ma'am?
+
+Current turn:
+I was told you were in a fight.",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1869,mrs brown,L396836,L396839,"1. VICTORIA: John?
+2. BROWN to VICTORIA: Yes, ma'am?
+3. VICTORIA to BROWN: I was told you were in a fight.","Yes, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: John?
+2. BROWN to VICTORIA: Yes, ma'am?
+3. VICTORIA to BROWN: I was told you were in a fight.
+
+Current turn:
+Yes, ma'am.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1870,mrs brown,L396836,L396840,"1. VICTORIA: John?
+2. BROWN to VICTORIA: Yes, ma'am?
+3. VICTORIA to BROWN: I was told you were in a fight.
+4. BROWN to VICTORIA: Yes, ma'am.",Has someone seen to those bruises?,speaker_higher_power,high_respect,"Context:
+1. VICTORIA: John?
+2. BROWN to VICTORIA: Yes, ma'am?
+3. VICTORIA to BROWN: I was told you were in a fight.
+4. BROWN to VICTORIA: Yes, ma'am.
+
+Current turn:
+Has someone seen to those bruises?",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+1871,mrs brown,L396836,L396841,"1. VICTORIA: John?
+2. BROWN to VICTORIA: Yes, ma'am?
+3. VICTORIA to BROWN: I was told you were in a fight.
+4. BROWN to VICTORIA: Yes, ma'am.
+5. VICTORIA to BROWN: Has someone seen to those bruises?","Yes, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: John?
+2. BROWN to VICTORIA: Yes, ma'am?
+3. VICTORIA to BROWN: I was told you were in a fight.
+4. BROWN to VICTORIA: Yes, ma'am.
+5. VICTORIA to BROWN: Has someone seen to those bruises?
+
+Current turn:
+Yes, ma'am.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1872,mrs brown,L396842,L396844,"1. BROWN: Ma'am?
+2. VICTORIA to BROWN: Yes?","Having considered my position here at court, I have come to the conclusion that it is in the best interest of Your Majesty that I should resign.",listener_higher_power,high_respect,"Context:
+1. BROWN: Ma'am?
+2. VICTORIA to BROWN: Yes?
+
+Current turn:
+Having considered my position here at court, I have come to the conclusion that it is in the best interest of Your Majesty that I should resign.",BROWN,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1873,mrs brown,L396842,L396845,"1. BROWN: Ma'am?
+2. VICTORIA to BROWN: Yes?
+3. BROWN to VICTORIA: Having considered my position here at court, I have come to the conclusion that it is in the best interest of Your Majesty that I should resign.",I do not accept.,speaker_higher_power,neutral_respect,"Context:
+1. BROWN: Ma'am?
+2. VICTORIA to BROWN: Yes?
+3. BROWN to VICTORIA: Having considered my position here at court, I have come to the conclusion that it is in the best interest of Your Majesty that I should resign.
+
+Current turn:
+I do not accept.",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1874,mrs brown,L396846,L396846,,I had foreseen that you would not. But Your Majesty should understand -- that my mind will not be changed in this.  I leave for Deeside --,listener_higher_power,high_respect,"Current turn:
+I had foreseen that you would not. But Your Majesty should understand -- that my mind will not be changed in this.  I leave for Deeside --",BROWN,,listener_higher_power,listener_higher_power,high_respect,high_respect
+1875,mrs brown,L396846,L396847,1. BROWN: I had foreseen that you would not. But Your Majesty should understand -- that my mind will not be changed in this.  I leave for Deeside --,"The Queen forbids it.  I cannot allow it because I cannot live without you.  Without you, I cannot find the strength to be who I must be.  Please.",speaker_higher_power,high_respect,"Context:
+1. BROWN: I had foreseen that you would not. But Your Majesty should understand -- that my mind will not be changed in this.  I leave for Deeside --
+
+Current turn:
+The Queen forbids it.  I cannot allow it because I cannot live without you.  Without you, I cannot find the strength to be who I must be.  Please.",VICTORIA,BROWN,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+1876,mrs brown,L396853,L396853,,"Your Majesty remains at the very epicenter of governance.  As for your people, look no further than the sales of your Highland Journals to see in what affection the nation holds their Queen.  You sell even more copies than Mr Dickens.",listener_higher_power,high_respect,"Current turn:
+Your Majesty remains at the very epicenter of governance.  As for your people, look no further than the sales of your Highland Journals to see in what affection the nation holds their Queen.  You sell even more copies than Mr Dickens.",DISRAELI,,listener_higher_power,listener_higher_power,high_respect,high_respect
+1877,mrs brown,L396853,L396854,"1. DISRAELI: Your Majesty remains at the very epicenter of governance.  As for your people, look no further than the sales of your Highland Journals to see in what affection the nation holds their Queen.  You sell even more copies than Mr Dickens.","But I lack your prose, Mr Disraeli.",speaker_higher_power,high_respect,"Context:
+1. DISRAELI: Your Majesty remains at the very epicenter of governance.  As for your people, look no further than the sales of your Highland Journals to see in what affection the nation holds their Queen.  You sell even more copies than Mr Dickens.
+
+Current turn:
+But I lack your prose, Mr Disraeli.",VICTORIA,DISRAELI,speaker_higher_power,speaker_higher_power,high_respect,high_respect
+1878,mrs brown,L396856,L396857,1. VICTORIA: Then they may read about me.,"Indeed, and for that they are eternally grateful.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Then they may read about me.
+
+Current turn:
+Indeed, and for that they are eternally grateful.",DISRAELI,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1879,mrs brown,L396862,L396863,1. VICTORIA: I stay here because I am happy.  Is that such a terrible crime?,"No, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: I stay here because I am happy.  Is that such a terrible crime?
+
+Current turn:
+No, ma'am.",DISRAELI,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1880,mrs brown,L396865,L396866,1. VICTORIA: This is my good John Brown.,Yes.,listener_higher_power,neutral_respect,"Context:
+1. VICTORIA: This is my good John Brown.
+
+Current turn:
+Yes.",DISRAELI,VICTORIA,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1881,mrs brown,L396870,L396872,"1. BROWN: What do you know about the Highlands?
+2. DISRAELI to BROWN: I am a blank sheet.",Do you hunt?,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: What do you know about the Highlands?
+2. DISRAELI to BROWN: I am a blank sheet.
+
+Current turn:
+Do you hunt?",BROWN,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1882,mrs brown,L396870,L396875,"1. BROWN: What do you know about the Highlands?
+2. DISRAELI to BROWN: I am a blank sheet.
+3. BROWN to DISRAELI: Do you hunt?
+4. DISRAELI to BROWN: Occasionally.
+5. BROWN to DISRAELI: Dare say you can be taught.","To shoot perhaps, but not to kill.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN: What do you know about the Highlands?
+2. DISRAELI to BROWN: I am a blank sheet.
+3. BROWN to DISRAELI: Do you hunt?
+4. DISRAELI to BROWN: Occasionally.
+5. BROWN to DISRAELI: Dare say you can be taught.
+
+Current turn:
+To shoot perhaps, but not to kill.",DISRAELI,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1883,mrs brown,L396878,L396878,,"Always remember, you keep it tight to your shoulder, you absorb the kick. Aim for the head.  Then imagine it's Gladstone.",speaker_higher_power,neutral_respect,"Current turn:
+Always remember, you keep it tight to your shoulder, you absorb the kick. Aim for the head.  Then imagine it's Gladstone.",BROWN,,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1884,mrs brown,L396883,L396883,,"Checked and locked, sir.",listener_higher_power,high_respect,"Current turn:
+Checked and locked, sir.",ASSISTANT DRESSER,,listener_higher_power,listener_higher_power,high_respect,high_respect
+1885,mrs brown,L396883,L396884,"1. ASSISTANT DRESSER: Checked and locked, sir.","Louder, girl!",speaker_higher_power,low_respect,"Context:
+1. ASSISTANT DRESSER: Checked and locked, sir.
+
+Current turn:
+Louder, girl!",BROWN,ASSISTANT DRESSER,speaker_higher_power,speaker_higher_power,low_respect,low_respect
+1886,mrs brown,L396883,L396885,"1. ASSISTANT DRESSER: Checked and locked, sir.
+2. BROWN to ASSISTANT DRESSER: Louder, girl!","Checked and locked, sir.",listener_higher_power,high_respect,"Context:
+1. ASSISTANT DRESSER: Checked and locked, sir.
+2. BROWN to ASSISTANT DRESSER: Louder, girl!
+
+Current turn:
+Checked and locked, sir.",ASSISTANT DRESSER,BROWN,listener_higher_power,listener_higher_power,high_respect,high_respect
+1887,mrs brown,L396883,L396886,"1. ASSISTANT DRESSER: Checked and locked, sir.
+2. BROWN to ASSISTANT DRESSER: Louder, girl!
+3. ASSISTANT DRESSER to BROWN: Checked and locked, sir.",Kitchen and lower house.,speaker_higher_power,neutral_respect,"Context:
+1. ASSISTANT DRESSER: Checked and locked, sir.
+2. BROWN to ASSISTANT DRESSER: Louder, girl!
+3. ASSISTANT DRESSER to BROWN: Checked and locked, sir.
+
+Current turn:
+Kitchen and lower house.",BROWN,ASSISTANT DRESSER,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1888,mrs brown,L396887,L396887,,"Checked and locked, sir.",listener_higher_power,high_respect,"Current turn:
+Checked and locked, sir.",BERTIE'S VALET,,listener_higher_power,listener_higher_power,high_respect,high_respect
+1889,mrs brown,L396887,L396888,"1. BERTIE'S VALET: Checked and locked, sir.",Back and upper corridors.,speaker_higher_power,neutral_respect,"Context:
+1. BERTIE'S VALET: Checked and locked, sir.
+
+Current turn:
+Back and upper corridors.",BROWN,BERTIE'S VALET,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1890,mrs brown,L396895,L396896,1. ARCHIE: What's this?,It's a diary.,roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: What's this?
+
+Current turn:
+It's a diary.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1891,mrs brown,L396895,L396897,"1. ARCHIE: What's this?
+2. BROWN to ARCHIE: It's a diary.",Be careful who sees it.,roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: What's this?
+2. BROWN to ARCHIE: It's a diary.
+
+Current turn:
+Be careful who sees it.",ARCHIE,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1892,mrs brown,L396899,L396900,1. ARCHIE: You should have someone look after you.,I'm all right.  I just need to rest up a wee bit.  The room ... You don't have to stay.,roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: You should have someone look after you.
+
+Current turn:
+I'm all right.  I just need to rest up a wee bit.  The room ... You don't have to stay.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1893,mrs brown,L396901,L396902,1. ARCHIE: The place is a mess.,I can't move to tidy.,roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: The place is a mess.
+
+Current turn:
+I can't move to tidy.",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1894,mrs brown,L396905,L396906,"1. ARCHIE: Won't you give yourself a rest, John? She's other people to look out for her.","She needs me, Archie.  She canna do without me, she said it to my face.  How can I stop now?",roughly_equal_power,neutral_respect,"Context:
+1. ARCHIE: Won't you give yourself a rest, John? She's other people to look out for her.
+
+Current turn:
+She needs me, Archie.  She canna do without me, she said it to my face.  How can I stop now?",BROWN,ARCHIE,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1895,mrs brown,L396911,L396912,"1. DISRAELI: Forgive me, I've called you out and you should have been resting.",I'm fine.,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI: Forgive me, I've called you out and you should have been resting.
+
+Current turn:
+I'm fine.",BROWN,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1896,mrs brown,L396920,L396927,"1. BROWN to DISRAELI: I wouldn't know.
+2. DISRAELI to BROWN: Surely --
+3. BROWN to DISRAELI: What I do, I do for my Queen.
+4. DISRAELI to BROWN: Was there never ambition?
+5. BROWN to DISRAELI: Maybe, once.
+6. DISRAELI to BROWN: Then I envy yo.",Why?,roughly_equal_power,neutral_respect,"Context:
+1. BROWN to DISRAELI: I wouldn't know.
+2. DISRAELI to BROWN: Surely --
+3. BROWN to DISRAELI: What I do, I do for my Queen.
+4. DISRAELI to BROWN: Was there never ambition?
+5. BROWN to DISRAELI: Maybe, once.
+6. DISRAELI to BROWN: Then I envy yo.
+
+Current turn:
+Why?",BROWN,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1897,mrs brown,L396920,L396929,"1. BROWN to DISRAELI: What I do, I do for my Queen.
+2. DISRAELI to BROWN: Was there never ambition?
+3. BROWN to DISRAELI: Maybe, once.
+4. DISRAELI to BROWN: Then I envy yo.
+5. BROWN to DISRAELI: Why?
+6. DISRAELI to BROWN: To have achieved one's ambition, or to have reconciled oneself to its limits, is a lifetime's work.",I do what I do.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN to DISRAELI: What I do, I do for my Queen.
+2. DISRAELI to BROWN: Was there never ambition?
+3. BROWN to DISRAELI: Maybe, once.
+4. DISRAELI to BROWN: Then I envy yo.
+5. BROWN to DISRAELI: Why?
+6. DISRAELI to BROWN: To have achieved one's ambition, or to have reconciled oneself to its limits, is a lifetime's work.
+
+Current turn:
+I do what I do.",BROWN,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1898,mrs brown,L396936,L396937,1. DISRAELI: You will not be unaware of the threat now posed by Republicanism.,Why do you think I keep her here?,roughly_equal_power,neutral_respect,"Context:
+1. DISRAELI: You will not be unaware of the threat now posed by Republicanism.
+
+Current turn:
+Why do you think I keep her here?",BROWN,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1899,mrs brown,L396943,L396945,"1. BROWN: They don't see it.
+2. DISRAELI to BROWN: See what?","The threat.  I tell them, but they don't see it.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN: They don't see it.
+2. DISRAELI to BROWN: See what?
+
+Current turn:
+The threat.  I tell them, but they don't see it.",BROWN,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1900,mrs brown,L396943,L396949,"1. BROWN: They don't see it.
+2. DISRAELI to BROWN: See what?
+3. BROWN to DISRAELI: The threat.  I tell them, but they don't see it.
+4. DISRAELI to BROWN: They aren't as watchful as you.
+5. BROWN to DISRAELI: Too busy looking after themselves.
+6. DISRAELI to BROWN: The greasy pole.",No loyalty.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: They don't see it.
+2. DISRAELI to BROWN: See what?
+3. BROWN to DISRAELI: The threat.  I tell them, but they don't see it.
+4. DISRAELI to BROWN: They aren't as watchful as you.
+5. BROWN to DISRAELI: Too busy looking after themselves.
+6. DISRAELI to BROWN: The greasy pole.
+
+Current turn:
+No loyalty.",BROWN,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1901,mrs brown,L396951,L396953,"1. BROWN: I promised to protect her from people like you.
+2. DISRAELI to BROWN: For once in my life, I am not the issue.",She'll never understand it.,roughly_equal_power,neutral_respect,"Context:
+1. BROWN: I promised to protect her from people like you.
+2. DISRAELI to BROWN: For once in my life, I am not the issue.
+
+Current turn:
+She'll never understand it.",BROWN,DISRAELI,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1902,mrs brown,L396951,L396954,"1. BROWN: I promised to protect her from people like you.
+2. DISRAELI to BROWN: For once in my life, I am not the issue.
+3. BROWN to DISRAELI: She'll never understand it.","In time, she will.",roughly_equal_power,neutral_respect,"Context:
+1. BROWN: I promised to protect her from people like you.
+2. DISRAELI to BROWN: For once in my life, I am not the issue.
+3. BROWN to DISRAELI: She'll never understand it.
+
+Current turn:
+In time, she will.",DISRAELI,BROWN,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1903,mrs brown,L396976,L396977,1. VICTORIA: Where is my son?,"Prince Albert is at Windsor, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Where is my son?
+
+Current turn:
+Prince Albert is at Windsor, ma'am.",PRINCESS ALEXANDRA,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1904,mrs brown,L396976,L396978,"1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.",Why is he not here?,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+
+Current turn:
+Why is he not here?",VICTORIA,PRINCESS ALEXANDRA,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1905,mrs brown,L396976,L396979,"1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+3. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?","He is sick, ma'am.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+3. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?
+
+Current turn:
+He is sick, ma'am.",PRINCESS ALEXANDRA,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1906,mrs brown,L396976,L396980,"1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+3. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?
+4. PRINCESS ALEXANDRA to VICTORIA: He is sick, ma'am.",Then why are you not with him?,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+3. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?
+4. PRINCESS ALEXANDRA to VICTORIA: He is sick, ma'am.
+
+Current turn:
+Then why are you not with him?",VICTORIA,PRINCESS ALEXANDRA,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1907,mrs brown,L396976,L396981,"1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+3. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?
+4. PRINCESS ALEXANDRA to VICTORIA: He is sick, ma'am.
+5. VICTORIA to PRINCESS ALEXANDRA: Then why are you not with him?",You ordered all members of the Royal Family to attend you at Balmoral.,listener_higher_power,neutral_respect,"Context:
+1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+3. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?
+4. PRINCESS ALEXANDRA to VICTORIA: He is sick, ma'am.
+5. VICTORIA to PRINCESS ALEXANDRA: Then why are you not with him?
+
+Current turn:
+You ordered all members of the Royal Family to attend you at Balmoral.",PRINCESS ALEXANDRA,VICTORIA,listener_higher_power,listener_higher_power,neutral_respect,neutral_respect
+1908,mrs brown,L396976,L396982,"1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+3. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?
+4. PRINCESS ALEXANDRA to VICTORIA: He is sick, ma'am.
+5. VICTORIA to PRINCESS ALEXANDRA: Then why are you not with him?
+6. PRINCESS ALEXANDRA to VICTORIA: You ordered all members of the Royal Family to attend you at Balmoral.",What is the matter with him?,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: Where is my son?
+2. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+3. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?
+4. PRINCESS ALEXANDRA to VICTORIA: He is sick, ma'am.
+5. VICTORIA to PRINCESS ALEXANDRA: Then why are you not with him?
+6. PRINCESS ALEXANDRA to VICTORIA: You ordered all members of the Royal Family to attend you at Balmoral.
+
+Current turn:
+What is the matter with him?",VICTORIA,PRINCESS ALEXANDRA,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1909,mrs brown,L396976,L396983,"1. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+2. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?
+3. PRINCESS ALEXANDRA to VICTORIA: He is sick, ma'am.
+4. VICTORIA to PRINCESS ALEXANDRA: Then why are you not with him?
+5. PRINCESS ALEXANDRA to VICTORIA: You ordered all members of the Royal Family to attend you at Balmoral.
+6. VICTORIA to PRINCESS ALEXANDRA: What is the matter with him?","He has typhoid fever, ma'am.",listener_higher_power,high_respect,"Context:
+1. PRINCESS ALEXANDRA to VICTORIA: Prince Albert is at Windsor, ma'am.
+2. VICTORIA to PRINCESS ALEXANDRA: Why is he not here?
+3. PRINCESS ALEXANDRA to VICTORIA: He is sick, ma'am.
+4. VICTORIA to PRINCESS ALEXANDRA: Then why are you not with him?
+5. PRINCESS ALEXANDRA to VICTORIA: You ordered all members of the Royal Family to attend you at Balmoral.
+6. VICTORIA to PRINCESS ALEXANDRA: What is the matter with him?
+
+Current turn:
+He has typhoid fever, ma'am.",PRINCESS ALEXANDRA,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1910,mrs brown,L396984,L396985,"1. VICTORIA: No.  You are mistaken.  Prince Albert, my husband, had typhoid fever.  I asked what was wrong with my son.","The same, your Majesty.",listener_higher_power,high_respect,"Context:
+1. VICTORIA: No.  You are mistaken.  Prince Albert, my husband, had typhoid fever.  I asked what was wrong with my son.
+
+Current turn:
+The same, your Majesty.",JENNER,VICTORIA,listener_higher_power,listener_higher_power,high_respect,high_respect
+1911,mrs brown,L397013,L397015,"1. VICTORIA: How long has he been this sick?
+2. LADY ELY to VICTORIA: A few days, ma'am.",Why was I not told earlier?,speaker_higher_power,neutral_respect,"Context:
+1. VICTORIA: How long has he been this sick?
+2. LADY ELY to VICTORIA: A few days, ma'am.
+
+Current turn:
+Why was I not told earlier?",VICTORIA,LADY ELY,speaker_higher_power,speaker_higher_power,neutral_respect,neutral_respect
+1912,mrs brown,L397023,L397024,1. JENNER: Erysipelas.,"Not too protracted, I hope.",roughly_equal_power,neutral_respect,"Context:
+1. JENNER: Erysipelas.
+
+Current turn:
+Not too protracted, I hope.",PONSONBY,JENNER,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1913,mrs brown,L397023,L397025,"1. JENNER: Erysipelas.
+2. PONSONBY to JENNER: Not too protracted, I hope.","A few days...  When he heard, the Prince of Wales threw the bust from the window of the Royal Gallery.  It took four hours to gather the fragments.",roughly_equal_power,neutral_respect,"Context:
+1. JENNER: Erysipelas.
+2. PONSONBY to JENNER: Not too protracted, I hope.
+
+Current turn:
+A few days...  When he heard, the Prince of Wales threw the bust from the window of the Royal Gallery.  It took four hours to gather the fragments.",JENNER,PONSONBY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1914,mrs brown,L397026,L397027,1. PONSONBY: The Queen wishes to publish an account of him.,Dear oh dear.,roughly_equal_power,neutral_respect,"Context:
+1. PONSONBY: The Queen wishes to publish an account of him.
+
+Current turn:
+Dear oh dear.",JENNER,PONSONBY,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1915,mrs brown,L397032,L397033,1. JENNER: Where did you find it by the way?,Some young page was boasting about having seen it.  Lucky.,roughly_equal_power,neutral_respect,"Context:
+1. JENNER: Where did you find it by the way?
+
+Current turn:
+Some young page was boasting about having seen it.  Lucky.",PONSONBY,JENNER,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect
+1916,mrs brown,L397034,L397035,"1. JENNER: Well, no rest for the wicked, Henry.","No, indeed.",roughly_equal_power,neutral_respect,"Context:
+1. JENNER: Well, no rest for the wicked, Henry.
+
+Current turn:
+No, indeed.",PONSONBY,JENNER,roughly_equal_power,roughly_equal_power,neutral_respect,neutral_respect

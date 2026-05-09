@@ -1,0 +1,9 @@
+movie_name,rows,context_only_translated,power_respect_only_translated,relationship_only_translated,social_labels_only_translated,graph_guided_translated,all_ablation_translated,context_equals_power_respect_only,context_equals_relationship_only,context_equals_social_labels_only,context_equals_graph_guided,power_respect_only_equals_relationship_only,power_respect_only_equals_social_labels_only,relationship_only_equals_social_labels_only,social_labels_only_equals_graph_guided
+amadeus,158,158,158,158,158,158,158,43,38,37,33,41,45,39,38
+an officer and a gentleman,130,130,130,130,130,130,130,32,24,32,25,21,28,26,26
+dead poets society,116,116,116,116,116,116,116,30,21,29,29,28,29,35,35
+gladiator,42,42,42,42,42,42,42,5,6,4,5,6,5,6,6
+mrs brown,48,48,48,48,48,48,48,14,16,13,12,20,16,15,18
+the godfather,50,50,50,50,50,50,50,9,8,10,12,14,10,12,9
+titanic,55,55,55,55,55,55,55,13,13,18,16,15,14,15,13
+__total__,599,599,599,599,599,599,599,146,126,143,132,145,147,148,145
