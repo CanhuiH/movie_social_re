@@ -12,9 +12,18 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DATA_PRELABEL_DIR = PROJECT_ROOT / "data" / "data_prelabel"
 OUTPUT_DIR = PROJECT_ROOT / "data" / "data_prelabel_predictions"
 
-SUBTITLE_CODES_DIR = PROJECT_ROOT.parent / "subtitle_translation_en_to_hindi" / "codes"
-if str(SUBTITLE_CODES_DIR) not in sys.path:
-    sys.path.insert(0, str(SUBTITLE_CODES_DIR))
+LOCAL_SUBTITLE_CODES_DIR = PROJECT_ROOT / "third_party" / "subtitle_translation_english_to_mandarin_codes"
+SIBLING_SUBTITLE_CODES_DIR = PROJECT_ROOT.parent / "subtitle_translation_english_to_mandarin" / "codes"
+
+if LOCAL_SUBTITLE_CODES_DIR.exists():
+    sys.path.insert(0, str(LOCAL_SUBTITLE_CODES_DIR))
+elif SIBLING_SUBTITLE_CODES_DIR.exists():
+    sys.path.insert(0, str(SIBLING_SUBTITLE_CODES_DIR))
+else:
+    raise FileNotFoundError(
+        "Could not find subtitle risk feature code. Expected either "
+        f"{LOCAL_SUBTITLE_CODES_DIR} or {SIBLING_SUBTITLE_CODES_DIR}."
+    )
 
 from feature_extraction import FeatureExtractor
 from prevalence_table import CATEGORIES, add_risk_flags

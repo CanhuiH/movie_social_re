@@ -1,5 +1,0 @@
-criterion,n,context_only_wins,graph_guided_wins,ties,decided,context_only_win_rate_all,graph_guided_win_rate_all,graph_guided_win_rate_decided,net_preference_graph_guided_minus_context_only
-meaning_accuracy,3,0,1,2,1,0.0,0.3333333333333333,1.0,0.3333333333333333
-social_relationship,3,0,3,0,3,0.0,1.0,1.0,1.0
-register_tone,3,0,3,0,3,0.0,1.0,1.0,1.0
-fluency,3,0,1,2,1,0.0,0.3333333333333333,1.0,0.3333333333333333

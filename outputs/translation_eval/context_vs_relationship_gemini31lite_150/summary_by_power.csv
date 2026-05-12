@@ -1,0 +1,4 @@
+final_power_dynamic,n,context_only_wins,relationship_only_wins,ties,decided,context_only_win_rate_all,relationship_only_win_rate_all,relationship_only_win_rate_decided,net_preference_relationship_only_minus_context_only,issue_focus_observed_rate,relationship_only_win_rate_all_ci_low,relationship_only_win_rate_all_ci_high,net_preference_relationship_only_minus_context_only_ci_low,net_preference_relationship_only_minus_context_only_ci_high
+roughly_equal_power,123,38,85,0,123,0.3089430894308943,0.6910569105691057,0.6910569105691057,0.3821138211382114,1.0,0.6095528455284552,0.7723577235772358,0.2191056910569106,0.5447154471544715
+speaker_higher_power,57,19,38,0,57,0.3333333333333333,0.6666666666666666,0.6666666666666666,0.3333333333333333,1.0,0.543859649122807,0.7894736842105263,0.08771929824561403,0.5789473684210527
+listener_higher_power,50,14,35,1,49,0.28,0.7,0.7142857142857143,0.42,1.0,0.56,0.82,0.16,0.66

@@ -1,5 +1,0 @@
-criterion,n,social_labels_only_wins,graph_guided_wins,ties,decided,social_labels_only_win_rate_all,graph_guided_win_rate_all,graph_guided_win_rate_decided,net_preference_graph_guided_minus_social_labels_only
-meaning_accuracy,3,0,2,1,2,0.0,0.6666666666666666,1.0,0.6666666666666666
-social_relationship,3,0,3,0,3,0.0,1.0,1.0,1.0
-register_tone,3,0,3,0,3,0.0,1.0,1.0,1.0
-fluency,3,0,0,3,0,0.0,0.0,,0.0

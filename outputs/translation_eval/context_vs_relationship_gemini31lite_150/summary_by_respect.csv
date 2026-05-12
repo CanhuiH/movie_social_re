@@ -1,0 +1,4 @@
+final_respect_level,n,context_only_wins,relationship_only_wins,ties,decided,context_only_win_rate_all,relationship_only_win_rate_all,relationship_only_win_rate_decided,net_preference_relationship_only_minus_context_only,issue_focus_observed_rate,relationship_only_win_rate_all_ci_low,relationship_only_win_rate_all_ci_high,net_preference_relationship_only_minus_context_only_ci_low,net_preference_relationship_only_minus_context_only_ci_high
+neutral_respect,104,26,78,0,104,0.25,0.75,0.75,0.5,1.0,0.6634615384615384,0.8365384615384616,0.3269230769230769,0.6730769230769231
+high_respect,66,19,46,1,65,0.2878787878787879,0.696969696969697,0.7076923076923077,0.4090909090909091,1.0,0.5757575757575758,0.803030303030303,0.18181818181818182,0.6212121212121212
+low_respect,60,26,34,0,60,0.43333333333333335,0.5666666666666667,0.5666666666666667,0.13333333333333333,1.0,0.43333333333333335,0.7,-0.13333333333333333,0.4
