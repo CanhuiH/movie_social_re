@@ -539,9 +539,3 @@ outputs/translation_eval/context_vs_powerrespect_gemini31lite/
 outputs/translation_eval/context_vs_relationship_gemini31lite_150/
 outputs/translation_eval/context_vs_sociallabels_gemini31lite_150/
 ```
-
-Working notes:
-
-```text
-outputs/reports/translation_ablation_evaluation_plan.md
-```
