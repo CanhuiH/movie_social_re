@@ -2,6 +2,8 @@
 
 This repository studies whether explicit social relationship information improves English-to-Mandarin subtitle translation for movie dialogue.
 
+GitHub repository: `https://github.com/CanhuiH/movie_social_re`
+
 For submission, our materials are split into two bundles:
 
 - `TRACK_B_movie_social_re.zip`
